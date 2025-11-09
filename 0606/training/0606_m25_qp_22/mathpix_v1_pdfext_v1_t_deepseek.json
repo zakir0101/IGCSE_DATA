@@ -1,486 +1,54 @@
 {
-    "3": [
-        {
-            "type": "text",
-            "bbox": [
-                45.769230769230774,
-                59.896032831737344,
-                56.995645863570395,
-                74.00615595075239
-            ],
-            "page_number": 3,
-            "text": "1"
-        },
-        {
-            "type": "image",
-            "bbox": [
-                225.104015481374,
-                73.71819425444596,
-                369.32027092404456,
-                175.3686730506156
-            ],
-            "page_number": 3,
-            "image": {
-                "caption": "",
-                "bbox": [
-                    225.104015481374,
-                    73.71819425444596,
-                    369.32027092404456,
-                    175.3686730506156
-                ],
-                "page": 3
-            }
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                188.90287277701776,
-                342.83744557329464,
-                201.57318741450067
-            ],
-            "page_number": 3,
-            "text": "The diagram shows a circle with centre \\(O\\) and radius 5 cm . The point \\(A\\) lies on the circle."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                214.53146374829,
-                351.1852926947267,
-                227.77770177838576
-            ],
-            "page_number": 3,
-            "text": "The point \\(B\\) is such that the line \\(A B\\) is a tangent to the circle. \\(O B\\) has length 13 cm ."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                253.11833105335157,
-                314.915336236091,
-                267.51641586867305
-            ],
-            "page_number": 3,
-            "text": "(a) Find angle \\(A O B\\), giving your answer in radians."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                366.5752393980848,
-                280.37252056119985,
-                380.9733242134063
-            ],
-            "page_number": 3,
-            "text": "(b) Find the perimeter of the shaded region."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                527.8337893296854,
-                255.90469279148527,
-                541.9439124487004
-            ],
-            "page_number": 3,
-            "text": "(c) Find the area of the shaded region."
-        }
-    ],
-    "4": [
-        {
-            "type": "text",
-            "bbox": [
-                47.49637155297533,
-                63.92749658002736,
-                479.2815674891147,
-                87.25239398084815
-            ],
-            "page_number": 4,
-            "text": "2 (a) Find the \\(x\\)-coordinates of the stationary points on the curve \\(y=\\frac{1}{2}(3-2 x)(x+2)^{2}\\)."
-        }
-    ],
-    "5": [
-        {
-            "type": "text",
-            "bbox": [
-                72.25205611998065,
-                63.92749658002736,
-                546.6400580551524,
-                87.25239398084815
-            ],
-            "page_number": 5,
-            "text": "(b) On the axes, sketch the graph of \\(y=\\frac{1}{2}(3-2 x)(x+2)^{2}\\) stating the intercepts with the coordinate axes."
-        },
-        {
-            "type": "image",
-            "bbox": [
-                95.28059990324142,
-                108.27359781121751,
-                499.1436865021771,
-                399.6908344733242
-            ],
-            "page_number": 5,
-            "image": {
-                "caption": "",
-                "bbox": [
-                    95.28059990324142,
-                    108.27359781121751,
-                    499.1436865021771,
-                    399.6908344733242
-                ],
-                "page": 5
-            }
-        },
-        {
-            "type": "text",
-            "bbox": [
-                72.25205611998065,
-                422.4398084815321,
-                546.6400580551524,
-                444.90082079343364
-            ],
-            "page_number": 5,
-            "text": "(c) Find the values of \\(k\\) for which the equation \\(\\frac{1}{2}(3-2 x)(x+2)^{2}=k\\) has three real and distinct roots."
-        }
-    ],
-    "6": [
-        {
-            "type": "text",
-            "bbox": [
-                47.49637155297533,
-                63.92749658002736,
-                462.01015965166914,
-                93.01162790697674
-            ],
-            "page_number": 6,
-            "text": "3 Solve the equation \\(6 x^{\\frac{3}{5}}+1=\\frac{12}{x^{\\frac{3}{5}}}\\) ，giving your answers correct to 2 decimal places．"
-        }
-    ],
-    "7": [
-        {
-            "type": "text",
-            "bbox": [
-                47.49637155297533,
-                62.48768809849521,
-                341.39816158684084,
-                76.59781121751026
-            ],
-            "page_number": 7,
-            "text": "4 (a) A team of 10 players is to be chosen from 15 players."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                93.55345911949686,
-                88.6922024623803,
-                489.9322689888728,
-                102.80232558139535
-            ],
-            "page_number": 7,
-            "text": "(i) Find the number of different teams that can be chosen if there are no restrictions."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                115.71843251088535,
-                179.11217510259917,
-                392.9245283018868,
-                193.51025991792065
-            ],
-            "page_number": 7,
-            "text": "The 15 players include 3 sisters who must not be separated."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                90.3870343492985,
-                205.31668946648426,
-                369.32027092404456,
-                219.71477428180575
-            ],
-            "page_number": 7,
-            "text": "(ii) Find the number of different teams that can be chosen."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                387.8844049247606,
-                451.35945815191104,
-                402.28248974008204
-            ],
-            "page_number": 7,
-            "text": "(b) A 6-digit number is to be formed using the digits \\(0,1,2,3,4,5,6,7,8\\) and 9 . The 6 -digit number cannot start with 0 and all six digits must be different."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                92.68988872762459,
-                427.33515731874144,
-                449.0566037735849,
-                441.7332421340629
-            ],
-            "page_number": 7,
-            "text": "Find how many 6-digit numbers can be formed if the 6-digit number is even."
-        }
-    ],
-    "8": [
-        {
-            "type": "text",
-            "bbox": [
-                47.49637155297533,
-                63.92749658002736,
-                446.4658925979681,
-                79.76538987688099
-            ],
-            "page_number": 8,
-            "text": "5 When \\(\\mathrm{e}^{y}\\) is plotted against \\(x^{2}\\), a straight-line graph with gradient -3 is obtained. The line passes through the point \\((4.30,5.85)\\)."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                105.10601915184678,
-                188.25834542815676,
-                119.50410396716826
-            ],
-            "page_number": 8,
-            "text": "(a) Find \\(y\\) in terms of \\(x\\)."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                417.54445964432284,
-                273.7518142235124,
-                431.9425444596443
-            ],
-            "page_number": 8,
-            "text": "(b) Find the values of \\(x\\) for which \\(y\\) exists."
-        }
-    ],
-    "9": [
-        {
-            "type": "text",
-            "bbox": [
-                47.49637155297533,
-                63.92749658002736,
-                226.25544267053704,
-                96.4671682626539
-            ],
-            "page_number": 9,
-            "text": "6 It is given that \\(y=\\frac{\\ln \\left(2 x^{2}+1\\right)}{x+2}\\)."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                108.27359781121751,
-                137.30769230769232,
-                134.19015047879617
-            ],
-            "page_number": 9,
-            "text": "(a) Find \\(\\frac{\\mathrm{d} y}{\\mathrm{~d} x}\\)."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                300.9199726402189,
-                509.7943880019352,
-                316.7578659370725
-            ],
-            "page_number": 9,
-            "text": "(b) Given that \\(x\\) increases from 2 to \\(2+h\\), where \\(h\\) is small, find the approximate change in \\(y\\)."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                488.38303693570447,
-                546.6400580551524,
-                502.49316005471957
-            ],
-            "page_number": 9,
-            "text": "(c) Given that \\(y\\) is decreasing by 0.4 units per second, find the corresponding rate of change in \\(x\\) when \\(x=2\\)."
-        }
-    ],
-    "10": [
-        {
-            "type": "text",
-            "bbox": [
-                47.49637155297533,
-                63.92749658002736,
-                372.4866956942429,
-                79.76538987688099
-            ],
-            "page_number": 10,
-            "text": "7 It is given that \\(\\mathrm{f}(x)=2 \\mathrm{e}^{x}+a\\) for \\(x \\geqslant 0\\), where \\(a\\) is an integer"
-        },
-        {
-            "type": "text",
-            "bbox": [
-                119.74842767295598,
-                88.6922024623803,
-                272.3125302370586,
-                106.2578659370725
-            ],
-            "page_number": 10,
-            "text": "and \\(\\mathrm{g}(x)=\\sqrt{x-1}\\) for \\(x \\geqslant 1\\)."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                116.62448700410397,
-                403.8630865989357,
-                132.4623803009576
-            ],
-            "page_number": 10,
-            "text": "(a) Find the least value of \\(a\\) so that the function gf exists for all \\(x \\geqslant 0\\)."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                72.25205611998065,
-                300.9199726402189,
-                353.48814707305274,
-                316.7578659370725
-            ],
-            "page_number": 10,
-            "text": "(b) In the case where \\(a=5\\), solve the equation \\(\\mathrm{gf}(x)=3\\). Give your answer correct to 3 decimal places."
-        }
-    ],
-    "11": [
-        {
-            "type": "text",
-            "bbox": [
-                72.25205611998065,
-                385.58071135430913,
-                415.37735849056605,
-                415.5287277701778
-            ],
-            "page_number": 11,
-            "text": "(b) Hence solve the equation \\(\\frac{\\sin 3 x \\tan ^{2} 3 x}{1+\\tan ^{2} 3 x}=\\frac{1}{8}\\) for \\(-180^{\\circ} \\leqslant x \\leqslant 180^{\\circ}\\)."
-        }
-    ],
-    "12": [
-        {
-            "type": "text",
-            "bbox": [
-                47.49637155297533,
-                62.48768809849521,
-                366.72955974842773,
-                76.59781121751026
-            ],
-            "page_number": 12,
-            "text": "9 In this question, all lengths are in metres and time is in seconds."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                88.6922024623803,
-                546.6400580551524,
-                102.80232558139535
-            ],
-            "page_number": 12,
-            "text": "A particle, \\(P\\), moves in a straight line such that \\(t\\) seconds after passing through a fixed point \\(O\\) its displacement, \\(s\\), is given by \\(s=5 \\ln (2 t+1)-5 t\\)."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                128.14295485636114,
-                356.0788582486696,
-                141.67715458276334
-            ],
-            "page_number": 12,
-            "text": "(a) Find the value of \\(t\\) for which \\(P\\) is instantaneously at rest."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                468.51367989056087,
-                336.2167392356072,
-                482.9117647058823
-            ],
-            "page_number": 12,
-            "text": "(b) Find the distance \\(P\\) travels between \\(t=0\\) and \\(t=2\\)."
-        }
-    ],
-    "13": [
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                62.48768809849521,
-                357.80599903241415,
-                76.59781121751026
-            ],
-            "page_number": 13,
-            "text": "(c) Find an expression for the acceleration of \\(P\\) in terms of \\(t\\)."
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                244.7674418604651,
-                257.3439767779391,
-                257.437756497948
-            ],
-            "page_number": 13,
-            "text": "(d) Find the acceleration when \\(t=4.5\\)."
-        }
-    ],
-    "14": [
-        {
-            "type": "text",
-            "bbox": [
-                49.223512336719885,
-                63.92749658002736,
-                415.37735849056605,
-                89.84404924760602
-            ],
-            "page_number": 14,
-            "text": "10 The expansion of \\((a x-2)^{4}\\left(1+\\frac{b}{x}\\right)^{3}\\) is written in descending powers of \\(x\\) ．"
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                95.31532147742817,
-                346.2917271407838,
-                112.88098495212037
-            ],
-            "page_number": 14,
-            "text": "The first 3 terms of this expansion are \\(81 x^{4}+999 x^{3}+c x^{2}\\) ． It is given that \\(a, b\\) and \\(c\\) are positive integers．"
-        },
-        {
-            "type": "text",
-            "bbox": [
-                70.52491533623609,
-                136.4938440492476,
-                206.3933236574746,
-                150.60396716826264
-            ],
-            "page_number": 14,
-            "text": "Find the values of \\(a, b\\) and \\(c\\) ．"
-        }
-    ],
-    "16": [
-        {
-            "type": "text",
-            "bbox": [
-                49.223512336719885,
-                63.92749658002736,
-                421.7102080309628,
-                77.46169630642954
-            ],
-            "page_number": 16,
-            "text": "11 Solve the equation \\(\\cot (y+1.5)=3\\) where \\(y\\) is in radians and \\(0<y<6\\)."
-        }
-    ]
+    "3": {
+        "page": 3,
+        "raw_output": "<|ref|>text<|/ref|><|det|>[[46, 60, 57, 74]]<|/det|>\n1\n\n<|ref|>image<|/ref|><|det|>[[225, 74, 369, 175]]<|/det|>\n\n<|ref|>text<|/ref|><|det|>[[71, 189, 343, 202]]<|/det|>\nThe diagram shows a circle with centre \\(O\\) and radius 5 cm . The point \\(A\\) lies on the circle.\n\n<|ref|>text<|/ref|><|det|>[[71, 215, 351, 228]]<|/det|>\nThe point \\(B\\) is such that the line \\(A B\\) is a tangent to the circle. \\(O B\\) has length 13 cm .\n\n<|ref|>text<|/ref|><|det|>[[71, 253, 315, 268]]<|/det|>\n(a) Find angle \\(A O B\\), giving your answer in radians.\n\n<|ref|>text<|/ref|><|det|>[[71, 367, 280, 381]]<|/det|>\n(b) Find the perimeter of the shaded region.\n\n<|ref|>text<|/ref|><|det|>[[71, 528, 256, 542]]<|/det|>\n(c) Find the area of the shaded region.\n\n"
+    },
+    "4": {
+        "page": 4,
+        "raw_output": "<|ref|>text<|/ref|><|det|>[[47, 64, 479, 87]]<|/det|>\n2 (a) Find the \\(x\\)-coordinates of the stationary points on the curve \\(y=\\frac{1}{2}(3-2 x)(x+2)^{2}\\).\n\n"
+    },
+    "5": {
+        "page": 5,
+        "raw_output": "<|ref|>text<|/ref|><|det|>[[72, 64, 547, 87]]<|/det|>\n(b) On the axes, sketch the graph of \\(y=\\frac{1}{2}(3-2 x)(x+2)^{2}\\) stating the intercepts with the coordinate axes.\n\n<|ref|>image<|/ref|><|det|>[[95, 108, 499, 400]]<|/det|>\n\n<|ref|>text<|/ref|><|det|>[[72, 422, 547, 445]]<|/det|>\n(c) Find the values of \\(k\\) for which the equation \\(\\frac{1}{2}(3-2 x)(x+2)^{2}=k\\) has three real and distinct roots.\n\n"
+    },
+    "6": {
+        "page": 6,
+        "raw_output": "<|ref|>text<|/ref|><|det|>[[47, 64, 462, 93]]<|/det|>\n3 Solve the equation \\(6 x^{\\frac{3}{5}}+1=\\frac{12}{x^{\\frac{3}{5}}}\\) ，giving your answers correct to 2 decimal places．\n\n"
+    },
+    "7": {
+        "page": 7,
+        "raw_output": "<|ref|>text<|/ref|><|det|>[[47, 62, 341, 77]]<|/det|>\n4 (a) A team of 10 players is to be chosen from 15 players.\n\n<|ref|>text<|/ref|><|det|>[[94, 89, 490, 103]]<|/det|>\n(i) Find the number of different teams that can be chosen if there are no restrictions.\n\n<|ref|>text<|/ref|><|det|>[[116, 179, 393, 194]]<|/det|>\nThe 15 players include 3 sisters who must not be separated.\n\n<|ref|>text<|/ref|><|det|>[[90, 205, 369, 220]]<|/det|>\n(ii) Find the number of different teams that can be chosen.\n\n<|ref|>text<|/ref|><|det|>[[71, 388, 451, 402]]<|/det|>\n(b) A 6-digit number is to be formed using the digits \\(0,1,2,3,4,5,6,7,8\\) and 9 . The 6 -digit number cannot start with 0 and all six digits must be different.\n\n<|ref|>text<|/ref|><|det|>[[93, 427, 449, 442]]<|/det|>\nFind how many 6-digit numbers can be formed if the 6-digit number is even.\n\n"
+    },
+    "8": {
+        "page": 8,
+        "raw_output": "<|ref|>text<|/ref|><|det|>[[47, 64, 446, 80]]<|/det|>\n5 When \\(\\mathrm{e}^{y}\\) is plotted against \\(x^{2}\\), a straight-line graph with gradient -3 is obtained. The line passes through the point \\((4.30,5.85)\\).\n\n<|ref|>text<|/ref|><|det|>[[71, 105, 188, 120]]<|/det|>\n(a) Find \\(y\\) in terms of \\(x\\).\n\n<|ref|>text<|/ref|><|det|>[[71, 418, 274, 432]]<|/det|>\n(b) Find the values of \\(x\\) for which \\(y\\) exists.\n\n"
+    },
+    "9": {
+        "page": 9,
+        "raw_output": "<|ref|>text<|/ref|><|det|>[[47, 64, 226, 96]]<|/det|>\n6 It is given that \\(y=\\frac{\\ln \\left(2 x^{2}+1\\right)}{x+2}\\).\n\n<|ref|>text<|/ref|><|det|>[[71, 108, 137, 134]]<|/det|>\n(a) Find \\(\\frac{\\mathrm{d} y}{\\mathrm{~d} x}\\).\n\n<|ref|>text<|/ref|><|det|>[[71, 301, 510, 317]]<|/det|>\n(b) Given that \\(x\\) increases from 2 to \\(2+h\\), where \\(h\\) is small, find the approximate change in \\(y\\).\n\n<|ref|>text<|/ref|><|det|>[[71, 488, 547, 502]]<|/det|>\n(c) Given that \\(y\\) is decreasing by 0.4 units per second, find the corresponding rate of change in \\(x\\) when \\(x=2\\).\n\n"
+    },
+    "10": {
+        "page": 10,
+        "raw_output": "<|ref|>text<|/ref|><|det|>[[47, 64, 372, 80]]<|/det|>\n7 It is given that \\(\\mathrm{f}(x)=2 \\mathrm{e}^{x}+a\\) for \\(x \\geqslant 0\\), where \\(a\\) is an integer\n\n<|ref|>text<|/ref|><|det|>[[120, 89, 272, 106]]<|/det|>\nand \\(\\mathrm{g}(x)=\\sqrt{x-1}\\) for \\(x \\geqslant 1\\).\n\n<|ref|>text<|/ref|><|det|>[[71, 117, 404, 132]]<|/det|>\n(a) Find the least value of \\(a\\) so that the function gf exists for all \\(x \\geqslant 0\\).\n\n<|ref|>text<|/ref|><|det|>[[72, 301, 353, 317]]<|/det|>\n(b) In the case where \\(a=5\\), solve the equation \\(\\mathrm{gf}(x)=3\\). Give your answer correct to 3 decimal places.\n\n"
+    },
+    "11": {
+        "page": 11,
+        "raw_output": "<|ref|>text<|/ref|><|det|>[[72, 386, 415, 416]]<|/det|>\n(b) Hence solve the equation \\(\\frac{\\sin 3 x \\tan ^{2} 3 x}{1+\\tan ^{2} 3 x}=\\frac{1}{8}\\) for \\(-180^{\\circ} \\leqslant x \\leqslant 180^{\\circ}\\).\n\n"
+    },
+    "12": {
+        "page": 12,
+        "raw_output": "<|ref|>text<|/ref|><|det|>[[47, 62, 367, 77]]<|/det|>\n9 In this question, all lengths are in metres and time is in seconds.\n\n<|ref|>text<|/ref|><|det|>[[71, 89, 547, 103]]<|/det|>\nA particle, \\(P\\), moves in a straight line such that \\(t\\) seconds after passing through a fixed point \\(O\\) its displacement, \\(s\\), is given by \\(s=5 \\ln (2 t+1)-5 t\\).\n\n<|ref|>text<|/ref|><|det|>[[71, 128, 356, 142]]<|/det|>\n(a) Find the value of \\(t\\) for which \\(P\\) is instantaneously at rest.\n\n<|ref|>text<|/ref|><|det|>[[71, 469, 336, 483]]<|/det|>\n(b) Find the distance \\(P\\) travels between \\(t=0\\) and \\(t=2\\).\n\n"
+    },
+    "13": {
+        "page": 13,
+        "raw_output": "<|ref|>text<|/ref|><|det|>[[71, 62, 358, 77]]<|/det|>\n(c) Find an expression for the acceleration of \\(P\\) in terms of \\(t\\).\n\n<|ref|>text<|/ref|><|det|>[[71, 245, 257, 257]]<|/det|>\n(d) Find the acceleration when \\(t=4.5\\).\n\n"
+    },
+    "14": {
+        "page": 14,
+        "raw_output": "<|ref|>text<|/ref|><|det|>[[49, 64, 415, 90]]<|/det|>\n10 The expansion of \\((a x-2)^{4}\\left(1+\\frac{b}{x}\\right)^{3}\\) is written in descending powers of \\(x\\) ．\n\n<|ref|>text<|/ref|><|det|>[[71, 95, 346, 113]]<|/det|>\nThe first 3 terms of this expansion are \\(81 x^{4}+999 x^{3}+c x^{2}\\) ． It is given that \\(a, b\\) and \\(c\\) are positive integers．\n\n<|ref|>text<|/ref|><|det|>[[71, 136, 206, 151]]<|/det|>\nFind the values of \\(a, b\\) and \\(c\\) ．\n\n"
+    },
+    "16": {
+        "page": 16,
+        "raw_output": "<|ref|>text<|/ref|><|det|>[[49, 64, 422, 77]]<|/det|>\n11 Solve the equation \\(\\cot (y+1.5)=3\\) where \\(y\\) is in radians and \\(0<y<6\\).\n\n"
+    }
 }
