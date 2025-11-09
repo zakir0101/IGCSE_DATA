@@ -1,0 +1,330 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "content": "The random variables $X$ and $Y$ have the independent distributions $N(44, 16)$ and $N(30, 9)$ respectively.",
+                "type": "text",
+                "extra": {}
+            },
+            {
+                "content": "Find $P(X-Y < 15)$.",
+                "type": "text",
+                "extra": {
+                    "mark": "5"
+                }
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "content": "A researcher records the time, $T$ seconds, taken by adults to complete a questionnaire.",
+                "type": "text",
+                "extra": {}
+            },
+            {
+                "content": "The results for a random sample of 60 adults who completed the questionnaire this year are summarised as follows.",
+                "type": "text",
+                "extra": {}
+            },
+            {
+                "content": "$$n = 60 \\quad \\Sigma t = 3678 \\quad \\Sigma t^2 = 226313.36$$",
+                "type": "blockMath",
+                "extra": {}
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "content": "Find an unbiased estimate of $E(T)$, and show that an unbiased estimate of $\\text{Var}(T)$ is 14.44.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "3"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "content": "In the past, the population mean time was 62.4 seconds.",
+                        "type": "text",
+                        "extra": {}
+                    },
+                    {
+                        "content": "Test at the 2% significance level whether the population mean time for this year is less than 62.4 seconds.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "5"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "content": "State, with a reason, whether it was necessary to use the Central Limit Theorem in your answer to part (b).",
+                        "type": "text",
+                        "extra": {
+                            "mark": "1"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "content": "The random variable $X$ has the distribution $\\text{Po}(1.5)$.",
+                "type": "text",
+                "extra": {}
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "content": "Find $P(X \\ge 3)$.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "2"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "content": "Find the probability that the sum of three independent values of $X$ is between 3 and 5 inclusive.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "3"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "content": "The sum of a large number, $n$, of values of $X$ is denoted by $T$. Using a suitable approximation, it was found that $P(T > 330) = 0.0391$, correct to 3 significant figures.",
+                        "type": "text",
+                        "extra": {}
+                    },
+                    {
+                        "content": "Find the value of $n$.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "5"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "content": "A graph of a probability density function f(x) versus x. The function is a straight line segment starting at (0, a) and ending at (2, b). The area under the graph is contained between x=0 and x=2. The y-axis is labeled f(x) and the x-axis is labeled x. The height at x=0 is 'a' and the height at x=2 is 'b'.",
+                        "type": "image",
+                        "extra": {}
+                    },
+                    {
+                        "content": "The diagram shows the graph of the probability density function, f, of a random variable $X$. The graph is a straight line from $(0, a)$ to $(2, b)$, where $a$ and $b$ are positive constants. Elsewhere, $f(x) = 0$.",
+                        "type": "text",
+                        "extra": {}
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "content": "Show that $b = 1-a$.",
+                                "type": "text",
+                                "extra": {
+                                    "mark": "2"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "content": "Given that $E(X) = 1.2$, find the value of $a$.",
+                                "type": "text",
+                                "extra": {
+                                    "mark": "5"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "content": "A random variable $T$ has probability density function given by",
+                        "type": "text",
+                        "extra": {}
+                    },
+                    {
+                        "content": "$$g(t) = \\begin{cases} \\frac{1}{2}\\cos t & -\\frac{1}{2}\\pi \\le t \\le \\frac{1}{2}\\pi, \\\\ 0 & \\text{otherwise.} \\end{cases}$$",
+                        "type": "blockMath",
+                        "extra": {}
+                    },
+                    {
+                        "content": "Find the value of $c$ such that $P(-c < t < c) = \\frac{1}{2}$.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "4"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "content": "Amir believes that 20% of the students at his college are left-handed. His friend believes that the true proportion, $p$, is less than 20%. Amir plans to use the binomial distribution to test the null hypothesis, $H_0: p = 0.2$, against the alternative hypothesis, $H_1: p < 0.2$.",
+                "type": "text",
+                "extra": {}
+            },
+            {
+                "content": "He decides to choose 35 students at random. If 3 or fewer of these students are left-handed, Amir will reject his belief.",
+                "type": "text",
+                "extra": {}
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "content": "Find the significance level of the test.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "3"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "content": "State the probability of a Type I error.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "content": "It is now given that the true value of $p$ is 0.05.",
+                        "type": "text",
+                        "extra": {}
+                    },
+                    {
+                        "content": "Find the probability of a Type II error.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "3"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "content": "Nikki is investigating the views of students at her school about the school sports facilities. She plans to give a survey to a sample of students.",
+                "type": "text",
+                "extra": {}
+            },
+            {
+                "content": "Nikki's friend says, “This survey is about sports facilities, so you should choose a sample of students from the school sports teams.”",
+                "type": "text",
+                "extra": {}
+            },
+            {
+                "content": "Nikki chooses an appropriate random sample of 60 students. She finds that 45 of these students think that the sports facilities are good.",
+                "type": "text",
+                "extra": {}
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "content": "State, with a reason, whether you agree with Nikki's friend.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "content": "Calculate an approximate 95% confidence interval for the proportion of students who think that the sports facilities are good.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "3"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "content": "For a different investigation, Nikki uses another large random sample to calculate a 99% confidence interval and an $x\\%$ confidence interval.",
+                        "type": "text",
+                        "extra": {}
+                    },
+                    {
+                        "content": "The width of the 99% confidence interval is double the width of the $x\\%$ confidence interval.",
+                        "type": "text",
+                        "extra": {}
+                    },
+                    {
+                        "content": "Calculate the value of $x$.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "4"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

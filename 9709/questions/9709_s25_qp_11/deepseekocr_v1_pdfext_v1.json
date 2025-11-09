@@ -1,0 +1,671 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    55,
+                    30,
+                    415,
+                    66
+                ],
+                "image": {
+                    "caption": ""
+                }
+            },
+            {
+                "type": "text",
+                "text": "1 Solve the equation \\(6 \\sin \\theta = 1 + \\frac{2}{\\sin \\theta}\\) for \\(-180^\\circ < \\theta < 180^\\circ\\).",
+                "bbox": [
+                    80,
+                    72,
+                    600,
+                    102
+                ]
+            },
+            {
+                "type": "text",
+                "text": "[4]",
+                "bbox": [
+                    884,
+                    77,
+                    916,
+                    96
+                ]
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    115,
+                    120,
+                    914,
+                    950
+                ],
+                "image": {
+                    "caption": ""
+                }
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2 The equation of a curve is such that \\(\\frac{\\mathrm{d}y}{\\mathrm{d}x} = 4(2x - 5)^3 - 9x^{\\frac{1}{2}}\\). The curve passes through the point \\(A\\left(4, -\\frac{11}{2}\\right)\\).",
+                "bbox": [
+                    78,
+                    73,
+                    917,
+                    131
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the gradient of the normal to the curve at the point \\(A\\). [2]",
+                        "bbox": [
+                            117,
+                            140,
+                            917,
+                            157
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the equation of the curve. [4]",
+                        "bbox": [
+                            117,
+                            481,
+                            917,
+                            497
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "text": "3 The third term of a geometric progression is 18 and the sum of the first three terms is 26. It is given that the common ratio is negative.",
+                "bbox": [
+                    80,
+                    72,
+                    919,
+                    105
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the tenth term of the progression. Give your answer correct to 3 significant figures. [5]",
+                        "bbox": [
+                            115,
+                            118,
+                            916,
+                            737
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the exact value of the sum to infinity of the progression. [2]",
+                        "bbox": [
+                            115,
+                            735,
+                            916,
+                            940
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    295,
+                    90,
+                    700,
+                    303
+                ],
+                "image": {
+                    "caption": ""
+                }
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curve with equation \\(y = 5x^{\\frac{3}{2}} - 20x\\) and the line with equation \\(y = x - 16\\) . The \\(x\\) - coordinates of the points of intersection of the curve and line are 1 and 16.",
+                "bbox": [
+                    117,
+                    319,
+                    870,
+                    355
+                ]
+            },
+            {
+                "type": "text",
+                "text": "Find the area of the shaded region between the curve and the line.",
+                "bbox": [
+                    117,
+                    367,
+                    627,
+                    385
+                ]
+            },
+            {
+                "type": "text",
+                "text": "[5]",
+                "bbox": [
+                    888,
+                    368,
+                    914,
+                    385
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "5 (a) Find the first three terms, in ascending powers of \\(x\\) , in the expansion of each of the following expressions.",
+                        "bbox": [
+                            78,
+                            71,
+                            917,
+                            103
+                        ]
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) \\((2 - px)^5\\) [2]",
+                                "bbox": [
+                                    154,
+                                    115,
+                                    917,
+                                    330
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) \\(\\left(1 - \\frac{1}{2} x\\right)^4\\) [2]",
+                                "bbox": [
+                                    150,
+                                    333,
+                                    917,
+                                    545
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Given that the coefficient of \\(x^2\\) in the expansion of \\((2 - px)^5\\left(1 - \\frac{1}{2} x\\right)^4\\) is 93, find the possible values of the constant \\(p\\) . [3]",
+                        "bbox": [
+                            117,
+                            556,
+                            917,
+                            601
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[3]",
+                        "bbox": [
+                            151,
+                            612,
+                            917,
+                            940
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "text": "6 The equation of a curve is \\(2x^2 - kxy + 2 = 0\\) and the equation of a line is \\(y = px + 3\\), where \\(k\\) and \\(p\\) are constants.",
+                "bbox": [
+                    78,
+                    74,
+                    917,
+                    108
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Given that \\(k = 2\\) and \\(p = 11\\), find the coordinates of the points of intersection of the curve and the line. [4]",
+                        "bbox": [
+                            115,
+                            120,
+                            917,
+                            155
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "image",
+                        "bbox": [
+                            100,
+                            30,
+                            415,
+                            66
+                        ],
+                        "image": {
+                            "caption": ""
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Given instead that \\(p = 4\\), find the set of values of \\(k\\) for which the curve and the line do not intersect. [5]",
+                        "bbox": [
+                            117,
+                            72,
+                            917,
+                            105
+                        ]
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            157,
+                            120,
+                            916,
+                            950
+                        ],
+                        "image": {
+                            "caption": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "text": "7 The equation of a curve is \\(y = 4x^2 + \\frac{9}{x^2} - 8\\).",
+                "bbox": [
+                    80,
+                    74,
+                    465,
+                    102
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) A point \\(P\\) is moving along the curve in such a way that its \\(y\\)-coordinate is decreasing at 5 units per second.",
+                        "bbox": [
+                            117,
+                            118,
+                            917,
+                            152
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the rate at which the \\(x\\)-coordinate of point \\(P\\) is changing when \\(x = 2\\). [4]",
+                        "bbox": [
+                            152,
+                            165,
+                            917,
+                            184
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the coordinates of the stationary points of the curve and determine their nature. [5]",
+                        "bbox": [
+                            117,
+                            72,
+                            916,
+                            90
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "8",
+        "content": [
+            {
+                "type": "text",
+                "text": "8 The circle with equation \\(x^2 + y^2 - 6x + 10y - 27 = 0\\) intersects the line \\(x = -2\\) at the points \\(P\\) and \\(Q\\).",
+                "bbox": [
+                    78,
+                    75,
+                    900,
+                    93
+                ]
+            },
+            {
+                "type": "text",
+                "text": "Find the area of the triangle formed by the tangents to the circle at \\(P\\) and \\(Q\\), and the line \\(x = -2\\). [8]",
+                "bbox": [
+                    117,
+                    107,
+                    916,
+                    125
+                ]
+            }
+        ]
+    },
+    {
+        "label": "9",
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    338,
+                    87,
+                    657,
+                    250
+                ],
+                "image": {
+                    "caption": ""
+                }
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The diagram shows a sector \\(ABC\\) of a circle with centre \\(A\\) and radius \\(r\\) cm. The angle \\(BAC\\) is \\(\\alpha\\) radians, where \\(0 < \\alpha < \\frac{1}{2}\\pi\\) .",
+                        "bbox": [
+                            117,
+                            266,
+                            916,
+                            304
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(a) It is given that the area of the triangle \\(ABC\\) is \\(4 \\text{cm}^2\\) and the area of the sector \\(ABC\\) is \\(8\\alpha \\text{cm}^2\\) .",
+                        "bbox": [
+                            117,
+                            314,
+                            886,
+                            334
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the exact area of the shaded segment.",
+                        "bbox": [
+                            155,
+                            346,
+                            486,
+                            364
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[4]",
+                        "bbox": [
+                            888,
+                            348,
+                            916,
+                            365
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) It is given instead that the length of the chord \\(BC\\) is \\(\\frac{1}{\\sqrt{2}} r\\) cm but the area of the triangle \\(ABC\\) is still \\(4 \\text{cm}^2\\).",
+                        "bbox": [
+                            117,
+                            74,
+                            916,
+                            125
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the area of the shaded segment. Give your answer correct to 3 significant figures. [4]",
+                        "bbox": [
+                            155,
+                            139,
+                            916,
+                            156
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "10",
+        "content": [
+            {
+                "type": "text",
+                "text": "10 The functions f and g are defined by",
+                "bbox": [
+                    80,
+                    71,
+                    404,
+                    88
+                ]
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[{\\mathrm{f}}(x)=\\sqrt{x}\\qquad\\qquad{\\mathrm{for}}x\\geqslant0,\\] \\[{\\mathrm{g}}(x)=3\\sqrt{x+2}-5\\qquad{\\mathrm{for}}x\\geqslant-2.\\]",
+                "bbox": [
+                    363,
+                    100,
+                    633,
+                    152
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Describe fully a sequence of transformations which transforms the graph of \\(y = \\mathrm{f}(x)\\) to the graph of \\(y = \\mathrm{g}(x)\\) . You should make clear the order in which the transformations are applied. [5]",
+                        "bbox": [
+                            115,
+                            163,
+                            916,
+                            199
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "image",
+                        "bbox": [
+                            210,
+                            585,
+                            796,
+                            844
+                        ],
+                        "image": {
+                            "caption": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Find an expression for \\(g^{-1}(x)\\). [2]",
+                        "bbox": [
+                            117,
+                            74,
+                            916,
+                            97
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[2]",
+                        "bbox": [
+                            152,
+                            110,
+                            916,
+                            344
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "d",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(d) State the range of \\(g^{-1}\\). [1]",
+                        "bbox": [
+                            117,
+                            352,
+                            916,
+                            440
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "e",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The function h is defined by",
+                        "bbox": [
+                            117,
+                            448,
+                            340,
+                            465
+                        ]
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\mathrm{h}(x) = x - 2\\qquad \\mathrm{for} x\\geqslant 0.\\]",
+                        "bbox": [
+                            395,
+                            477,
+                            600,
+                            496
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(e) Find the value of \\(g^{-1}h(4)\\). [1]",
+                        "bbox": [
+                            117,
+                            508,
+                            916,
+                            530
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "f",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "[1]",
+                        "bbox": [
+                            152,
+                            543,
+                            916,
+                            715
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(f) Explain why the composite function \\(hg^{-1}\\) cannot be formed. [1]",
+                        "bbox": [
+                            117,
+                            723,
+                            916,
+                            745
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

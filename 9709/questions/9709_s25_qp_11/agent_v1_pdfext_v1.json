@@ -1,0 +1,583 @@
+[
+  {
+    "label": 1,
+    "content": [
+      {
+        "type": "text",
+        "text": "Solve the equation"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[6 \\sin \\theta = 1 + \\frac{2}{\\sin \\theta}\\]"
+      },
+      {
+        "type": "text",
+        "text": "for"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[-180^\\circ < \\theta < 180^\\circ\\]"
+      }
+    ],
+    "mark": 4,
+    "parts": []
+  },
+  {
+    "label": 2,
+    "content": [
+      {
+        "type": "text",
+        "text": "The equation of a curve is such that"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[\\frac{\\mathrm{d}y}{\\mathrm{d}x} = 4(2x - 5)^3 - 9x^{\\frac{1}{2}}\\]"
+      },
+      {
+        "type": "text",
+        "text": "The curve passes through the point"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[A\\left(4, -\\frac{11}{2}\\right)\\]"
+      }
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find the gradient of the normal to the curve at the point"
+          }
+        ],
+        "mark": 2
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find the equation of the curve"
+          }
+        ],
+        "mark": 4
+      }
+    ]
+  },
+  {
+    "label": 3,
+    "content": [
+      {
+        "type": "text",
+        "text": "The third term of a geometric progression is 18 and the sum of the first three terms is 26. It is given that the common ratio is negative"
+      }
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find the tenth term of the progression. Give your answer correct to 3 significant figures"
+          }
+        ],
+        "mark": 5
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find the exact value of the sum to infinity of the progression"
+          }
+        ],
+        "mark": 2
+      }
+    ]
+  },
+  {
+    "label": 4,
+    "content": [
+      {
+        "type": "image",
+        "image": {
+          "bbox": [
+            295,
+            90,
+            700,
+            303
+          ],
+          "index": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "The diagram shows the curve with equation"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[y = 5x^{\\frac{3}{2}} - 20x\\]"
+      },
+      {
+        "type": "text",
+        "text": "and the line with equation"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[y = x - 16\\]"
+      },
+      {
+        "type": "text",
+        "text": "The x-coordinates of the points of intersection of the curve and line are 1 and 16"
+      },
+      {
+        "type": "text",
+        "text": "Find the area of the shaded region between the curve and the line"
+      }
+    ],
+    "mark": 5,
+    "parts": []
+  },
+  {
+    "label": 5,
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find the first three terms, in ascending powers of x, in the expansion of each of the following expressions"
+          }
+        ],
+        "parts": [
+          {
+            "label": "i",
+            "content": [
+              {
+                "type": "blockMath",
+                "blockMath": "\\[(2 - px)^5\\]"
+              }
+            ],
+            "mark": 2
+          },
+          {
+            "label": "ii",
+            "content": [
+              {
+                "type": "blockMath",
+                "blockMath": "\\[\\left(1 - \\frac{1}{2}x\\right)^4\\]"
+              }
+            ],
+            "mark": 2
+          }
+        ]
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "Given that the coefficient of"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[x^2\\]"
+          },
+          {
+            "type": "text",
+            "text": "in the expansion of"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[(2 - px)^5\\left(1 - \\frac{1}{2}x\\right)^4\\]"
+          },
+          {
+            "type": "text",
+            "text": "is 93, find the possible values of the constant"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[p\\]"
+          }
+        ],
+        "mark": 3
+      }
+    ]
+  },
+  {
+    "label": 6,
+    "content": [
+      {
+        "type": "text",
+        "text": "The equation of a curve is"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[2x^2 - kxy + 2 = 0\\]"
+      },
+      {
+        "type": "text",
+        "text": "and the equation of a line is"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[y = px + 3\\]"
+      },
+      {
+        "type": "text",
+        "text": "where k and p are constants"
+      }
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Given that"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[k = 2\\]"
+          },
+          {
+            "type": "text",
+            "text": "and"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[p = 11\\]"
+          },
+          {
+            "type": "text",
+            "text": "find the coordinates of the points of intersection of the curve and the line"
+          }
+        ],
+        "mark": 4
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "Given instead that"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[p = 4\\]"
+          },
+          {
+            "type": "text",
+            "text": "find the set of values of k for which the curve and the line do not intersect"
+          }
+        ],
+        "mark": 5
+      }
+    ]
+  },
+  {
+    "label": 7,
+    "content": [
+      {
+        "type": "text",
+        "text": "The equation of a curve is"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[y = 4x^2 + \\frac{9}{x^2} - 8\\]"
+      }
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "A point P is moving along the curve in such a way that its y-coordinate is decreasing at 5 units per second"
+          },
+          {
+            "type": "text",
+            "text": "Find the rate at which the x-coordinate of point P is changing when"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[x = 2\\]"
+          }
+        ],
+        "mark": 4
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find the coordinates of the stationary points of the curve and determine their nature"
+          }
+        ],
+        "mark": 5
+      }
+    ]
+  },
+  {
+    "label": 8,
+    "content": [
+      {
+        "type": "text",
+        "text": "The circle with equation"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[x^2 + y^2 - 6x + 10y - 27 = 0\\]"
+      },
+      {
+        "type": "text",
+        "text": "intersects the line"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[x = -2\\]"
+      },
+      {
+        "type": "text",
+        "text": "at the points P and Q"
+      },
+      {
+        "type": "text",
+        "text": "Find the area of the triangle formed by the tangents to the circle at P and Q, and the line"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[x = -2\\]"
+      }
+    ],
+    "mark": 8,
+    "parts": []
+  },
+  {
+    "label": 9,
+    "content": [
+      {
+        "type": "image",
+        "image": {
+          "bbox": [
+            338,
+            87,
+            657,
+            250
+          ],
+          "index": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "The diagram shows a sector ABC of a circle with centre A and radius r cm. The angle BAC is α radians, where"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[0 < \\alpha < \\frac{1}{2}\\pi\\]"
+      }
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "It is given that the area of the triangle ABC is"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[4 \\text{cm}^2\\]"
+          },
+          {
+            "type": "text",
+            "text": "and the area of the sector ABC is"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[8\\alpha \\text{cm}^2\\]"
+          },
+          {
+            "type": "text",
+            "text": "Find the exact area of the shaded segment"
+          }
+        ],
+        "mark": 4
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "It is given instead that the length of the chord BC is"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[\\frac{1}{\\sqrt{2}} r \\text{cm}\\]"
+          },
+          {
+            "type": "text",
+            "text": "but the area of the triangle ABC is still"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[4 \\text{cm}^2\\]"
+          },
+          {
+            "type": "text",
+            "text": "Find the area of the shaded segment. Give your answer correct to 3 significant figures"
+          }
+        ],
+        "mark": 4
+      }
+    ]
+  },
+  {
+    "label": 10,
+    "content": [
+      {
+        "type": "text",
+        "text": "The functions f and g are defined by"
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[\\mathrm{f}(x)=\\sqrt{x}\\qquad\\qquad\\mathrm{for}\\ x\\geqslant0,\\] \\[\\mathrm{g}(x)=3\\sqrt{x+2}-5\\qquad\\mathrm{for}\\ x\\geqslant-2.\\]"
+      }
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Describe fully a sequence of transformations which transforms the graph of"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[y = \\mathrm{f}(x)\\]"
+          },
+          {
+            "type": "text",
+            "text": "to the graph of"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[y = \\mathrm{g}(x)\\]"
+          },
+          {
+            "type": "text",
+            "text": "You should make clear the order in which the transformations are applied"
+          }
+        ],
+        "mark": 5
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "image",
+            "image": {
+              "bbox": [
+                210,
+                585,
+                796,
+                844
+              ],
+              "index": 0
+            }
+          },
+          {
+            "type": "text",
+            "text": "The diagram shows the graph of"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[y = \\mathrm{g}(x)\\]"
+          },
+          {
+            "type": "text",
+            "text": "On the diagram sketch the graph of"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[y = \\mathrm{g}^{-1}(x)\\]"
+          },
+          {
+            "type": "text",
+            "text": "together with any relevant mirror line"
+          }
+        ],
+        "mark": 2
+      },
+      {
+        "label": "c",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find an expression for"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[\\mathrm{g}^{-1}(x)\\]"
+          }
+        ],
+        "mark": 2
+      },
+      {
+        "label": "d",
+        "content": [
+          {
+            "type": "text",
+            "text": "State the range of"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[\\mathrm{g}^{-1}\\]"
+          }
+        ],
+        "mark": 1
+      },
+      {
+        "label": "e",
+        "content": [
+          {
+            "type": "text",
+            "text": "The function h is defined by"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[\\mathrm{h}(x) = x - 2\\qquad \\mathrm{for}\\ x\\geqslant 0\\]"
+          },
+          {
+            "type": "text",
+            "text": "Find the value of"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[\\mathrm{g}^{-1}\\mathrm{h}(4)\\]"
+          }
+        ],
+        "mark": 1
+      },
+      {
+        "label": "f",
+        "content": [
+          {
+            "type": "text",
+            "text": "Explain why the composite function"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[\\mathrm{h}\\mathrm{g}^{-1}\\]"
+          },
+          {
+            "type": "text",
+            "text": "cannot be formed"
+          }
+        ],
+        "mark": 1
+      }
+    ]
+  }
+]

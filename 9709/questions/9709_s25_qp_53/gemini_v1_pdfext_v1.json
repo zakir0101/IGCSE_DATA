@@ -1,0 +1,359 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "content": "For a set of 40 values of \\(x\\), it is found that",
+                "type": "text",
+                "extra": {}
+            },
+            {
+                "content": "\\[\\Sigma(x-k) = 836.0,\\qquad \\Sigma(x-k)^2 = 25410.8,\\]",
+                "type": "blockMath",
+                "extra": {}
+            },
+            {
+                "content": "where \\(k\\) is a constant.",
+                "type": "text",
+                "extra": {}
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "content": "Given that the mean of these 40 values is 124.0, find the value of \\(k\\).",
+                        "type": "text",
+                        "extra": {
+                            "mark": "2"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "content": "Find the standard deviation of these 40 values of \\(x\\).",
+                        "type": "text",
+                        "extra": {
+                            "mark": "2"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "content": "At a large college, all students who study Science also study exactly one of Art or Drama or Music. \\(20\\%\\) of these students study Art, \\(45\\%\\) study Drama and \\(35\\%\\) study Music.",
+                "type": "text",
+                "extra": {}
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "content": "3 students are selected at random from the students who study Science. Find the probability that at least 1 of these students studies Drama.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "2"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "content": "10 students are selected at random from the students who study Science. Find the probability that more than 7 study Art or Music.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "3"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "content": "A fair six-sided dice with faces labelled 1, 2, 3, 4, 5, 6 is thrown repeatedly until a 3 is obtained. The number of throws taken is denoted by the random variable \\(X\\).",
+                "type": "text",
+                "extra": {}
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "content": "Find \\(\\mathrm{P}(X = 8)\\).",
+                        "type": "text",
+                        "extra": {
+                            "mark": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "content": "Find \\(\\mathrm{P}(X < 9)\\).",
+                        "type": "text",
+                        "extra": {
+                            "mark": "2"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "content": "Find the probability that a 3 is obtained for the second time before the 6th throw.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "3"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "content": "84 people attempt a particular puzzle. The times taken, in minutes, to complete the puzzle are recorded. These times are represented in the cumulative frequency graph below.",
+                "type": "text",
+                "extra": {}
+            },
+            {
+                "content": "Cumulative frequency graph showing time in minutes (0 to 12) on the x-axis and cumulative frequency (0 to 100) on the y-axis. The curve starts at (0, 0), rises gradually until time 3, then steeply, passing through approximately (5, 50) and leveling off near time 11 towards the maximum cumulative frequency of 84.",
+                "type": "image",
+                "extra": {}
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "content": "Use the graph to estimate how many people took between 4 and 7.5 minutes to complete the puzzle.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "1"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "content": "On the grid below, draw a box-and-whisker plot to summarise the information in the cumulative frequency graph.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "4"
+                        }
+                    },
+                    {
+                        "content": "An empty grid is provided, suitable for drawing a box-and-whisker plot, with the y-axis labels from the previous page's graph (Cumulative frequency) being absent, suggesting this grid is for the plot aligned with the time axis.",
+                        "type": "image",
+                        "extra": {}
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "content": "Bag \\(A\\) contains 6 red marbles, 5 blue marbles and 1 green marble.",
+                "type": "text",
+                "extra": {}
+            },
+            {
+                "content": "Bag \\(B\\) contains 5 red marbles and 3 blue marbles.",
+                "type": "text",
+                "extra": {}
+            },
+            {
+                "content": "A marble is chosen at random from bag \\(A\\) and placed in bag \\(B\\).",
+                "type": "text",
+                "extra": {}
+            },
+            {
+                "content": "A marble is now chosen at random from bag \\(B\\).",
+                "type": "text",
+                "extra": {}
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "content": "Draw a tree diagram to represent this information, giving the probability on each branch.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "3"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "content": "Find the probability that both marbles chosen are the same colour.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "2"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "content": "Find the probability that the marble chosen from bag \\(A\\) is blue, given that the marble chosen from bag \\(B\\) is blue.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "3"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "content": "A company sells bags of pasta. The masses of large bags of pasta are normally distributed with mean \\(2.50\\mathrm{kg}\\) and standard deviation \\(0.12\\mathrm{kg}\\).",
+                "type": "text",
+                "extra": {}
+            },
+            {
+                "content": "A restaurant manager buys 160 of these large bags of pasta.",
+                "type": "text",
+                "extra": {}
+            },
+            {
+                "content": "The masses of small bags of pasta sold by the company are normally distributed with mean \\(\\mu \\mathrm{kg}\\) and standard deviation \\(\\sigma \\mathrm{kg}\\). Tests show that \\(77\\%\\) of these bags have masses greater than \\(1.26\\mathrm{kg}\\), and \\(44\\%\\) have masses less than \\(1.35\\mathrm{kg}\\).",
+                "type": "text",
+                "extra": {}
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "content": "Find the probability that the mass of pasta in a randomly chosen large bag is less than \\(2.65\\mathrm{kg}\\).",
+                        "type": "text",
+                        "extra": {
+                            "mark": "2"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "content": "Find the number of bags for which you would expect the mass of pasta to be more than 1.65 standard deviations above the mean.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "3"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "content": "Find, in either order, the value of \\(\\mu\\) and the value of \\(\\sigma\\).",
+                        "type": "text",
+                        "extra": {
+                            "mark": "5"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "content": "A set of friends consists of 7 men and 4 women. Three of the men are brothers: Ali, Ben and Charlie.",
+                "type": "text",
+                "extra": {}
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "content": "Find the number of different arrangements of the 7 men in a line in which Ali and Ben do not stand next to each other.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "3"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "content": "Find the number of different arrangements of the 7 men and 4 women in a line in which all the men stand together and all the women stand together.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "3"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "content": "In how many ways can the 7 men and 4 women be divided into a group of 6, a group of 3 and a group of 2 if there are no restrictions?",
+                        "type": "text",
+                        "extra": {
+                            "mark": "2"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "d",
+                "content": [
+                    {
+                        "content": "The 7 men and 4 women are divided at random into a group of 6, a group of 3 and a group of 2. Find the probability that Ali, Ben and Charlie are all in the same group.",
+                        "type": "text",
+                        "extra": {
+                            "mark": "4"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

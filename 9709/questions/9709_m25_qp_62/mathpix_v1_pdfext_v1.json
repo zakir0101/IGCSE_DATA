@@ -1,0 +1,550 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.49637155297533,
+                    62.48768809849521,
+                    541.7464925012096,
+                    76.59781121751026
+                ],
+                "page_number": 3,
+                "text": "1 The random variables \\(X\\) and \\(Y\\) have the independent distributions \\(\\mathrm{N}(44,16)\\) and \\(\\mathrm{N}(30,9)\\) respectively."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    88.6922024623803,
+                    168.6840832123851,
+                    102.80232558139535
+                ],
+                "page_number": 3,
+                "text": "Find \\(\\mathrm{P}(X-Y<15)\\)."
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.49637155297533,
+                    62.48768809849521,
+                    467.7672955974843,
+                    76.59781121751026
+                ],
+                "page_number": 4,
+                "text": "2 A researcher records the time, \\(T\\) seconds, taken by adults to complete a questionnaire."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    88.6922024623803,
+                    546.6400580551524,
+                    102.80232558139535
+                ],
+                "page_number": 4,
+                "text": "The results for a random sample of 60 adults who completed the questionnaire this year are summarised as follows."
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    177.31978713110792,
+                    124.97537619699042,
+                    416.81664247701985,
+                    141.67715458276334
+                ],
+                "page_number": 4,
+                "blockMath": "\\[\nn=60 \\quad \\sum t=3678 \\quad \\sum t^{2}=226313.36\n\\]"
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            152.90766073871407,
+                            510.6579583938075,
+                            167.88166894664843
+                        ],
+                        "page_number": 4,
+                        "text": "(a) Find an unbiased estimate of \\(\\mathrm{E}(T)\\), and show that an unbiased estimate of \\(\\operatorname{Var}(T)\\) is 14.44."
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            62.48768809849521,
+                            329.8838896952105,
+                            76.59781121751026
+                        ],
+                        "page_number": 5,
+                        "text": "In the past, the population mean time was 62.4 seconds."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            88.6922024623803,
+                            546.6400580551524,
+                            102.80232558139535
+                        ],
+                        "page_number": 5,
+                        "text": "(b) Test at the \\(2 \\%\\) significance level whether the population mean time for this year is less than 62.4 seconds."
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            568.7243502051983,
+                            546.6400580551524,
+                            583.1224350205198
+                        ],
+                        "page_number": 5,
+                        "text": "(c) State, with a reason, whether it was necessary to use the Central Limit Theorem in your answer to part (b)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.49637155297533,
+                    62.48768809849521,
+                    310.0217706821481,
+                    76.59781121751026
+                ],
+                "page_number": 6,
+                "text": "3 The random variable \\(X\\) has the distribution \\(\\operatorname{Po}(1.5)\\)."
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            88.6922024623803,
+                            165.22980164489599,
+                            102.80232558139535
+                        ],
+                        "page_number": 6,
+                        "text": "(a) Find \\(\\mathrm{P}(X \\geqslant 3)\\)."
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            400.26675786593705,
+                            546.6400580551524,
+                            415.5287277701778
+                        ],
+                        "page_number": 6,
+                        "text": "(b) Find the probability that the sum of three independent values of \\(X\\) is between 3 and 5 inclusive. [3]"
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            62.48768809849521,
+                            546.6400580551524,
+                            76.59781121751026
+                        ],
+                        "page_number": 7,
+                        "text": "(c) The sum of a large number, \\(n\\), of values of \\(X\\) is denoted by \\(T\\). Using a suitable approximation, it was found that \\(\\mathrm{P}(T>330)=0.0391\\), correct to 3 significant figures."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            101.93844049247606,
+                            185.9554910498307,
+                            114.32079343365253
+                        ],
+                        "page_number": 7,
+                        "text": "Find the value of \\(n\\)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            47.49637155297533,
+                            62.48768809849521,
+                            86.35703918722787,
+                            76.59781121751026
+                        ],
+                        "page_number": 8,
+                        "text": "4 (a)"
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            168.39622641509436,
+                            82.06908344733242,
+                            426.6037735849057,
+                            217.98700410396717
+                        ],
+                        "page_number": 8,
+                        "image": {
+                            "caption": "",
+                            "bbox": [
+                                168.39622641509436,
+                                82.06908344733242,
+                                426.6037735849057,
+                                217.98700410396717
+                            ],
+                            "page": 8
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            233.24897400820794,
+                            546.6400580551524,
+                            247.6470588235294
+                        ],
+                        "page_number": 8,
+                        "text": "The diagram shows the graph of the probability density function, f , of a random variable \\(X\\). The graph is a straight line from \\((0, a)\\) to \\((2, b)\\), where \\(a\\) and \\(b\\) are positive constants. Elsewhere,"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            94.41702951136914,
+                            259.74145006839944,
+                            137.30769230769232,
+                            273.8515731874145
+                        ],
+                        "page_number": 8,
+                        "text": "\\(\\mathrm{f}(x)=0\\)."
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    93.55345911949686,
+                                    285.94596443228454,
+                                    214.74117077890665,
+                                    300.344049247606
+                                ],
+                                "page_number": 8,
+                                "text": "(i) Show that \\(b=1-a\\)."
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    90.3870343492985,
+                                    415.81668946648426,
+                                    317.5060474117078,
+                                    430.2147742818057
+                                ],
+                                "page_number": 8,
+                                "text": "(ii) Given that \\(\\mathrm{E}(X)=1.2\\), find the value of \\(a\\)."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            62.48768809849521,
+                            382.2738268021287,
+                            76.59781121751026
+                        ],
+                        "page_number": 9,
+                        "text": "(b) A random variable \\(T\\) has probability density function given by"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            208.6961780358007,
+                            86.96443228454172,
+                            385.7281083696178,
+                            127.56703146374828
+                        ],
+                        "page_number": 9,
+                        "blockMath": "\\[\n\\mathrm{g}(t)= \\begin{cases}\\frac{1}{2} \\cos t & -\\frac{1}{2} \\pi \\leqslant t \\leqslant \\frac{1}{2} \\pi \\\\ 0 & \\text { otherwise }\\end{cases}\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            137.93365253077974,
+                            321.53604257377845,
+                            156.36320109439123
+                        ],
+                        "page_number": 9,
+                        "text": "Find the value of \\(c\\) such that \\(\\mathrm{P}(-c<t<c)=\\frac{1}{2}\\)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.49637155297533,
+                    62.48768809849521,
+                    546.6400580551524,
+                    76.59781121751026
+                ],
+                "page_number": 10,
+                "text": "5 Amir believes that \\(20 \\%\\) of the students at his college are left-handed. His friend believes that the true proportion, \\(p\\), is less than \\(20 \\%\\). Amir plans to use the binomial distribution to test the null hypothesis,"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    88.6922024623803,
+                    352.6245766811805,
+                    104.53009575923392
+                ],
+                "page_number": 10,
+                "text": "\\(\\mathrm{H}_{0}: p=0.2\\), against the alternative hypothesis, \\(\\mathrm{H}_{1}: p<0.2\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    114.0328317373461,
+                    546.6400580551524,
+                    127.56703146374828
+                ],
+                "page_number": 10,
+                "text": "He decides to choose 35 students at random. If 3 or fewer of these students are left-handed, Amir will reject his belief."
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            152.90766073871407,
+                            268.85824866956943,
+                            167.88166894664843
+                        ],
+                        "page_number": 10,
+                        "text": "(a) Find the significance level of the test."
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            621.4213406292749,
+                            268.85824866956943,
+                            635.8194254445964
+                        ],
+                        "page_number": 10,
+                        "text": "(b) State the probability of a Type I error."
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            62.48768809849521,
+                            284.4025157232705,
+                            76.59781121751026
+                        ],
+                        "page_number": 11,
+                        "text": "It is now given that the true value of \\(p\\) is 0.05 ."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            88.6922024623803,
+                            270.585389453314,
+                            102.80232558139535
+                        ],
+                        "page_number": 11,
+                        "text": "(c) Find the probability of a Type II error."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.49637155297533,
+                    62.48768809849521,
+                    546.6400580551524,
+                    76.59781121751026
+                ],
+                "page_number": 12,
+                "text": "6 Nikki is investigating the views of students at her school about the school sports facilities. She plans to give a survey to a sample of students."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    101.93844049247606,
+                    546.6400580551524,
+                    116.0485636114911
+                ],
+                "page_number": 12,
+                "text": "Nikki's friend says,\"This survey is about sports facilities, so you should choose a sample of students from the school sports teams.\""
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            139.66142270861832,
+                            369.89598451862605,
+                            154.63543091655265
+                        ],
+                        "page_number": 12,
+                        "text": "(a) State, with a reason, whether you agree with Nikki's friend."
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            243.32763337893297,
+                            546.6400580551524,
+                            259.16552667578657
+                        ],
+                        "page_number": 12,
+                        "text": "Nikki chooses an appropriate random sample of 60 students. She finds that 45 of these students think that the sports facilities are good."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            282.7783857729138,
+                            547.5036284470248,
+                            297.7523939808481
+                        ],
+                        "page_number": 12,
+                        "text": "(b) Calculate an approximate \\(95 \\%\\) confidence interval for the proportion of students who think that the sports facilities are good."
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            62.48768809849521,
+                            546.6400580551524,
+                            76.59781121751026
+                        ],
+                        "page_number": 13,
+                        "text": "For a different investigation, Nikki uses another large random sample to calculate a \\(99 \\%\\) confidence interval and an \\(x \\%\\) confidence interval."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            100.21067031463748,
+                            496.5529753265603,
+                            114.32079343365253
+                        ],
+                        "page_number": 13,
+                        "text": "The width of the \\(99 \\%\\) confidence interval is double the width of the \\(x \\%\\) confidence interval."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            126.41518467852256,
+                            208.12046444121918,
+                            142.2530779753762
+                        ],
+                        "page_number": 13,
+                        "text": "(c) Calculate the value of \\(x\\)."
+                    }
+                ]
+            }
+        ]
+    }
+]

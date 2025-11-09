@@ -1,0 +1,498 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "text": "1 At a certain shop, customers arrive independently and randomly at a constant average rate of 23.4 per hour.",
+                "bbox": [
+                    80,
+                    72,
+                    917,
+                    103
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the probability that, in a randomly chosen 1-minute period, at least 2 customers arrive. [3]",
+                        "bbox": [
+                            115,
+                            117,
+                            917,
+                            354
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(i) State a suitable approximating distribution for \\(X\\) , giving the value(s) of any parameter(s). [2]",
+                        "bbox": [
+                            152,
+                            411,
+                            917,
+                            525
+                        ]
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(b) The random variable \\(X\\) denotes the number of customers who arrive in a randomly chosen 1-hour period.",
+                                "bbox": [
+                                    115,
+                                    365,
+                                    917,
+                                    399
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Use your approximating distribution to find \\(\\mathrm{P}(20 < X < 30)\\) . [3]",
+                                "bbox": [
+                                    150,
+                                    535,
+                                    917,
+                                    922
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2 The lengths of pencils made at a factory are normally distributed. The standard deviation of the lengths is \\(\\sigma \\mathrm{cm}\\) , and the mean is supposed to be \\(10\\mathrm{cm}\\) . An inspector thinks that the mean is actually greater than \\(10\\mathrm{cm}\\) . He takes a random sample of 50 pencils produced at the factory and finds that the mean of these 50 lengths is \\(10.03\\mathrm{cm}\\) . He then carries out a hypothesis test.",
+                "bbox": [
+                    80,
+                    72,
+                    919,
+                    137
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) He finds that the value of the test statistic \\(z\\) is 1.995 correct to 3 decimal places.",
+                        "bbox": [
+                            115,
+                            150,
+                            773,
+                            168
+                        ]
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) Calculate the value of \\(\\sigma\\) . [3]",
+                                "bbox": [
+                                    154,
+                                    180,
+                                    916,
+                                    470
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Carry out the hypothesis test at the \\(2.5\\%\\) significance level. [3]",
+                                "bbox": [
+                                    150,
+                                    488,
+                                    916,
+                                    508
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "text": "(b) Explain whether it was necessary to use the Central Limit Theorem in carrying out the test. [1]",
+                                "bbox": [
+                                    150,
+                                    520,
+                                    916,
+                                    789
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": []
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "text": "3 A machine dispenses coffee into cups. The volume, \\(V\\mathrm{cm}^3\\) , of coffee in a cup was measured for a random sample of 150 cups. The results were summarised as follows.",
+                "bbox": [
+                    78,
+                    75,
+                    919,
+                    108
+                ]
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\Sigma \\nu = 46350\\qquad \\Sigma \\nu^2 = 14410800\\]",
+                "bbox": [
+                    347,
+                    120,
+                    650,
+                    140
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(a) (i) Calculate unbiased estimates of the population mean, \\(\\mu\\) , and population variance, \\(\\sigma^2\\) . [3]",
+                                "bbox": [
+                                    115,
+                                    152,
+                                    916,
+                                    173
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Calculate a \\(95\\%\\) confidence interval for \\(\\mu\\) . [3]",
+                                "bbox": [
+                                    195,
+                                    384,
+                                    916,
+                                    404
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Another random sample of \\(n\\) cups of coffee is taken, where \\(100 < n < 120\\) . A \\(95\\%\\) confidence interval for \\(\\mu\\) is calculated using this sample. You may assume that, for large samples, unbiased estimates of \\(\\sigma^2\\) are very similar.",
+                        "bbox": [
+                            115,
+                            647,
+                            916,
+                            696
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Without calculation, state whether this confidence interval would be wider or narrower than the confidence interval found in part (a)(ii). Give a reason for your answer. [2]",
+                        "bbox": [
+                            115,
+                            709,
+                            916,
+                            743
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 Emma needs to choose one person at random from three people, \\(P\\) , \\(Q\\) and \\(R\\) . She plans to throw two fair coins and note the number, \\(n\\) , of heads. If \\(n\\) is 0, she will choose \\(P\\) . If \\(n\\) is 1, she will choose \\(Q\\) . If \\(n\\) is 2, she will choose \\(R\\) .",
+                "bbox": [
+                    80,
+                    72,
+                    917,
+                    120
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) By considering probabilities, show that the choice made by this method is not random. [2]",
+                        "bbox": [
+                            115,
+                            134,
+                            916,
+                            152
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Later, Emma has to choose two people at random from three people.",
+                        "bbox": [
+                            118,
+                            504,
+                            650,
+                            522
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Describe how Emma could use a single throw of a fair six-sided dice to make this random choice. [2]",
+                        "bbox": [
+                            118,
+                            535,
+                            916,
+                            570
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "text": "5 In Urberia, the masses, in kilograms, of men have the distribution N(70.3, 5.9²). A certain footbridge in Urberia can take a maximum safe load of 1500 kg. When \\(n\\) men stand on the bridge, the probability that the bridge is unsafe is less than 0.01.",
+                "bbox": [
+                    78,
+                    75,
+                    917,
+                    125
+                ]
+            },
+            {
+                "type": "text",
+                "text": "Stating a necessary assumption, find the maximum value of \\(n\\). [4]",
+                "bbox": [
+                    117,
+                    138,
+                    917,
+                    157
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "text": "6 A random variable \\(X\\) has probability density function given by",
+                "bbox": [
+                    80,
+                    72,
+                    605,
+                    88
+                ]
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "",
+                "bbox": [
+                    400,
+                    103,
+                    617,
+                    145
+                ]
+            },
+            {
+                "type": "text",
+                "text": "where \\(a\\) and \\(b\\) are constants.",
+                "bbox": [
+                    118,
+                    150,
+                    340,
+                    166
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Show that \\(a = \\frac{2}{b^2}\\) .",
+                        "bbox": [
+                            118,
+                            174,
+                            310,
+                            204
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Show that \\(\\mathrm{P}(X < \\mathrm{E}(X)) = \\frac{4}{9}\\) .",
+                        "bbox": [
+                            118,
+                            456,
+                            388,
+                            476
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[6]",
+                        "bbox": [
+                            118,
+                            490,
+                            912,
+                            940
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "text": "7 In the past, one quarter of job applicants at a certain firm had first-class degrees. A change is made in the job description and a director of the firm believes that, on average, the proportion of job applicants with first class degrees has decreased.",
+                "bbox": [
+                    80,
+                    71,
+                    917,
+                    120
+                ]
+            },
+            {
+                "type": "text",
+                "text": "In the month following the change, there were 35 job applicants, and \\(r\\) of these had first- class degrees. The firm carried out a hypothesis test at the \\(4\\%\\) significance level to test the director's belief.",
+                "bbox": [
+                    116,
+                    133,
+                    916,
+                    167
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Use a binomial distribution to find the largest value of \\(r\\) that would provide sufficient evidence that the director's belief is correct. [6]",
+                        "bbox": [
+                            116,
+                            180,
+                            916,
+                            213
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "In another month, the director carries out a similar test at the \\(4\\%\\) significance level using the 35 job applicants from that month.",
+                        "bbox": [
+                            117,
+                            72,
+                            916,
+                            105
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Explain the meaning of a Type I error in this context, and state the probability of a Type I error. [2]",
+                        "bbox": [
+                            117,
+                            118,
+                            916,
+                            400
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Given that the proportion of job applicants with first class degrees this year is actually 0.05, find the probability of a Type II error. [2]",
+                        "bbox": [
+                            117,
+                            410,
+                            916,
+                            444
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[2]",
+                        "bbox": [
+                            117,
+                            456,
+                            916,
+                            944
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

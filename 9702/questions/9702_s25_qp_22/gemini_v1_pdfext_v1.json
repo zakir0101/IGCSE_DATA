@@ -1,0 +1,676 @@
+{
+    "questions": [
+        {
+            "label": "1",
+            "content": [],
+            "parts": [
+                {
+                    "label": "a",
+                    "content": [
+                        {
+                            "content": "Table 1.1 lists some physical quantities. Identify with ticks (✓) which quantities are vectors and which are scalars.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "Table 1.1",
+                            "type": "table",
+                            "extra": {
+                                "caption": "Table 1.1",
+                                "rows": [
+                                    ["quantity", "scalar", "vector"],
+                                    ["acceleration", "", ""],
+                                    ["displacement", "", ""],
+                                    ["gravitational potential energy", "", ""],
+                                    ["speed", "", ""],
+                                    ["temperature", "", ""]
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "label": "b",
+                    "content": [
+                        {
+                            "content": "A constant resultant force F acts on a car of mass m. The car moves from rest with constant acceleration a along horizontal ground. When the car has displacement s, the speed of the car is v.",
+                            "type": "text",
+                            "extra": {}
+                        }
+                    ],
+                    "parts": [
+                        {
+                            "label": "i",
+                            "content": [
+                                {
+                                    "content": "Using the concept of work done on the car, show that the kinetic energy E_k of the car is given by the equation",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "E_k = (1/2)mv^2",
+                                    "type": "blockMath",
+                                    "extra": {}
+                                }
+                            ]
+                        },
+                        {
+                            "label": "ii",
+                            "content": [
+                                {
+                                    "content": "The mass of the car is 920 kg. At time t = 0, the car is at rest. At time t = 5.8 s, its velocity is 17 m s^-1.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "Calculate the kinetic energy of the car at time t = 5.8 s.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "kinetic energy = ................................................ J [1]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "1"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "iii",
+                            "content": [
+                                {
+                                    "content": "Between time t = 0 and time t = 5.8 s, the work done against resistive forces is 4.7 × 10^4 J.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "Determine the average output power of the car during this time.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "power = ................................................ W [3]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "3"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "iv",
+                            "content": [
+                                {
+                                    "content": "At time t = 5.8 s, the speed of the car becomes constant.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "State and explain whether the output power of the car is greater than, less than or the same as the output power just before t = 5.8 s.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "[1]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "2",
+            "content": [],
+            "parts": [
+                {
+                    "label": "a",
+                    "content": [
+                        {
+                            "content": "Define the moment of a force about a point.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "[1]",
+                            "type": "text",
+                            "extra": {
+                                "mark": "1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "label": "b",
+                    "content": [
+                        {
+                            "content": "A tree of mass 270 kg grows out of sloping ground and is supported by a post, as shown in Fig. 2.1.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "image_name_placeholder",
+                            "type": "image",
+                            "extra": {
+                                "caption": "Fig. 2.1 (not to scale)"
+                            }
+                        },
+                        {
+                            "content": "The ground applies a total force R on the tree at point Q.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "The centre of gravity of the tree is a horizontal distance of 1.2 m from Q.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "The post applies a force F of 1800 N perpendicular to the line PQ. The line of action of F passes through point P at an angle θ to the vertical. P is a horizontal distance of 1.6 m from Q. The tree is in equilibrium and all forces act on the tree in the same plane.",
+                            "type": "text",
+                            "extra": {}
+                        }
+                    ],
+                    "parts": [
+                        {
+                            "label": "i",
+                            "content": [
+                                {
+                                    "content": "By taking moments about point Q, show that θ is 25°.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "[3]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "3"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "ii",
+                            "content": [
+                                {
+                                    "content": "On Fig. 2.2, draw a labelled scale vector triangle to represent the forces acting on the tree. The weight of the tree has been drawn to scale.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "image_name_placeholder",
+                                    "type": "image",
+                                    "extra": {
+                                        "caption": "Fig. 2.2"
+                                    }
+                                },
+                                {
+                                    "content": "[2]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "2"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "iii",
+                            "content": [
+                                {
+                                    "content": "The tree exerts a pressure of 150 kPa on the top of the post.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "Determine the surface area of the tree in contact with the post.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "area = ................................................ m^2 [2]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "2"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "3",
+            "content": [
+                {
+                    "content": "Two progressive water waves X and Y travel along a straight line from point A to point B. The variation of displacement of the waves with distance from A at an instant in time is shown in Fig. 3.1.",
+                    "type": "text",
+                    "extra": {}
+                },
+                {
+                    "content": "image_name_placeholder",
+                    "type": "image",
+                    "extra": {
+                        "caption": "Fig. 3.1"
+                    }
+                }
+            ],
+            "parts": [
+                {
+                    "label": "a",
+                    "content": [
+                        {
+                            "content": "State the amplitude of wave X.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "amplitude = ................................................ cm [1]",
+                            "type": "text",
+                            "extra": {
+                                "mark": "1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "label": "b",
+                    "content": [
+                        {
+                            "content": "Both waves have frequency 16 Hz.",
+                            "type": "text",
+                            "extra": {}
+                        }
+                    ],
+                    "parts": [
+                        {
+                            "label": "i",
+                            "content": [
+                                {
+                                    "content": "Determine the speed of wave X.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "speed = ................................................ m s^-1 [2]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "2"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "ii",
+                            "content": [
+                                {
+                                    "content": "State and explain whether X and Y are coherent.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "[1]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "1"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "c",
+                    "content": [
+                        {
+                            "content": "Wave X and wave Y superpose to form a resultant wave.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "On Fig. 3.2, sketch the variation of displacement of the resultant wave with distance from A at the instant of time shown in Fig. 3.1.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "image_name_placeholder",
+                            "type": "image",
+                            "extra": {
+                                "caption": "Fig. 3.2"
+                            }
+                        },
+                        {
+                            "content": "[2]",
+                            "type": "text",
+                            "extra": {
+                                "mark": "2"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "label": "d",
+                    "content": [
+                        {
+                            "content": "The intensity of wave X is I_X. The intensity of wave Y is I_Y.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "Use Fig. 3.1 to determine the ratio I_X / I_Y.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "ratio = ................................................ [2]",
+                            "type": "text",
+                            "extra": {
+                                "mark": "2"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "4",
+            "content": [
+                {
+                    "content": "A small ball is dropped from rest from height h_1 above the ground and falls vertically downwards. The ball collides with the ground and bounces back vertically upwards, reaching a maximum height h_2. Fig. 4.1 shows the ball just before and just after hitting the ground.",
+                    "type": "text",
+                    "extra": {}
+                },
+                {
+                    "content": "image_name_placeholder",
+                    "type": "image",
+                    "extra": {
+                        "caption": "Fig. 4.1"
+                    }
+                },
+                {
+                    "content": "The ball has mass 0.25 kg and is in contact with the ground for a time of 0.18 s. Just before the ball hits the ground, it has speed 5.2 m s^-1. Just after it leaves the ground, it has speed 3.6 m s^-1. Air resistance acting on the ball is negligible.",
+                    "type": "text",
+                    "extra": {}
+                }
+            ],
+            "parts": [
+                {
+                    "label": "a",
+                    "content": [
+                        {
+                            "content": "State and explain whether the collision is elastic or inelastic.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "[1]",
+                            "type": "text",
+                            "extra": {
+                                "mark": "1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "label": "b",
+                    "content": [],
+                    "parts": [
+                        {
+                            "label": "i",
+                            "content": [
+                                {
+                                    "content": "Calculate the change in momentum of the ball during the collision with the ground.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "change in momentum = ................................................ kg m s^-1 [2]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "2"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "ii",
+                            "content": [
+                                {
+                                    "content": "Determine the average force on the ball during the collision with the ground.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "force = ................................................ N [2]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "2"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "c",
+                    "content": [
+                        {
+                            "content": "Calculate the ratio h_2 / h_1.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "ratio = ................................................ [3]",
+                            "type": "text",
+                            "extra": {
+                                "mark": "3"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "5",
+            "content": [],
+            "parts": [
+                {
+                    "label": "a",
+                    "content": [
+                        {
+                            "content": "Define the Young modulus.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "[1]",
+                            "type": "text",
+                            "extra": {
+                                "mark": "1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "label": "b",
+                    "content": [
+                        {
+                            "content": "A wire of unstretched length 0.81 m is made of a metal with Young modulus 95 GPa. The wire obeys Hooke's law and has a constant cross-sectional area. Fig. 5.1 shows the force-extension graph for the wire.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "image_name_placeholder",
+                            "type": "image",
+                            "extra": {
+                                "caption": "Fig. 5.1"
+                            }
+                        }
+                    ],
+                    "parts": [
+                        {
+                            "label": "i",
+                            "content": [
+                                {
+                                    "content": "Determine the cross-sectional area of the wire.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "area = ................................................ m^2 [3]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "3"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "ii",
+                            "content": [
+                                {
+                                    "content": "The extension of the wire is initially 2.0 × 10^-3 m.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "Determine the work done to increase the extension of the wire to 3.0 × 10^-3 m.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "work done = ................................................ J [3]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "3"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "6",
+            "content": [],
+            "parts": [
+                {
+                    "label": "a",
+                    "content": [
+                        {
+                            "content": "Define electric potential difference across a component.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "[1]",
+                            "type": "text",
+                            "extra": {
+                                "mark": "1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "label": "b",
+                    "content": [
+                        {
+                            "content": "A circuit contains four resistors and a battery of electromotive force (e.m.f.) 8.0 V with negligible internal resistance. When the variable resistor has resistance R, the currents in the circuit are 0.030 A, I_1 and I_2, as shown in Fig. 6.1.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "image_name_placeholder",
+                            "type": "image",
+                            "extra": {
+                                "caption": "Fig. 6.1"
+                            }
+                        }
+                    ],
+                    "parts": [
+                        {
+                            "label": "i",
+                            "content": [
+                                {
+                                    "content": "Determine the charge passing through the battery in a time of 4.0 minutes.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "charge = ................................................ C [2]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "2"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "ii",
+                            "content": [
+                                {
+                                    "content": "Calculate I_1.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "I_1 = ................................................ A [2]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "2"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "iii",
+                            "content": [
+                                {
+                                    "content": "Calculate I_2.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "I_2 = ................................................ A [1]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "1"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "label": "iv",
+                            "content": [
+                                {
+                                    "content": "Determine R.",
+                                    "type": "text",
+                                    "extra": {}
+                                },
+                                {
+                                    "content": "R = ................................................ Ω [2]",
+                                    "type": "text",
+                                    "extra": {
+                                        "mark": "2"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "c",
+                    "content": [
+                        {
+                            "content": "The variable resistor in (b) is fitted with a scale so that its resistance can be accurately determined.",
+                            "type": "text",
+                            "extra": {}
+                        },
+                        {
+                            "content": "The resistor

@@ -1,0 +1,252 @@
+[
+  {
+    "label": 1,
+    "content": [
+      {
+        "type": "text",
+        "text": "Solve the equation \\(\\ln(3x+1) - \\ln(x-5) = \\ln 7\\)."
+      }
+    ],
+    "mark": 3,
+    "parts": []
+  },
+  {
+    "label": 2,
+    "content": [
+      {
+        "type": "text",
+        "text": "A curve passes through the point with coordinates \\(\\left(\\frac{1}{2}\\pi, 5\\right)\\) and is such that \\(\\frac{\\mathrm{d}y}{\\mathrm{d}x} = 4 \\sec^2\\left(\\frac{1}{2}x\\right)\\). Find the equation of the curve."
+      }
+    ],
+    "mark": 3,
+    "parts": []
+  },
+  {
+    "label": 3,
+    "content": [
+      {
+        "type": "image",
+        "image": {
+          "bbox": [
+            369,
+            90,
+            628,
+            260
+          ],
+          "index": 1,
+          "caption": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": "The diagram shows the curves \\(y = \\mathrm{e}^{2x}\\) and \\(y = 8\\mathrm{e}^{-x}\\). The shaded region is bounded by the two curves and the \\(y\\)-axis."
+      }
+    ],
+    "mark": 5,
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Show that the \\(x\\)-coordinate of the point of intersection of the two curves is \\(\\ln 2\\)."
+          }
+        ],
+        "mark": 2
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find the area of the shaded region."
+          }
+        ],
+        "mark": 3
+      }
+    ]
+  },
+  {
+    "label": 4,
+    "content": [
+      {
+        "type": "text",
+        "text": "A curve has equation \\(y = \\frac{4 \\sin x}{3 + \\cos 2x}\\) for values of \\(x\\) such that \\(0 \\leq x \\leq 2\\pi\\)."
+      }
+    ],
+    "mark": 6,
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find \\(\\frac{\\mathrm{d}y}{\\mathrm{d}x}\\)."
+          }
+        ],
+        "mark": 2
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "Hence find the coordinates of the stationary points of the curve."
+          }
+        ],
+        "mark": 4
+      }
+    ]
+  },
+  {
+    "label": 5,
+    "content": [],
+    "mark": 9,
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sketch on the same diagram the graphs of \\(y = |2x - 3|\\) and \\(y = \\ln (x + 1)\\)."
+          }
+        ],
+        "mark": 2
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "The \\(x\\)-coordinates of the points where the graphs intersect are denoted by \\(\\alpha\\) and \\(\\beta\\), where \\(\\alpha < \\beta\\). Show that \\(\\alpha = 1.5 - 0.5\\ln (\\alpha +1)\\)."
+          }
+        ],
+        "mark": 2
+      },
+      {
+        "label": "c",
+        "content": [
+          {
+            "type": "text",
+            "text": "Use an iterative formula, based on the equation in part (b), to find the value of \\(\\alpha\\) correct to 3 significant figures. Give the result of each iteration to 5 significant figures."
+          }
+        ],
+        "mark": 3
+      },
+      {
+        "label": "d",
+        "content": [
+          {
+            "type": "text",
+            "text": "Show by calculation that \\(2.055 < \\beta < 2.065\\)."
+          }
+        ],
+        "mark": 2
+      }
+    ]
+  },
+  {
+    "label": 6,
+    "content": [],
+    "mark": 8,
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find the quotient and remainder when \\(18x^3 - 6x^2 - 30x + 4\\) is divided by \\((3x - 1)\\)."
+          }
+        ],
+        "mark": 3
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "Hence find \\(\\int_{1}^{5} \\frac{18x^3 - 6x^2 - 30x + 4}{3x - 1} \\, \\mathrm{d}x\\). Give your answer in the form \\(a - \\ln b\\), where \\(a\\) and \\(b\\) are integers."
+          }
+        ],
+        "mark": 5
+      }
+    ]
+  },
+  {
+    "label": 7,
+    "content": [],
+    "mark": 10,
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Express \\(6 \\sin \\theta - 4 \\cos \\theta\\) in the form \\(R \\sin (\\theta - \\alpha)\\), where \\(R > 0\\) and \\(0^\\circ < \\alpha < 90^\\circ\\). Give the exact value of \\(R\\) and the value of \\(\\alpha\\) correct to 2 decimal places."
+          }
+        ],
+        "mark": 3
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "Hence solve the equation \\(6 \\sin \\theta - 4 \\cos \\theta + 5 = 0\\) for \\(0^\\circ < \\theta < 360^\\circ\\)."
+          }
+        ],
+        "mark": 4
+      },
+      {
+        "label": "c",
+        "content": [
+          {
+            "type": "text",
+            "text": "As the value of \\(\\beta\\) varies, find the greatest possible value of"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[(3\\sin 4\\beta -2\\cos 4\\beta)^2 +15\\]"
+          },
+          {
+            "type": "text",
+            "text": "and determine the smallest positive value of \\(\\beta\\), in degrees, for which this greatest value occurs."
+          }
+        ],
+        "mark": 3
+      }
+    ]
+  },
+  {
+    "label": 8,
+    "content": [
+      {
+        "type": "text",
+        "text": "A curve has equation \\(3e^{2x}y + 4e^{3x} + y^3 = 18\\)."
+      }
+    ],
+    "mark": 6,
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Show that \\(\\frac{\\mathrm{d}y}{\\mathrm{d}x} = \\frac{-2e^{2x}y - 4e^{3x}}{e^{2x} + y^2}\\)."
+          }
+        ],
+        "mark": 3
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "Show that the curve has no stationary points."
+          }
+        ],
+        "mark": 3
+      }
+    ]
+  }
+]

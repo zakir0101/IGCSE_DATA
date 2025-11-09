@@ -1,0 +1,722 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "text": "1 In this experiment, you will investigate a light- dependent resistor (LDR).",
+                "bbox": [
+                    60,
+                    103,
+                    704,
+                    120
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Connect the circuit shown in Fig. 1.1.",
+                        "bbox": [
+                            117,
+                            133,
+                            500,
+                            151
+                        ]
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            165,
+                            164,
+                            832,
+                            360
+                        ],
+                        "image": {
+                            "caption": "<center>Fig. 1.1 </center>",
+                            "page": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Ensure that the switch S is open.",
+                        "bbox": [
+                            156,
+                            408,
+                            465,
+                            425
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Slide the LDR leads into the tube until the front of the LDR is just level with the open end of the tube, as shown in Fig. 1.1.",
+                        "bbox": [
+                            155,
+                            437,
+                            917,
+                            472
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "With the LDR in this position, attach a piece of adhesive tape to the leads as a marker at the other end of the tube, as shown in Fig. 1.1.",
+                        "bbox": [
+                            155,
+                            484,
+                            917,
+                            519
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Slide the tube until the LDR is approximately half- way along it, as shown in Fig. 1.2.",
+                        "bbox": [
+                            155,
+                            531,
+                            880,
+                            550
+                        ]
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            275,
+                            562,
+                            720,
+                            661
+                        ],
+                        "image": {
+                            "caption": "<center>Fig. 1.2 </center>",
+                            "page": 2
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Change \\(x\\) by moving the LDR to a new position inside the tube, with \\(x\\) in the range \\(4 \\text{cm}\\) to \\(18 \\text{cm}\\) . Record \\(x\\) and \\(I\\) .Repeat until you have six sets of values of \\(x\\) and \\(I\\) .Record your results in a table. Include values of \\(\\sqrt{I}\\) in your table.",
+                        "bbox": [
+                            118,
+                            71,
+                            917,
+                            104
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Repeat until you have six sets of values of \\(x\\) and \\(I\\) .",
+                        "bbox": [
+                            155,
+                            118,
+                            575,
+                            136
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Record your results in a table. Include values of \\(\\sqrt{I}\\) in your table.",
+                        "bbox": [
+                            155,
+                            147,
+                            690,
+                            168
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": []
+                    },
+                    {
+                        "label": "ii",
+                        "content": []
+                    },
+                    {
+                        "label": "iii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(c) (i) Plot a graph of \\(\\sqrt{I}\\) on the \\(y\\) -axis against \\(x\\) on the \\(x\\) -axis.",
+                                "bbox": [
+                                    118,
+                                    594,
+                                    650,
+                                    614
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "text": "(ii) Draw the straight line of best fit.",
+                                "bbox": [
+                                    150,
+                                    626,
+                                    456,
+                                    644
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "text": "(iii) Determine the gradient and \\(y\\) - intercept of this line.",
+                                "bbox": [
+                                    147,
+                                    657,
+                                    606,
+                                    675
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "d",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "gradient =",
+                        "bbox": [
+                            475,
+                            827,
+                            916,
+                            845
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(d) It is suggested that the quantities \\(I\\) and \\(x\\) are related by the equation",
+                        "bbox": [
+                            117,
+                            72,
+                            718,
+                            89
+                        ]
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\sqrt{I} = ax + b\\]",
+                        "bbox": [
+                            446,
+                            99,
+                            549,
+                            121
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "where \\(a\\) and \\(b\\) are constants.",
+                        "bbox": [
+                            155,
+                            135,
+                            397,
+                            150
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Using your answers in (c)(iii), determine the values of \\(a\\) and \\(b\\) . Give appropriate units.",
+                        "bbox": [
+                            155,
+                            165,
+                            670,
+                            197
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "You may not need to use all of the materials provided.",
+                "bbox": [
+                    260,
+                    72,
+                    736,
+                    89
+                ]
+            },
+            {
+                "type": "text",
+                "text": "2 In this experiment, you will investigate the elastic properties of rubber cord.",
+                "bbox": [
+                    78,
+                    102,
+                    733,
+                    120
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(a) (i) You are provided with a wire with a clip and two slotted masses attached, as shown in Fig. 2.1.",
+                                "bbox": [
+                                    115,
+                                    133,
+                                    917,
+                                    168
+                                ]
+                            },
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    260,
+                                    180,
+                                    736,
+                                    348
+                                ],
+                                "image": {
+                                    "caption": "<center>Fig. 2.1 </center>",
+                                    "page": 7
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "The distance between the centres of the two slotted masses is \\(B\\) , as shown in Fig. 2.1.",
+                                "bbox": [
+                                    194,
+                                    392,
+                                    904,
+                                    410
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "text": "Measure and record \\(B\\) .",
+                                "bbox": [
+                                    194,
+                                    424,
+                                    385,
+                                    440
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "text": "[1]",
+                                "bbox": [
+                                    550,
+                                    561,
+                                    916,
+                                    580
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "text": "(ii) Estimate the percentage uncertainty in your value of \\(B\\) . Show your working.",
+                                "bbox": [
+                                    150,
+                                    593,
+                                    812,
+                                    611
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "percentage uncertainty = % [1]",
+                        "bbox": [
+                            374,
+                            794,
+                            916,
+                            812
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(d =\\) [1]",
+                        "bbox": [
+                            551,
+                            180,
+                            916,
+                            199
+                        ]
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(b) (i) You are provided with two lengths of rubber cord. Select the longer cord.",
+                                "bbox": [
+                                    117,
+                                    72,
+                                    832,
+                                    90
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "text": "The diameter of the cord is \\(d\\) .",
+                                "bbox": [
+                                    195,
+                                    103,
+                                    475,
+                                    120
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "text": "Measure and record \\(d\\) .",
+                                "bbox": [
+                                    231,
+                                    135,
+                                    421,
+                                    151
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Suspend the clip, wire and masses using the longer cord secured in the two clips, as shown in Fig. 2.2.",
+                                "bbox": [
+                                    150,
+                                    211,
+                                    916,
+                                    245
+                                ]
+                            },
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    160,
+                                    255,
+                                    844,
+                                    644
+                                ],
+                                "image": {
+                                    "caption": "<center>Fig. 2.2 (not to scale) </center>",
+                                    "page": 8
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "label": "iii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "The length of cord between the two clips is \\(L\\) , as shown in Fig. 2.2.",
+                                "bbox": [
+                                    195,
+                                    688,
+                                    780,
+                                    707
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "text": "Measure and record \\(L\\) .",
+                                "bbox": [
+                                    231,
+                                    720,
+                                    421,
+                                    736
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "text": "\\(L =\\) [1]",
+                                "bbox": [
+                                    551,
+                                    764,
+                                    916,
+                                    783
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "text": "(iii) Keeping the cord vertical, rotate the lower clip through approximately \\(180^{\\circ}\\) and release the clip. The clip will rotate with a small number of oscillations.",
+                                "bbox": [
+                                    147,
+                                    72,
+                                    919,
+                                    110
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "text": "Take measurements to determine the period \\(T\\) of these oscillations.",
+                                "bbox": [
+                                    195,
+                                    120,
+                                    785,
+                                    138
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "\\(T =\\) s [2]",
+                        "bbox": [
+                            551,
+                            289,
+                            916,
+                            307
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(c) Using the shorter length of rubber cord, repeat (b).",
+                        "bbox": [
+                            117,
+                            320,
+                            579,
+                            338
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "d",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "\\(d =\\)",
+                        "bbox": [
+                            551,
+                            380,
+                            916,
+                            397
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(L =\\)",
+                        "bbox": [
+                            551,
+                            442,
+                            916,
+                            459
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(T =\\) s [3]",
+                        "bbox": [
+                            551,
+                            583,
+                            916,
+                            600
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(d) It is suggested that the relationship between \\(T, B, L\\) and \\(d\\) is",
+                        "bbox": [
+                            117,
+                            71,
+                            651,
+                            89
+                        ]
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[T^2 = \\frac{B^2L}{kd^4}\\]",
+                        "bbox": [
+                            460,
+                            98,
+                            544,
+                            131
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "where \\(k\\) is a constant.",
+                        "bbox": [
+                            156,
+                            139,
+                            338,
+                            155
+                        ]
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) Using your data, calculate two values of \\(k\\) .",
+                                "bbox": [
+                                    156,
+                                    169,
+                                    546,
+                                    187
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "first value of \\(k =\\)",
+                                "bbox": [
+                                    450,
+                                    369,
+                                    916,
+                                    387
+                                ]
+                            },
+                            {
+                                "type": "text",
+                                "text": "second value of \\(k =\\)",
+                                "bbox": [
+                                    419,
+                                    400,
+                                    916,
+                                    418
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "e",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(ii) Justify the number of significant figures that you have given for your values of \\(k\\) .",
+                        "bbox": [
+                            150,
+                            446,
+                            916,
+                            560
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(e) It is suggested that the percentage uncertainty in the values of \\(k\\) is \\(20\\%\\) .",
+                        "bbox": [
+                            117,
+                            569,
+                            748,
+                            588
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Using this uncertainty, explain whether your results support the relationship in (d).",
+                        "bbox": [
+                            153,
+                            600,
+                            825,
+                            619
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "f",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(f) (i) Describe four sources of uncertainty or limitations of the procedure for this experiment.",
+                        "bbox": [
+                            118,
+                            72,
+                            910,
+                            88
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "For any uncertainties in measurement that you describe, you should state the quantity being measured and a reason for the uncertainty.",
+                        "bbox": [
+                            193,
+                            102,
+                            916,
+                            135
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "1 2 3 4 [4]",
+                        "bbox": [
+                            194,
+                            149,
+                            916,
+                            394
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(ii) Describe four improvements that could be made to this experiment. You may suggest the use of other apparatus or different procedures.",
+                        "bbox": [
+                            150,
+                            411,
+                            916,
+                            444
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "1 2 3 4 [4]",
+                        "bbox": [
+                            194,
+                            458,
+                            916,
+                            700
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[Total: 20]",
+                        "bbox": [
+                            831,
+                            720,
+                            916,
+                            736
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "text": "1 A person’s eye colour may be categorised as “brown”, “blue” or “other”. A scientist claims that these eye colours are uniformly distributed and hence are equally likely to occur in the population. A survey of 120 people from this population found that 38 people had brown eyes, 52 people had blue eyes and 30 people had eyes which were neither brown nor blue.",
+                "bbox": [
+                    80,
+                    72,
+                    917,
+                    135
+                ]
+            },
+            {
+                "type": "text",
+                "text": "Use the data to carry out a goodness of fit test at the 5% significance level to test the scientist’s claim. [6]",
+                "bbox": [
+                    118,
+                    150,
+                    917,
+                    183
+                ]
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2 A farmer is investigating whether using a new fertiliser will increase the yield of tomato plants. The farmer selects 40 tomato plants at random and gives them the new fertiliser. The crop mass, \\(x\\) kg, of each of these 40 plants is recorded. The farmer selects a further 60 tomato plants at random and gives them a standard fertiliser. The crop mass, \\(y\\) kg, of each of these 60 plants is recorded. The results are summarised as follows.",
+                "bbox": [
+                    80,
+                    72,
+                    919,
+                    151
+                ]
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\Sigma x = 168\\quad \\Sigma x^2 = 720\\quad \\Sigma y = 228\\quad \\Sigma y^2 = 900\\]",
+                "bbox": [
+                    299,
+                    164,
+                    697,
+                    184
+                ]
+            },
+            {
+                "type": "text",
+                "text": "Find a \\(90\\%\\) confidence interval for the difference in mean crop mass associated with each type of fertiliser. [7]",
+                "bbox": [
+                    117,
+                    195,
+                    919,
+                    228
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "text": "3 A continuous random variable \\(X\\) has probability density function f given by",
+                "bbox": [
+                    78,
+                    72,
+                    707,
+                    88
+                ]
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[f(x) = \\begin{cases} kx & 0 \\le x < 1, \\\\ k(8-x) & 1 \\le x \\le 8, \\\\ 0 & \\text{otherwise}, \\end{cases}\\]",
+                "bbox": [
+                    376,
+                    101,
+                    621,
+                    180
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "where \\(k\\) is a constant.",
+                        "bbox": [
+                            118,
+                            201,
+                            290,
+                            215
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(a) Show that \\(k = \\frac{1}{25}\\).",
+                        "bbox": [
+                            118,
+                            228,
+                            310,
+                            250
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the median value of \\(X\\).",
+                        "bbox": [
+                            118,
+                            448,
+                            376,
+                            463
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The random variable \\(Y\\) is defined by \\(Y = \\sqrt[3]{X}\\).",
+                        "bbox": [
+                            117,
+                            75,
+                            479,
+                            92
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(c) Find the probability density function of \\(Y\\).",
+                        "bbox": [
+                            117,
+                            108,
+                            485,
+                            125
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[5]",
+                        "bbox": [
+                            884,
+                            108,
+                            912,
+                            125
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 A researcher claims that older people take longer to react to a sudden loud noise than younger people. To investigate this, the researcher randomly selects 6 people over 50 years old and 8 people under 25 years old and records their reaction times, in milliseconds, to a sudden loud noise. The reaction times are as follows.",
+                "bbox": [
+                    80,
+                    72,
+                    917,
+                    135
+                ]
+            },
+            {
+                "type": "text",
+                "text": "Over 50 198 212 217 229 235 242",
+                "bbox": [
+                    118,
+                    149,
+                    610,
+                    166
+                ]
+            },
+            {
+                "type": "text",
+                "text": "Under 25 178 181 183 192 203 209 223 231",
+                "bbox": [
+                    118,
+                    180,
+                    741,
+                    197
+                ]
+            },
+            {
+                "type": "text",
+                "text": "Carry out a Wilcoxon rank-sum test at the 5% significance level to test the researcher’s claim. [8]",
+                "bbox": [
+                    118,
+                    212,
+                    917,
+                    228
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "text": "5 A doctor is investigating the concentration of blood glucose in patients at risk of developing type 2 diabetes, where blood glucose is measured in appropriate units. The doctor claims that a particular intervention reduces the concentration by more than \\(k\\) units on average. A group of 8 at risk patients is selected at random and each patient follows the intervention for six months. The blood glucose concentrations before and after the intervention are given in the following table.",
+                "bbox": [
+                    80,
+                    72,
+                    917,
+                    151
+                ]
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    144,
+                    165,
+                    890,
+                    243
+                ],
+                "table": {
+                    "caption": "",
+                    "html": "\n\n<table><tr><td>Patient</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td>Before</td><td>183</td><td>165</td><td>172</td><td>165</td><td>143</td><td>176</td><td>161</td><td>153</td></tr><tr><td>After</td><td>164</td><td>148</td><td>164</td><td>149</td><td>134</td><td>153</td><td>155</td><td>148</td></tr></table>  \n\n"
+                }
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Use a \\(t\\) -test at the \\(5\\%\\) significance level to find the range of values of \\(k\\) for which the result of the test is to reject the null hypothesis. [7]",
+                        "bbox": [
+                            118,
+                            303,
+                            917,
+                            338
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ......",
+                        "bbox": [
+                            152,
+                            350,
+                            917,
+                            930
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "image",
+                        "bbox": [
+                            895,
+                            30,
+                            940,
+                            66
+                        ],
+                        "image": {
+                            "caption": "",
+                            "page": 9
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            154,
+                            92,
+                            916,
+                            830
+                        ],
+                        "image": {
+                            "caption": "<center>(b) State an assumption necessary for the test in part (a) to be valid.</center>",
+                            "page": 9
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "text": "6 A bag contains 7 red balls and 3 blue balls. Kieran selects 2 balls at random, without replacement. The number of red balls selected by Kieran is denoted by \\(X\\) , and the number of different colours present in Kieran's selection is denoted by \\(Y\\) .",
+                "bbox": [
+                    80,
+                    70,
+                    917,
+                    120
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the probability generating functions, \\(\\mathrm{G}_X(t)\\) of \\(X\\) and \\(\\mathrm{G}_Y(t)\\) of \\(Y\\) . [4]",
+                        "bbox": [
+                            115,
+                            132,
+                            917,
+                            750
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The random variable \\(Z\\) is the sum of the number of red balls and the number of different colours present in Kieran's selection. Kieran claims that the probability generating function of \\(Z\\) is equal to \\(\\mathrm{G}_X(t) \\times \\mathrm{G}_Y(t)\\) .",
+                        "bbox": [
+                            118,
+                            750,
+                            917,
+                            802
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Explain why Kieran is incorrect. [1]",
+                        "bbox": [
+                            118,
+                            813,
+                            411,
+                            831
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Find the probability generating function of \\(Z\\), expressing your answer as a polynomial in \\(t\\). [4]",
+                        "bbox": [
+                            117,
+                            70,
+                            916,
+                            90
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "d",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(d) Use the probability generating function of \\(Z\\) to find \\(E(Z)\\). [2]",
+                        "bbox": [
+                            117,
+                            630,
+                            916,
+                            649
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

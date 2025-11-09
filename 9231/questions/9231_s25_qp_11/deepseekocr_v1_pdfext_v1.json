@@ -1,0 +1,537 @@
+[
+    {
+        "label": "1",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "1 (a) Use standard results from the list of formulae (MF19) to show that",
+                        "bbox": [
+                            80,
+                            71,
+                            675,
+                            88
+                        ]
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[ \\sum_{r=1}^{n} (2-3r)(5-3r) = an^3 + bn^2 + cn, \\]",
+                        "bbox": [
+                            348,
+                            105,
+                            645,
+                            152
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "where \\(a, b\\) and \\(c\\) are integers to be determined.",
+                        "bbox": [
+                            154,
+                            165,
+                            520,
+                            182
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[3]",
+                        "bbox": [
+                            884,
+                            165,
+                            915,
+                            182
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Use the method of differences to find \\(\\sum_{r=1}^{n} \\frac{1}{(2-3r)(5-3r)}\\) in terms of \\(n\\). [4]",
+                        "bbox": [
+                            117,
+                            75,
+                            916,
+                            110
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": []
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2 The cubic equation \\(x^3 + 2x + 1 = 0\\) has roots \\(\\alpha, \\beta, \\gamma\\).",
+                "bbox": [
+                    78,
+                    73,
+                    533,
+                    94
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find a cubic equation whose roots are \\(\\alpha^3 - 1, \\beta^3 - 1, \\gamma^3 - 1\\).",
+                        "bbox": [
+                            117,
+                            103,
+                            630,
+                            125
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[3]",
+                        "bbox": [
+                            880,
+                            105,
+                            911,
+                            123
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the value of \\((\\alpha^3 - 1)^2 + (\\beta^3 - 1)^2 + (\\gamma^3 - 1)^2\\).",
+                        "bbox": [
+                            117,
+                            73,
+                            545,
+                            99
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[2]",
+                        "bbox": [
+                            888,
+                            78,
+                            916,
+                            99
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Find the value of \\((\\alpha^3 - 1)^3 + (\\beta^3 - 1)^3 + (\\gamma^3 - 1)^3\\).",
+                        "bbox": [
+                            117,
+                            520,
+                            545,
+                            546
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "text": "3 The sequence \\(u_1, u_2, u_3, \\ldots\\) is such that \\(u_1 = 5\\) and \\(u_{n+1} = 6u_n + 5\\) for \\(n \\ge 1\\).",
+                "bbox": [
+                    78,
+                    72,
+                    733,
+                    91
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Prove by induction that \\(u_n = 6^n - 1\\) for all positive integers \\(n\\). [5]",
+                        "bbox": [
+                            117,
+                            103,
+                            916,
+                            122
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Deduce that \\(u_{2n}\\) is divisible by \\(u_n\\) for \\(n \\ge 1\\). [2]",
+                        "bbox": [
+                            117,
+                            832,
+                            916,
+                            848
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 The matrix \\(\\mathbf{M}\\) is given by \\(\\mathbf{M} = \\left( \\begin{array}{cc}1 & 2\\\\ 0 & 1 \\end{array} \\right)\\left( \\begin{array}{cc}\\cos \\theta & -\\sin \\theta \\\\ \\sin \\theta & \\cos \\theta \\end{array} \\right)\\) , where \\(0 < \\theta < 2\\pi\\) .",
+                "bbox": [
+                    80,
+                    72,
+                    690,
+                    109
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) The matrix \\(\\mathbf{M}\\) represents a sequence of two geometrical transformations in the \\(x - y\\) plane. State the type of each transformation, and make clear the order in which they are applied. [2]",
+                        "bbox": [
+                            115,
+                            123,
+                            951,
+                            500
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the value of \\(\\theta\\) for which the transformation represented by \\(\\mathbf{M}\\) has a line of invariant points. [7]",
+                        "bbox": [
+                            115,
+                            557,
+                            916,
+                            576
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "text": "5 The curve \\(C\\) has polar equation \\(r = \\theta e^{\\frac{1}{\\theta}\\theta}\\) , for \\(0 \\leqslant \\theta \\leqslant 2\\pi\\) .",
+                "bbox": [
+                    78,
+                    75,
+                    568,
+                    95
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Sketch \\(C\\) .",
+                        "bbox": [
+                            117,
+                            109,
+                            235,
+                            126
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the area of the region bounded by \\(C\\) and the initial line, giving your answer in the form \\(\\left(p\\pi^2 + q\\pi + r\\right)e^{\\frac{1}{2}\\pi} + s\\) , where \\(p, q, r\\) and \\(s\\) are integers to be determined. [6]",
+                        "bbox": [
+                            117,
+                            404,
+                            916,
+                            440
+                        ]
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            155,
+                            450,
+                            916,
+                            940
+                        ],
+                        "image": {
+                            "caption": "",
+                            "page": 10
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Show that, at the point of \\(C\\) furthest from the initial line,",
+                        "bbox": [
+                            115,
+                            240,
+                            597,
+                            258
+                        ]
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\theta \\cos \\theta +\\left(\\frac{1}{8}\\theta +1\\right)\\sin \\theta = 0\\]",
+                        "bbox": [
+                            394,
+                            266,
+                            602,
+                            293
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "and verify that this equation has a root between 5 and 5.05.",
+                        "bbox": [
+                            154,
+                            303,
+                            616,
+                            320
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[5]",
+                        "bbox": [
+                            154,
+                            333,
+                            915,
+                            950
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "text": "6 The points \\(A, B, C\\) have position vectors",
+                "bbox": [
+                    80,
+                    72,
+                    435,
+                    88
+                ]
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathbf{i} - 2\\mathbf{k},\\quad \\mathbf{i} + 2\\mathbf{j} + 2\\mathbf{k},\\quad 2\\mathbf{i} - \\mathbf{j} - \\mathbf{k},\\]",
+                "bbox": [
+                    373,
+                    102,
+                    621,
+                    120
+                ]
+            },
+            {
+                "type": "text",
+                "text": "respectively.",
+                "bbox": [
+                    118,
+                    135,
+                    218,
+                    151
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the equation of the plane \\(ABC\\), giving your answer in the form \\(ax + by + cz = d\\). [5]",
+                        "bbox": [
+                            115,
+                            163,
+                            916,
+                            183
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "A point \\(D\\) has position vector \\(\\mathbf{i} + t\\mathbf{k}\\) , where \\(t \\neq - 2\\) .",
+                        "bbox": [
+                            116,
+                            536,
+                            516,
+                            553
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Find the acute angle between the planes \\(ABC\\) and \\(ABD\\). [4]",
+                        "bbox": [
+                            116,
+                            566,
+                            590,
+                            584
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Find the values of \\(t\\) such that the shortest distance between the lines \\(AB\\) and \\(CD\\) is \\(\\sqrt{2}\\). [7]",
+                        "bbox": [
+                            115,
+                            73,
+                            916,
+                            92
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "text": "7 The curve \\(C\\) has equation \\(y = \\frac{2x^2 - 5x}{2x^2 - 7x - 4}\\) .",
+                "bbox": [
+                    80,
+                    75,
+                    459,
+                    107
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the equations of the asymptotes of \\(C\\) . [2]  \n(b) Find the coordinates of any stationary points on \\(C\\) . [4]",
+                        "bbox": [
+                            115,
+                            120,
+                            920,
+                            360
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the coordinates of any stationary points on \\(C\\) . [4]",
+                        "bbox": [
+                            115,
+                            368,
+                            920,
+                            944
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Sketch \\(C\\) , stating the coordinates of the intersections with the axes.",
+                        "bbox": [
+                            117,
+                            72,
+                            675,
+                            88
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "d",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(d) Sketch the curve with equation \\(y = \\left| \\frac{2x^2 - 5x}{2x^2 - 7x - 4} \\right|\\) .",
+                        "bbox": [
+                            117,
+                            555,
+                            550,
+                            592
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "e",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(e) Find in exact form the set of values of \\(x\\) for which \\(\\left| \\frac{2x^2 - 5x}{2x^2 - 7x - 4} \\right| < \\frac{1}{9}\\).",
+                        "bbox": [
+                            117,
+                            75,
+                            916,
+                            110
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

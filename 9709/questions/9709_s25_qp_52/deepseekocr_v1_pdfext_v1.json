@@ -1,0 +1,441 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "text": "1 Rachel has three coins. The first coin is biased so that the probability of obtaining a head when it is thrown is \\(\\frac{1}{3}\\). The second coin is biased so that the probability of obtaining a head when it is thrown is \\(\\frac{14}{4}\\). The third coin is fair.",
+                "bbox": [
+                    80,
+                    72,
+                    917,
+                    120
+                ]
+            },
+            {
+                "type": "text",
+                "text": "Rachel throws the three coins at the same time. The random variable \\(X\\) is the number of **tails** that she obtains.",
+                "bbox": [
+                    117,
+                    134,
+                    917,
+                    165
+                ]
+            },
+            {
+                "type": "text",
+                "text": "Draw up the probability distribution table for \\(X\\).",
+                "bbox": [
+                    117,
+                    179,
+                    491,
+                    195
+                ]
+            },
+            {
+                "type": "text",
+                "text": "[3]",
+                "bbox": [
+                    888,
+                    179,
+                    916,
+                    195
+                ]
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2 In Millford, 70% of the residents own a bicycle. A random sample of 160 residents is selected.",
+                "bbox": [
+                    78,
+                    72,
+                    850,
+                    89
+                ]
+            },
+            {
+                "type": "text",
+                "text": "Use a suitable approximation to find the probability that more than 120 of these residents own a bicycle. [5]",
+                "bbox": [
+                    117,
+                    103,
+                    916,
+                    135
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "text": "3 A bag contains 4 blue marbles and 12 red marbles. One marble is selected at random from the bag. If this marble is blue, it is replaced in the bag, but if it is red, it is not replaced. A second marble is now selected at random from the bag.",
+                "bbox": [
+                    80,
+                    72,
+                    920,
+                    120
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the probability that both marbles selected are the same colour. [2]",
+                        "bbox": [
+                            115,
+                            133,
+                            918,
+                            480
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the probability that the first marble is blue given that the second marble is red. [3]",
+                        "bbox": [
+                            115,
+                            504,
+                            917,
+                            923
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 Vehicles approaching a certain road junction from Bromley must go either left, right or straight on. Over time, it is known that \\(30\\%\\) turn left, \\(25\\%\\) turn right and \\(45\\%\\) go straight on. The driver of each vehicle chooses a direction independently of all other drivers.",
+                "bbox": [
+                    80,
+                    72,
+                    916,
+                    120
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the probability that the next three vehicles approaching this junction from Bromley all go in different directions. [2]",
+                        "bbox": [
+                            115,
+                            133,
+                            916,
+                            385
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the probability that, from the vehicles approaching this junction from Bromley today, the 1st vehicle to go left is before the 9th vehicle. [2]",
+                        "bbox": [
+                            115,
+                            395,
+                            916,
+                            640
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Find the probability that, from the vehicles approaching this junction from Bromley today, the 2nd vehicle to go left is the 7th vehicle. [2]",
+                        "bbox": [
+                            115,
+                            657,
+                            916,
+                            699
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[2]",
+                        "bbox": [
+                            115,
+                            710,
+                            916,
+                            944
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "text": "5 The times taken, \\(t\\) minutes, by 300 students to travel to Hollowton College are recorded. The results are summarised in the table below.",
+                "bbox": [
+                    78,
+                    71,
+                    916,
+                    102
+                ]
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    120,
+                    117,
+                    888,
+                    170
+                ],
+                "table": {
+                    "caption": "",
+                    "html": "\n\n<table><tr><td>Time (t minutes)</td><td>t ≤ 10</td><td>t ≤ 20</td><td>t ≤ 30</td><td>t ≤ 40</td><td>t ≤ 60</td><td>t ≤ 90</td></tr><tr><td>Cumulative frequency</td><td>34</td><td>86</td><td>142</td><td>208</td><td>265</td><td>300</td></tr></table>  \n\n"
+                }
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) On the grid, draw a cumulative frequency graph to illustrate this information.",
+                        "bbox": [
+                            118,
+                            180,
+                            755,
+                            198
+                        ]
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            208,
+                            208,
+                            787,
+                            757
+                        ],
+                        "image": {
+                            "caption": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) 120 students take more than \\(k\\) minutes to travel to college. Use your graph to estimate the value of \\(k\\) . [2]",
+                        "bbox": [
+                            115,
+                            799,
+                            916,
+                            833
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Calculate estimates of the mean and standard deviation of the times taken to travel to college by the 300 students. [6]",
+                        "bbox": [
+                            117,
+                            72,
+                            916,
+                            102
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "6 (a) Find the number of different ways in which the 10 letters in the word AMALGAMATE can be arranged so that there is an M at the beginning, an M at the end and no As are together. [3]",
+                        "bbox": [
+                            78,
+                            70,
+                            916,
+                            105
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the number of different ways in which the 10 letters in the word AMALGAMATE can be arranged with exactly 3 letters between the two Ms. [3]",
+                        "bbox": [
+                            115,
+                            643,
+                            916,
+                            678
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Five letters are selected from the 10 letters in the word AMALGAMATE.",
+                        "bbox": [
+                            156,
+                            90,
+                            914,
+                            354
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "text": "(c) Find the number of different selections in which the five letters include at least one M and at least two As. [3]",
+                "bbox": [
+                    117,
+                    392,
+                    916,
+                    428
+                ]
+            },
+            {
+                "type": "text",
+                "text": "7 Kestrels are birds whose adult wingspans are normally distributed with mean \\(74.8 \\text{cm}\\) and standard deviation \\(3.2 \\text{cm}\\) . A random sample of 120 adult kestrels is selected.",
+                "bbox": [
+                    80,
+                    71,
+                    916,
+                    103
+                ]
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) How many of these 120 adult kestrels would you expect to have wingspan between \\(72.4 \\text{cm}\\) and \\(76.3 \\text{cm}\\) ? [4]",
+                        "bbox": [
+                            115,
+                            117,
+                            916,
+                            152
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The masses of adult kestrels are normally distributed with mean \\(\\mu \\mathrm{kg}\\) and standard deviation \\(\\sigma \\mathrm{kg}\\) . It is known that \\(20\\%\\) of adult kestrels have mass greater than \\(0.202 \\mathrm{kg}\\) and \\(28\\%\\) have mass less than \\(0.185 \\mathrm{kg}\\) .",
+                        "bbox": [
+                            118,
+                            597,
+                            916,
+                            646
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Find the value of \\(\\mu\\) and the value of \\(\\sigma\\) .",
+                        "bbox": [
+                            118,
+                            658,
+                            457,
+                            676
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[5]",
+                        "bbox": [
+                            118,
+                            690,
+                            916,
+                            920
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "10 adult kestrels are selected at random.",
+                        "bbox": [
+                            156,
+                            89,
+                            914,
+                            442
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "(c) Find the probability that fewer than 3 have masses greater than \\(0.202 \\text{kg}\\). [3]",
+                        "bbox": [
+                            118,
+                            465,
+                            916,
+                            483
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "[3]",
+                        "bbox": [
+                            156,
+                            496,
+                            916,
+                            940
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

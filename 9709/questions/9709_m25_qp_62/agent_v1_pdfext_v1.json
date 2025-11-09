@@ -1,0 +1,287 @@
+[
+  {
+    "label": 1,
+    "content": [
+      {
+        "type": "text",
+        "text": "The random variables \\(X\\) and \\(Y\\) have the independent distributions N(44, 16) and N(30, 9) respectively."
+      },
+      {
+        "type": "text",
+        "text": "Find \\(P(X-Y < 15)\\)."
+      }
+    ],
+    "mark": 5,
+    "parts": []
+  },
+  {
+    "label": 2,
+    "content": [
+      {
+        "type": "text",
+        "text": "A researcher records the time, \\(T\\) seconds, taken by adults to complete a questionnaire."
+      },
+      {
+        "type": "text",
+        "text": "The results for a random sample of 60 adults who completed the questionnaire this year are summarised as follows."
+      },
+      {
+        "type": "blockMath",
+        "blockMath": "\\[n = 60 \\qquad \\Sigma t = 3678 \\qquad \\Sigma t^2 = 226313.36\\]"
+      }
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find an unbiased estimate of \\(\\mathrm{E}(T)\\), and show that an unbiased estimate of \\(\\mathrm{Var}(T)\\) is 14.44."
+          }
+        ],
+        "mark": 3
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "In the past, the population mean time was 62.4 seconds."
+          },
+          {
+            "type": "text",
+            "text": "Test at the \\(2\\%\\) significance level whether the population mean time for this year is less than 62.4 seconds."
+          }
+        ],
+        "mark": 5
+      },
+      {
+        "label": "c",
+        "content": [
+          {
+            "type": "text",
+            "text": "State, with a reason, whether it was necessary to use the Central Limit Theorem in your answer to part (b)."
+          }
+        ],
+        "mark": 1
+      }
+    ]
+  },
+  {
+    "label": 3,
+    "content": [
+      {
+        "type": "text",
+        "text": "The random variable \\(X\\) has the distribution \\(\\mathrm{Po}(1.5)\\)."
+      }
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find \\(\\mathrm{P}(X \\ge 3)\\)."
+          }
+        ],
+        "mark": 2
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find the probability that the sum of three independent values of \\(X\\) is between 3 and 5 inclusive."
+          }
+        ],
+        "mark": 3
+      },
+      {
+        "label": "c",
+        "content": [
+          {
+            "type": "text",
+            "text": "The sum of a large number, \\(n\\), of values of \\(X\\) is denoted by \\(T\\). Using a suitable approximation, it was found that \\(\\mathrm{P}(T > 330) = 0.0391\\), correct to 3 significant figures."
+          },
+          {
+            "type": "text",
+            "text": "Find the value of \\(n\\)."
+          }
+        ],
+        "mark": 5
+      }
+    ]
+  },
+  {
+    "label": 4,
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "image",
+            "image": {
+              "bbox": [
+                281,
+                98,
+                714,
+                260
+              ],
+              "index": 0
+            }
+          },
+          {
+            "type": "text",
+            "text": "The diagram shows the graph of the probability density function, f, of a random variable X. The graph is a straight line from (0, a) to (2, b), where a and b are positive constants. Elsewhere, \\(\\mathrm{f}(x) = 0\\)."
+          }
+        ],
+        "parts": [
+          {
+            "label": "i",
+            "content": [
+              {
+                "type": "text",
+                "text": "Show that \\(b = 1 - a\\)."
+              }
+            ],
+            "mark": 2
+          },
+          {
+            "label": "ii",
+            "content": [
+              {
+                "type": "text",
+                "text": "Given that \\(\\mathrm{E}(X) = 1.2\\), find the value of \\(a\\)."
+              }
+            ],
+            "mark": 5
+          }
+        ]
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "A random variable \\(T\\) has probability density function given by"
+          },
+          {
+            "type": "blockMath",
+            "blockMath": "\\[g(t) = \\begin{cases} \\frac{1}{2} \\cos t & -\\frac{1}{2} \\pi \\le t \\le \\frac{1}{2} \\pi, \\\\ 0 & \\text{otherwise.} \\end{cases}\\]"
+          },
+          {
+            "type": "text",
+            "text": "Find the value of \\(c\\) such that \\(P(-c < t < c) = \\frac{1}{2}\\)."
+          }
+        ],
+        "mark": 4
+      }
+    ]
+  },
+  {
+    "label": 5,
+    "content": [
+      {
+        "type": "text",
+        "text": "Amir believes that \\(20\\%\\) of the students at his college are left-handed. His friend believes that the true proportion, \\(p\\), is less than \\(20\\%\\). Amir plans to use the binomial distribution to test the null hypothesis, \\(\\mathrm{H}_0: p = 0.2\\), against the alternative hypothesis, \\(\\mathrm{H}_1: p < 0.2\\)."
+      },
+      {
+        "type": "text",
+        "text": "He decides to choose 35 students at random. If 3 or fewer of these students are left-handed, Amir will reject his belief."
+      }
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "Find the significance level of the test."
+          }
+        ],
+        "mark": 3
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "State the probability of a Type I error."
+          }
+        ],
+        "mark": 1
+      },
+      {
+        "label": "c",
+        "content": [
+          {
+            "type": "text",
+            "text": "It is now given that the true value of \\(p\\) is 0.05."
+          },
+          {
+            "type": "text",
+            "text": "Find the probability of a Type II error."
+          }
+        ],
+        "mark": 3
+      }
+    ]
+  },
+  {
+    "label": 6,
+    "content": [
+      {
+        "type": "text",
+        "text": "Nikki is investigating the views of students at her school about the school sports facilities. She plans to give a survey to a sample of students."
+      },
+      {
+        "type": "text",
+        "text": "Nikki's friend says, \"This survey is about sports facilities, so you should choose a sample of students from the school sports teams.\""
+      }
+    ],
+    "parts": [
+      {
+        "label": "a",
+        "content": [
+          {
+            "type": "text",
+            "text": "State, with a reason, whether you agree with Nikki's friend."
+          }
+        ],
+        "mark": 1
+      },
+      {
+        "label": "b",
+        "content": [
+          {
+            "type": "text",
+            "text": "Nikki chooses an appropriate random sample of 60 students. She finds that 45 of these students think that the sports facilities are good."
+          },
+          {
+            "type": "text",
+            "text": "Calculate an approximate \\(95\\%\\) confidence interval for the proportion of students who think that the sports facilities are good."
+          }
+        ],
+        "mark": 3
+      },
+      {
+        "label": "c",
+        "content": [
+          {
+            "type": "text",
+            "text": "For a different investigation, Nikki uses another large random sample to calculate a 99% confidence interval and an \\(x\\%\\) confidence interval."
+          },
+          {
+            "type": "text",
+            "text": "The width of the 99% confidence interval is double the width of the \\(x\\%\\) confidence interval."
+          },
+          {
+            "type": "text",
+            "text": "Calculate the value of \\(x\\)."
+          }
+        ],
+        "mark": 4
+      }
+    ]
+  }
+]
