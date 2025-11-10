@@ -4,13 +4,25 @@
         "content": [
             {
                 "type": "text",
-                "text": "Jacob throws three coins at the same time.The first coin is biased so that the probability of obtaining a head when it is thrown is \\(\\frac{1}{3}\\) .The second coin is biased so that the probability of obtaining a head when it is thrown is \\(\\frac{1}{4}\\) .The third coin is biased so that the probability of obtaining a head when it is thrown is \\(\\frac{1}{5}\\) . The random variable \\(X\\) is the number of heads obtained.",
+                "text": "Jacob throws three coins at the same time. The first coin is biased so that the probability of obtaining a head when it is thrown is \\(\\frac{1}{3}\\) .",
                 "bbox": [
-                    118,
-                    126,
-                    825,
-                    160
-                ]
+                    48,
+                    60,
+                    266,
+                    72
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "The second coin is biased so that the probability of obtaining a head when it is thrown is \\(\\frac{1}{4}\\) . The third coin is biased so that the probability of obtaining a head when it is thrown is \\(\\frac{1}{5}\\) . The random variable \\(X\\) is the number of heads obtained.",
+                "bbox": [
+                    70,
+                    89,
+                    491,
+                    105
+                ],
+                "page_number": 2
             }
         ],
         "parts": [
@@ -21,11 +33,12 @@
                         "type": "text",
                         "text": "(a) Show that \\(\\mathrm{P}(X = 2) = \\frac{3}{20}\\) .",
                         "bbox": [
-                            118,
-                            170,
-                            358,
-                            195
-                        ]
+                            70,
+                            143,
+                            213,
+                            164
+                        ],
+                        "page_number": 2
                     }
                 ]
             },
@@ -36,21 +49,23 @@
                         "type": "text",
                         "text": "(b) Draw up the probability distribution table for \\(X\\) .",
                         "bbox": [
-                            118,
-                            483,
-                            530,
-                            500
-                        ]
+                            70,
+                            407,
+                            316,
+                            421
+                        ],
+                        "page_number": 2
                     },
                     {
                         "type": "text",
                         "text": "[3]",
                         "bbox": [
-                            118,
-                            512,
-                            916,
-                            930
-                        ]
+                            70,
+                            432,
+                            546,
+                            784
+                        ],
+                        "page_number": 2
                     }
                 ]
             },
@@ -61,21 +76,12 @@
                         "type": "text",
                         "text": "(c) Given that \\(E(X) = \\frac{47}{60}\\), find \\(\\text{Var}(X)\\).",
                         "bbox": [
-                            117,
-                            71,
-                            440,
-                            92
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "[2]",
-                        "bbox": [
-                            888,
-                            74,
-                            916,
-                            92
-                        ]
+                            70,
+                            60,
+                            262,
+                            78
+                        ],
+                        "page_number": 3
                     }
                 ]
             }
@@ -88,21 +94,23 @@
                 "type": "text",
                 "text": "2 Last year, an online store sold a large number of computers. \\(55\\%\\) of the computers were made by company \\(F\\) , \\(30\\%\\) were made by company \\(G\\) and \\(15\\%\\) were made by company \\(H\\) .",
                 "bbox": [
-                    80,
-                    72,
-                    916,
-                    105
-                ]
+                    48,
+                    61,
+                    546,
+                    88
+                ],
+                "page_number": 4
             },
             {
                 "type": "text",
                 "text": "A random sample of 3 customers who each bought a computer from this store is chosen.",
                 "bbox": [
-                    117,
-                    117,
-                    803,
-                    136
-                ]
+                    70,
+                    99,
+                    478,
+                    115
+                ],
+                "page_number": 4
             }
         ],
         "parts": [
@@ -113,11 +121,23 @@
                         "type": "text",
                         "text": "(a) Find the probability that the 3 customers bought computers all made by different companies. [1]",
                         "bbox": [
-                            115,
-                            147,
-                            916,
-                            415
-                        ]
+                            68,
+                            124,
+                            546,
+                            350
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "text": "A random sample of 12 customers who each bought a computer from this store is chosen.",
+                        "bbox": [
+                            70,
+                            360,
+                            484,
+                            376
+                        ],
+                        "page_number": 4
                     }
                 ]
             },
@@ -126,23 +146,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "A random sample of 12 customers who each bought a computer from this store is chosen.",
-                        "bbox": [
-                            117,
-                            427,
-                            813,
-                            446
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(b) Find the probability that fewer than 10 of these customers bought a computer made by company \\(F\\) . [3]",
                         "bbox": [
-                            115,
-                            457,
-                            916,
-                            495
-                        ]
+                            68,
+                            385,
+                            546,
+                            417
+                        ],
+                        "page_number": 4
                     }
                 ]
             },
@@ -153,21 +164,23 @@
                         "type": "text",
                         "text": "A random sample of 140 customers who each bought a computer from this store is chosen.",
                         "bbox": [
-                            118,
-                            72,
-                            821,
-                            88
-                        ]
+                            70,
+                            61,
+                            489,
+                            74
+                        ],
+                        "page_number": 5
                     },
                     {
                         "type": "text",
                         "text": "(c) Use a suitable approximation to find the probability that more than 24 of these customers bought a computer made by company \\(H\\). [5]",
                         "bbox": [
-                            118,
-                            103,
-                            917,
-                            137
-                        ]
+                            70,
+                            87,
+                            546,
+                            115
+                        ],
+                        "page_number": 5
                     }
                 ]
             }
@@ -180,20 +193,22 @@
                 "type": "text",
                 "text": "3 The lengths of 250 leaves of a certain type of plant are measured, correct to the nearest centimetre. The results are summarised in the table below.",
                 "bbox": [
-                    78,
-                    72,
-                    917,
-                    103
-                ]
+                    46,
+                    61,
+                    546,
+                    87
+                ],
+                "page_number": 6
             },
             {
                 "type": "image",
                 "bbox": [
-                    150,
-                    118,
-                    846,
-                    170
+                    89,
+                    99,
+                    504,
+                    143
                 ],
+                "page_number": 6,
                 "table": {
                     "caption": "",
                     "html": "\n\n<table><tr><td>Length (cm)</td><td>5-9</td><td>10-14</td><td>15-19</td><td>20-24</td><td>25-29</td><td>30-39</td></tr><tr><td>Frequency</td><td>18</td><td>28</td><td>60</td><td>72</td><td>48</td><td>24</td></tr></table>  \n\n"
@@ -208,20 +223,22 @@
                         "type": "text",
                         "text": "(a) On the grid below, draw a cumulative frequency graph to illustrate this information.",
                         "bbox": [
-                            115,
-                            199,
-                            808,
-                            216
-                        ]
+                            68,
+                            168,
+                            481,
+                            182
+                        ],
+                        "page_number": 6
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            256,
-                            228,
-                            740,
-                            704
+                            152,
+                            192,
+                            441,
+                            593
                         ],
+                        "page_number": 6,
                         "image": {
                             "caption": "",
                             "page": 6
@@ -236,21 +253,23 @@
                         "type": "text",
                         "text": "(b) 38% of these leaves are of length \\(k\\) cm or more.",
                         "bbox": [
-                            117,
-                            72,
-                            526,
-                            88
-                        ]
+                            70,
+                            61,
+                            313,
+                            74
+                        ],
+                        "page_number": 7
                     },
                     {
                         "type": "text",
                         "text": "Use your graph to find an estimate for \\(k\\). [2]",
                         "bbox": [
-                            157,
-                            103,
-                            916,
-                            120
-                        ]
+                            94,
+                            87,
+                            546,
+                            101
+                        ],
+                        "page_number": 7
                     }
                 ]
             },
@@ -261,11 +280,12 @@
                         "type": "text",
                         "text": "(c) Calculate an estimate for the mean length of these 250 leaves. [3]",
                         "bbox": [
-                            117,
-                            258,
-                            916,
-                            275
-                        ]
+                            70,
+                            217,
+                            546,
+                            232
+                        ],
+                        "page_number": 7
                     }
                 ]
             }
@@ -278,11 +298,12 @@
                 "type": "text",
                 "text": "4 Eddie has 16 toy cars, of which 8 are white, 5 are black and 3 are silver. He places all the cars in a bag and selects three of them at random, without replacement.",
                 "bbox": [
-                    80,
-                    71,
-                    917,
-                    103
-                ]
+                    48,
+                    60,
+                    546,
+                    87
+                ],
+                "page_number": 8
             }
         ],
         "parts": [
@@ -293,11 +314,12 @@
                         "type": "text",
                         "text": "(a) Find the probability that all three cars are the same colour.",
                         "bbox": [
-                            117,
-                            117,
-                            917,
-                            135
-                        ]
+                            70,
+                            99,
+                            546,
+                            114
+                        ],
+                        "page_number": 8
                     }
                 ]
             },
@@ -307,11 +329,12 @@
                     {
                         "type": "image",
                         "bbox": [
-                            111,
-                            31,
-                            415,
-                            66
+                            66,
+                            26,
+                            247,
+                            56
                         ],
+                        "page_number": 9,
                         "image": {
                             "caption": "",
                             "page": 9
@@ -321,20 +344,22 @@
                         "type": "text",
                         "text": "(b) Find the probability that, when the 3 cars are selected, at least one car is white and at least one car is black. [4]",
                         "bbox": [
-                            117,
-                            72,
-                            916,
-                            103
-                        ]
+                            70,
+                            61,
+                            546,
+                            87
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            157,
-                            120,
-                            916,
-                            950
+                            94,
+                            101,
+                            546,
+                            801
                         ],
+                        "page_number": 9,
                         "image": {
                             "caption": "",
                             "page": 9
@@ -351,11 +376,12 @@
                 "type": "text",
                 "text": "5 The mass of peaches sold per day in a supermarket is normally distributed with mean 65.8 kg and standard deviation 9.6 kg.",
                 "bbox": [
-                    78,
-                    72,
-                    917,
-                    104
-                ]
+                    46,
+                    61,
+                    546,
+                    88
+                ],
+                "page_number": 10
             }
         ],
         "parts": [
@@ -366,11 +392,12 @@
                         "type": "text",
                         "text": "(a) Find the probability that the mass of peaches sold on any given day is between 56 kg and 75 kg. [3]",
                         "bbox": [
-                            117,
-                            118,
-                            916,
-                            152
-                        ]
+                            70,
+                            99,
+                            546,
+                            128
+                        ],
+                        "page_number": 10
                     }
                 ]
             },
@@ -381,21 +408,34 @@
                         "type": "text",
                         "text": "The mass of cherries sold per day in a supermarket is normally distributed with mean \\(72.4 \\mathrm{kg}\\) and standard deviation \\(\\sigma \\mathrm{kg}\\) . It is known that on \\(10\\%\\) of days less than \\(59.1 \\mathrm{kg}\\) of cherries are sold.",
                         "bbox": [
-                            117,
-                            72,
-                            916,
-                            105
-                        ]
+                            70,
+                            61,
+                            546,
+                            88
+                        ],
+                        "page_number": 11
                     },
                     {
                         "type": "text",
                         "text": "(b) Find the value of \\(\\sigma\\) . [3]",
                         "bbox": [
-                            117,
-                            118,
-                            916,
-                            476
-                        ]
+                            70,
+                            99,
+                            546,
+                            401
+                        ],
+                        "page_number": 11
+                    },
+                    {
+                        "type": "text",
+                        "text": "The supermarket is open 7 days a week.",
+                        "bbox": [
+                            70,
+                            411,
+                            256,
+                            426
+                        ],
+                        "page_number": 11
                     }
                 ]
             },
@@ -404,23 +444,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "The supermarket is open 7 days a week.",
-                        "bbox": [
-                            118,
-                            488,
-                            430,
-                            505
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(c) Find the probability that, in a randomly chosen week, the first day on which less than \\(59.1 \\mathrm{kg}\\) of cherries are sold is the fifth day of the week. [1]",
                         "bbox": [
-                            117,
-                            518,
-                            916,
-                            552
-                        ]
+                            70,
+                            437,
+                            546,
+                            465
+                        ],
+                        "page_number": 11
                     }
                 ]
             },
@@ -431,11 +462,12 @@
                         "type": "text",
                         "text": "(d) Find the probability that, in a randomly chosen week, the first day on which less than \\(59.1 \\mathrm{kg}\\) of cherries are sold is before the fifth day of the week. [2]",
                         "bbox": [
-                            117,
-                            656,
-                            916,
-                            690
-                        ]
+                            70,
+                            553,
+                            546,
+                            582
+                        ],
+                        "page_number": 11
                     }
                 ]
             }
@@ -448,21 +480,23 @@
                 "type": "text",
                 "text": "6 Alissa has 10 different books from the series Squares and Circles. The books look similar except for their colour. There are 3 blue books, 2 red books, 2 yellow books, 1 orange book, 1 purple book and 1 green book.",
                 "bbox": [
-                    80,
-                    72,
-                    917,
-                    119
-                ]
+                    48,
+                    61,
+                    546,
+                    100
+                ],
+                "page_number": 12
             },
             {
                 "type": "text",
                 "text": "Alissa places the books in a row on her shelf. She is only interested in the arrangement of the colours.",
                 "bbox": [
-                    115,
-                    133,
-                    907,
-                    151
-                ]
+                    68,
+                    112,
+                    540,
+                    127
+                ],
+                "page_number": 12
             }
         ],
         "parts": [
@@ -473,11 +507,12 @@
                         "type": "text",
                         "text": "(a) How many different colour arrangements are there of the 10 books? [1]",
                         "bbox": [
-                            115,
-                            164,
-                            917,
-                            184
-                        ]
+                            68,
+                            138,
+                            546,
+                            155
+                        ],
+                        "page_number": 12
                     }
                 ]
             },
@@ -488,11 +523,12 @@
                         "type": "text",
                         "text": "(b) How many different colour arrangements are there of the 10 books in which the 3 blue books are together, but the 2 yellow books are not next to each other? [2]",
                         "bbox": [
-                            115,
-                            443,
-                            917,
-                            479
-                        ]
+                            68,
+                            373,
+                            546,
+                            404
+                        ],
+                        "page_number": 12
                     }
                 ]
             },
@@ -503,21 +539,23 @@
                         "type": "text",
                         "text": "(c) How many different colour arrangements are there of the 10 books with exactly 4 books between the 2 yellow books? [3]",
                         "bbox": [
-                            118,
-                            72,
-                            916,
-                            105
-                        ]
+                            70,
+                            61,
+                            546,
+                            88
+                        ],
+                        "page_number": 13
                     },
                     {
                         "type": "text",
                         "text": "Alissa selects 4 books from her 10 different books from the series Squares and Circles.",
                         "bbox": [
-                            156,
-                            120,
-                            915,
-                            415
-                        ]
+                            93,
+                            101,
+                            545,
+                            350
+                        ],
+                        "page_number": 13
                     }
                 ]
             },
@@ -528,11 +566,12 @@
                         "type": "text",
                         "text": "(d) Find the number of different selections if the 4 books include at least 1 red book, at most 1 blue book and exactly 1 yellow book. [4]",
                         "bbox": [
-                            118,
-                            453,
-                            916,
-                            488
-                        ]
+                            70,
+                            382,
+                            546,
+                            411
+                        ],
+                        "page_number": 13
                     }
                 ]
             }

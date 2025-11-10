@@ -6,21 +6,12 @@
                 "type": "text",
                 "text": "1 Solve the equation \\(\\ln(3x+1) - \\ln(x-5) = \\ln 7\\).",
                 "bbox": [
-                    80,
-                    72,
-                    490,
-                    88
-                ]
-            },
-            {
-                "type": "text",
-                "text": "[3]",
-                "bbox": [
-                    888,
-                    70,
-                    916,
-                    88
-                ]
+                    48,
+                    61,
+                    292,
+                    74
+                ],
+                "page_number": 2
             }
         ]
     },
@@ -31,11 +22,12 @@
                 "type": "text",
                 "text": "2 A curve passes through the point with coordinates \\(\\left(\\frac{1}{2}\\pi, 5\\right)\\) and is such that \\(\\frac{\\mathrm{d}y}{\\mathrm{d}x} = 4 \\sec^2\\left(\\frac{1}{2}x\\right)\\). Find the equation of the curve. [3]",
                 "bbox": [
-                    78,
-                    74,
-                    833,
-                    130
-                ]
+                    46,
+                    62,
+                    496,
+                    110
+                ],
+                "page_number": 3
             }
         ]
     },
@@ -45,14 +37,27 @@
             {
                 "type": "image",
                 "bbox": [
-                    369,
-                    90,
-                    628,
-                    260
+                    220,
+                    76,
+                    374,
+                    219
                 ],
+                "page_number": 4,
                 "image": {
-                    "caption": ""
+                    "caption": "",
+                    "page": 4
                 }
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curves \\(y = \\mathrm{e}^{2x}\\) and \\(y = 8\\mathrm{e}^{- x}\\) . The shaded region is bounded by the two curves and the \\(y\\) - axis.",
+                "bbox": [
+                    70,
+                    233,
+                    546,
+                    261
+                ],
+                "page_number": 4
             }
         ],
         "parts": [
@@ -61,23 +66,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "The diagram shows the curves \\(y = \\mathrm{e}^{2x}\\) and \\(y = 8\\mathrm{e}^{- x}\\) . The shaded region is bounded by the two curves and the \\(y\\) - axis.",
-                        "bbox": [
-                            118,
-                            277,
-                            916,
-                            310
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(a) Show that the \\(x\\) -coordinate of the point of intersection of the two curves is \\(\\ln 2\\) . [2]",
                         "bbox": [
-                            118,
-                            323,
-                            916,
-                            342
-                        ]
+                            70,
+                            272,
+                            546,
+                            288
+                        ],
+                        "page_number": 4
                     }
                 ]
             },
@@ -88,11 +84,12 @@
                         "type": "text",
                         "text": "(b) Find the area of the shaded region. [3]",
                         "bbox": [
-                            118,
-                            570,
-                            916,
-                            589
-                        ]
+                            70,
+                            480,
+                            546,
+                            496
+                        ],
+                        "page_number": 4
                     }
                 ]
             }
@@ -105,11 +102,12 @@
                 "type": "text",
                 "text": "4 A curve has equation \\(y = \\frac{4 \\sin x}{3 + \\cos 2x}\\) for values of \\(x\\) such that \\(0 \\leq x \\leq 2\\pi\\).",
                 "bbox": [
-                    78,
-                    73,
-                    696,
-                    103
-                ]
+                    46,
+                    62,
+                    415,
+                    87
+                ],
+                "page_number": 5
             }
         ],
         "parts": [
@@ -120,11 +118,12 @@
                         "type": "text",
                         "text": "(a) Find \\(\\frac{dy}{dx}\\). [2]",
                         "bbox": [
-                            117,
-                            118,
-                            916,
-                            303
-                        ]
+                            70,
+                            99,
+                            546,
+                            255
+                        ],
+                        "page_number": 5
                     }
                 ]
             },
@@ -135,21 +134,23 @@
                         "type": "text",
                         "text": "(b) Hence find the coordinates of the stationary points of the curve. [4]",
                         "bbox": [
-                            117,
-                            310,
-                            916,
-                            331
-                        ]
+                            70,
+                            261,
+                            546,
+                            279
+                        ],
+                        "page_number": 5
                     },
                     {
                         "type": "text",
                         "text": "[4]",
                         "bbox": [
-                            117,
-                            345,
-                            916,
-                            920
-                        ]
+                            70,
+                            291,
+                            546,
+                            775
+                        ],
+                        "page_number": 5
                     }
                 ]
             }
@@ -166,11 +167,12 @@
                         "type": "text",
                         "text": "5 (a) Sketch on the same diagram the graphs of \\(y = |2x - 3|\\) and \\(y = \\ln (x + 1)\\) .",
                         "bbox": [
-                            78,
-                            73,
-                            725,
-                            93
-                        ]
+                            46,
+                            62,
+                            432,
+                            78
+                        ],
+                        "page_number": 6
                     }
                 ]
             },
@@ -181,21 +183,23 @@
                         "type": "text",
                         "text": "The \\(x\\) - coordinates of the points where the graphs intersect are denoted by \\(\\alpha\\) and \\(\\beta\\) , where \\(\\alpha < \\beta\\) .",
                         "bbox": [
-                            118,
-                            323,
-                            861,
-                            343
-                        ]
+                            70,
+                            272,
+                            513,
+                            289
+                        ],
+                        "page_number": 6
                     },
                     {
                         "type": "text",
                         "text": "(b) Show that \\(\\alpha = 1.5 - 0.5\\ln (\\alpha +1)\\) .",
                         "bbox": [
-                            118,
-                            353,
-                            422,
-                            372
-                        ]
+                            70,
+                            298,
+                            251,
+                            314
+                        ],
+                        "page_number": 6
                     }
                 ]
             },
@@ -206,11 +210,12 @@
                         "type": "text",
                         "text": "(c) Use an iterative formula, based on the equation in part (b), to find the value of \\(\\alpha\\) correct to 3 significant figures. Give the result of each iteration to 5 significant figures.",
                         "bbox": [
-                            118,
-                            475,
-                            914,
-                            510
-                        ]
+                            70,
+                            400,
+                            544,
+                            430
+                        ],
+                        "page_number": 6
                     }
                 ]
             },
@@ -221,51 +226,78 @@
                         "type": "text",
                         "text": "(d) Show by calculation that \\(2.055 < \\beta < 2.065\\) .",
                         "bbox": [
-                            118,
-                            711,
-                            914,
-                            728
-                        ]
+                            70,
+                            599,
+                            544,
+                            614
+                        ],
+                        "page_number": 6
                     },
                     {
                         "type": "text",
                         "text": "[2]",
                         "bbox": [
-                            118,
-                            740,
-                            914,
-                            757
-                        ]
+                            70,
+                            624,
+                            544,
+                            638
+                        ],
+                        "page_number": 6
                     },
                     {
                         "type": "text",
                         "text": "[2]",
                         "bbox": [
-                            118,
-                            769,
-                            914,
-                            785
-                        ]
+                            70,
+                            648,
+                            544,
+                            662
+                        ],
+                        "page_number": 6
                     },
                     {
                         "type": "text",
                         "text": "[2]",
                         "bbox": [
-                            118,
-                            797,
-                            914,
-                            813
-                        ]
+                            70,
+                            672,
+                            544,
+                            685
+                        ],
+                        "page_number": 6
                     },
                     {
                         "type": "text",
                         "text": "[2]",
                         "bbox": [
-                            118,
-                            825,
-                            914,
-                            841
-                        ]
+                            70,
+                            695,
+                            544,
+                            709
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "text",
+                        "text": "[2]",
+                        "bbox": [
+                            70,
+                            719,
+                            544,
+                            732
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "text",
+                        "text": "[2]",
+                        "bbox": [
+                            70,
+                            743,
+                            544,
+                            756
+                        ],
+                        "page_number": 6
                     }
                 ]
             }
@@ -282,11 +314,12 @@
                         "type": "text",
                         "text": "6 (a) Find the quotient and remainder when \\(18x^3 - 6x^2 - 30x + 4\\) is divided by \\((3x - 1)\\). [3]",
                         "bbox": [
-                            78,
-                            72,
-                            916,
-                            95
-                        ]
+                            46,
+                            61,
+                            546,
+                            80
+                        ],
+                        "page_number": 7
                     }
                 ]
             },
@@ -297,11 +330,12 @@
                         "type": "text",
                         "text": "(b) Hence find \\(\\int_{1}^{5} \\frac{18x^3 - 6x^2 - 30x + 4}{3x - 1} \\, dx\\). Give your answer in the form \\(a - \\ln b\\), where \\(a\\) and \\(b\\) are integers. [5]",
                         "bbox": [
-                            117,
-                            285,
-                            916,
-                            338
-                        ]
+                            70,
+                            240,
+                            546,
+                            285
+                        ],
+                        "page_number": 7
                     }
                 ]
             }
@@ -318,11 +352,12 @@
                         "type": "text",
                         "text": "7 (a) Express \\(6 \\sin \\theta - 4 \\cos \\theta\\) in the form \\(R \\sin (\\theta - \\alpha)\\), where \\(R > 0\\) and \\(0^\\circ < \\alpha < 90^\\circ\\). Give the exact value of \\(R\\) and the value of \\(\\alpha\\) correct to 2 decimal places. [3]",
                         "bbox": [
-                            80,
-                            72,
-                            919,
-                            106
-                        ]
+                            48,
+                            61,
+                            547,
+                            89
+                        ],
+                        "page_number": 8
                     }
                 ]
             },
@@ -333,11 +368,12 @@
                         "type": "text",
                         "text": "(b) Hence solve the equation \\(6 \\sin \\theta - 4 \\cos \\theta + 5 = 0\\) for \\(0^\\circ < \\theta < 360^\\circ\\). [4]",
                         "bbox": [
-                            117,
-                            72,
-                            916,
-                            90
-                        ]
+                            70,
+                            61,
+                            546,
+                            76
+                        ],
+                        "page_number": 9
                     }
                 ]
             },
@@ -348,31 +384,34 @@
                         "type": "text",
                         "text": "(c) As the value of \\(\\beta\\) varies, find the greatest possible value of",
                         "bbox": [
-                            155,
-                            444,
-                            616,
-                            461
-                        ]
+                            92,
+                            374,
+                            367,
+                            389
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[(3\\sin 4\\beta -2\\cos 4\\beta)^2 +15\\]",
                         "bbox": [
-                            395,
-                            472,
-                            600,
-                            492
-                        ]
+                            235,
+                            398,
+                            357,
+                            415
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "text",
                         "text": "and determine the smallest positive value of \\(\\beta\\) , in degrees, for which this greatest value occurs. [3]",
                         "bbox": [
-                            155,
-                            504,
-                            916,
-                            538
-                        ]
+                            92,
+                            425,
+                            546,
+                            453
+                        ],
+                        "page_number": 9
                     }
                 ]
             }
@@ -385,11 +424,12 @@
                 "type": "text",
                 "text": "8 A curve has equation \\(3e^{2x}y + 4e^{3x} + y^3 = 18\\).",
                 "bbox": [
-                    78,
-                    73,
-                    465,
-                    94
-                ]
+                    46,
+                    62,
+                    277,
+                    79
+                ],
+                "page_number": 10
             }
         ],
         "parts": [
@@ -400,11 +440,12 @@
                         "type": "text",
                         "text": "(a) Show that \\(\\frac{dy}{dx} = \\frac{-2e^{2x}y - 4e^{3x}}{e^{2x} + y^2}\\).",
                         "bbox": [
-                            117,
-                            110,
-                            920,
-                            150
-                        ]
+                            70,
+                            93,
+                            548,
+                            126
+                        ],
+                        "page_number": 10
                     }
                 ]
             },
@@ -415,21 +456,12 @@
                         "type": "text",
                         "text": "(b) Show that the curve has no stationary points.",
                         "bbox": [
-                            117,
-                            72,
-                            505,
-                            87
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "[3]",
-                        "bbox": [
-                            888,
                             70,
-                            916,
-                            88
-                        ]
+                            61,
+                            301,
+                            73
+                        ],
+                        "page_number": 11
                     }
                 ]
             }

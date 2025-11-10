@@ -1,0 +1,663 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "text": "The manager of a hardware store is interested in whether there is a difference in the amount spent per customer on weekdays ( \\(\\mathbb{S}x\\) ) compared to weekends ( \\(\\mathbb{S}y\\) ). Random samples of 120 customers on weekdays and 80 customers on weekends are taken and the amount spent by each customer is recorded. The results are summarised as follows.",
+                "bbox": [
+                    48,
+                    61,
+                    547,
+                    114
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\Sigma x = 10470\\qquad \\Sigma (x - \\overline{x})^2 = 12283\\qquad \\Sigma y = 6560\\qquad \\Sigma (y - \\overline{y})^2 = 13520\\]",
+                "bbox": [
+                    110,
+                    124,
+                    506,
+                    141
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "text",
+                "text": "Test at the \\(1\\%\\) significance level whether there is a difference in the mean amount spent per customer on weekdays compared to weekends. You should not assume that the population variances of the amounts spent on weekdays and weekends are equal. [7]",
+                "bbox": [
+                    70,
+                    152,
+                    546,
+                    194
+                ],
+                "page_number": 3
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    172,
+                    71,
+                    421,
+                    208
+                ],
+                "page_number": 4,
+                "image": {
+                    "caption": "",
+                    "page": 4
+                }
+            },
+            {
+                "type": "text",
+                "text": "As shown in the diagram, the continuous random variable \\(X\\) has probability density function \\(f\\) given by",
+                "bbox": [
+                    70,
+                    220,
+                    546,
+                    236
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "",
+                "bbox": [
+                    226,
+                    244,
+                    367,
+                    291
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "text",
+                "text": "where \\(a, b\\) and \\(c\\) are constants.",
+                "bbox": [
+                    70,
+                    299,
+                    213,
+                    313
+                ],
+                "page_number": 4
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Show that \\(a = \\frac{2}{13}\\) and find the values of \\(b\\) and \\(c\\) .",
+                        "bbox": [
+                            70,
+                            320,
+                            317,
+                            340
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            91,
+                            357,
+                            546,
+                            792
+                        ],
+                        "page_number": 4,
+                        "image": {
+                            "caption": "",
+                            "page": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the mean of \\(X\\). [3]",
+                        "bbox": [
+                            70,
+                            61,
+                            546,
+                            232
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Find the median of \\(X\\). [2]",
+                        "bbox": [
+                            70,
+                            239,
+                            546,
+                            384
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            },
+            {
+                "label": "(d)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The random variable \\(Y\\) is defined by \\(Y = X^2\\). [4] (d) Find the cumulative distribution function for \\(Y\\). [4]",
+                        "bbox": [
+                            70,
+                            394,
+                            548,
+                            801
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    34,
+                    27,
+                    245,
+                    56
+                ],
+                "page_number": 6,
+                "image": {
+                    "caption": "",
+                    "page": 6
+                }
+            },
+            {
+                "type": "text",
+                "text": "3 Eggs in a supermarket are sold in boxes of six. A supermarket manager wishes to model the number of broken eggs in the boxes sold in the store. A random sample of 2000 boxes is taken and the number of broken eggs recorded. The observed frequencies are shown in the table below.",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    99
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    71,
+                    115,
+                    547,
+                    160
+                ],
+                "page_number": 6,
+                "table": {
+                    "caption": "",
+                    "html": "\n\n<table><tr><td>Number of broken eggs</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>Observed frequency</td><td>1844</td><td>143</td><td>11</td><td>0</td><td>1</td><td>0</td><td>1</td></tr></table>\n\n"
+                }
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Use the data to estimate the probability that an egg is broken. Give your answer correct to 4 significant figures. [1]",
+                        "bbox": [
+                            70,
+                            174,
+                            547,
+                            198
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            94,
+                            211,
+                            545,
+                            357
+                        ],
+                        "page_number": 6,
+                        "table": {
+                            "caption": "",
+                            "html": "\n\n<table><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td><td></td></tr></table>\n\n"
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "It is decided to carry out a goodness of fit test at the 0.5% significance level to determine whether a binomial distribution fits the data.",
+                        "bbox": [
+                            70,
+                            368,
+                            547,
+                            393
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "text",
+                        "text": "The observed frequencies and the expected frequencies are given in the following table.",
+                        "bbox": [
+                            70,
+                            407,
+                            476,
+                            420
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            71,
+                            432,
+                            547,
+                            501
+                        ],
+                        "page_number": 6,
+                        "table": {
+                            "caption": "",
+                            "html": "\n\n<table><tr><td>Number of broken eggs</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>Observed frequency</td><td>1844</td><td>143</td><td>11</td><td>0</td><td>1</td><td>0</td><td>1</td></tr><tr><td>Expected frequency</td><td>1831.3</td><td>a</td><td>6.016</td><td>0.119</td><td>0.001</td><td>0.000</td><td>0.000</td></tr></table>\n\n"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Show that \\(a=162.6\\)  correct to 1 decimal place. [1]",
+                        "bbox": [
+                            70,
+                            515,
+                            547,
+                            527
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            94,
+                            539,
+                            545,
+                            784
+                        ],
+                        "page_number": 6,
+                        "table": {
+                            "caption": "",
+                            "html": "\n\n<table><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "image",
+                        "bbox": [
+                            66,
+                            27,
+                            247,
+                            56
+                        ],
+                        "page_number": 7,
+                        "image": {
+                            "caption": "",
+                            "page": 7
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "(c) Carry out a goodness of fit test at the \\(0.5\\%\\) level of significance to test whether a binomial distribution is a satisfactory model for the data. [5]",
+                        "bbox": [
+                            68,
+                            59,
+                            546,
+                            87
+                        ],
+                        "page_number": 7
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            91,
+                            97,
+                            546,
+                            691
+                        ],
+                        "page_number": 7,
+                        "image": {
+                            "caption": "",
+                            "page": 7
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "(d)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(d) Give a reason why a binomial distribution may not be a suitable model in this situation. [1]",
+                        "bbox": [
+                            68,
+                            698,
+                            546,
+                            719
+                        ],
+                        "page_number": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 A researcher is interested in whether there is a difference between two schools in students' aptitude for English. She randomly chooses 10 students from school \\(X\\) and 8 students of a similar age from school \\(Y\\) to take a written English test. The scores for the students from school \\(X\\) (x) and school \\(Y\\) (y) are summarised as follows.",
+                "bbox": [
+                    48,
+                    60,
+                    546,
+                    114
+                ],
+                "page_number": 8
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\Sigma x = 612\\qquad \\Sigma x^2 = 40104\\qquad \\Sigma y = 444\\qquad \\Sigma y^2 = 27460\\]",
+                "bbox": [
+                    142,
+                    124,
+                    473,
+                    142
+                ],
+                "page_number": 8
+            },
+            {
+                "type": "text",
+                "text": "You should assume that the two distributions are normal and have the same population variance.",
+                "bbox": [
+                    70,
+                    152,
+                    515,
+                    168
+                ],
+                "page_number": 8
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find a \\(95\\%\\) confidence interval for the difference in the mean scores for students from school \\(X\\) and students from school \\(Y\\) in the written English test. [6]",
+                        "bbox": [
+                            70,
+                            177,
+                            546,
+                            206
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "image",
+                        "bbox": [
+                            91,
+                            76,
+                            545,
+                            668
+                        ],
+                        "page_number": 9,
+                        "image": {
+                            "caption": "",
+                            "page": 9
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Use the confidence interval you found in part (a) to explain why there is insufficient evidence at a \\(5\\%\\) significance level to suggest that the English scores of students from school \\(X\\) and students from school \\(Y\\) are different. [1]",
+                        "bbox": [
+                            70,
+                            673,
+                            546,
+                            713
+                        ],
+                        "page_number": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "text": "Two jigsaw puzzles have the same number of pieces with identical shapes but have different pictures printed on them. One puzzle has a seaside picture and the other has a cartoon picture. A researcher believes that children will complete the cartoon puzzle more quickly. To test this belief, 10 children are randomly selected. The time taken in seconds for each child to complete each puzzle is recorded below.",
+                "bbox": [
+                    48,
+                    61,
+                    547,
+                    115
+                ],
+                "page_number": 10
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    70,
+                    126,
+                    545,
+                    197
+                ],
+                "page_number": 10,
+                "table": {
+                    "caption": "",
+                    "html": "\n\n<table><tr><td>Child</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td><td>J</td></tr><tr><td>Seaside</td><td>182</td><td>130</td><td>193</td><td>181</td><td>192</td><td>204</td><td>184</td><td>192</td><td>180</td><td>189</td></tr><tr><td>Cartoon</td><td>161</td><td>111</td><td>195</td><td>159</td><td>202</td><td>200</td><td>168</td><td>165</td><td>145</td><td>160</td></tr></table>  \n\n"
+                }
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Carry out a Wilcoxon matched-pairs signed-rank test at the \\(5\\%\\) significance level to test the researcher's belief. [6]",
+                        "bbox": [
+                            70,
+                            206,
+                            546,
+                            235
+                        ],
+                        "page_number": 10
+                    },
+                    {
+                        "type": "text",
+                        "text": "......  ......  ......  ......  ......  ......  ......  ......  ......  ......  ......  ......\n\n......  ......  ......  ......  ......  ......  ......  ......  ......  ......",
+                        "bbox": [
+                            92,
+                            244,
+                            546,
+                            784
+                        ],
+                        "page_number": 10
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Show that using a paired-sample sign test at the 5% significance level would result in the opposite conclusion to that found in part (a). [3]",
+                        "bbox": [
+                            70,
+                            59,
+                            546,
+                            87
+                        ],
+                        "page_number": 11
+                    },
+                    {
+                        "type": "text",
+                        "text": "It was later discovered that the experiment had been conducted such that each child completed the seaside puzzle first followed by the cartoon puzzle.",
+                        "bbox": [
+                            91,
+                            101,
+                            546,
+                            641
+                        ],
+                        "page_number": 11
+                    },
+                    {
+                        "type": "text",
+                        "text": "(c) Comment on the validity of using this experiment to test the researcher's belief. [1]",
+                        "bbox": [
+                            70,
+                            665,
+                            546,
+                            695
+                        ],
+                        "page_number": 11
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": []
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "text": "6 \\(Y\\) is a discrete random variable which takes the values 0, 2, 4, ... . The probability generating function of \\(Y\\) is given by",
+                "bbox": [
+                    46,
+                    60,
+                    546,
+                    88
+                ],
+                "page_number": 12
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{G}_Y(t) = \\frac{k}{1 - at^2}.\\]",
+                "bbox": [
+                    256,
+                    93,
+                    337,
+                    122
+                ],
+                "page_number": 12
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find \\(k\\) in terms of \\(a\\) . [1]",
+                        "bbox": [
+                            70,
+                            128,
+                            546,
+                            303
+                        ],
+                        "page_number": 12
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Show that \\(\\mathrm{P}(Y > 2) = a^2\\) . [3]",
+                        "bbox": [
+                            70,
+                            308,
+                            546,
+                            796
+                        ],
+                        "page_number": 12
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "image",
+                        "bbox": [
+                            64,
+                            26,
+                            246,
+                            56
+                        ],
+                        "page_number": 13,
+                        "image": {
+                            "caption": "",
+                            "page": 13
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "It is now given that \\(a = 0.2\\).",
+                        "bbox": [
+                            70,
+                            62,
+                            205,
+                            76
+                        ],
+                        "page_number": 13
+                    },
+                    {
+                        "type": "text",
+                        "text": "(c) Find the value of \\(E(Y)\\). [2]",
+                        "bbox": [
+                            70,
+                            88,
+                            204,
+                            103
+                        ],
+                        "page_number": 13
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -5,11 +5,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    55,
                     33,
-                    413,
-                    64
+                    28,
+                    246,
+                    54
                 ],
+                "page_number": 3,
                 "image": {
                     "caption": "",
                     "page": 3
@@ -19,34 +20,12 @@
                 "type": "text",
                 "text": "1 Solve the inequality \\(|5x + 2| \\geq 3\\).",
                 "bbox": [
-                    80,
-                    77,
-                    388,
-                    95
-                ]
-            },
-            {
-                "type": "image",
-                "bbox": [
-                    890,
-                    31,
-                    941,
-                    64
+                    48,
+                    65,
+                    231,
+                    80
                 ],
-                "image": {
-                    "caption": "",
-                    "page": 3
-                }
-            },
-            {
-                "type": "text",
-                "text": "[4]",
-                "bbox": [
-                    890,
-                    74,
-                    917,
-                    92
-                ]
+                "page_number": 3
             }
         ]
     },
@@ -57,21 +36,23 @@
                 "type": "text",
                 "text": "2 In this question, all lengths are in metres and time is in seconds.",
                 "bbox": [
-                    80,
-                    72,
-                    614,
-                    88
-                ]
+                    48,
+                    61,
+                    366,
+                    74
+                ],
+                "page_number": 4
             },
             {
                 "type": "text",
                 "text": "A particle \\(P\\) moves in a straight line such that its displacement \\(s\\) from a fixed point \\(O\\) at time \\(t\\) is given by \\(s = (t - 4)^2 (t - 1)\\) for \\(t \\geq 0\\) .",
                 "bbox": [
-                    115,
-                    102,
-                    916,
-                    135
-                ]
+                    68,
+                    86,
+                    546,
+                    114
+                ],
+                "page_number": 4
             }
         ],
         "parts": [
@@ -82,20 +63,22 @@
                         "type": "text",
                         "text": "(a) On the axes, sketch the displacement–time graph of \\(P\\) , stating the intercepts with the axes. [2]",
                         "bbox": [
-                            115,
-                            149,
-                            916,
-                            168
-                        ]
+                            68,
+                            126,
+                            546,
+                            142
+                        ],
+                        "page_number": 4
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            100,
-                            184,
-                            900,
-                            523
+                            60,
+                            155,
+                            536,
+                            441
                         ],
+                        "page_number": 4,
                         "image": {
                             "caption": "",
                             "page": 4
@@ -110,11 +93,12 @@
                         "type": "text",
                         "text": "(b) Find an expression for the velocity, \\(v\\) , of \\(P\\) . Give your answer in a factorised form. [2]",
                         "bbox": [
-                            117,
-                            539,
-                            491,
-                            572
-                        ]
+                            70,
+                            454,
+                            292,
+                            482
+                        ],
+                        "page_number": 4
                     }
                 ]
             },
@@ -125,20 +109,22 @@
                         "type": "text",
                         "text": "(c) On the axes, sketch the velocity–time graph of \\(P\\) , stating the intercepts with the axes. [2]",
                         "bbox": [
-                            115,
-                            72,
-                            816,
-                            88
-                        ]
+                            68,
+                            61,
+                            486,
+                            74
+                        ],
+                        "page_number": 5
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            100,
-                            106,
-                            905,
-                            425
+                            60,
+                            89,
+                            539,
+                            358
                         ],
+                        "page_number": 5,
                         "image": {
                             "caption": "",
                             "page": 5
@@ -153,11 +139,12 @@
                         "type": "text",
                         "text": "(d) Find an expression for the acceleration, \\(a\\) , of \\(P\\). [1]",
                         "bbox": [
-                            117,
-                            444,
-                            528,
-                            459
-                        ]
+                            70,
+                            374,
+                            314,
+                            387
+                        ],
+                        "page_number": 5
                     }
                 ]
             },
@@ -168,20 +155,22 @@
                         "type": "text",
                         "text": "(e) On the axes, sketch the acceleration–time graph of \\(P\\) , stating the intercepts with the axes. [3]",
                         "bbox": [
-                            117,
-                            551,
-                            905,
-                            567
-                        ]
+                            70,
+                            464,
+                            539,
+                            478
+                        ],
+                        "page_number": 5
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            100,
-                            585,
-                            905,
-                            900
+                            60,
+                            493,
+                            539,
+                            759
                         ],
+                        "page_number": 5,
                         "image": {
                             "caption": "",
                             "page": 5
@@ -198,31 +187,34 @@
                 "type": "text",
                 "text": "3 Functions f and g are such that",
                 "bbox": [
-                    80,
-                    72,
-                    360,
-                    88
-                ]
+                    48,
+                    61,
+                    214,
+                    74
+                ],
+                "page_number": 6
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[{\\mathrm{f}}(x)={\\frac{3x}{x+4}}\\quad{\\mathrm{for}}x>0\\] \\[{\\mathrm{g}}(x)=\\sqrt{x+2}\\quad{\\mathrm{for}}x>-2.\\]",
                 "bbox": [
-                    352,
-                    103,
-                    568,
-                    160
-                ]
+                    210,
+                    87,
+                    338,
+                    135
+                ],
+                "page_number": 6
             },
             {
                 "type": "text",
                 "text": "Solve the equation \\(\\mathrm{fg}(x) = 1\\) .",
                 "bbox": [
-                    117,
-                    174,
-                    357,
-                    191
-                ]
+                    70,
+                    147,
+                    213,
+                    161
+                ],
+                "page_number": 6
             }
         ]
     },
@@ -237,11 +229,12 @@
                         "type": "text",
                         "text": "4 (a) Given that \\(y = 4\\sin 2x\\cos 2x\\) , find the value of \\(\\frac{\\mathrm{dy}}{\\mathrm{dx}}\\) when \\(x = \\frac{\\pi}{6}\\) .",
                         "bbox": [
-                            78,
-                            75,
-                            678,
-                            105
-                        ]
+                            46,
+                            63,
+                            404,
+                            88
+                        ],
+                        "page_number": 7
                     }
                 ]
             },
@@ -252,31 +245,34 @@
                         "type": "text",
                         "text": "(b) A curve has equation \\(y = 4\\sin 2x\\cos 2x\\) .",
                         "bbox": [
-                            117,
-                            406,
-                            483,
-                            424
-                        ]
+                            70,
+                            342,
+                            288,
+                            357
+                        ],
+                        "page_number": 7
                     },
                     {
                         "type": "text",
                         "text": "The normal to the curve at the point where \\(x = \\frac{\\pi}{6}\\) meets the \\(x\\) - axis at the point \\(P\\) .",
                         "bbox": [
-                            155,
-                            433,
-                            785,
-                            460
-                        ]
+                            92,
+                            365,
+                            468,
+                            388
+                        ],
+                        "page_number": 7
                     },
                     {
                         "type": "text",
                         "text": "Find the exact coordinates of \\(P\\) .",
                         "bbox": [
-                            155,
-                            470,
-                            404,
-                            486
-                        ]
+                            92,
+                            396,
+                            241,
+                            410
+                        ],
+                        "page_number": 7
                     }
                 ]
             }
@@ -293,11 +289,12 @@
                         "type": "text",
                         "text": "5 (a) A 4-digit number is to be formed using the digits 0, 2, 4, 5, 6 and 8. The 4-digit number must not start with 0. Any digit may be used at most once in the 4-digit number.",
                         "bbox": [
-                            78,
-                            71,
-                            747,
-                            120
-                        ]
+                            46,
+                            60,
+                            445,
+                            101
+                        ],
+                        "page_number": 8
                     }
                 ],
                 "parts": [
@@ -308,11 +305,12 @@
                                 "type": "text",
                                 "text": "(i) Find how many 4-digit numbers can be formed.",
                                 "bbox": [
-                                    155,
-                                    133,
-                                    567,
-                                    151
-                                ]
+                                    92,
+                                    112,
+                                    338,
+                                    127
+                                ],
+                                "page_number": 8
                             }
                         ]
                     },
@@ -323,11 +321,12 @@
                                 "type": "text",
                                 "text": "(ii) Find how many even 4-digit numbers can be formed.",
                                 "bbox": [
-                                    152,
-                                    210,
-                                    607,
-                                    228
-                                ]
+                                    91,
+                                    177,
+                                    362,
+                                    192
+                                ],
+                                "page_number": 8
                             }
                         ]
                     },
@@ -338,11 +337,12 @@
                                 "type": "text",
                                 "text": "(iii) Find how many 4-digit numbers that are divisible by 5 can be formed.",
                                 "bbox": [
-                                    150,
-                                    349,
-                                    737,
-                                    368
-                                ]
+                                    89,
+                                    294,
+                                    439,
+                                    310
+                                ],
+                                "page_number": 8
                             }
                         ]
                     }
@@ -355,11 +355,12 @@
                         "type": "text",
                         "text": "(b) Solve the equation \\((n + 1) \\times n + 1 C_{12} = 33(n - 10) \\times n C_{10}\\) .",
                         "bbox": [
-                            115,
-                            532,
-                            615,
-                            555
-                        ]
+                            68,
+                            448,
+                            366,
+                            468
+                        ],
+                        "page_number": 8
                     }
                 ]
             }
@@ -372,11 +373,12 @@
                 "type": "text",
                 "text": "6 The volume, \\(V\\) , of a sphere is increasing at the constant rate of \\(2\\pi \\mathrm{cm}^3 \\mathrm{s}^{- 1}\\) . Find the rate of change of the surface area, \\(S\\) , of this sphere when the volume of the sphere is \\(36\\pi \\mathrm{cm}^3\\) . [6]",
                 "bbox": [
-                    78,
-                    75,
-                    916,
-                    124
-                ]
+                    46,
+                    63,
+                    546,
+                    105
+                ],
+                "page_number": 9
             }
         ]
     },
@@ -387,21 +389,23 @@
                 "type": "text",
                 "text": "7 The first three terms of an arithmetic progression can be written as",
                 "bbox": [
-                    80,
-                    72,
-                    637,
-                    89
-                ]
+                    48,
+                    61,
+                    379,
+                    75
+                ],
+                "page_number": 10
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[2\\ln (x^{3}), 5\\ln (x^{2}), 2\\ln (x^{7}).\\]",
                 "bbox": [
-                    239,
-                    99,
-                    463,
-                    121
-                ]
+                    142,
+                    83,
+                    276,
+                    102
+                ],
+                "page_number": 10
             }
         ],
         "parts": [
@@ -412,11 +416,12 @@
                         "type": "text",
                         "text": "(a) Given that \\(x > 1\\) , find the least number of terms for the sum of this progression to be greater than \\(43\\ln (x^{24})\\) . [6]",
                         "bbox": [
-                            117,
-                            133,
-                            917,
-                            170
-                        ]
+                            70,
+                            112,
+                            546,
+                            143
+                        ],
+                        "page_number": 10
                     }
                 ]
             },
@@ -427,11 +432,12 @@
                         "type": "text",
                         "text": "(b) Given that the 25th term of this progression is equal to 408, find the exact value of \\(x\\).",
                         "bbox": [
-                            115,
-                            72,
-                            816,
-                            88
-                        ]
+                            68,
+                            61,
+                            486,
+                            74
+                        ],
+                        "page_number": 11
                     }
                 ]
             }
@@ -443,11 +449,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    100,
-                    90,
-                    900,
-                    400
+                    60,
+                    76,
+                    536,
+                    337
                 ],
+                "page_number": 12,
                 "image": {
                     "caption": "",
                     "page": 12
@@ -457,41 +464,45 @@
                 "type": "text",
                 "text": "The diagram shows part of the curve \\(y = \\frac{15}{x} - \\frac{5}{x^2}\\) .",
                 "bbox": [
-                    118,
-                    419,
-                    520,
-                    451
-                ]
+                    70,
+                    353,
+                    310,
+                    380
+                ],
+                "page_number": 12
             },
             {
                 "type": "text",
                 "text": "The curve meets the \\(x\\) - axis at the point \\(A\\) . The curve has a maximum at the point \\(B\\) .",
                 "bbox": [
-                    118,
-                    457,
-                    440,
-                    490
-                ]
+                    70,
+                    385,
+                    262,
+                    413
+                ],
+                "page_number": 12
             },
             {
                 "type": "text",
                 "text": "Find the area of the shaded region enclosed by the line \\(AB\\) and the curve.",
                 "bbox": [
-                    118,
-                    518,
-                    685,
-                    536
-                ]
+                    70,
+                    437,
+                    408,
+                    452
+                ],
+                "page_number": 12
             },
             {
                 "type": "text",
                 "text": "Give your answer in exact form.",
                 "bbox": [
-                    118,
-                    550,
-                    370,
-                    566
-                ]
+                    70,
+                    464,
+                    220,
+                    477
+                ],
+                "page_number": 12
             }
         ]
     },
@@ -506,11 +517,12 @@
                         "type": "text",
                         "text": "9 (a) Solve the equation \\(3 \\sec 3x = \\sqrt{3} \\cos 3x\\) for \\(-120^\\circ \\le x \\le 120^\\circ\\).",
                         "bbox": [
-                            78,
-                            75,
-                            680,
-                            92
-                        ]
+                            46,
+                            63,
+                            405,
+                            78
+                        ],
+                        "page_number": 14
                     }
                 ]
             },
@@ -521,11 +533,12 @@
                         "type": "text",
                         "text": "(b) Solve the equation \\(2 \\cos \\left(y + \\frac{\\pi}{3}\\right) \\sin \\left(y + \\frac{\\pi}{3}\\right) = \\sin \\left(y + \\frac{\\pi}{3}\\right)\\) for \\(0 \\leq y < 2\\pi\\). [5]",
                         "bbox": [
-                            115,
-                            75,
-                            740,
-                            101
-                        ]
+                            68,
+                            63,
+                            441,
+                            85
+                        ],
+                        "page_number": 15
                     }
                 ]
             }
@@ -538,21 +551,23 @@
                 "type": "text",
                 "text": "10 The first three terms, in descending powers of \\(x\\) , in the expansion of \\(\\left(3x^{2} - a\\right)^{n}\\left(1 + \\frac{1}{x^{2}}\\right)^{2}\\) can be written as \\(729x^{12} + 972x^{10} + bx^{8}\\) , where \\(a\\) , \\(b\\) and \\(n\\) are constants.",
                 "bbox": [
-                    80,
-                    80,
-                    916,
-                    120
-                ]
+                    48,
+                    67,
+                    546,
+                    101
+                ],
+                "page_number": 16
             },
             {
                 "type": "text",
                 "text": "Find the values of \\(a\\) , \\(b\\) and \\(n\\) .",
                 "bbox": [
-                    118,
-                    135,
-                    345,
-                    151
-                ]
+                    70,
+                    114,
+                    205,
+                    127
+                ],
+                "page_number": 16
             }
         ]
     }

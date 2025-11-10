@@ -4,33 +4,25 @@
         "content": [
             {
                 "type": "text",
-                "text": "Calculators must not be used in this paper.",
-                "bbox": [
-                    330,
-                    72,
-                    664,
-                    88
-                ]
-            },
-            {
-                "type": "text",
                 "text": "1 Oranges cost 220 rupees per kilogram.",
                 "bbox": [
-                    80,
-                    103,
-                    420,
-                    120
-                ]
+                    48,
+                    87,
+                    250,
+                    101
+                ],
+                "page_number": 3
             },
             {
                 "type": "text",
                 "text": "Work out the cost of \\(9\\mathrm{kg}\\) of these oranges.",
                 "bbox": [
-                    118,
-                    134,
-                    449,
-                    150
-                ]
+                    70,
+                    113,
+                    267,
+                    126
+                ],
+                "page_number": 3
             }
         ]
     },
@@ -39,33 +31,25 @@
         "content": [
             {
                 "type": "text",
-                "text": "Calculators must not be used in this paper.",
+                "text": "2 Aryan goes on a journey. He leaves home at 11 40 and arrives at 14 18.",
                 "bbox": [
-                    330,
-                    72,
-                    664,
-                    88
-                ]
+                    48,
+                    280,
+                    279,
+                    307
+                ],
+                "page_number": 3
             },
             {
                 "type": "text",
-                "text": "1 Oranges cost 220 rupees per kilogram.",
+                "text": "Find how many hours and minutes the journey took.",
                 "bbox": [
-                    80,
-                    103,
-                    420,
-                    120
-                ]
-            },
-            {
-                "type": "text",
-                "text": "Work out the cost of \\(9\\mathrm{kg}\\) of these oranges.",
-                "bbox": [
-                    118,
-                    134,
-                    449,
-                    150
-                ]
+                    70,
+                    319,
+                    313,
+                    333
+                ],
+                "page_number": 3
             }
         ]
     },
@@ -74,33 +58,25 @@
         "content": [
             {
                 "type": "text",
-                "text": "Calculators must not be used in this paper.",
+                "text": "3 A quadrilateral has one line of symmetry. The diagonals of the quadrilateral cross at right angles.",
                 "bbox": [
-                    330,
-                    72,
-                    664,
-                    88
-                ]
+                    48,
+                    469,
+                    325,
+                    496
+                ],
+                "page_number": 3
             },
             {
                 "type": "text",
-                "text": "1 Oranges cost 220 rupees per kilogram.",
+                "text": "Write down the mathematical name of the quadrilateral.",
                 "bbox": [
-                    80,
-                    103,
-                    420,
-                    120
-                ]
-            },
-            {
-                "type": "text",
-                "text": "Work out the cost of \\(9\\mathrm{kg}\\) of these oranges.",
-                "bbox": [
-                    118,
-                    134,
-                    449,
-                    150
-                ]
+                    70,
+                    508,
+                    328,
+                    522
+                ],
+                "page_number": 3
             }
         ]
     },
@@ -110,11 +86,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    55,
-                    30,
-                    415,
-                    64
+                    33,
+                    25,
+                    247,
+                    54
                 ],
+                "page_number": 4,
                 "image": {
                     "caption": "",
                     "page": 4
@@ -124,21 +101,12 @@
                 "type": "text",
                 "text": "4 \\(V = 4m p^{2}\\)",
                 "bbox": [
-                    80,
-                    75,
-                    273,
-                    92
-                ]
-            },
-            {
-                "type": "text",
-                "text": "\\(V =\\) [2]",
-                "bbox": [
-                    606,
-                    186,
-                    916,
-                    203
-                ]
+                    48,
+                    63,
+                    163,
+                    78
+                ],
+                "page_number": 4
             }
         ],
         "parts": [
@@ -149,11 +117,23 @@
                         "type": "text",
                         "text": "(a) Find \\(V\\) when \\(m = 10\\) and \\(p = -3\\) .",
                         "bbox": [
-                            117,
-                            107,
-                            422,
-                            125
-                        ]
+                            70,
+                            90,
+                            251,
+                            105
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(V =\\) [2]",
+                        "bbox": [
+                            361,
+                            157,
+                            546,
+                            171
+                        ],
+                        "page_number": 4
                     }
                 ]
             },
@@ -164,11 +144,23 @@
                         "type": "text",
                         "text": "(b) Find the positive value of \\(p\\) when \\(V = 3200\\) and \\(m = 2\\) .",
                         "bbox": [
-                            117,
-                            218,
-                            590,
-                            236
-                        ]
+                            70,
+                            184,
+                            351,
+                            199
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(p =\\) [2]",
+                        "bbox": [
+                            361,
+                            297,
+                            546,
+                            312
+                        ],
+                        "page_number": 4
                     }
                 ]
             }
@@ -178,37 +170,26 @@
         "label": "5",
         "content": [
             {
-                "type": "image",
+                "type": "text",
+                "text": "5 Write these lengths in order of size, starting with the smallest.",
                 "bbox": [
-                    55,
-                    30,
-                    415,
-                    64
+                    46,
+                    335,
+                    357,
+                    350
                 ],
-                "image": {
-                    "caption": "",
-                    "page": 4
-                }
+                "page_number": 4
             },
             {
                 "type": "text",
-                "text": "4 \\(V = 4m p^{2}\\)",
+                "text": "0.03m 2.9cm 32mm 0.00002km",
                 "bbox": [
-                    80,
-                    75,
-                    273,
-                    92
-                ]
-            },
-            {
-                "type": "text",
-                "text": "(a) Find \\(V\\) when \\(m = 10\\) and \\(p = -3\\) .",
-                "bbox": [
-                    117,
-                    107,
-                    422,
-                    125
-                ]
+                    169,
+                    361,
+                    423,
+                    376
+                ],
+                "page_number": 4
             }
         ]
     },
@@ -218,11 +199,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    60,
-                    18,
-                    672,
-                    220
+                    36,
+                    15,
+                    400,
+                    185
                 ],
+                "page_number": 5,
                 "image": {
                     "caption": "",
                     "page": 5
@@ -232,11 +214,12 @@
                 "type": "text",
                 "text": "Work out the area of the trapezium.",
                 "bbox": [
-                    118,
-                    238,
-                    395,
-                    254
-                ]
+                    70,
+                    201,
+                    235,
+                    214
+                ],
+                "page_number": 5
             }
         ]
     },
@@ -244,27 +227,15 @@
         "label": "7",
         "content": [
             {
-                "type": "image",
-                "bbox": [
-                    60,
-                    18,
-                    672,
-                    220
-                ],
-                "image": {
-                    "caption": "",
-                    "page": 5
-                }
-            },
-            {
                 "type": "text",
-                "text": "Work out the area of the trapezium.",
+                "text": "Write down the inequality for \\(x\\) represented on the number line.",
                 "bbox": [
-                    118,
-                    238,
-                    395,
-                    254
-                ]
+                    70,
+                    440,
+                    365,
+                    455
+                ],
+                "page_number": 5
             }
         ]
     },
@@ -275,20 +246,22 @@
                 "type": "text",
                 "text": "8 Pryanka plays a game in which she can win, lose or draw. The table shows the probability of her winning or losing a game.",
                 "bbox": [
-                    78,
-                    72,
-                    621,
-                    103
-                ]
+                    46,
+                    61,
+                    370,
+                    87
+                ],
+                "page_number": 6
             },
             {
                 "type": "image",
                 "bbox": [
-                    268,
-                    118,
-                    728,
-                    171
+                    160,
+                    99,
+                    434,
+                    144
                 ],
+                "page_number": 6,
                 "table": {
                     "caption": "",
                     "html": "\n\n<table><tr><td>Result of game</td><td>win</td><td>lose</td><td>draw</td></tr><tr><td>Probability</td><td>0.3</td><td>0.25</td><td></td></tr></table>  \n\n"
@@ -303,11 +276,12 @@
                         "type": "text",
                         "text": "(a) Complete the table.",
                         "bbox": [
-                            118,
-                            215,
-                            310,
-                            231
-                        ]
+                            70,
+                            181,
+                            185,
+                            195
+                        ],
+                        "page_number": 6
                     }
                 ]
             },
@@ -318,21 +292,23 @@
                         "type": "text",
                         "text": "(b) Pryanka plays this game 120 times.",
                         "bbox": [
-                            118,
-                            292,
-                            433,
-                            309
-                        ]
+                            70,
+                            246,
+                            258,
+                            260
+                        ],
+                        "page_number": 6
                     },
                     {
                         "type": "text",
                         "text": "Work out the expected number of games she wins.",
                         "bbox": [
-                            155,
-                            323,
-                            549,
-                            340
-                        ]
+                            92,
+                            272,
+                            327,
+                            287
+                        ],
+                        "page_number": 6
                     }
                 ]
             }
@@ -342,27 +318,48 @@
         "label": "9",
         "content": [
             {
-                "type": "text",
-                "text": "8 Pryanka plays a game in which she can win, lose or draw. The table shows the probability of her winning or losing a game.",
+                "type": "blockMath",
+                "blockMath": "\\[D = \\sqrt{\\frac{1.95\\times9.92^2}{8.07}}\\]",
                 "bbox": [
-                    78,
-                    72,
-                    621,
-                    103
-                ]
+                    116,
+                    417,
+                    211,
+                    447
+                ],
+                "page_number": 6
             },
             {
-                "type": "image",
+                "type": "text",
+                "text": "9",
                 "bbox": [
-                    268,
-                    118,
-                    728,
-                    171
+                    41,
+                    425,
+                    52,
+                    438
                 ],
-                "table": {
-                    "caption": "",
-                    "html": "\n\n<table><tr><td>Result of game</td><td>win</td><td>lose</td><td>draw</td></tr><tr><td>Probability</td><td>0.3</td><td>0.25</td><td></td></tr></table>  \n\n"
-                }
+                "page_number": 6
+            },
+            {
+                "type": "text",
+                "text": "By writing each number correct to 1 significant figure, work out an estimate for \\(D\\) .",
+                "bbox": [
+                    70,
+                    453,
+                    453,
+                    468
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "text",
+                "text": "\\(D =\\) [3]",
+                "bbox": [
+                    359,
+                    596,
+                    546,
+                    611
+                ],
+                "page_number": 6
             }
         ]
     },
@@ -372,11 +369,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    273,
-                    85,
-                    544,
-                    215
+                    163,
+                    72,
+                    324,
+                    181
                 ],
+                "page_number": 7,
                 "image": {
                     "caption": "",
                     "page": 7
@@ -386,21 +384,23 @@
                 "type": "text",
                 "text": "Three regular polygons \\(A\\) , \\(B\\) and \\(C\\) meet at a point. The interior angles of the polygons are in the ratio \\(a:b:c = 3:4:5\\) .",
                 "bbox": [
-                    115,
-                    233,
-                    666,
-                    265
-                ]
+                    68,
+                    196,
+                    397,
+                    223
+                ],
+                "page_number": 7
             },
             {
                 "type": "text",
                 "text": "Show that polygon \\(C\\) has twice the number of sides as polygon \\(B\\) .",
                 "bbox": [
-                    117,
-                    280,
-                    629,
-                    297
-                ]
+                    70,
+                    236,
+                    375,
+                    250
+                ],
+                "page_number": 7
             }
         ]
     },
@@ -409,22 +409,24 @@
         "content": [
             {
                 "type": "text",
-                "text": "11 A company sells items either on a website or in shops.The composite bar chart shows the percentage of sales on the website and in shops for January, February and March.",
+                "text": "11 A company sells items either on a website or in shops. The composite bar chart shows the percentage of sales on the website and in shops for January, February and March.",
                 "bbox": [
-                    115,
-                    88,
-                    916,
-                    120
-                ]
+                    48,
+                    61,
+                    322,
+                    73
+                ],
+                "page_number": 8
             },
             {
                 "type": "image",
                 "bbox": [
-                    142,
-                    133,
-                    855,
-                    520
+                    85,
+                    112,
+                    509,
+                    438
                 ],
+                "page_number": 8,
                 "image": {
                     "caption": "",
                     "page": 8
@@ -434,20 +436,44 @@
         "parts": [
             {
                 "label": "a",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) In April, \\(\\frac{17}{20}\\) of the company's sales were on the website. On the grid, draw the bar for April.",
+                        "bbox": [
+                            70,
+                            449,
+                            356,
+                            497
+                        ],
+                        "page_number": 8
+                    }
+                ]
             },
             {
                 "label": "b",
                 "content": [
                     {
                         "type": "text",
-                        "text": "(a) In April, \\(\\frac{17}{20}\\) of the company's sales were on the website. On the grid, draw the bar for April.",
+                        "text": "(b) In February, the company had sales of \\(\\) 3.5\\(million.",
                         "bbox": [
-                            117,
-                            533,
-                            598,
-                            590
-                        ]
+                            70,
+                            544,
+                            332,
+                            561
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "text",
+                        "text": "Work out the value of sales in shops in February.",
+                        "bbox": [
+                            92,
+                            571,
+                            322,
+                            586
+                        ],
+                        "page_number": 8
                     }
                 ]
             },
@@ -456,53 +482,36 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) In February, the company had sales of \\(\\) 3.5\\(million.",
-                        "bbox": [
-                            117,
-                            646,
-                            558,
-                            666
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "Work out the value of sales in shops in February.",
-                        "bbox": [
-                            155,
-                            678,
-                            540,
-                            695
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "\\$ million [3]",
                         "bbox": [
-                            625,
-                            802,
-                            916,
-                            820
-                        ]
+                            372,
+                            676,
+                            546,
+                            691
+                        ],
+                        "page_number": 8
                     },
                     {
                         "type": "text",
                         "text": "(c) In May, the company had sales of \\(6 million. In June, the company had sales of\\) 7.5 million.",
                         "bbox": [
-                            118,
-                            72,
-                            525,
-                            103
-                        ]
+                            70,
+                            61,
+                            313,
+                            87
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "text",
                         "text": "Find the percentage increase in sales from May to June.",
                         "bbox": [
-                            155,
-                            118,
-                            589,
-                            135
-                        ]
+                            92,
+                            99,
+                            351,
+                            114
+                        ],
+                        "page_number": 9
                     }
                 ]
             },
@@ -513,21 +522,23 @@
                         "type": "text",
                         "text": "(d) In 2024, the company had total sales of \\$52 million. This was an increase of 30% on the total sales for 2023.",
                         "bbox": [
-                            118,
-                            303,
-                            590,
-                            336
-                        ]
+                            70,
+                            255,
+                            351,
+                            283
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "text",
                         "text": "Work out the total sales in 2023.",
                         "bbox": [
-                            156,
-                            350,
-                            410,
-                            366
-                        ]
+                            93,
+                            295,
+                            244,
+                            308
+                        ],
+                        "page_number": 9
                     }
                 ]
             }
@@ -535,81 +546,32 @@
     },
     {
         "label": "12",
-        "content": [
-            {
-                "type": "text",
-                "text": "(c) In May, the company had sales of \\(6 million. In June, the company had sales of\\) 7.5 million.",
-                "bbox": [
-                    118,
-                    72,
-                    525,
-                    103
-                ]
-            },
-            {
-                "type": "text",
-                "text": "Find the percentage increase in sales from May to June.",
-                "bbox": [
-                    155,
-                    118,
-                    589,
-                    135
-                ]
-            },
-            {
-                "type": "text",
-                "text": "(d) In 2024, the company had total sales of \\$52 million. This was an increase of 30% on the total sales for 2023.",
-                "bbox": [
-                    118,
-                    303,
-                    590,
-                    336
-                ]
-            },
-            {
-                "type": "text",
-                "text": "Work out the total sales in 2023.",
-                "bbox": [
-                    156,
-                    350,
-                    410,
-                    366
-                ]
-            }
-        ],
+        "content": [],
         "parts": [
             {
                 "label": "a",
                 "content": [
                     {
                         "type": "text",
-                        "text": "\\$ million [2]",
-                        "bbox": [
-                            626,
-                            475,
-                            916,
-                            492
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "12 (a) Write as a single fraction in its simplest form.",
                         "bbox": [
-                            80,
-                            520,
-                            512,
-                            536
-                        ]
+                            48,
+                            438,
+                            305,
+                            452
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[\\frac{x}{4} +\\frac{3x}{8} -\\frac{x + 2}{12}\\]",
                         "bbox": [
-                            504,
-                            550,
-                            625,
-                            577
-                        ]
+                            300,
+                            464,
+                            372,
+                            486
+                        ],
+                        "page_number": 9
                     }
                 ]
             },
@@ -620,21 +582,23 @@
                         "type": "text",
                         "text": "(b) Factorise.",
                         "bbox": [
-                            118,
-                            727,
-                            234,
-                            743
-                        ]
+                            70,
+                            613,
+                            139,
+                            626
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[3x(a + 4y) - ay - 4y^2\\]",
                         "bbox": [
-                            233,
-                            755,
-                            400,
-                            774
-                        ]
+                            139,
+                            636,
+                            238,
+                            652
+                        ],
+                        "page_number": 9
                     }
                 ]
             }
@@ -646,11 +610,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    333,
-                    85,
-                    660,
-                    210
+                    198,
+                    72,
+                    393,
+                    177
                 ],
+                "page_number": 10,
                 "image": {
                     "caption": "",
                     "page": 10
@@ -660,21 +625,23 @@
                 "type": "text",
                 "text": "The diagram shows a cylinder with radius \\(r\\) cm and height \\(16\\mathrm{cm}\\) . A sphere has radius \\(3\\mathrm{cm}\\) . The volume of the cylinder is equal to the volume of the sphere.",
                 "bbox": [
-                    118,
-                    227,
-                    625,
-                    275
-                ]
+                    70,
+                    191,
+                    372,
+                    232
+                ],
+                "page_number": 10
             },
             {
                 "type": "text",
                 "text": "Find the value of \\(r\\) .",
                 "bbox": [
-                    118,
-                    290,
-                    268,
-                    305
-                ]
+                    70,
+                    244,
+                    160,
+                    257
+                ],
+                "page_number": 10
             }
         ]
     },
@@ -684,15 +651,27 @@
             {
                 "type": "image",
                 "bbox": [
-                    210,
-                    88,
-                    690,
-                    403
+                    125,
+                    74,
+                    411,
+                    340
                 ],
+                "page_number": 11,
                 "image": {
                     "caption": "",
                     "page": 11
                 }
+            },
+            {
+                "type": "text",
+                "text": "\\(A,B,C,D\\) and \\(E\\) lie on a circle. \\(FG\\) is a tangent to the circle at \\(C\\) . Angle \\(BAD = 110^{\\circ}\\) , angle \\(ADB = 20^{\\circ}\\) and angle \\(BEC = 45^{\\circ}\\) .",
+                "bbox": [
+                    70,
+                    357,
+                    351,
+                    398
+                ],
+                "page_number": 11
             }
         ],
         "parts": [
@@ -701,23 +680,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "\\(A,B,C,D\\) and \\(E\\) lie on a circle. \\(FG\\) is a tangent to the circle at \\(C\\) . Angle \\(BAD = 110^{\\circ}\\) , angle \\(ADB = 20^{\\circ}\\) and angle \\(BEC = 45^{\\circ}\\) .",
+                        "text": "(a) Find angle \\(BCD\\) . Give a geometrical reason for your answer.",
                         "bbox": [
-                            117,
-                            423,
-                            590,
-                            472
-                        ]
+                            70,
+                            409,
+                            294,
+                            437
+                        ],
+                        "page_number": 11
                     },
                     {
                         "type": "text",
-                        "text": "(a) Find angle \\(BCD\\) . Give a geometrical reason for your answer.",
+                        "text": "Angle \\(BCD =\\) because [2]",
                         "bbox": [
-                            117,
-                            485,
-                            493,
-                            518
-                        ]
+                            91,
+                            459,
+                            524,
+                            501
+                        ],
+                        "page_number": 11
                     }
                 ]
             },
@@ -730,23 +711,25 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "Angle \\(BCD =\\) because [2]",
+                                "text": "(b) (i) Find angle \\(DBC\\) .",
                                 "bbox": [
-                                    152,
-                                    545,
-                                    880,
-                                    595
-                                ]
+                                    70,
+                                    524,
+                                    195,
+                                    539
+                                ],
+                                "page_number": 11
                             },
                             {
                                 "type": "text",
-                                "text": "(b) (i) Find angle \\(DBC\\) .",
+                                "text": "Angle \\(DBC =\\) [2]",
                                 "bbox": [
-                                    117,
-                                    622,
-                                    328,
-                                    640
-                                ]
+                                    314,
+                                    602,
+                                    546,
+                                    618
+                                ],
+                                "page_number": 11
                             }
                         ]
                     },
@@ -755,23 +738,25 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "Angle \\(DBC =\\) [2]",
+                                "text": "(ii) Find angle \\(DCG\\) .",
                                 "bbox": [
-                                    528,
-                                    714,
-                                    916,
-                                    733
-                                ]
+                                    89,
+                                    630,
+                                    197,
+                                    645
+                                ],
+                                "page_number": 11
                             },
                             {
                                 "type": "text",
-                                "text": "(ii) Find angle \\(DCG\\) .",
+                                "text": "Angle \\(DCG =\\) [1]",
                                 "bbox": [
-                                    150,
-                                    747,
-                                    330,
-                                    765
-                                ]
+                                    313,
+                                    707,
+                                    546,
+                                    723
+                                ],
+                                "page_number": 11
                             }
                         ]
                     }
@@ -786,11 +771,12 @@
                 "type": "text",
                 "text": "15 Point \\(A\\) has coordinates \\((-4,1)\\) and \\(\\overrightarrow{BA} = \\left(\\begin{array}{c} - 5 \\\\ - 12 \\end{array}\\right)\\) .",
                 "bbox": [
-                    80,
-                    75,
-                    500,
-                    109
-                ]
+                    48,
+                    63,
+                    298,
+                    92
+                ],
+                "page_number": 12
             }
         ],
         "parts": [
@@ -801,11 +787,12 @@
                         "type": "text",
                         "text": "(a) Find the coordinates of point \\(B\\) .",
                         "bbox": [
-                            117,
-                            115,
-                            404,
-                            133
-                        ]
+                            70,
+                            97,
+                            241,
+                            112
+                        ],
+                        "page_number": 12
                     }
                 ]
             },
@@ -816,31 +803,45 @@
                         "type": "text",
                         "text": "(......, ......) [2]",
                         "bbox": [
-                            628,
-                            194,
-                            916,
-                            212
-                        ]
+                            374,
+                            164,
+                            546,
+                            179
+                        ],
+                        "page_number": 12
                     },
                     {
                         "type": "text",
                         "text": "(b) Point \\(C\\) has coordinates \\((5, - 2)\\) .",
                         "bbox": [
-                            117,
-                            224,
-                            405,
-                            240
-                        ]
+                            70,
+                            189,
+                            241,
+                            202
+                        ],
+                        "page_number": 12
                     },
                     {
                         "type": "text",
                         "text": "Find the vector \\(\\overrightarrow{CA}\\) .",
                         "bbox": [
-                            155,
-                            252,
-                            315,
-                            270
-                        ]
+                            92,
+                            212,
+                            188,
+                            228
+                        ],
+                        "page_number": 12
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\overrightarrow{CA} = \\left( \\begin{array}{c} \\end{array} \\right) \\quad [2]\\]",
+                        "bbox": [
+                            453,
+                            244,
+                            546,
+                            276
+                        ],
+                        "page_number": 12
                     }
                 ]
             },
@@ -848,34 +849,26 @@
                 "label": "c",
                 "content": [
                     {
-                        "type": "blockMath",
-                        "blockMath": "\\[\\overrightarrow{CA} = \\left( \\begin{array}{c} \\end{array} \\right) \\quad [2]\\]",
-                        "bbox": [
-                            760,
-                            290,
-                            916,
-                            328
-                        ]
-                    },
-                    {
                         "type": "text",
                         "text": "(c) \\(\\overrightarrow{EF} = 3\\overrightarrow{BA}\\)",
                         "bbox": [
-                            117,
-                            345,
-                            245,
-                            365
-                        ]
+                            70,
+                            291,
+                            146,
+                            308
+                        ],
+                        "page_number": 12
                     },
                     {
                         "type": "text",
                         "text": "Find \\(\\left|\\overrightarrow{EF}\\right|\\) .",
                         "bbox": [
-                            155,
-                            376,
-                            244,
-                            396
-                        ]
+                            92,
+                            317,
+                            145,
+                            334
+                        ],
+                        "page_number": 12
                     }
                 ]
             }
@@ -888,24 +881,37 @@
                 "type": "text",
                 "text": "16 The stem-and-leaf diagram shows the mass of each of 13 packets.",
                 "bbox": [
-                    80,
-                    72,
-                    630,
-                    89
-                ]
+                    48,
+                    61,
+                    375,
+                    75
+                ],
+                "page_number": 13
             },
             {
                 "type": "image",
                 "bbox": [
-                    348,
-                    105,
-                    648,
-                    192
+                    207,
+                    88,
+                    386,
+                    162
                 ],
+                "page_number": 13,
                 "table": {
                     "caption": "",
                     "html": "\n\n<table><tr><td>3</td><td>1</td><td>2</td><td>8</td></tr><tr><td>4</td><td>0</td><td>1</td><td>2</td></tr><tr><td>5</td><td>1</td><td>2</td><td>3</td></tr></table>  \n\n"
                 }
+            },
+            {
+                "type": "text",
+                "text": "Key: 3 | 1 represents 31 g",
+                "bbox": [
+                    372,
+                    173,
+                    490,
+                    188
+                ],
+                "page_number": 13
             }
         ],
         "parts": [
@@ -914,23 +920,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "Key: 3 | 1 represents 31 g",
-                        "bbox": [
-                            625,
-                            205,
-                            822,
-                            223
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(a) Work out the interquartile range.",
                         "bbox": [
-                            117,
-                            237,
-                            411,
-                            254
-                        ]
+                            70,
+                            200,
+                            245,
+                            214
+                        ],
+                        "page_number": 13
                     }
                 ]
             },
@@ -941,31 +938,34 @@
                         "type": "text",
                         "text": "g [3]",
                         "bbox": [
-                            640,
-                            347,
-                            916,
-                            365
-                        ]
+                            381,
+                            292,
+                            546,
+                            308
+                        ],
+                        "page_number": 13
                     },
                     {
                         "type": "text",
                         "text": "(b) Two of these packets are chosen at random.",
                         "bbox": [
-                            117,
-                            377,
-                            496,
-                            395
-                        ]
+                            70,
+                            318,
+                            295,
+                            333
+                        ],
+                        "page_number": 13
                     },
                     {
                         "type": "text",
                         "text": "Find the probability that the one packet has a mass of more than \\(50\\mathrm{g}\\) and the other packet has a mass of less than \\(50\\mathrm{g}\\) .",
                         "bbox": [
-                            153,
-                            409,
-                            916,
-                            443
-                        ]
+                            91,
+                            345,
+                            546,
+                            373
+                        ],
+                        "page_number": 13
                     }
                 ]
             }
@@ -978,31 +978,34 @@
                 "type": "text",
                 "text": "17 Work out.",
                 "bbox": [
-                    81,
-                    73,
-                    198,
-                    88
-                ]
+                    48,
+                    62,
+                    118,
+                    74
+                ],
+                "page_number": 14
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[\\frac{5}{9} +0.28\\]",
                 "bbox": [
-                    194,
-                    97,
-                    265,
-                    128
-                ]
+                    116,
+                    82,
+                    158,
+                    108
+                ],
+                "page_number": 14
             },
             {
                 "type": "text",
                 "text": "Give your answer as a fraction in its simplest form.",
                 "bbox": [
-                    118,
-                    135,
-                    516,
-                    151
-                ]
+                    70,
+                    114,
+                    307,
+                    127
+                ],
+                "page_number": 14
             }
         ]
     },
@@ -1012,15 +1015,27 @@
             {
                 "type": "image",
                 "bbox": [
-                    258,
-                    105,
-                    668,
-                    316
+                    154,
+                    88,
+                    398,
+                    266
                 ],
+                "page_number": 15,
                 "image": {
                     "caption": "",
                     "page": 15
                 }
+            },
+            {
+                "type": "text",
+                "text": "The quadrilateral \\(ACDE\\) is formed by two right- angled triangles \\(ABE\\) and \\(BCD\\) . \\(AC = 17 \\text{cm}\\) , \\(AE = 18 \\text{cm}\\) and \\(BD = 6 \\text{cm}\\) .",
+                "bbox": [
+                    70,
+                    281,
+                    439,
+                    308
+                ],
+                "page_number": 15
             }
         ],
         "parts": [
@@ -1029,23 +1044,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "The quadrilateral \\(ACDE\\) is formed by two right- angled triangles \\(ABE\\) and \\(BCD\\) . \\(AC = 17 \\text{cm}\\) , \\(AE = 18 \\text{cm}\\) and \\(BD = 6 \\text{cm}\\) .",
-                        "bbox": [
-                            118,
-                            333,
-                            737,
-                            366
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(a) Show that \\(CD = 10 \\text{cm}\\) .",
                         "bbox": [
-                            118,
-                            380,
-                            343,
-                            397
-                        ]
+                            70,
+                            320,
+                            204,
+                            335
+                        ],
+                        "page_number": 15
                     }
                 ]
             },
@@ -1056,11 +1062,12 @@
                         "type": "text",
                         "text": "(b) Find the perimeter of the quadrilateral \\(ACDE\\) . Give your answer in the form \\(p + k\\sqrt{q}\\) .",
                         "bbox": [
-                            118,
-                            672,
-                            515,
-                            705
-                        ]
+                            70,
+                            566,
+                            307,
+                            594
+                        ],
+                        "page_number": 15
                     }
                 ]
             }
@@ -1072,58 +1079,47 @@
             {
                 "type": "image",
                 "bbox": [
-                    293,
-                    85,
-                    702,
-                    288
+                    175,
+                    72,
+                    418,
+                    243
                 ],
+                "page_number": 16,
                 "image": {
                     "caption": "",
                     "page": 16
                 }
+            },
+            {
+                "type": "text",
+                "text": "In the Venn diagram, shade the region \\((A \\cup B \\cup C)'\\) .",
+                "bbox": [
+                    70,
+                    258,
+                    307,
+                    274
+                ],
+                "page_number": 16
             }
         ]
     },
     {
         "label": "20",
-        "content": [
-            {
-                "type": "image",
-                "bbox": [
-                    293,
-                    85,
-                    702,
-                    288
-                ],
-                "image": {
-                    "caption": "",
-                    "page": 16
-                }
-            }
-        ],
+        "content": [],
         "parts": [
             {
                 "label": "a",
                 "content": [
                     {
                         "type": "text",
-                        "text": "In the Venn diagram, shade the region \\((A \\cup B \\cup C)'\\) .",
-                        "bbox": [
-                            117,
-                            306,
-                            515,
-                            325
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "20 (a) Simplify. \\(\\sqrt{300} + \\sqrt{48}\\)",
                         "bbox": [
-                            80,
-                            352,
-                            328,
-                            386
-                        ]
+                            48,
+                            297,
+                            195,
+                            325
+                        ],
+                        "page_number": 16
                     }
                 ]
             },
@@ -1134,21 +1130,23 @@
                         "type": "text",
                         "text": "(b) Rationalise the denominator and simplify.",
                         "bbox": [
-                            117,
-                            477,
-                            483,
-                            495
-                        ]
+                            70,
+                            402,
+                            288,
+                            417
+                        ],
+                        "page_number": 16
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[\\frac{9}{2 + \\sqrt{7}}\\]",
                         "bbox": [
-                            468,
-                            500,
-                            530,
-                            533
-                        ]
+                            279,
+                            421,
+                            316,
+                            449
+                        ],
+                        "page_number": 16
                     }
                 ]
             }
@@ -1156,18 +1154,7 @@
     },
     {
         "label": "21",
-        "content": [
-            {
-                "type": "text",
-                "text": "[1]",
-                "bbox": [
-                    627,
-                    135,
-                    916,
-                    153
-                ]
-            }
-        ],
+        "content": [],
         "parts": [
             {
                 "label": "a",
@@ -1176,11 +1163,23 @@
                         "type": "text",
                         "text": "21 (a) Write down the coordinates of the point where the graph of \\(y = 5x - 3\\) crosses the \\(y\\) - axis.",
                         "bbox": [
-                            80,
-                            72,
-                            880,
-                            90
-                        ]
+                            48,
+                            61,
+                            524,
+                            76
+                        ],
+                        "page_number": 17
+                    },
+                    {
+                        "type": "text",
+                        "text": "[1]",
+                        "bbox": [
+                            373,
+                            114,
+                            546,
+                            129
+                        ],
+                        "page_number": 17
                     }
                 ]
             },
@@ -1191,21 +1190,23 @@
                         "type": "text",
                         "text": "(b) \\(A\\) is the point \\((1,7)\\) and \\(B\\) is the point \\((5,15)\\) .",
                         "bbox": [
-                            117,
-                            166,
-                            504,
-                            184
-                        ]
+                            70,
+                            140,
+                            300,
+                            155
+                        ],
+                        "page_number": 17
                     },
                     {
                         "type": "text",
                         "text": "Find the equation of the perpendicular bisector of the line \\(AB\\) . Give your answer in the form \\(y = mx + c\\) .",
                         "bbox": [
-                            154,
-                            197,
-                            637,
-                            230
-                        ]
+                            92,
+                            166,
+                            379,
+                            194
+                        ],
+                        "page_number": 17
                     }
                 ]
             }
@@ -1216,13 +1217,14 @@
         "content": [
             {
                 "type": "text",
-                "text": "22 A curve has equation \\(y = x^{3} + x^{2} - x\\) .The curve has a stationary point at \\(\\left(\\frac{1}{3}, -\\frac{5}{27}\\right)\\) .",
+                "text": "22 A curve has equation \\(y = x^{3} + x^{2} - x\\) . The curve has a stationary point at \\(\\left(\\frac{1}{3}, -\\frac{5}{27}\\right)\\) .",
                 "bbox": [
-                    118,
-                    97,
-                    470,
-                    130
-                ]
+                    48,
+                    62,
+                    251,
+                    78
+                ],
+                "page_number": 18
             }
         ],
         "parts": [
@@ -1233,11 +1235,12 @@
                         "type": "text",
                         "text": "(a) Find the coordinates of the other stationary point.",
                         "bbox": [
-                            118,
-                            152,
-                            541,
-                            170
-                        ]
+                            70,
+                            128,
+                            322,
+                            143
+                        ],
+                        "page_number": 18
                     }
                 ]
             },
@@ -1248,24 +1251,37 @@
                         "type": "text",
                         "text": "(b) By sketching the graph of \\(y = x^{3} + x^{2} - x\\) , determine whether the stationary point \\(\\left(\\frac{1}{3}, -\\frac{5}{27}\\right)\\) is a maximum or a minimum.",
                         "bbox": [
-                            117,
-                            73,
-                            800,
-                            125
-                        ]
+                            70,
+                            62,
+                            476,
+                            105
+                        ],
+                        "page_number": 19
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            308,
-                            151,
-                            686,
-                            404
+                            183,
+                            127,
+                            409,
+                            341
                         ],
+                        "page_number": 19,
                         "image": {
                             "caption": "",
                             "page": 19
                         }
+                    },
+                    {
+                        "type": "text",
+                        "text": "(c) The equation \\(x^{3} + x^{2} - x = k\\) has fewer than 3 solutions.",
+                        "bbox": [
+                            70,
+                            374,
+                            369,
+                            392
+                        ],
+                        "page_number": 19
                     }
                 ]
             },
@@ -1274,23 +1290,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(c) The equation \\(x^{3} + x^{2} - x = k\\) has fewer than 3 solutions.",
-                        "bbox": [
-                            117,
-                            444,
-                            620,
-                            465
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "Find the range of possible values for \\(k\\) .",
                         "bbox": [
-                            155,
-                            496,
-                            460,
-                            513
-                        ]
+                            92,
+                            418,
+                            274,
+                            432
+                        ],
+                        "page_number": 19
                     }
                 ]
             }
@@ -1307,11 +1314,12 @@
                         "type": "text",
                         "text": "23 (a) Simplify \\(\\left(\\frac{x^2}{4}\\right)^{\\frac{3}{2}}\\) .",
                         "bbox": [
-                            80,
-                            78,
-                            280,
-                            111
-                        ]
+                            48,
+                            66,
+                            167,
+                            94
+                        ],
+                        "page_number": 20
                     }
                 ]
             },
@@ -1322,31 +1330,34 @@
                         "type": "text",
                         "text": "[2]",
                         "bbox": [
-                            640,
-                            252,
-                            916,
-                            270
-                        ]
+                            381,
+                            212,
+                            546,
+                            228
+                        ],
+                        "page_number": 20
                     },
                     {
                         "type": "text",
                         "text": "(b) \\(16^x \\times \\left(\\frac{1}{2}\\right)^x = 4^{x+3}\\)",
                         "bbox": [
-                            117,
-                            275,
-                            358,
-                            303
-                        ]
+                            70,
+                            232,
+                            213,
+                            255
+                        ],
+                        "page_number": 20
                     },
                     {
                         "type": "text",
                         "text": "Find the value of \\(x\\) .",
                         "bbox": [
-                            155,
-                            313,
-                            307,
-                            328
-                        ]
+                            92,
+                            264,
+                            183,
+                            276
+                        ],
+                        "page_number": 20
                     }
                 ]
             }

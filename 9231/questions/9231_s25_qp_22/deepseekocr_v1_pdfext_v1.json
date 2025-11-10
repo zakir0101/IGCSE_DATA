@@ -6,11 +6,12 @@
                 "type": "text",
                 "text": "1 Find the roots of the equation \\(z^3 = 27 - 27i\\), giving your answers in the form \\(re^{i\\theta}\\), where \\(r > 0\\) and \\(-\\pi \\le \\theta < \\pi\\). [5]",
                 "bbox": [
-                    80,
-                    73,
-                    917,
-                    108
-                ]
+                    48,
+                    62,
+                    546,
+                    91
+                ],
+                "page_number": 2
             }
         ]
     },
@@ -20,11 +21,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    68,
-                    30,
-                    415,
-                    66
+                    41,
+                    25,
+                    247,
+                    56
                 ],
+                "page_number": 3,
                 "image": {
                     "caption": "",
                     "page": 3
@@ -34,41 +36,44 @@
                 "type": "text",
                 "text": "2 Let \\(I_n = \\int_0^1 (1-x)^n \\sinh x \\, dx\\), where \\(n\\) is a non-negative integer.",
                 "bbox": [
-                    78,
-                    67,
-                    610,
-                    101
-                ]
+                    46,
+                    56,
+                    363,
+                    85
+                ],
+                "page_number": 3
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
                         "text": "(a) Show that, for \\(n \\ge 2\\), \\(I_n = -1 + n(n-1)I_{n-2}\\). [4]",
                         "bbox": [
-                            117,
-                            105,
-                            916,
-                            125
-                        ]
+                            70,
+                            88,
+                            546,
+                            105
+                        ],
+                        "page_number": 3
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "text": "(b) Find the exact value of \\(I_2\\). [3]",
                         "bbox": [
-                            117,
-                            600,
-                            916,
-                            618
-                        ]
+                            70,
+                            506,
+                            546,
+                            521
+                        ],
+                        "page_number": 3
                     }
                 ]
             }
@@ -81,41 +86,34 @@
                 "type": "text",
                 "text": "3 By considering the binomial expansion of \\(\\left(z - \\frac{1}{z}\\right)^5\\), where \\(z = \\cos \\theta + i \\sin \\theta\\), use de Moivre's theorem to show that",
                 "bbox": [
-                    78,
-                    74,
-                    916,
-                    115
-                ]
+                    46,
+                    62,
+                    546,
+                    97
+                ],
+                "page_number": 4
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[\\cos \\mathrm{e}^{5}\\theta = \\frac{a}{\\sin 5\\theta + b\\sin 3\\theta + c\\sin\\theta},\\]",
                 "bbox": [
-                    355,
-                    139,
-                    640,
-                    170
-                ]
-            },
-            {
-                "type": "text",
-                "text": "where \\(a, b\\) and \\(c\\) are integers to be determined.",
-                "bbox": [
+                    211,
                     117,
-                    190,
-                    480,
-                    207
-                ]
+                    381,
+                    143
+                ],
+                "page_number": 4
             },
             {
                 "type": "text",
-                "text": "[6]",
+                "text": "where \\(a, b\\) and \\(c\\) are integers to be determined. [6]",
                 "bbox": [
-                    888,
-                    191,
-                    916,
-                    207
-                ]
+                    70,
+                    160,
+                    286,
+                    174
+                ],
+                "page_number": 4
             }
         ]
     },
@@ -125,65 +123,70 @@
             {
                 "type": "image",
                 "bbox": [
-                    100,
-                    88,
-                    872,
-                    505
+                    60,
+                    74,
+                    519,
+                    426
                 ],
+                "page_number": 6,
                 "image": {
                     "caption": "",
                     "page": 6
                 }
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curve with equation \\(y = \\frac{1}{\\sqrt{x}} \\mathrm{e}^{\\sqrt{x}}\\) for \\(x \\geqslant 1\\) , together with a set of \\(n - 1\\) rectangles of unit width.",
+                "bbox": [
+                    70,
+                    434,
+                    546,
+                    468
+                ],
+                "page_number": 6
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
-                    {
-                        "type": "text",
-                        "text": "The diagram shows the curve with equation \\(y = \\frac{1}{\\sqrt{x}} \\mathrm{e}^{\\sqrt{x}}\\) for \\(x \\geqslant 1\\) , together with a set of \\(n - 1\\) rectangles of unit width.",
-                        "bbox": [
-                            117,
-                            515,
-                            917,
-                            555
-                        ]
-                    },
                     {
                         "type": "text",
                         "text": "(a) By considering the sum of the areas of these rectangles, show that",
                         "bbox": [
-                            117,
-                            566,
-                            671,
-                            585
-                        ]
+                            70,
+                            477,
+                            400,
+                            493
+                        ],
+                        "page_number": 6
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[\\sum_{r = 1}^{n}\\frac{1}{\\sqrt{r}}\\mathrm{e}^{\\sqrt{r}}< \\left(2 + \\frac{1}{\\sqrt{n}}\\right)\\mathrm{e}^{\\sqrt{n}} - 2\\mathrm{e}. \\quad (5)\\]",
                         "bbox": [
-                            371,
-                            601,
-                            915,
-                            644
-                        ]
+                            221,
+                            507,
+                            545,
+                            543
+                        ],
+                        "page_number": 6
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "text": "(b) Use a similar method to find, in terms of \\(n\\), a lower bound for \\(\\sum_{r=1}^{n} \\frac{1}{\\sqrt{r}} e^{\\sqrt{r}}\\). [4]",
                         "bbox": [
-                            111,
-                            250,
-                            916,
-                            280
-                        ]
+                            66,
+                            211,
+                            546,
+                            236
+                        ],
+                        "page_number": 7
                     }
                 ]
             }
@@ -196,41 +199,34 @@
                 "type": "text",
                 "text": "5 Find the particular solution of the differential equation",
                 "bbox": [
-                    78,
-                    71,
-                    545,
-                    88
-                ]
+                    46,
+                    60,
+                    325,
+                    74
+                ],
+                "page_number": 8
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[6 \\frac{d^2 x}{dt^2} + 3 \\frac{dx}{dt} + 6x = e^{-t},\\]",
                 "bbox": [
-                    402,
-                    109,
-                    595,
-                    144
-                ]
+                    239,
+                    92,
+                    354,
+                    121
+                ],
+                "page_number": 8
             },
             {
                 "type": "text",
-                "text": "given that, when \\(t = 0\\), \\(x = \\frac{dx}{dt} = 0\\).",
+                "text": "given that, when \\(t = 0\\), \\(x = \\frac{dx}{dt} = 0\\). [10]",
                 "bbox": [
-                    117,
-                    160,
-                    400,
-                    190
-                ]
-            },
-            {
-                "type": "text",
-                "text": "[10]",
-                "bbox": [
-                    876,
-                    165,
-                    916,
-                    181
-                ]
+                    70,
+                    135,
+                    238,
+                    160
+                ],
+                "page_number": 8
             }
         ]
     },
@@ -239,102 +235,110 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
                         "text": "6 (a) Starting from the definitions of tanh and sech in terms of exponentials, prove that",
                         "bbox": [
-                            78,
-                            71,
-                            790,
-                            88
-                        ]
+                            46,
+                            60,
+                            471,
+                            74
+                        ],
+                        "page_number": 10
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[1 - \\tanh^2 u = \\text{sech}^2 u. \\quad [3]\\]",
                         "bbox": [
-                            413,
-                            99,
-                            915,
-                            120
-                        ]
+                            246,
+                            83,
+                            545,
+                            101
+                        ],
+                        "page_number": 10
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "text": "(b) Show that \\(\\frac{d}{dt}(\\text{sech}^{-1}t) = -\\frac{1}{t\\sqrt{1-t^2}}\\). \\quad [4]",
                         "bbox": [
-                            156,
-                            512,
-                            915,
-                            550
-                        ]
+                            93,
+                            432,
+                            545,
+                            464
+                        ],
+                        "page_number": 10
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
                         "text": "It is given that",
                         "bbox": [
-                            117,
-                            72,
-                            234,
-                            87
-                        ]
+                            70,
+                            61,
+                            139,
+                            73
+                        ],
+                        "page_number": 11
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[x = \\tanh^{-1}t\\qquad \\mathrm{and}\\qquad y = t\\mathrm{sech}^{-1}t,\\qquad \\mathrm{for}0< t< 1.\\]",
                         "bbox": [
-                            281,
-                            100,
-                            714,
-                            120
-                        ]
+                            167,
+                            84,
+                            425,
+                            101
+                        ],
+                        "page_number": 11
                     },
                     {
                         "type": "text",
                         "text": "(c) Show that \\(\\frac{\\mathrm{d}y}{\\mathrm{d}x} = -\\sqrt{1 - t^2} + (1 - t^2)\\mathrm{sech}^{-1}t.\\)",
                         "bbox": [
-                            117,
-                            141,
-                            490,
-                            171
-                        ]
+                            70,
+                            119,
+                            292,
+                            144
+                        ],
+                        "page_number": 11
                     }
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
                         "text": "(d) Find \\(\\frac{\\mathrm{d}^2y}{\\mathrm{d}x^2}\\) in terms of \\(t\\) .",
                         "bbox": [
-                            117,
-                            450,
-                            336,
-                            485
-                        ]
+                            70,
+                            379,
+                            200,
+                            409
+                        ],
+                        "page_number": 11
                     },
                     {
                         "type": "text",
                         "text": "[4]",
                         "bbox": [
-                            117,
-                            500,
-                            912,
-                            927
-                        ]
+                            70,
+                            421,
+                            543,
+                            781
+                        ],
+                        "page_number": 11
                     }
                 ]
             }
@@ -347,41 +351,34 @@
                 "type": "text",
                 "text": "7 Find the solution of the differential equation",
                 "bbox": [
-                    80,
-                    71,
-                    465,
-                    88
-                ]
+                    48,
+                    60,
+                    277,
+                    74
+                ],
+                "page_number": 12
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[ \\frac{dy}{dx} = \\frac{x+5}{x^2 + 10x + 61} y = 1, \\]",
                 "bbox": [
-                    395,
-                    109,
-                    600,
-                    145
-                ]
+                    235,
+                    92,
+                    357,
+                    122
+                ],
+                "page_number": 12
             },
             {
                 "type": "text",
-                "text": "given that \\(y = 0\\) when \\(x = 3\\). Give your answer in an exact form.",
+                "text": "given that \\(y = 0\\) when \\(x = 3\\). Give your answer in an exact form. [10]",
                 "bbox": [
-                    118,
-                    164,
-                    630,
-                    182
-                ]
-            },
-            {
-                "type": "text",
-                "text": "[10]",
-                "bbox": [
-                    876,
-                    164,
-                    916,
-                    182
-                ]
+                    70,
+                    138,
+                    375,
+                    153
+                ],
+                "page_number": 12
             }
         ]
     },
@@ -390,92 +387,99 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
                         "text": "8 (a) It is given that \\(\\lambda\\) is an eigenvalue of the non-singular square matrix \\(\\mathbf{A}\\), with corresponding eigenvector \\(\\mathbf{e}\\).",
                         "bbox": [
-                            78,
-                            72,
-                            917,
-                            106
-                        ]
+                            46,
+                            61,
+                            546,
+                            89
+                        ],
+                        "page_number": 14
                     },
                     {
                         "type": "text",
                         "text": "Show that \\(\\mathbf{e}\\) is an eigenvector of \\(\\mathbf{A}^3\\) with corresponding eigenvalue \\(\\lambda^3\\). [2]",
                         "bbox": [
-                            155,
-                            116,
-                            917,
-                            139
-                        ]
+                            92,
+                            98,
+                            546,
+                            117
+                        ],
+                        "page_number": 14
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "text": "The matrix \\(\\mathbf{A}\\) is given by",
                         "bbox": [
-                            118,
-                            399,
-                            320,
-                            417
-                        ]
+                            70,
+                            336,
+                            191,
+                            351
+                        ],
+                        "page_number": 14
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[ \\mathbf{A} = \\begin{pmatrix} -1 & 3 & 4 \\\\ 0 & 1 & 0 \\\\ 0 & -2 & 5 \\end{pmatrix}. \\]",
                         "bbox": [
-                            424,
-                            425,
-                            576,
-                            481
-                        ]
+                            253,
+                            358,
+                            343,
+                            405
+                        ],
+                        "page_number": 14
                     },
                     {
                         "type": "text",
                         "text": "(b) Show that the eigenvalues of \\(\\mathbf{A}\\) are \\(-1, 1\\) and \\(5\\). [2]",
                         "bbox": [
-                            118,
-                            506,
-                            917,
-                            523
-                        ]
+                            70,
+                            426,
+                            546,
+                            441
+                        ],
+                        "page_number": 14
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
                         "text": "(c) Find a matrix \\(\\mathbf{P}\\) and a diagonal matrix \\(\\mathbf{D}\\) such that \\(\\mathbf{A} - 2\\mathbf{I} = \\mathbf{P}\\mathbf{D}\\mathbf{P}^{-1}\\) .",
                         "bbox": [
-                            117,
-                            73,
-                            721,
-                            94
-                        ]
+                            70,
+                            62,
+                            429,
+                            79
+                        ],
+                        "page_number": 15
                     }
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
                         "text": "(d) Use the characteristic equation of \\(\\mathbf{A}\\) to show that \\((\\mathbf{A} - 2\\mathbf{I})^3 = a\\mathbf{A}^2 + b\\mathbf{A} + c\\mathbf{I}\\) where \\(a\\) , \\(b\\) and \\(c\\) are constants to be determined. [3]",
                         "bbox": [
-                            117,
-                            570,
-                            916,
-                            604
-                        ]
+                            70,
+                            480,
+                            546,
+                            509
+                        ],
+                        "page_number": 15
                     }
                 ]
             }

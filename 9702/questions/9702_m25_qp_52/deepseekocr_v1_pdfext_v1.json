@@ -1,0 +1,554 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "text": "1 Fig. 1.1 shows two identical cylindrical metal conductors P and Q, each of length \\(L\\) and cross-sectional area \\(A\\) .",
+                "bbox": [
+                    48,
+                    61,
+                    547,
+                    88
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    97,
+                    99,
+                    491,
+                    263
+                ],
+                "page_number": 2,
+                "image": {
+                    "caption": "<center>Fig. 1.1 </center>",
+                    "page": 2
+                }
+            },
+            {
+                "type": "text",
+                "text": "The conductors are placed parallel to each other. The perpendicular distance from the midpoint of P to point X is \\(p\\) . The perpendicular distance from the midpoint of Q to point X is \\(q\\) .",
+                "bbox": [
+                    70,
+                    303,
+                    547,
+                    332
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "The two conductors are electrically connected in parallel. This parallel combination is connected in series to a power supply and a resistor. The potential difference \\(V\\) between the ends of P is the same as the potential difference between the ends of Q.",
+                "bbox": [
+                    70,
+                    342,
+                    547,
+                    384
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "The magnetic flux density at X due to the currents in the conductors is \\(B\\) .",
+                "bbox": [
+                    70,
+                    394,
+                    425,
+                    410
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "It is suggested that \\(B\\) is related to \\(p\\) by the relationship",
+                "bbox": [
+                    70,
+                    421,
+                    338,
+                    435
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[B = \\frac{YAV}{Lp} +\\frac{YZAV}{Lq}\\]",
+                "bbox": [
+                    253,
+                    438,
+                    342,
+                    468
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "where Y and Z are constants.",
+                "bbox": [
+                    70,
+                    473,
+                    216,
+                    486
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "Plan a laboratory experiment to test the relationship between \\(B\\) and \\(p\\) .",
+                "bbox": [
+                    70,
+                    498,
+                    412,
+                    513
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "Draw a diagram showing the arrangement of your equipment.",
+                "bbox": [
+                    70,
+                    524,
+                    370,
+                    539
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "Explain how the results could be used to determine values for Y and Z.",
+                "bbox": [
+                    70,
+                    550,
+                    416,
+                    565
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "In your plan you should include:",
+                "bbox": [
+                    70,
+                    577,
+                    227,
+                    591
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "- the procedure to be followed- the measurements to be taken- the control of variables- the analysis of the data- any safety precautions to be taken.",
+                "bbox": [
+                    70,
+                    602,
+                    265,
+                    721
+                ],
+                "page_number": 2
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2 A student investigates the cooling of a liquid in a beaker.",
+                "bbox": [
+                    48,
+                    61,
+                    345,
+                    74
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "text",
+                "text": "The temperature \\(\\theta_{\\mathrm{R}}\\) of the laboratory is measured using a thermometer. Hot water is added to an insulated beaker, as shown in Fig. 2.1.",
+                "bbox": [
+                    68,
+                    86,
+                    421,
+                    128
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    146,
+                    137,
+                    447,
+                    342
+                ],
+                "page_number": 5,
+                "image": {
+                    "caption": "<center>Fig. 2.1 </center>",
+                    "page": 5
+                }
+            },
+            {
+                "type": "text",
+                "text": "The thermometer measures the temperature of the water. At time \\(t\\) the temperature of the water is \\(\\theta\\) .",
+                "bbox": [
+                    70,
+                    380,
+                    546,
+                    407
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "text",
+                "text": "A series of readings of \\(t\\) and \\(\\theta\\) are taken.",
+                "bbox": [
+                    70,
+                    419,
+                    269,
+                    433
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "text",
+                "text": "It is suggested that \\(\\theta\\) and \\(t\\) are related by the equation",
+                "bbox": [
+                    70,
+                    445,
+                    336,
+                    460
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\theta = \\theta_{\\mathrm{R}} + (\\theta_{0} - \\theta_{\\mathrm{R}})\\mathrm{e}^{-(\\frac{t}{k})}\\]",
+                "bbox": [
+                    241,
+                    470,
+                    353,
+                    491
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "text",
+                "text": "where \\(\\theta_0\\) is the temperature at \\(t = 0\\) and \\(K\\) is a constant.",
+                "bbox": [
+                    70,
+                    501,
+                    344,
+                    515
+                ],
+                "page_number": 5
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) A graph is plotted of \\(\\ln (\\theta - \\theta_{\\mathrm{R}})\\) on the \\(y\\) -axis against \\(t\\) on the \\(x\\) -axis.",
+                        "bbox": [
+                            70,
+                            527,
+                            420,
+                            542
+                        ],
+                        "page_number": 5
+                    },
+                    {
+                        "type": "text",
+                        "text": "Determine expressions for the gradient and \\(y\\) - intercept.",
+                        "bbox": [
+                            92,
+                            553,
+                            363,
+                            567
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "gradient =",
+                        "bbox": [
+                            280,
+                            708,
+                            546,
+                            723
+                        ],
+                        "page_number": 5
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(y\\) - intercept =",
+                        "bbox": [
+                            280,
+                            735,
+                            546,
+                            750
+                        ],
+                        "page_number": 5
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Values of \\(t\\) and \\(\\theta\\) are given in Table 2.1.",
+                        "bbox": [
+                            70,
+                            62,
+                            286,
+                            75
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            86,
+                            114,
+                            507,
+                            378
+                        ],
+                        "page_number": 6,
+                        "table": {
+                            "caption": "Table 2.1",
+                            "html": "\nTable 2.1 \n\n"
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "The value of \\(\\theta_R\\) is \\((18.5 \\pm 0.5)°C\\).",
+                        "bbox": [
+                            94,
+                            387,
+                            258,
+                            401
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "text",
+                        "text": "Calculate and record values of \\((\\theta - \\theta_R)/°C\\) and \\(\\ln((\\theta - \\theta_R)/°C)\\) in Table 2.1. Include the absolute uncertainties in \\((\\theta - \\theta_R)\\) and \\(\\ln((\\theta - \\theta_R)/°C)\\). [2]",
+                        "bbox": [
+                            94,
+                            412,
+                            460,
+                            426
+                        ],
+                        "page_number": 6
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(c) (i) Plot a graph of \\(\\ln((\\theta - \\theta_R)/°C)\\) against \\(t/\\text{min}\\). Include error bars for \\(\\ln((\\theta - \\theta_R)/°C)\\). [2]",
+                                "bbox": [
+                                    70,
+                                    450,
+                                    546,
+                                    466
+                                ],
+                                "page_number": 6
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Draw the straight line of best fit and a worst acceptable straight line on your graph. Label both lines. [2]",
+                                "bbox": [
+                                    91,
+                                    477,
+                                    546,
+                                    504
+                                ],
+                                "page_number": 6
+                            }
+                        ]
+                    },
+                    {
+                        "label": "iii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(iii) Determine the gradient of the line of best fit. Include the absolute uncertainty in your answer.",
+                                "bbox": [
+                                    88,
+                                    516,
+                                    546,
+                                    543
+                                ],
+                                "page_number": 6
+                            }
+                        ]
+                    },
+                    {
+                        "label": "iv",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "gradient = ................................................ [2]",
+                                "bbox": [
+                                    295,
+                                    711,
+                                    546,
+                                    726
+                                ],
+                                "page_number": 6
+                            },
+                            {
+                                "type": "text",
+                                "text": "(iv) Determine the \\(y\\) - intercept of the line of best fit. Include the absolute uncertainty in your answer.",
+                                "bbox": [
+                                    86,
+                                    60,
+                                    546,
+                                    88
+                                ],
+                                "page_number": 8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "d",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "\\(y\\) - intercept = [2]",
+                        "bbox": [
+                            283,
+                            190,
+                            546,
+                            206
+                        ],
+                        "page_number": 8
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(d) (i) Using your answers to (a), (c)(iii) and (c)(iv), determine the values of \\(K\\) and \\(\\theta_0\\) . Include appropriate units.",
+                                "bbox": [
+                                    70,
+                                    216,
+                                    546,
+                                    245
+                                ],
+                                "page_number": 8
+                            },
+                            {
+                                "type": "text",
+                                "text": "\\(K =\\)",
+                                "bbox": [
+                                    326,
+                                    385,
+                                    546,
+                                    400
+                                ],
+                                "page_number": 8
+                            },
+                            {
+                                "type": "text",
+                                "text": "\\(\\theta_0 =\\) [2]",
+                                "bbox": [
+                                    326,
+                                    413,
+                                    546,
+                                    428
+                                ],
+                                "page_number": 8
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Determine the absolute uncertainty in your value of \\(\\theta_0\\) .",
+                                "bbox": [
+                                    89,
+                                    450,
+                                    382,
+                                    466
+                                ],
+                                "page_number": 8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "e",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "absolute uncertainty = [1]",
+                        "bbox": [
+                            236,
+                            580,
+                            546,
+                            596
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "text",
+                        "text": "(e) Determine the time \\(t\\) for the temperature to reach \\(25.0^{\\circ}\\mathrm{C}\\) .",
+                        "bbox": [
+                            70,
+                            606,
+                            376,
+                            621
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(t =\\) min [1]",
+                        "bbox": [
+                            332,
+                            710,
+                            546,
+                            725
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "text",
+                        "text": "[Total: 15]",
+                        "bbox": [
+                            495,
+                            737,
+                            546,
+                            750
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            }
+        ]
+    }
+]

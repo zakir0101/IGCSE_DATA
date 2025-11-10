@@ -1,0 +1,531 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "text": "1 A thin solid disc of radius \\(r\\) and thickness \\(z\\) is attached to a thin axle. String is wrapped around the axle, as shown in Fig. 1.1.",
+                "bbox": [
+                    48,
+                    60,
+                    546,
+                    88
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    131,
+                    97,
+                    463,
+                    324
+                ],
+                "page_number": 2,
+                "image": {
+                    "caption": "<center>Fig. 1.1 </center>",
+                    "page": 2
+                }
+            },
+            {
+                "type": "text",
+                "text": "A block of mass \\(m\\) is attached to the string.",
+                "bbox": [
+                    70,
+                    366,
+                    281,
+                    380
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "The block is released from rest and falls downwards. The block has speed \\(v\\) when it has fallen through a distance \\(h\\) from the point of release. The value of \\(v\\) is determined using one light gate connected to a timer.",
+                "bbox": [
+                    70,
+                    390,
+                    546,
+                    432
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "It is suggested that \\(v\\) is related to \\(m\\) by the relationship",
+                "bbox": [
+                    70,
+                    442,
+                    338,
+                    458
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\frac{h}{v^2} = \\frac{\\pi r^2 z}{2PQm} + \\frac{1}{P}\\]",
+                "bbox": [
+                    251,
+                    464,
+                    342,
+                    494
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "where \\(P\\) and \\(Q\\) are constants.",
+                "bbox": [
+                    70,
+                    499,
+                    217,
+                    512
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "Plan a laboratory experiment to test the relationship between \\(v\\) and \\(m\\) .",
+                "bbox": [
+                    70,
+                    523,
+                    413,
+                    539
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "Draw a diagram showing the arrangement of your equipment.",
+                "bbox": [
+                    70,
+                    550,
+                    370,
+                    565
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "Explain how the results could be used to determine values for \\(P\\) and \\(Q\\) .",
+                "bbox": [
+                    70,
+                    576,
+                    418,
+                    591
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "In your plan you should include:",
+                "bbox": [
+                    70,
+                    602,
+                    228,
+                    616
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "- the procedure to be followed- the measurements to be taken- the control of variables- the analysis of the data- any safety precautions to be taken.",
+                "bbox": [
+                    70,
+                    627,
+                    266,
+                    740
+                ],
+                "page_number": 2
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2 A student investigates a circuit containing capacitors. The circuit is connected with a capacitor of capacitance \\(A\\) , as shown in Fig. 2.1.",
+                "bbox": [
+                    48,
+                    61,
+                    548,
+                    88
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    219,
+                    99,
+                    373,
+                    354
+                ],
+                "page_number": 5,
+                "image": {
+                    "caption": "<center>Fig. 2.1 </center>",
+                    "page": 5
+                }
+            },
+            {
+                "type": "text",
+                "text": "Two capacitors, each of capacitance \\(C\\) , are connected in parallel between P and \\(Q\\) .",
+                "bbox": [
+                    71,
+                    396,
+                    476,
+                    411
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "text",
+                "text": "Initially, switch \\(X\\) and switch \\(Z\\) are closed and switch \\(Y\\) is open.",
+                "bbox": [
+                    70,
+                    421,
+                    378,
+                    437
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "text",
+                "text": "Switches \\(X\\) and \\(Z\\) are opened. Switch \\(Y\\) is then closed. The maximum potential difference between \\(P\\) and \\(Q\\) is measured using the voltmeter. This procedure is repeated and the mean maximum potential difference \\(V\\) between \\(P\\) and \\(Q\\) is determined.",
+                "bbox": [
+                    70,
+                    448,
+                    546,
+                    489
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "text",
+                "text": "The experiment is then repeated by changing the number \\(n\\) of capacitors, each of capacitance \\(C\\) , connected in parallel between \\(P\\) and \\(Q\\) .",
+                "bbox": [
+                    70,
+                    500,
+                    546,
+                    528
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "text",
+                "text": "It is suggested that \\(V\\) and \\(n\\) are related by the equation",
+                "bbox": [
+                    70,
+                    539,
+                    339,
+                    554
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[EA = V(nC + A)\\]",
+                "bbox": [
+                    257,
+                    565,
+                    337,
+                    580
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "text",
+                "text": "where \\(E\\) is the electromotive force (e.m.f.) of the battery.",
+                "bbox": [
+                    70,
+                    590,
+                    345,
+                    605
+                ],
+                "page_number": 5
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) A graph is plotted of \\(\\frac{1}{V}\\) on the \\(y\\) -axis against \\(n\\) on the \\(x\\) -axis.",
+                        "bbox": [
+                            70,
+                            614,
+                            391,
+                            641
+                        ],
+                        "page_number": 5
+                    },
+                    {
+                        "type": "text",
+                        "text": "Determine expressions for the gradient and \\(y\\) - intercept.",
+                        "bbox": [
+                            92,
+                            646,
+                            363,
+                            662
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\mathrm{gradient} = \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\quad (1)\\]",
+                        "bbox": [
+                            283,
+                            737,
+                            546,
+                            775
+                        ],
+                        "page_number": 5
+                    },
+                    {
+                        "type": "text",
+                        "text": "9702/52/M/J/25 [Turn over",
+                        "bbox": [
+                            283,
+                            775,
+                            546,
+                            790
+                        ],
+                        "page_number": 5
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Values of \\(n\\) and the two measured values of the maximum potential difference \\(V_{1}\\) and \\(V_{2}\\) are given in Table 2.1.",
+                        "bbox": [
+                            70,
+                            60,
+                            546,
+                            88
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            91,
+                            126,
+                            501,
+                            387
+                        ],
+                        "page_number": 6,
+                        "table": {
+                            "caption": "Table 2.1   \n\n<table><tr><td>n</td><td>V1/V</td><td>V2/V</td><td>V/V</td><td>1/V-1</td></tr><tr><td>2</td><td>4.30</td><td>4.20</td><td></td><td></td></tr><tr><td>3</td><td>3.65</td><td>3.75</td><td></td><td></td></tr><tr><td>4</td><td>3.30</td><td>3.20</td><td></td><td></td></tr><tr><td>5</td><td>2.85</td><td>2.95</td><td></td><td></td></tr><tr><td>6</td><td>2.65</td><td>2.55</td><td></td><td></td></tr><tr><td>7</td><td>2.30</td><td>2.40</td><td></td><td></td></tr></table>",
+                            "html": "\n"
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "Calculate and record values of \\(V / V\\) and \\(\\frac{1}{V} /V^{- 1}\\) in Table 2.1. Include the absolute uncertainties in \\(V\\) and \\(\\frac{1}{V}\\) . [2]",
+                        "bbox": [
+                            91,
+                            407,
+                            546,
+                            452
+                        ],
+                        "page_number": 6
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": []
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(c) (i) Plot a graph of \\(\\frac{1}{V} /V^{-1}\\) against \\(n\\) . Include error bars for \\(\\frac{1}{V}\\) . [2] (ii) Draw the straight line of best fit and a worst acceptable straight line on your graph. Label both lines. [2] (iii) Determine the gradient of the line of best fit. Include the absolute uncertainty in your answer.",
+                                "bbox": [
+                                    70,
+                                    453,
+                                    546,
+                                    552
+                                ],
+                                "page_number": 6
+                            }
+                        ]
+                    },
+                    {
+                        "label": "iii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "gradient = [2]",
+                                "bbox": [
+                                    295,
+                                    692,
+                                    546,
+                                    708
+                                ],
+                                "page_number": 6
+                            }
+                        ]
+                    },
+                    {
+                        "label": "iv",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(iv) Determine the \\(y\\) - intercept of the line of best fit. Include the absolute uncertainty in your answer.",
+                                "bbox": [
+                                    86,
+                                    60,
+                                    546,
+                                    87
+                                ],
+                                "page_number": 8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "d",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "\\(y\\) - intercept = [2]",
+                        "bbox": [
+                            283,
+                            177,
+                            546,
+                            192
+                        ],
+                        "page_number": 8
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(d) (i) Using your answers to (a), (c)(iii) and (c)(iv), determine the values of \\(E\\) and \\(C\\). Include appropriate units.",
+                                "bbox": [
+                                    70,
+                                    202,
+                                    546,
+                                    232
+                                ],
+                                "page_number": 8
+                            },
+                            {
+                                "type": "text",
+                                "text": "Data: \\(A = (2.2 \\pm 0.2) \\text{mF}\\)",
+                                "bbox": [
+                                    116,
+                                    243,
+                                    234,
+                                    257
+                                ],
+                                "page_number": 8
+                            },
+                            {
+                                "type": "text",
+                                "text": "\\(E =\\)",
+                                "bbox": [
+                                    328,
+                                    398,
+                                    546,
+                                    413
+                                ],
+                                "page_number": 8
+                            },
+                            {
+                                "type": "text",
+                                "text": "\\(C =\\) [2]",
+                                "bbox": [
+                                    328,
+                                    425,
+                                    546,
+                                    439
+                                ],
+                                "page_number": 8
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Determine the percentage uncertainty in your value of \\(C\\)",
+                                "bbox": [
+                                    89,
+                                    464,
+                                    393,
+                                    478
+                                ],
+                                "page_number": 8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "e",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "percentage uncertainty = % [1]",
+                        "bbox": [
+                            223,
+                            566,
+                            546,
+                            582
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "text",
+                        "text": "(e) The experiment is repeated with 10 capacitors, each of capacitance \\(C\\), connected in parallel between \\(P\\) and \\(Q\\). Determine the maximum potential difference \\(V\\) between \\(P\\) and \\(Q\\).",
+                        "bbox": [
+                            70,
+                            593,
+                            546,
+                            621
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(V =\\) V [1]",
+                        "bbox": [
+                            328,
+                            715,
+                            546,
+                            730
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "text",
+                        "text": "[Total: 15]",
+                        "bbox": [
+                            495,
+                            742,
+                            546,
+                            754
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            }
+        ]
+    }
+]

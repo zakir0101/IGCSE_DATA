@@ -5,11 +5,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    375,
-                    88,
-                    618,
-                    204
+                    223,
+                    74,
+                    368,
+                    172
                 ],
+                "page_number": 3,
                 "image": {
                     "caption": "",
                     "page": 3
@@ -19,11 +20,12 @@
                 "type": "text",
                 "text": "The diagram shows a circle with centre \\(O\\) and radius \\(5\\mathrm{cm}\\) . The point \\(A\\) lies on the circle. The point \\(B\\) is such that the line \\(AB\\) is a tangent to the circle. \\(OB\\) has length \\(13\\mathrm{cm}\\) .",
                 "bbox": [
-                    118,
-                    222,
-                    586,
-                    286
-                ]
+                    70,
+                    187,
+                    349,
+                    241
+                ],
+                "page_number": 3
             }
         ],
         "parts": [
@@ -34,11 +36,12 @@
                         "type": "text",
                         "text": "(a) Find angle \\(AOB\\) , giving your answer in radians.",
                         "bbox": [
-                            118,
-                            300,
-                            528,
-                            317
-                        ]
+                            70,
+                            253,
+                            314,
+                            267
+                        ],
+                        "page_number": 3
                     }
                 ]
             },
@@ -49,11 +52,12 @@
                         "type": "text",
                         "text": "(b) Find the perimeter of the shaded region.",
                         "bbox": [
-                            118,
-                            434,
-                            468,
-                            450
-                        ]
+                            70,
+                            366,
+                            279,
+                            379
+                        ],
+                        "page_number": 3
                     }
                 ]
             },
@@ -64,11 +68,12 @@
                         "type": "text",
                         "text": "(c) Find the area of the shaded region.",
                         "bbox": [
-                            118,
-                            625,
-                            427,
-                            641
-                        ]
+                            70,
+                            527,
+                            254,
+                            540
+                        ],
+                        "page_number": 3
                     }
                 ]
             }
@@ -85,11 +90,12 @@
                         "type": "text",
                         "text": "2 (a) Find the \\(x\\) - coordinates of the stationary points on the curve \\(y = \\frac{1}{2}(3 - 2x)(x + 2)^2\\). [4]",
                         "bbox": [
-                            78,
-                            75,
-                            803,
-                            101
-                        ]
+                            46,
+                            63,
+                            478,
+                            85
+                        ],
+                        "page_number": 4
                     }
                 ]
             },
@@ -100,20 +106,22 @@
                         "type": "text",
                         "text": "(b) On the axes, sketch the graph of \\(y = \\frac{1}{2} (3 - 2x)(x + 2)^2\\) stating the intercepts with the coordinate axes. [3]",
                         "bbox": [
-                            117,
-                            75,
-                            918,
-                            112
-                        ]
+                            70,
+                            63,
+                            547,
+                            94
+                        ],
+                        "page_number": 5
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            170,
-                            127,
-                            839,
-                            472
+                            101,
+                            107,
+                            500,
+                            398
                         ],
+                        "page_number": 5,
                         "image": {
                             "caption": "",
                             "page": 5
@@ -128,11 +136,12 @@
                         "type": "text",
                         "text": "(c) Find the values of \\(k\\) for which the equation \\(\\frac{1}{2} (3 - 2x)(x + 2)^2 = k\\) has three real and distinct roots. [2]",
                         "bbox": [
-                            117,
-                            498,
-                            918,
-                            536
-                        ]
+                            70,
+                            420,
+                            547,
+                            452
+                        ],
+                        "page_number": 5
                     }
                 ]
             }
@@ -145,11 +154,12 @@
                 "type": "text",
                 "text": "3 Solve the equation \\(6x^{\\frac{3}{5}} + 1 = \\frac{12}{x^{\\frac{3}{5}}}\\) giving your answers correct to 2 decimal places.",
                 "bbox": [
-                    78,
-                    72,
-                    775,
-                    108
-                ]
+                    46,
+                    61,
+                    462,
+                    91
+                ],
+                "page_number": 6
             }
         ]
     },
@@ -164,21 +174,12 @@
                         "type": "text",
                         "text": "4 (a) A team of 10 players is to be chosen from 15 players.",
                         "bbox": [
-                            80,
-                            72,
-                            571,
-                            88
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "The 15 players include 3 sisters who must not be separated.",
-                        "bbox": [
-                            194,
-                            212,
-                            660,
-                            228
-                        ]
+                            48,
+                            61,
+                            340,
+                            74
+                        ],
+                        "page_number": 7
                     }
                 ],
                 "parts": [
@@ -189,11 +190,12 @@
                                 "type": "text",
                                 "text": "(i) Find the number of different teams that can be chosen if there are no restrictions. [1]",
                                 "bbox": [
-                                    152,
-                                    102,
-                                    820,
-                                    120
-                                ]
+                                    91,
+                                    86,
+                                    488,
+                                    101
+                                ],
+                                "page_number": 7
                             }
                         ]
                     },
@@ -202,13 +204,25 @@
                         "content": [
                             {
                                 "type": "text",
+                                "text": "The 15 players include 3 sisters who must not be separated.",
+                                "bbox": [
+                                    116,
+                                    179,
+                                    393,
+                                    192
+                                ],
+                                "page_number": 7
+                            },
+                            {
+                                "type": "text",
                                 "text": "(ii) Find the number of different teams that can be chosen. [3]",
                                 "bbox": [
-                                    150,
-                                    242,
-                                    620,
-                                    259
-                                ]
+                                    89,
+                                    204,
+                                    369,
+                                    218
+                                ],
+                                "page_number": 7
                             }
                         ]
                     }
@@ -221,21 +235,23 @@
                         "type": "text",
                         "text": "(b) A 6-digit number is to be formed using the digits 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9. The 6-digit number cannot start with 0 and all six digits must be different.",
                         "bbox": [
-                            118,
-                            458,
-                            757,
-                            490
-                        ]
+                            70,
+                            386,
+                            451,
+                            413
+                        ],
+                        "page_number": 7
                     },
                     {
                         "type": "text",
                         "text": "Find how many 6- digit numbers can be formed if the 6- digit number is even. [3]",
                         "bbox": [
-                            155,
-                            504,
-                            752,
-                            521
-                        ]
+                            92,
+                            425,
+                            448,
+                            439
+                        ],
+                        "page_number": 7
                     }
                 ]
             }
@@ -248,11 +264,12 @@
                 "type": "text",
                 "text": "5 When \\(\\mathrm{e}^y\\) is plotted against \\(x^2\\) , a straight-line graph with gradient \\(- 3\\) is obtained. The line passes through the point \\((4.30, 5.85)\\) .",
                 "bbox": [
-                    80,
-                    75,
-                    748,
-                    108
-                ]
+                    48,
+                    63,
+                    446,
+                    91
+                ],
+                "page_number": 8
             }
         ],
         "parts": [
@@ -263,11 +280,12 @@
                         "type": "text",
                         "text": "(a) Find \\(y\\) in terms of \\(x\\) .",
                         "bbox": [
-                            118,
-                            123,
-                            315,
-                            140
-                        ]
+                            70,
+                            104,
+                            188,
+                            118
+                        ],
+                        "page_number": 8
                     }
                 ]
             },
@@ -278,11 +296,12 @@
                         "type": "text",
                         "text": "(b) Find the values of \\(x\\) for which \\(y\\) exists.",
                         "bbox": [
-                            118,
-                            495,
-                            457,
-                            512
-                        ]
+                            70,
+                            417,
+                            272,
+                            432
+                        ],
+                        "page_number": 8
                     }
                 ]
             }
@@ -295,11 +314,12 @@
                 "type": "text",
                 "text": "6 It is given that \\(y = \\frac{\\ln(2x^2 + 1)}{x + 2}.\\)",
                 "bbox": [
-                    78,
-                    78,
-                    380,
-                    110
-                ]
+                    46,
+                    66,
+                    226,
+                    93
+                ],
+                "page_number": 9
             }
         ],
         "parts": [
@@ -310,11 +330,12 @@
                         "type": "text",
                         "text": "(a) Find \\(\\frac{\\mathrm{d}y}{\\mathrm{d}x}\\) .",
                         "bbox": [
-                            115,
-                            130,
-                            228,
-                            160
-                        ]
+                            68,
+                            110,
+                            136,
+                            135
+                        ],
+                        "page_number": 9
                     }
                 ]
             },
@@ -325,11 +346,12 @@
                         "type": "text",
                         "text": "(b) Given that \\(x\\) increases from 2 to \\(2 + h\\) , where \\(h\\) is small, find the approximate change in \\(y\\) . [2]",
                         "bbox": [
-                            115,
-                            356,
-                            914,
-                            376
-                        ]
+                            68,
+                            300,
+                            544,
+                            317
+                        ],
+                        "page_number": 9
                     }
                 ]
             },
@@ -340,11 +362,12 @@
                         "type": "text",
                         "text": "(c) Given that \\(y\\) is decreasing by 0.4 units per second, find the corresponding rate of change in \\(x\\) when \\(x = 2\\) . [3]",
                         "bbox": [
-                            115,
-                            577,
-                            916,
-                            610
-                        ]
+                            68,
+                            486,
+                            546,
+                            514
+                        ],
+                        "page_number": 9
                     }
                 ]
             }
@@ -357,21 +380,23 @@
                 "type": "text",
                 "text": "7 It is given that \\(\\mathrm{f}(x) = 2\\mathrm{e}^{x} + a\\) for \\(x \\geqslant 0\\) , where \\(a\\) is an integer",
                 "bbox": [
-                    80,
-                    73,
-                    625,
-                    92
-                ]
+                    48,
+                    62,
+                    372,
+                    78
+                ],
+                "page_number": 10
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[\\mathrm{g}(x) = \\sqrt{x - 1}\\quad \\mathrm{for}\\quad x\\geqslant 1.\\]",
                 "bbox": [
-                    200,
-                    102,
-                    455,
-                    124
-                ]
+                    119,
+                    86,
+                    271,
+                    105
+                ],
+                "page_number": 10
             }
         ],
         "parts": [
@@ -382,11 +407,12 @@
                         "type": "text",
                         "text": "(a) Find the least value of \\(a\\) so that the function gf exists for all \\(x \\geqslant 0\\) .",
                         "bbox": [
-                            117,
-                            135,
-                            675,
-                            154
-                        ]
+                            70,
+                            114,
+                            402,
+                            130
+                        ],
+                        "page_number": 10
                     }
                 ]
             },
@@ -397,11 +423,12 @@
                         "type": "text",
                         "text": "(b) In the case where \\(a = 5\\) , solve the equation \\(\\mathrm{gf}(x) = 3\\) . Give your answer correct to 3 decimal places.",
                         "bbox": [
-                            117,
-                            356,
-                            592,
-                            389
-                        ]
+                            70,
+                            300,
+                            353,
+                            328
+                        ],
+                        "page_number": 10
                     }
                 ]
             }
@@ -418,11 +445,12 @@
                         "type": "text",
                         "text": "8 (a) Show that \\(\\frac{\\sin \\theta \\tan^2 \\theta}{1 + \\tan^2 \\theta}\\) can be written as \\(\\sin^3 \\theta\\).",
                         "bbox": [
-                            75,
-                            75,
-                            543,
-                            110
-                        ]
+                            45,
+                            63,
+                            323,
+                            93
+                        ],
+                        "page_number": 11
                     }
                 ]
             },
@@ -433,11 +461,12 @@
                         "type": "text",
                         "text": "(b) Hence solve the equation \\(\\frac{\\sin 3x \\tan^2 3x}{1 + \\tan^2 3x} = \\frac{1}{8}\\) for \\(-180^\\circ \\le x \\le 180^\\circ\\).",
                         "bbox": [
-                            88,
-                            460,
-                            697,
-                            494
-                        ]
+                            52,
+                            388,
+                            415,
+                            416
+                        ],
+                        "page_number": 11
                     }
                 ]
             }
@@ -450,21 +479,23 @@
                 "type": "text",
                 "text": "9 In this question, all lengths are in metres and time is in seconds.",
                 "bbox": [
-                    78,
-                    72,
-                    615,
-                    88
-                ]
+                    46,
+                    61,
+                    366,
+                    74
+                ],
+                "page_number": 12
             },
             {
                 "type": "text",
                 "text": "A particle, \\(P\\) , moves in a straight line such that \\(t\\) seconds after passing through a fixed point \\(O\\) its displacement, \\(s\\) , is given by \\(s = 5 \\ln (2t + 1) - 5t\\) .",
                 "bbox": [
-                    115,
-                    102,
-                    916,
-                    136
-                ]
+                    68,
+                    86,
+                    546,
+                    115
+                ],
+                "page_number": 12
             }
         ],
         "parts": [
@@ -475,11 +506,12 @@
                         "type": "text",
                         "text": "(a) Find the value of \\(t\\) for which \\(P\\) is instantaneously at rest.",
                         "bbox": [
-                            115,
-                            149,
-                            596,
-                            167
-                        ]
+                            68,
+                            126,
+                            355,
+                            141
+                        ],
+                        "page_number": 12
                     }
                 ]
             },
@@ -490,11 +522,12 @@
                         "type": "text",
                         "text": "(b) Find the distance \\(P\\) travels between \\(t = 0\\) and \\(t = 2\\) .",
                         "bbox": [
-                            115,
-                            556,
-                            562,
-                            573
-                        ]
+                            68,
+                            469,
+                            335,
+                            483
+                        ],
+                        "page_number": 12
                     }
                 ]
             },
@@ -505,11 +538,12 @@
                         "type": "text",
                         "text": "(c) Find an expression for the acceleration of \\(P\\) in terms of \\(t\\).",
                         "bbox": [
-                            117,
-                            72,
-                            600,
-                            88
-                        ]
+                            70,
+                            61,
+                            357,
+                            74
+                        ],
+                        "page_number": 13
                     }
                 ]
             },
@@ -520,11 +554,12 @@
                         "type": "text",
                         "text": "(d) Find the acceleration when \\(t = 4.5\\).",
                         "bbox": [
-                            117,
-                            289,
-                            431,
-                            305
-                        ]
+                            70,
+                            244,
+                            257,
+                            257
+                        ],
+                        "page_number": 13
                     }
                 ]
             }
@@ -537,31 +572,34 @@
                 "type": "text",
                 "text": "10 The expansion of \\((ax - 2)^4 \\left(1 + \\frac{b}{x}\\right)^3\\) is written in descending powers of \\(x\\) .",
                 "bbox": [
-                    80,
-                    75,
-                    696,
-                    105
-                ]
+                    48,
+                    63,
+                    415,
+                    88
+                ],
+                "page_number": 14
             },
             {
                 "type": "text",
                 "text": "The first 3 terms of this expansion are \\(81x^4 + 999x^3 + cx^2\\) . It is given that \\(a\\) , \\(b\\) and \\(c\\) are positive integers.",
                 "bbox": [
-                    117,
-                    111,
-                    582,
-                    146
-                ]
+                    70,
+                    94,
+                    347,
+                    123
+                ],
+                "page_number": 14
             },
             {
                 "type": "text",
                 "text": "Find the values of \\(a\\) , \\(b\\) and \\(c\\) .",
                 "bbox": [
-                    118,
-                    160,
-                    344,
-                    177
-                ]
+                    70,
+                    135,
+                    205,
+                    149
+                ],
+                "page_number": 14
             }
         ]
     },
@@ -572,11 +610,12 @@
                 "type": "text",
                 "text": "11 Solve the equation \\(\\cot (y + 1.5) = 3\\) where \\(y\\) is in radians and \\(0 < y < 6\\) .",
                 "bbox": [
-                    80,
-                    72,
-                    707,
-                    90
-                ]
+                    48,
+                    61,
+                    421,
+                    76
+                ],
+                "page_number": 16
             }
         ]
     }

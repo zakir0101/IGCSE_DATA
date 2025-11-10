@@ -5,11 +5,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    50,
+                    30,
                     0,
-                    850,
-                    30
+                    506,
+                    25
                 ],
+                "page_number": 3,
                 "image": {
                     "caption": "",
                     "page": 3
@@ -24,11 +25,12 @@
                 "type": "text",
                 "text": "2 Solve the equation \\(x^{\\frac{1}{3}} + 1 = \\frac{6}{x^{\\frac{1}{3}}}\\).",
                 "bbox": [
-                    80,
-                    75,
-                    380,
-                    106
-                ]
+                    48,
+                    63,
+                    226,
+                    89
+                ],
+                "page_number": 4
             }
         ]
     },
@@ -39,11 +41,12 @@
                 "type": "text",
                 "text": "3 A circle with centre \\(C\\) has the equation \\(x^{2} + y^{2} - 10x - 4y + 24 = 0\\) .",
                 "bbox": [
-                    78,
-                    73,
-                    647,
-                    93
-                ]
+                    46,
+                    62,
+                    385,
+                    78
+                ],
+                "page_number": 5
             }
         ],
         "parts": [
@@ -54,11 +57,12 @@
                         "type": "text",
                         "text": "(a) Show that the line \\(y = 2x - 3\\) is a tangent to this circle.",
                         "bbox": [
-                            115,
-                            107,
-                            603,
-                            126
-                        ]
+                            68,
+                            90,
+                            359,
+                            106
+                        ],
+                        "page_number": 5
                     }
                 ]
             },
@@ -69,11 +73,12 @@
                         "type": "text",
                         "text": "(b) Given that this tangent touches the circle at the point \\(P\\) , find the coordinates of \\(P\\) .",
                         "bbox": [
-                            115,
-                            308,
-                            788,
-                            327
-                        ]
+                            68,
+                            260,
+                            469,
+                            276
+                        ],
+                        "page_number": 5
                     }
                 ]
             },
@@ -84,11 +89,12 @@
                         "type": "text",
                         "text": "(c) Find the equation of the circle which has its centre at \\(P\\) and passes through the origin.",
                         "bbox": [
-                            115,
-                            445,
-                            820,
-                            464
-                        ]
+                            68,
+                            375,
+                            488,
+                            391
+                        ],
+                        "page_number": 5
                     }
                 ]
             }
@@ -105,21 +111,12 @@
                         "type": "text",
                         "text": "4 (a) Find \\(\\int_{0}^{\\pi} \\sin \\theta d\\theta\\).",
                         "bbox": [
-                            78,
-                            72,
-                            304,
-                            109
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "[2]",
-                        "bbox": [
-                            884,
-                            77,
-                            916,
-                            95
-                        ]
+                            46,
+                            61,
+                            181,
+                            92
+                        ],
+                        "page_number": 6
                     }
                 ]
             },
@@ -130,21 +127,23 @@
                         "type": "text",
                         "text": "(b) Given that \\(0 < \\alpha < \\frac{\\pi}{2}\\), show that \\(\\frac{\\sec \\alpha}{\\cot \\alpha + \\tan \\alpha}\\) can be written as \\(\\sin \\alpha\\).",
                         "bbox": [
-                            88,
-                            293,
-                            728,
-                            323
-                        ]
+                            52,
+                            247,
+                            434,
+                            272
+                        ],
+                        "page_number": 6
                     },
                     {
                         "type": "text",
                         "text": "[3]",
                         "bbox": [
-                            884,
-                            299,
-                            916,
-                            317
-                        ]
+                            527,
+                            252,
+                            546,
+                            267
+                        ],
+                        "page_number": 6
                     }
                 ]
             }
@@ -157,11 +156,12 @@
                 "type": "text",
                 "text": "5 The polynomial p is such that \\(\\mathrm{p}(x) = 3x^{3} - 7x^{2} + ax + b\\) , where \\(a\\) and \\(b\\) are integers. It is given that \\(\\mathrm{p}'(-1) = 21\\) and that \\(x - 2\\) is a factor of \\(\\mathrm{p}(x)\\) .",
                 "bbox": [
-                    78,
-                    73,
-                    794,
-                    128
-                ]
+                    46,
+                    62,
+                    473,
+                    108
+                ],
+                "page_number": 7
             }
         ],
         "parts": [
@@ -172,11 +172,12 @@
                         "type": "text",
                         "text": "(a) Find the values of \\(a\\) and \\(b\\) .",
                         "bbox": [
-                            117,
-                            140,
-                            365,
-                            157
-                        ]
+                            70,
+                            118,
+                            217,
+                            132
+                        ],
+                        "page_number": 7
                     }
                 ]
             },
@@ -187,11 +188,12 @@
                         "type": "text",
                         "text": "(b) Hence write \\(\\mathrm{p}(x)\\) as a product of linear factors with integer coefficients.",
                         "bbox": [
-                            117,
-                            417,
-                            715,
-                            435
-                        ]
+                            70,
+                            351,
+                            426,
+                            367
+                        ],
+                        "page_number": 7
                     }
                 ]
             },
@@ -202,11 +204,12 @@
                         "type": "text",
                         "text": "(c) Using your values of \\(a\\) and \\(b\\) , solve the equation \\(3\\mathrm{e}^{6y} - 7\\mathrm{e}^{4y} + ae^{2y} + b = 0\\) .",
                         "bbox": [
-                            117,
-                            584,
-                            752,
-                            603
-                        ]
+                            70,
+                            492,
+                            448,
+                            508
+                        ],
+                        "page_number": 7
                     }
                 ]
             }
@@ -219,11 +222,12 @@
                 "type": "text",
                 "text": "6 When \\(\\ln y\\) is plotted against \\(x^{3}\\) , a straight line passing through the points \\((2,5)\\) and \\((- 8,25)\\) is obtained.",
                 "bbox": [
-                    78,
-                    75,
-                    916,
-                    95
-                ]
+                    46,
+                    63,
+                    546,
+                    80
+                ],
+                "page_number": 8
             }
         ],
         "parts": [
@@ -234,11 +238,12 @@
                         "type": "text",
                         "text": "(a) Find \\(y\\) in terms of \\(x\\) .",
                         "bbox": [
-                            117,
-                            108,
-                            315,
-                            125
-                        ]
+                            70,
+                            91,
+                            188,
+                            105
+                        ],
+                        "page_number": 8
                     }
                 ]
             },
@@ -249,11 +254,12 @@
                         "type": "text",
                         "text": "(b) Find the value of \\(x\\) when \\(y = \\mathrm{e}^{25}\\) .",
                         "bbox": [
-                            117,
-                            400,
-                            421,
-                            418
-                        ]
+                            70,
+                            337,
+                            251,
+                            352
+                        ],
+                        "page_number": 8
                     }
                 ]
             }
@@ -266,11 +272,12 @@
                 "type": "text",
                 "text": "7 A geometric progression has a 4th term of \\(\\frac{8k^6}{27}\\) and a 6th term of \\(\\frac{32k^{10}}{243}\\) , where \\(k\\) is a constant. The common ratio of this geometric progression is positive.",
                 "bbox": [
-                    78,
-                    75,
-                    881,
-                    132
-                ]
+                    46,
+                    63,
+                    525,
+                    111
+                ],
+                "page_number": 9
             }
         ],
         "parts": [
@@ -281,11 +288,12 @@
                         "type": "text",
                         "text": "(a) Find the common ratio in terms of \\(k\\) and the value of the first term of this geometric progression. [4]",
                         "bbox": [
-                            115,
-                            145,
-                            918,
-                            180
-                        ]
+                            68,
+                            122,
+                            547,
+                            152
+                        ],
+                        "page_number": 9
                     }
                 ]
             },
@@ -296,11 +304,12 @@
                         "type": "text",
                         "text": "(b) Given that this geometric progression has a sum to infinity of 3, find the possible values of \\(k\\) . [3]",
                         "bbox": [
-                            115,
-                            515,
-                            918,
-                            534
-                        ]
+                            68,
+                            434,
+                            547,
+                            450
+                        ],
+                        "page_number": 9
                     }
                 ]
             }
@@ -313,11 +322,12 @@
                 "type": "text",
                 "text": "8 It is given that \\(y = \\frac{\\ln(3x^2 + 16)}{x + 2}\\) .",
                 "bbox": [
-                    78,
-                    75,
-                    386,
-                    105
-                ]
+                    46,
+                    63,
+                    230,
+                    88
+                ],
+                "page_number": 10
             }
         ],
         "parts": [
@@ -328,21 +338,23 @@
                         "type": "text",
                         "text": "(a) Find \\(\\frac{\\mathrm{d}y}{\\mathrm{d}x}\\) when \\(x = 0\\) .",
                         "bbox": [
-                            118,
-                            110,
-                            325,
-                            140
-                        ]
+                            70,
+                            93,
+                            194,
+                            118
+                        ],
+                        "page_number": 10
                     },
                     {
                         "type": "text",
                         "text": "Give your answer in the form \\(\\ln p\\) , where \\(p\\) is a constant.",
                         "bbox": [
-                            155,
-                            147,
-                            598,
-                            165
-                        ]
+                            92,
+                            124,
+                            356,
+                            139
+                        ],
+                        "page_number": 10
                     }
                 ]
             },
@@ -353,11 +365,12 @@
                         "type": "text",
                         "text": "(b) Given that \\(x\\) increases from 0 to \\(h\\) , where \\(h\\) is small, write down the approximate change in \\(y\\) . [1]",
                         "bbox": [
-                            115,
-                            533,
-                            919,
-                            552
-                        ]
+                            68,
+                            449,
+                            547,
+                            465
+                        ],
+                        "page_number": 10
                     }
                 ]
             }
@@ -370,11 +383,12 @@
                 "type": "text",
                 "text": "9 It is given that \\(\\mathrm{f}(x) = 2\\ln (3x - 4)\\) , for \\(x > a\\) , and that \\(\\mathrm{f}^{- 1}\\) exists.",
                 "bbox": [
-                    78,
-                    75,
-                    644,
-                    94
-                ]
+                    46,
+                    63,
+                    384,
+                    79
+                ],
+                "page_number": 11
             }
         ],
         "parts": [
@@ -385,11 +399,12 @@
                         "type": "text",
                         "text": "(a) Find the least possible value of \\(a\\) .",
                         "bbox": [
-                            115,
-                            108,
-                            418,
-                            125
-                        ]
+                            68,
+                            91,
+                            249,
+                            105
+                        ],
+                        "page_number": 11
                     }
                 ]
             },
@@ -400,11 +415,12 @@
                         "type": "text",
                         "text": "(b) For your value of \\(a\\) , find the range of f.",
                         "bbox": [
-                            115,
-                            185,
-                            462,
-                            202
-                        ]
+                            68,
+                            156,
+                            275,
+                            170
+                        ],
+                        "page_number": 11
                     }
                 ]
             },
@@ -415,11 +431,12 @@
                         "type": "text",
                         "text": "(c) For your value of \\(a\\) , find an expression for \\(\\mathrm{f}^{-1}(x)\\) .",
                         "bbox": [
-                            115,
-                            275,
-                            547,
-                            294
-                        ]
+                            68,
+                            232,
+                            326,
+                            248
+                        ],
+                        "page_number": 11
                     }
                 ]
             },
@@ -430,40 +447,55 @@
                         "type": "text",
                         "text": "(d) It is given that the equation \\(\\mathrm{f}(x) = \\mathrm{f}^{-1}(x)\\) has two roots.",
                         "bbox": [
-                            115,
-                            384,
-                            592,
-                            403
-                        ]
+                            68,
+                            324,
+                            353,
+                            340
+                        ],
+                        "page_number": 11
                     },
                     {
                         "type": "text",
                         "text": "For your value of \\(a\\) , sketch the graphs of \\(y = \\mathrm{f}(x)\\) and \\(y = \\mathrm{f}^{- 1}(x)\\) on the axes.",
                         "bbox": [
-                            154,
-                            416,
-                            768,
-                            435
-                        ]
+                            92,
+                            351,
+                            457,
+                            367
+                        ],
+                        "page_number": 11
                     },
                     {
                         "type": "text",
-                        "text": "Label each graph.State the intercepts of each graph with the axes.State the equations of any asymptotes.",
+                        "text": "Label each graph. State the intercepts of each graph with the axes.",
                         "bbox": [
-                            155,
-                            480,
-                            455,
-                            495
-                        ]
+                            92,
+                            378,
+                            176,
+                            390
+                        ],
+                        "page_number": 11
+                    },
+                    {
+                        "type": "text",
+                        "text": "State the equations of any asymptotes.",
+                        "bbox": [
+                            92,
+                            405,
+                            271,
+                            417
+                        ],
+                        "page_number": 11
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            145,
-                            510,
-                            852,
-                            790
+                            86,
+                            430,
+                            507,
+                            666
                         ],
+                        "page_number": 11,
                         "image": {
                             "caption": "",
                             "page": 11
@@ -479,11 +511,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    320,
-                    85,
-                    677,
-                    255
+                    191,
+                    72,
+                    403,
+                    215
                 ],
+                "page_number": 12,
                 "image": {
                     "caption": "",
                     "page": 12
@@ -491,23 +524,47 @@
             },
             {
                 "type": "text",
-                "text": "The diagram shows the shape OABCDEF.AOF is a straight line.OAB and OEF are sectors of a circle with centre \\(O\\) and radius \\(r\\) .Angle \\(BOA =\\) angle EOF.",
+                "text": "The diagram shows the shape OABCDEF. AOF is a straight line.",
                 "bbox": [
-                    118,
-                    321,
-                    323,
-                    336
-                ]
+                    70,
+                    230,
+                    266,
+                    244
+                ],
+                "page_number": 12
+            },
+            {
+                "type": "text",
+                "text": "OAB and OEF are sectors of a circle with centre \\(O\\) and radius \\(r\\) . Angle \\(BOA =\\) angle EOF.",
+                "bbox": [
+                    70,
+                    257,
+                    366,
+                    271
+                ],
+                "page_number": 12
             },
             {
                 "type": "text",
                 "text": "OCD is a sector of a circle with centre \\(O\\) and radius \\(\\frac{4r}{3}\\) .",
                 "bbox": [
-                    118,
-                    344,
-                    553,
-                    373
-                ]
+                    70,
+                    290,
+                    329,
+                    314
+                ],
+                "page_number": 12
+            },
+            {
+                "type": "text",
+                "text": "Angle COD is \\(\\theta\\) radians. The point \\(B\\) lies on the line \\(OC\\) and the point \\(E\\) lies on the line \\(OD\\) . The line \\(BE\\) is parallel to the line \\(AOF\\) .",
+                "bbox": [
+                    70,
+                    320,
+                    186,
+                    334
+                ],
+                "page_number": 12
             }
         ],
         "parts": [
@@ -516,23 +573,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "Angle COD is \\(\\theta\\) radians.The point \\(B\\) lies on the line \\(OC\\) and the point \\(E\\) lies on the line \\(OD\\) . The line \\(BE\\) is parallel to the line \\(AOF\\) .",
-                        "bbox": [
-                            118,
-                            396,
-                            640,
-                            427
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(a) Find, in terms of \\(r\\) and \\(\\theta\\) , the area of the shaded region \\(BCDE\\) .",
                         "bbox": [
-                            118,
-                            442,
-                            643,
-                            459
-                        ]
+                            70,
+                            373,
+                            383,
+                            387
+                        ],
+                        "page_number": 12
                     }
                 ]
             },
@@ -542,15 +590,52 @@
                     {
                         "type": "image",
                         "bbox": [
-                            114,
+                            68,
                             0,
-                            675,
-                            25
+                            402,
+                            21
                         ],
+                        "page_number": 13,
                         "image": {
                             "caption": "",
                             "page": 13
                         }
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b)",
+                        "bbox": [
+                            92,
+                            63,
+                            111,
+                            74
+                        ],
+                        "page_number": 13
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            190,
+                            72,
+                            404,
+                            212
+                        ],
+                        "page_number": 13,
+                        "image": {
+                            "caption": "",
+                            "page": 13
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "The diagram shows the shape from part (a) with region OABEF shaded. Find, in terms of \\(r\\) and \\(\\theta\\) , the perimeter of the shaded region.",
+                        "bbox": [
+                            92,
+                            230,
+                            425,
+                            257
+                        ],
+                        "page_number": 13
                     }
                 ]
             }
@@ -562,11 +647,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    142,
-                    88,
-                    852,
-                    298
+                    85,
+                    74,
+                    507,
+                    251
                 ],
+                "page_number": 14,
                 "image": {
                     "caption": "",
                     "page": 14
@@ -574,13 +660,36 @@
             },
             {
                 "type": "text",
-                "text": "The diagram shows the triangle \\(OAB\\) , where \\(\\overrightarrow{OA} = \\mathbf{a}\\) and \\(\\overrightarrow{OB} = \\mathbf{b}\\) .The point \\(P\\) lies on \\(OA\\) such that \\(\\overrightarrow{OP} = \\frac{3}{4} \\overrightarrow{OA}\\) .The point \\(Q\\) lies on \\(AB\\) such that \\(\\overrightarrow{AQ} = \\frac{1}{3} \\overrightarrow{AB}\\) .",
+                "text": "The diagram shows the triangle \\(OAB\\) , where \\(\\overrightarrow{OA} = \\mathbf{a}\\) and \\(\\overrightarrow{OB} = \\mathbf{b}\\) .",
                 "bbox": [
-                    118,
-                    371,
-                    481,
-                    400
-                ]
+                    70,
+                    263,
+                    397,
+                    282
+                ],
+                "page_number": 14
+            },
+            {
+                "type": "text",
+                "text": "The point \\(P\\) lies on \\(OA\\) such that \\(\\overrightarrow{OP} = \\frac{3}{4} \\overrightarrow{OA}\\) . The point \\(Q\\) lies on \\(AB\\) such that \\(\\overrightarrow{AQ} = \\frac{1}{3} \\overrightarrow{AB}\\) .",
+                "bbox": [
+                    70,
+                    287,
+                    288,
+                    312
+                ],
+                "page_number": 14
+            },
+            {
+                "type": "text",
+                "text": "The straight line through \\(P\\) and \\(Q\\) meets the straight line through \\(O\\) and \\(B\\) at the point \\(R\\) . It is given that \\(\\overrightarrow{OR} = \\lambda \\mathbf{b}\\) and \\(\\overrightarrow{PR} = \\mu \\overrightarrow{PQ}\\) , where \\(\\lambda\\) and \\(\\mu\\) are constants.",
+                "bbox": [
+                    70,
+                    343,
+                    478,
+                    375
+                ],
+                "page_number": 14
             }
         ],
         "parts": [
@@ -589,23 +698,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "The straight line through \\(P\\) and \\(Q\\) meets the straight line through \\(O\\) and \\(B\\) at the point \\(R\\) . It is given that \\(\\overrightarrow{OR} = \\lambda \\mathbf{b}\\) and \\(\\overrightarrow{PR} = \\mu \\overrightarrow{PQ}\\) , where \\(\\lambda\\) and \\(\\mu\\) are constants.",
-                        "bbox": [
-                            118,
-                            407,
-                            802,
-                            445
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(a) Find \\(\\overrightarrow{OR}\\) in terms of \\(\\mathbf{a}\\) , \\(\\mathbf{b}\\) and \\(\\mu\\) .",
                         "bbox": [
-                            118,
-                            469,
-                            410,
-                            489
-                        ]
+                            70,
+                            395,
+                            244,
+                            412
+                        ],
+                        "page_number": 14
                     }
                 ]
             },
@@ -615,11 +715,12 @@
                     {
                         "type": "image",
                         "bbox": [
-                            100,
-                            33,
-                            415,
-                            66
+                            60,
+                            28,
+                            247,
+                            56
                         ],
+                        "page_number": 15,
                         "image": {
                             "caption": "",
                             "page": 15
@@ -629,11 +730,12 @@
                         "type": "text",
                         "text": "(b) Hence find the values of \\(\\lambda\\) and \\(\\mu\\) .",
                         "bbox": [
-                            117,
-                            74,
-                            425,
-                            90
-                        ]
+                            70,
+                            62,
+                            253,
+                            76
+                        ],
+                        "page_number": 15
                     }
                 ]
             }
@@ -646,31 +748,34 @@
                 "type": "text",
                 "text": "12 A curve is such that its gradient at the point \\((x,y)\\) is given by \\((5x - 2)^{\\frac{1}{3}}\\) .",
                 "bbox": [
-                    80,
-                    77,
-                    680,
-                    99
-                ]
+                    48,
+                    65,
+                    405,
+                    83
+                ],
+                "page_number": 16
             },
             {
                 "type": "text",
                 "text": "The curve passes through the point \\(\\left(2, \\frac{32}{5}\\right)\\) .",
                 "bbox": [
-                    118,
-                    105,
-                    460,
-                    133
-                ]
+                    70,
+                    88,
+                    274,
+                    112
+                ],
+                "page_number": 16
             },
             {
                 "type": "text",
                 "text": "Find the coordinates of the stationary point on the curve.",
                 "bbox": [
+                    70,
                     118,
-                    140,
-                    560,
-                    158
-                ]
+                    334,
+                    133
+                ],
+                "page_number": 16
             }
         ]
     }

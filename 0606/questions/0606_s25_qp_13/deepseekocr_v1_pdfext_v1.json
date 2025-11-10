@@ -5,25 +5,16 @@
             {
                 "type": "image",
                 "bbox": [
-                    60,
+                    36,
                     0,
-                    415,
-                    70
+                    247,
+                    59
                 ],
+                "page_number": 3,
                 "image": {
                     "caption": "",
                     "page": 3
                 }
-            },
-            {
-                "type": "text",
-                "text": "Calculators must not be used in this paper.",
-                "bbox": [
-                    330,
-                    72,
-                    664,
-                    88
-                ]
             }
         ],
         "parts": [
@@ -34,20 +25,22 @@
                         "type": "text",
                         "text": "1 (a)",
                         "bbox": [
-                            80,
-                            104,
-                            145,
-                            120
-                        ]
+                            48,
+                            88,
+                            86,
+                            101
+                        ],
+                        "page_number": 3
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            200,
-                            120,
-                            794,
-                            443
+                            119,
+                            101,
+                            473,
+                            373
                         ],
+                        "page_number": 3,
                         "image": {
                             "caption": "",
                             "page": 3
@@ -57,11 +50,12 @@
                         "type": "text",
                         "text": "The diagram shows the graph of \\(y = (2x + a)(x + b)(x + c)\\) where \\(a, b\\) and \\(c\\) are integers. Find values for \\(a, b\\) and \\(c\\) .",
                         "bbox": [
-                            155,
-                            462,
-                            861,
-                            512
-                        ]
+                            92,
+                            389,
+                            513,
+                            432
+                        ],
+                        "page_number": 3
                     }
                 ]
             },
@@ -72,11 +66,12 @@
                         "type": "text",
                         "text": "(b) Use the graph to find the values of \\(x\\) for which \\(y \\geq 2\\) .",
                         "bbox": [
-                            115,
-                            710,
-                            585,
-                            728
-                        ]
+                            68,
+                            598,
+                            348,
+                            614
+                        ],
+                        "page_number": 3
                     }
                 ]
             }
@@ -89,11 +84,12 @@
                 "type": "text",
                 "text": "2 Find the values of \\(k\\) for which the equation \\(x^{2} + 4kx + k + 3 = 0\\) has two equal roots.",
                 "bbox": [
-                    78,
-                    74,
-                    790,
-                    93
-                ]
+                    46,
+                    62,
+                    471,
+                    78
+                ],
+                "page_number": 4
             }
         ]
     },
@@ -102,13 +98,25 @@
         "content": [
             {
                 "type": "text",
-                "text": "2 Find the values of \\(k\\) for which the equation \\(x^{2} + 4kx + k + 3 = 0\\) has two equal roots.",
+                "text": "3 The polynomial p is such that \\(\\mathrm{p}(x) = x^{3} + Ax + 30\\) , where \\(A\\) is a constant. When \\(\\mathrm{p}(x)\\) is divided by \\(x + 2\\) the remainder is 84.",
                 "bbox": [
-                    78,
-                    74,
-                    790,
-                    93
-                ]
+                    46,
+                    312,
+                    409,
+                    341
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "text",
+                "text": "Write \\(\\mathrm{p}(x)\\) as a product of linear factors.",
+                "bbox": [
+                    70,
+                    351,
+                    259,
+                    366
+                ],
+                "page_number": 4
             }
         ]
     },
@@ -119,11 +127,12 @@
                 "type": "text",
                 "text": "4 Solve the equation \\(\\frac{2}{\\log_{x} 10} - \\lg(x + 4) = \\lg 2\\) for \\(x > 0\\).",
                 "bbox": [
-                    70,
-                    75,
-                    570,
-                    108
-                ]
+                    42,
+                    63,
+                    339,
+                    91
+                ],
+                "page_number": 5
             }
         ]
     },
@@ -134,21 +143,23 @@
                 "type": "text",
                 "text": "5 Solutions by accurate drawing will not be accepted.",
                 "bbox": [
-                    80,
-                    72,
-                    544,
-                    89
-                ]
+                    48,
+                    61,
+                    324,
+                    75
+                ],
+                "page_number": 6
             },
             {
                 "type": "text",
                 "text": "A circle, \\(C\\) , has equation \\((x - 5)^2 + (y - 12)^2 = 100\\) .",
                 "bbox": [
-                    118,
-                    101,
-                    533,
-                    121
-                ]
+                    70,
+                    85,
+                    317,
+                    102
+                ],
+                "page_number": 6
             }
         ],
         "parts": [
@@ -159,11 +170,12 @@
                         "type": "text",
                         "text": "(a) Find the equation of the tangent to \\(C\\) at the point (11, 4). Give your answer in the form \\(ax + by = c\\) , where \\(a\\) , \\(b\\) and \\(c\\) are integers.",
                         "bbox": [
-                            118,
-                            134,
-                            717,
-                            168
-                        ]
+                            70,
+                            113,
+                            427,
+                            142
+                        ],
+                        "page_number": 6
                     }
                 ]
             },
@@ -174,11 +186,12 @@
                         "type": "text",
                         "text": "(b) Show that \\(C\\) and the circle with equation \\(x^2 + y^2 = 4\\) do not intersect.",
                         "bbox": [
-                            118,
-                            520,
-                            715,
-                            539
-                        ]
+                            70,
+                            438,
+                            426,
+                            454
+                        ],
+                        "page_number": 6
                     }
                 ]
             }
@@ -191,31 +204,34 @@
                 "type": "text",
                 "text": "6 Find the \\(x\\) - coordinates of the points of intersection of the following curves.",
                 "bbox": [
-                    78,
-                    72,
-                    700,
-                    88
-                ]
+                    46,
+                    61,
+                    417,
+                    74
+                ],
+                "page_number": 7
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[y = 4\\ln x\\quad \\mathrm{and}\\quad y = 5 - \\frac{3}{\\ln(x^2)}\\]",
                 "bbox": [
-                    373,
-                    96,
-                    625,
-                    133
-                ]
+                    222,
+                    81,
+                    372,
+                    112
+                ],
+                "page_number": 7
             },
             {
                 "type": "text",
                 "text": "Give your answers in exact form.",
                 "bbox": [
-                    118,
-                    135,
-                    378,
-                    150
-                ]
+                    70,
+                    114,
+                    225,
+                    126
+                ],
+                "page_number": 7
             }
         ]
     },
@@ -226,24 +242,37 @@
                 "type": "text",
                 "text": "7 In this question, all lengths are in centimetres and all angles are in radians.",
                 "bbox": [
-                    80,
-                    71,
-                    696,
-                    88
-                ]
+                    48,
+                    60,
+                    415,
+                    74
+                ],
+                "page_number": 8
             },
             {
                 "type": "image",
                 "bbox": [
-                    345,
-                    99,
-                    652,
-                    230
+                    205,
+                    83,
+                    388,
+                    194
                 ],
+                "page_number": 8,
                 "image": {
                     "caption": "",
                     "page": 8
                 }
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows a sector of a circle with centre \\(O\\) and radius 6.",
+                "bbox": [
+                    70,
+                    212,
+                    377,
+                    228
+                ],
+                "page_number": 8
             }
         ],
         "parts": [
@@ -252,23 +281,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "The diagram shows a sector of a circle with centre \\(O\\) and radius 6.",
-                        "bbox": [
-                            118,
-                            252,
-                            633,
-                            270
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(a) It is given that the area of triangle \\(AOB\\) is \\(9 \\mathrm{cm}^2\\) . Find the value of \\(\\sin \\theta\\) .",
                         "bbox": [
-                            118,
-                            283,
-                            536,
-                            330
-                        ]
+                            70,
+                            239,
+                            319,
+                            278
+                        ],
+                        "page_number": 8
                     }
                 ]
             },
@@ -279,11 +299,12 @@
                         "type": "text",
                         "text": "(b) It is also given that the exact area of the shaded segment is \\((15\\pi - 9)\\mathrm{cm}^2\\) . Find the exact length of the arc \\(AB\\) .",
                         "bbox": [
-                            118,
-                            483,
-                            740,
-                            533
-                        ]
+                            70,
+                            407,
+                            441,
+                            449
+                        ],
+                        "page_number": 8
                     }
                 ]
             }
@@ -295,11 +316,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    290,
-                    90,
-                    700,
-                    270
+                    173,
+                    76,
+                    417,
+                    228
                 ],
+                "page_number": 9,
                 "image": {
                     "caption": "",
                     "page": 9
@@ -309,11 +331,23 @@
                 "type": "text",
                 "text": "The diagram shows part of the curve \\(y = \\frac{3}{x + 1} - \\frac{x - 2}{x}\\) .",
                 "bbox": [
-                    118,
-                    297,
-                    561,
-                    328
-                ]
+                    70,
+                    250,
+                    334,
+                    276
+                ],
+                "page_number": 9
+            },
+            {
+                "type": "text",
+                "text": "The points \\(A\\) and \\(B\\) lie on the curve such that the \\(x\\) - coordinate of \\(A\\) is 1 and the \\(x\\) - coordinate of \\(B\\) is 2.",
+                "bbox": [
+                    68,
+                    282,
+                    538,
+                    297
+                ],
+                "page_number": 9
             }
         ],
         "parts": [
@@ -322,23 +356,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "The points \\(A\\) and \\(B\\) lie on the curve such that the \\(x\\) - coordinate of \\(A\\) is 1 and the \\(x\\) - coordinate of \\(B\\) is 2.",
-                        "bbox": [
-                            115,
-                            334,
-                            904,
-                            352
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(a) Find the \\(y\\) -coordinates of \\(A\\) and \\(B\\) .",
                         "bbox": [
-                            118,
-                            364,
-                            425,
-                            381
-                        ]
+                            70,
+                            307,
+                            253,
+                            321
+                        ],
+                        "page_number": 9
                     }
                 ]
             },
@@ -347,13 +372,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) Show that the area of the shaded region enclosed by the line \\(AB\\) and the curve is\\(\\frac{a}{4} - \\ln \\frac{b}{2}\\) , where \\(a\\) and \\(b\\) are integers to be found.",
+                        "text": "(b) Show that the area of the shaded region enclosed by the line \\(AB\\) and the curve is \\(\\frac{a}{4} - \\ln \\frac{b}{2}\\) , where \\(a\\) and \\(b\\) are integers to be found.",
                         "bbox": [
-                            156,
-                            506,
-                            540,
-                            533
-                        ]
+                            70,
+                            410,
+                            465,
+                            425
+                        ],
+                        "page_number": 9
                     }
                 ]
             }
@@ -366,11 +392,12 @@
                 "type": "text",
                 "text": "9 The function f is defined by \\(\\mathrm{f}(x) = - 2x^{2} + 9x - 10\\) for \\(0 \\leqslant x \\leqslant 3\\) .",
                 "bbox": [
-                    80,
-                    75,
-                    650,
-                    94
-                ]
+                    48,
+                    63,
+                    387,
+                    79
+                ],
+                "page_number": 10
             }
         ],
         "parts": [
@@ -385,11 +412,12 @@
                                 "type": "text",
                                 "text": "(a) (i) Write \\(\\mathrm{f}(x)\\) in the form \\(a + b(x + c)^2\\) where \\(a, b\\) and \\(c\\) are constants.",
                                 "bbox": [
-                                    115,
-                                    105,
-                                    714,
-                                    125
-                                ]
+                                    68,
+                                    88,
+                                    425,
+                                    105
+                                ],
+                                "page_number": 10
                             }
                         ]
                     },
@@ -400,11 +428,12 @@
                                 "type": "text",
                                 "text": "(ii) Hence determine whether or not \\(\\mathrm{f}^{-1}\\) exists.",
                                 "bbox": [
-                                    150,
-                                    384,
-                                    533,
-                                    402
-                                ]
+                                    89,
+                                    324,
+                                    317,
+                                    339
+                                ],
+                                "page_number": 10
                             }
                         ]
                     }
@@ -417,11 +446,12 @@
                         "type": "text",
                         "text": "(b) The function \\(g\\) is defined by \\(g(x) = 3 \\ln (5 - 2x)\\) for \\(0 \\leqslant x < 2.5\\) .",
                         "bbox": [
-                            117,
-                            72,
-                            690,
-                            90
-                        ]
+                            70,
+                            61,
+                            411,
+                            76
+                        ],
+                        "page_number": 11
                     }
                 ],
                 "parts": [
@@ -432,20 +462,22 @@
                                 "type": "text",
                                 "text": "(i) On the axes, sketch the graph of \\(y = g(x)\\) . State the exact values of the intercepts with the coordinate axes and the equation of any asymptote. [3]",
                                 "bbox": [
-                                    156,
-                                    104,
-                                    930,
-                                    152
-                                ]
+                                    93,
+                                    88,
+                                    554,
+                                    128
+                                ],
+                                "page_number": 11
                             },
                             {
                                 "type": "image",
                                 "bbox": [
-                                    259,
-                                    180,
-                                    737,
-                                    523
+                                    154,
+                                    152,
+                                    439,
+                                    441
                                 ],
+                                "page_number": 11,
                                 "image": {
                                     "caption": "",
                                     "page": 11
@@ -460,11 +492,12 @@
                                 "type": "text",
                                 "text": "(ii) Find an expression for \\(g^{-1}(x)\\) . [2]",
                                 "bbox": [
-                                    150,
+                                    89,
+                                    467,
                                     554,
-                                    930,
-                                    575
-                                ]
+                                    485
+                                ],
+                                "page_number": 11
                             }
                         ]
                     },
@@ -475,11 +508,12 @@
                                 "type": "text",
                                 "text": "(iii) Find the domain and range of \\(g^{-1}\\) . Give each of your answers in exact form. [2]",
                                 "bbox": [
-                                    145,
-                                    737,
-                                    516,
-                                    772
-                                ]
+                                    86,
+                                    621,
+                                    307,
+                                    651
+                                ],
+                                "page_number": 11
                             }
                         ]
                     }
@@ -493,11 +527,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    118,
-                    90,
-                    440,
-                    328
+                    70,
+                    76,
+                    262,
+                    276
                 ],
+                "page_number": 12,
                 "image": {
                     "caption": "",
                     "page": 12
@@ -507,11 +542,23 @@
                 "type": "text",
                 "text": "The diagram shows four points, \\(O, A, B\\) and \\(C\\) .",
                 "bbox": [
-                    118,
-                    343,
-                    483,
-                    361
-                ]
+                    70,
+                    289,
+                    288,
+                    304
+                ],
+                "page_number": 12
+            },
+            {
+                "type": "text",
+                "text": "\\(A, B\\) and \\(C\\) lie in a straight line and are such that \\(\\frac{AB}{AC} = \\frac{1}{3}\\) . \\(\\overrightarrow{OA} = \\mathbf{a}\\) and \\(\\overrightarrow{OB} = \\mathbf{b}\\) .",
+                "bbox": [
+                    70,
+                    310,
+                    345,
+                    355
+                ],
+                "page_number": 12
             }
         ],
         "parts": [
@@ -520,23 +567,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "\\(A, B\\) and \\(C\\) lie in a straight line and are such that \\(\\frac{AB}{AC} = \\frac{1}{3}\\) . \\(\\overrightarrow{OA} = \\mathbf{a}\\) and \\(\\overrightarrow{OB} = \\mathbf{b}\\) .",
-                        "bbox": [
-                            118,
-                            368,
-                            580,
-                            421
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(a) Find \\(\\overrightarrow{OC}\\) in terms of \\(\\mathbf{a}\\) and \\(\\mathbf{b}\\) . Simplify your answer.",
                         "bbox": [
-                            118,
-                            432,
-                            386,
-                            468
-                        ]
+                            70,
+                            364,
+                            230,
+                            394
+                        ],
+                        "page_number": 12
                     }
                 ]
             },
@@ -547,21 +585,23 @@
                         "type": "text",
                         "text": "(b) The line \\(OA\\) is extended to the point \\(D\\) such that \\(OA:AD = 2:7\\). Point \\(E\\) lies on \\(CD\\) such that \\(\\overrightarrow{OE} = \\lambda \\mathbf{b}\\).",
                         "bbox": [
-                            117,
-                            72,
-                            671,
-                            108
-                        ]
+                            70,
+                            61,
+                            400,
+                            91
+                        ],
+                        "page_number": 13
                     },
                     {
                         "type": "text",
                         "text": "Find the value of \\(\\lambda\\) .",
                         "bbox": [
-                            155,
-                            123,
-                            310,
-                            139
-                        ]
+                            92,
+                            104,
+                            185,
+                            117
+                        ],
+                        "page_number": 13
                     }
                 ]
             }
@@ -574,31 +614,34 @@
                 "type": "text",
                 "text": "11 A particle \\(P\\) moves in a straight line and passes through a fixed point \\(O\\) . At time \\(t\\) seconds, its displacement from \\(O\\) , \\(s\\) metres, is given by",
                 "bbox": [
-                    80,
-                    71,
-                    676,
-                    103
-                ]
+                    48,
+                    60,
+                    403,
+                    87
+                ],
+                "page_number": 14
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[s = t + 6t^2 - t^3 \\qquad \\text{for} 0 \\leqslant t \\leqslant 3\\] \\[s = 12t - \\frac{1}{3} t^2 - 3 \\qquad \\text{for} 3 \\leqslant t \\leqslant k \\qquad \\text{where} k \\text{is a constant.}\\]",
                 "bbox": [
-                    285,
-                    113,
-                    777,
-                    170
-                ]
+                    170,
+                    95,
+                    463,
+                    143
+                ],
+                "page_number": 14
             },
             {
                 "type": "text",
                 "text": "It is given that, for \\(3 \\leqslant t \\leqslant k\\) , the velocity of \\(P\\) is positive and its acceleration is negative.",
                 "bbox": [
-                    115,
-                    179,
-                    810,
-                    197
-                ]
+                    68,
+                    151,
+                    482,
+                    166
+                ],
+                "page_number": 14
             }
         ],
         "parts": [
@@ -607,22 +650,24 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(a) The maximum velocity of \\(P\\) occurs when \\(t = 2\\) .On the axes below, sketch a velocity–time graph for the first \\(k\\) seconds of the motion of \\(P\\) .",
+                        "text": "(a) The maximum velocity of \\(P\\) occurs when \\(t = 2\\) . On the axes below, sketch a velocity–time graph for the first \\(k\\) seconds of the motion of \\(P\\) .",
                         "bbox": [
-                            150,
-                            226,
-                            910,
-                            243
-                        ]
+                            70,
+                            178,
+                            314,
+                            190
+                        ],
+                        "page_number": 14
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            260,
-                            259,
-                            736,
-                            540
+                            155,
+                            218,
+                            438,
+                            455
                         ],
+                        "page_number": 14,
                         "image": {
                             "caption": "",
                             "page": 14
@@ -637,21 +682,23 @@
                         "type": "text",
                         "text": "(b) The total distance travelled by \\(P\\) for \\(0 \\leq t \\leq k\\) is 57 metres.",
                         "bbox": [
-                            117,
-                            73,
-                            620,
-                            90
-                        ]
+                            70,
+                            62,
+                            369,
+                            76
+                        ],
+                        "page_number": 15
                     },
                     {
                         "type": "text",
                         "text": "Given that when \\(t = 3\\) the distance and displacement of \\(P\\) from \\(O\\) are equal, find the value of \\(k\\) . [6]",
                         "bbox": [
-                            153,
-                            103,
-                            916,
-                            138
-                        ]
+                            91,
+                            87,
+                            546,
+                            116
+                        ],
+                        "page_number": 15
                     }
                 ]
             }
@@ -664,11 +711,12 @@
                 "type": "text",
                 "text": "12 The normal to the curve \\(y = \\frac{4}{x^2} + ax + 7\\) at the point where \\(x = 2\\) has equation \\(x + 4y = b\\) . Find the values of \\(a\\) and \\(b\\) .",
                 "bbox": [
-                    80,
-                    75,
-                    850,
-                    128
-                ]
+                    48,
+                    63,
+                    506,
+                    108
+                ],
+                "page_number": 16
             }
         ]
     }

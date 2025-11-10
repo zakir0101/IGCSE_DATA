@@ -4,33 +4,25 @@
         "content": [
             {
                 "type": "text",
-                "text": "Calculators must not be used in this paper.",
-                "bbox": [
-                    330,
-                    72,
-                    664,
-                    88
-                ]
-            },
-            {
-                "type": "text",
                 "text": "1 Simplify.",
                 "bbox": [
-                    80,
-                    119,
-                    193,
-                    136
-                ]
+                    48,
+                    100,
+                    115,
+                    115
+                ],
+                "page_number": 3
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[7c - 5d + c + 3d\\]",
                 "bbox": [
-                    156,
-                    149,
-                    285,
-                    166
-                ]
+                    93,
+                    126,
+                    170,
+                    140
+                ],
+                "page_number": 3
             }
         ]
     },
@@ -38,34 +30,73 @@
         "label": "2",
         "content": [
             {
-                "type": "text",
-                "text": "Calculators must not be used in this paper.",
+                "type": "image",
                 "bbox": [
-                    330,
-                    72,
-                    664,
-                    88
-                ]
+                    71,
+                    236,
+                    494,
+                    437
+                ],
+                "page_number": 3,
+                "image": {
+                    "caption": "",
+                    "page": 3
+                }
             },
             {
                 "type": "text",
-                "text": "1 Simplify.",
+                "text": "The diagram shows two parallel lines intersecting two straight lines.",
                 "bbox": [
-                    80,
-                    119,
-                    193,
-                    136
-                ]
+                    70,
+                    448,
+                    386,
+                    464
+                ],
+                "page_number": 3
             },
             {
-                "type": "blockMath",
-                "blockMath": "\\[7c - 5d + c + 3d\\]",
+                "type": "text",
+                "text": "Find the values of \\(w, x\\) and \\(y\\) .",
                 "bbox": [
-                    156,
-                    149,
-                    285,
-                    166
-                ]
+                    70,
+                    475,
+                    207,
+                    489
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "text",
+                "text": "\\(w =\\)",
+                "bbox": [
+                    359,
+                    593,
+                    524,
+                    607
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "text",
+                "text": "\\(x =\\)",
+                "bbox": [
+                    360,
+                    620,
+                    524,
+                    634
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "text",
+                "text": "\\(y =\\) [4]",
+                "bbox": [
+                    360,
+                    647,
+                    524,
+                    660
+                ],
+                "page_number": 3
             }
         ]
     },
@@ -76,21 +107,23 @@
                 "type": "text",
                 "text": "3 Sally invests \\$1500 at \\(3\\%\\) per year simple interest.",
                 "bbox": [
-                    80,
-                    72,
-                    512,
-                    88
-                ]
+                    48,
+                    61,
+                    305,
+                    74
+                ],
+                "page_number": 4
             },
             {
                 "type": "text",
                 "text": "Work out the total value of her investment at the end of 6 years.",
                 "bbox": [
-                    118,
-                    103,
-                    613,
-                    120
-                ]
+                    70,
+                    87,
+                    365,
+                    101
+                ],
+                "page_number": 4
             }
         ]
     },
@@ -99,23 +132,25 @@
         "content": [
             {
                 "type": "text",
-                "text": "3 Sally invests \\$1500 at \\(3\\%\\) per year simple interest.",
+                "text": "4 Work out.",
                 "bbox": [
-                    80,
-                    72,
-                    512,
-                    88
-                ]
+                    48,
+                    270,
+                    117,
+                    283
+                ],
+                "page_number": 4
             },
             {
-                "type": "text",
-                "text": "Work out the total value of her investment at the end of 6 years.",
+                "type": "blockMath",
+                "blockMath": "\\[\\frac{5}{6} -\\frac{2}{3}\\times \\frac{3}{8}\\]",
                 "bbox": [
-                    118,
-                    103,
-                    613,
-                    120
-                ]
+                    92,
+                    295,
+                    142,
+                    321
+                ],
+                "page_number": 4
             }
         ]
     },
@@ -124,23 +159,25 @@
         "content": [
             {
                 "type": "text",
-                "text": "3 Sally invests \\$1500 at \\(3\\%\\) per year simple interest.",
+                "text": "5 The interior angle of a regular polygon is \\(150^{\\circ}\\) .",
                 "bbox": [
-                    80,
-                    72,
-                    512,
-                    88
-                ]
+                    48,
+                    482,
+                    289,
+                    497
+                ],
+                "page_number": 4
             },
             {
                 "type": "text",
-                "text": "Work out the total value of her investment at the end of 6 years.",
+                "text": "Find the number of sides of this polygon.",
                 "bbox": [
-                    118,
-                    103,
-                    613,
-                    120
-                ]
+                    70,
+                    509,
+                    262,
+                    523
+                ],
+                "page_number": 4
             }
         ]
     },
@@ -150,61 +187,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    312,
-                    88,
-                    682,
-                    380
+                    186,
+                    74,
+                    406,
+                    320
                 ],
-                "image": {
-                    "caption": "",
-                    "page": 5
-                }
-            }
-        ],
-        "parts": [
-            {
-                "label": "a",
-                "content": [
-                    {
-                        "type": "text",
-                        "text": "The line \\(x + y = 7\\) is drawn on the grid.",
-                        "bbox": [
-                            118,
-                            400,
-                            446,
-                            417
-                        ]
-                    }
-                ]
-            },
-            {
-                "label": "b",
-                "content": [
-                    {
-                        "type": "text",
-                        "text": "(a) On the grid, draw the line \\(y = 2x + 1\\) .",
-                        "bbox": [
-                            118,
-                            430,
-                            448,
-                            448
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "label": "7",
-        "content": [
-            {
-                "type": "image",
-                "bbox": [
-                    312,
-                    88,
-                    682,
-                    380
-                ],
+                "page_number": 5,
                 "image": {
                     "caption": "",
                     "page": 5
@@ -214,21 +202,95 @@
                 "type": "text",
                 "text": "The line \\(x + y = 7\\) is drawn on the grid.",
                 "bbox": [
-                    118,
-                    400,
-                    446,
-                    417
+                    70,
+                    337,
+                    266,
+                    351
+                ],
+                "page_number": 5
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) On the grid, draw the line \\(y = 2x + 1\\) .",
+                        "bbox": [
+                            70,
+                            362,
+                            267,
+                            378
+                        ],
+                        "page_number": 5
+                    }
                 ]
             },
             {
-                "type": "text",
-                "text": "(a) On the grid, draw the line \\(y = 2x + 1\\) .",
-                "bbox": [
-                    118,
-                    430,
-                    448,
-                    448
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Use your graph to solve these simultaneous equations.",
+                        "bbox": [
+                            70,
+                            414,
+                            344,
+                            428
+                        ],
+                        "page_number": 5
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[x + y = 7\\] \\[y = 2x + 1\\]",
+                        "bbox": [
+                            157,
+                            437,
+                            223,
+                            472
+                        ],
+                        "page_number": 5
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(x =\\)",
+                        "bbox": [
+                            361,
+                            475,
+                            524,
+                            489
+                        ],
+                        "page_number": 5
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(y =\\)",
+                        "bbox": [
+                            361,
+                            501,
+                            524,
+                            515
+                        ],
+                        "page_number": 5
+                    }
                 ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "text": "7 Write the recurring decimal \\(0.26\\) as a fraction. Give your answer in its simplest form.",
+                "bbox": [
+                    48,
+                    551,
+                    291,
+                    580
+                ],
+                "page_number": 5
             }
         ]
     },
@@ -239,11 +301,12 @@
                 "type": "text",
                 "text": "8 \\(\\mathbf{m} = \\left( \\begin{array}{l}11\\\\ 5 \\end{array} \\right)\\qquad \\mathbf{n} = \\left( \\begin{array}{l}8\\\\ - 3 \\end{array} \\right)\\)",
                 "bbox": [
-                    78,
-                    74,
-                    361,
-                    109
-                ]
+                    46,
+                    62,
+                    215,
+                    92
+                ],
+                "page_number": 6
             }
         ],
         "parts": [
@@ -254,11 +317,12 @@
                         "type": "text",
                         "text": "(a) Find \\(2\\mathbf{m} - \\mathbf{n}\\) .",
                         "bbox": [
-                            118,
-                            125,
-                            264,
-                            141
-                        ]
+                            70,
+                            105,
+                            157,
+                            119
+                        ],
+                        "page_number": 6
                     }
                 ]
             },
@@ -267,13 +331,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) The vector \\(\\left( \\begin{array}{l}5\\\\ \\sqrt{y} \\end{array} \\right)\\) has a magnitude of 7.Find the value of \\(y\\) .",
+                        "text": "(b) The vector \\(\\left( \\begin{array}{l}5\\\\ \\sqrt{y} \\end{array} \\right)\\) has a magnitude of 7. Find the value of \\(y\\) .",
                         "bbox": [
-                            155,
+                            70,
+                            198,
                             280,
-                            308,
-                            297
-                        ]
+                            232
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(y =\\) [2]",
+                        "bbox": [
+                            360,
+                            329,
+                            546,
+                            344
+                        ],
+                        "page_number": 6
                     }
                 ]
             }
@@ -284,23 +360,61 @@
         "content": [
             {
                 "type": "text",
-                "text": "8 \\(\\mathbf{m} = \\left( \\begin{array}{l}11\\\\ 5 \\end{array} \\right)\\qquad \\mathbf{n} = \\left( \\begin{array}{l}8\\\\ - 3 \\end{array} \\right)\\)",
+                "text": "9 The table shows some information about the marks scored by a group of students in a test.",
                 "bbox": [
-                    78,
-                    74,
-                    361,
-                    109
-                ]
+                    46,
+                    364,
+                    487,
+                    380
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    195,
+                    391,
+                    398,
+                    435
+                ],
+                "page_number": 6,
+                "table": {
+                    "caption": "",
+                    "html": "\n\n<table><tr><td>Test mark</td><td>4</td><td>5</td><td>8</td></tr><tr><td>Frequency</td><td>2</td><td>4</td><td>n</td></tr></table>  \n\n"
+                }
             },
             {
                 "type": "text",
-                "text": "(a) Find \\(2\\mathbf{m} - \\mathbf{n}\\) .",
+                "text": "The mean mark is 6.",
                 "bbox": [
-                    118,
-                    125,
-                    264,
-                    141
-                ]
+                    70,
+                    446,
+                    166,
+                    459
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "text",
+                "text": "Work out the value of \\(n\\) .",
+                "bbox": [
+                    70,
+                    472,
+                    184,
+                    485
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "text",
+                "text": "\\(n =\\) [3]",
+                "bbox": [
+                    360,
+                    680,
+                    546,
+                    695
+                ],
+                "page_number": 6
             }
         ]
     },
@@ -310,11 +424,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    184,
-                    88,
-                    720,
-                    361
+                    110,
+                    74,
+                    429,
+                    304
                 ],
+                "page_number": 7,
                 "image": {
                     "caption": "",
                     "page": 7
@@ -324,31 +439,23 @@
                 "type": "text",
                 "text": "\\(A,B\\) and \\(C\\) are three points on a circle, centre \\(O\\) . \\(DE\\) is a tangent to the circle at \\(A\\) . Angle \\(ACO = 35^{\\circ}\\) and angle \\(BCO = 40^{\\circ}\\) .",
                 "bbox": [
-                    117,
-                    386,
-                    494,
-                    437
-                ]
+                    70,
+                    325,
+                    294,
+                    368
+                ],
+                "page_number": 7
             },
             {
                 "type": "text",
-                "text": "(a) angle \\(AOC\\)",
+                "text": "Find",
                 "bbox": [
-                    118,
-                    480,
-                    246,
-                    496
-                ]
-            },
-            {
-                "type": "text",
-                "text": "Angle \\(ABC =\\) [1]",
-                "bbox": [
-                    525,
-                    633,
-                    916,
-                    653
-                ]
+                    70,
+                    379,
+                    94,
+                    392
+                ],
+                "page_number": 7
             }
         ],
         "parts": [
@@ -357,13 +464,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "Find",
+                        "text": "(a) angle \\(AOC\\)",
                         "bbox": [
-                            118,
-                            450,
-                            157,
-                            465
-                        ]
+                            70,
+                            405,
+                            147,
+                            418
+                        ],
+                        "page_number": 7
+                    },
+                    {
+                        "type": "text",
+                        "text": "Angle \\(AOC =\\) [1]",
+                        "bbox": [
+                            313,
+                            455,
+                            546,
+                            472
+                        ],
+                        "page_number": 7
                     }
                 ]
             },
@@ -372,13 +491,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "Angle \\(AOC =\\) [1]",
+                        "text": "(b) angle \\(ABC\\)",
                         "bbox": [
-                            525,
-                            540,
-                            916,
-                            560
-                        ]
+                            70,
+                            482,
+                            145,
+                            496
+                        ],
+                        "page_number": 7
+                    },
+                    {
+                        "type": "text",
+                        "text": "Angle \\(ABC =\\) [1]",
+                        "bbox": [
+                            313,
+                            534,
+                            546,
+                            550
+                        ],
+                        "page_number": 7
                     }
                 ]
             },
@@ -387,13 +518,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) angle \\(ABC\\)",
+                        "text": "(c) angle \\(DAC\\)",
                         "bbox": [
-                            118,
-                            572,
-                            244,
-                            589
-                        ]
+                            70,
+                            561,
+                            147,
+                            576
+                        ],
+                        "page_number": 7
+                    },
+                    {
+                        "type": "text",
+                        "text": "Angle \\(DAC =\\) [1]",
+                        "bbox": [
+                            313,
+                            613,
+                            546,
+                            629
+                        ],
+                        "page_number": 7
                     }
                 ]
             },
@@ -402,13 +545,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(c) angle \\(DAC\\)",
+                        "text": "(d) angle \\(OAB\\)",
                         "bbox": [
-                            118,
-                            666,
-                            246,
-                            683
-                        ]
+                            70,
+                            639,
+                            148,
+                            653
+                        ],
+                        "page_number": 7
+                    },
+                    {
+                        "type": "text",
+                        "text": "Angle \\(OAB =\\) [1]",
+                        "bbox": [
+                            313,
+                            704,
+                            546,
+                            720
+                        ],
+                        "page_number": 7
                     }
                 ]
             }
@@ -421,24 +576,37 @@
                 "type": "text",
                 "text": "11 The diagram shows the graph of \\(y = \\mathrm{f}(x)\\) and the point \\(P(- 2,11)\\) .",
                 "bbox": [
-                    80,
-                    71,
-                    653,
-                    89
-                ]
+                    48,
+                    60,
+                    389,
+                    75
+                ],
+                "page_number": 8
             },
             {
                 "type": "image",
                 "bbox": [
-                    230,
-                    120,
-                    768,
-                    495
+                    137,
+                    101,
+                    457,
+                    417
                 ],
+                "page_number": 8,
                 "image": {
                     "caption": "",
                     "page": 8
                 }
+            },
+            {
+                "type": "text",
+                "text": "The tangent from \\(P\\) touches the graph of \\(y = \\mathrm{f}(x)\\) at the point \\((a,b)\\) . The values of \\(a\\) and \\(b\\) are integers.",
+                "bbox": [
+                    70,
+                    450,
+                    386,
+                    479
+                ],
+                "page_number": 8
             }
         ],
         "parts": [
@@ -447,13 +615,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "The tangent from \\(P\\) touches the graph of \\(y = \\mathrm{f}(x)\\) at the point \\((a,b)\\) . The values of \\(a\\) and \\(b\\) are integers.",
+                        "text": "(a) By drawing this tangent, find the value of \\(a\\) and the value of \\(b\\) .",
                         "bbox": [
-                            118,
-                            534,
-                            648,
-                            568
-                        ]
+                            70,
+                            489,
+                            384,
+                            505
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(a =\\) , \\(b =\\) . [2]",
+                        "bbox": [
+                            360,
+                            540,
+                            546,
+                            556
+                        ],
+                        "page_number": 8
                     }
                 ]
             },
@@ -462,13 +642,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(a) By drawing this tangent, find the value of \\(a\\) and the value of \\(b\\) .",
+                        "text": "(b) Find the equation of the tangent. Give your answer in the form \\(y = mx + c\\) .",
                         "bbox": [
-                            118,
-                            580,
-                            644,
-                            599
-                        ]
+                            70,
+                            568,
+                            288,
+                            596
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(y =\\) . [3]",
+                        "bbox": [
+                            360,
+                            751,
+                            546,
+                            767
+                        ],
+                        "page_number": 8
                     }
                 ]
             }
@@ -481,40 +673,44 @@
                 "type": "text",
                 "text": "12 The time spent on the internet by each of 120 adults is recorded for one day. The cumulative frequency diagram shows this information.",
                 "bbox": [
-                    80,
-                    72,
-                    710,
-                    103
-                ]
+                    48,
+                    61,
+                    423,
+                    87
+                ],
+                "page_number": 9
             },
             {
                 "type": "image",
                 "bbox": [
-                    170,
-                    117,
-                    825,
-                    586
+                    101,
+                    99,
+                    491,
+                    494
                 ],
+                "page_number": 9,
                 "image": {
                     "caption": "",
                     "page": 9
                 }
-            },
-            {
-                "type": "text",
-                "text": "(a) Use the cumulative frequency diagram to find an estimate of the interquartile range.",
-                "bbox": [
-                    117,
-                    602,
-                    808,
-                    620
-                ]
             }
         ],
         "parts": [
             {
                 "label": "a",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Use the cumulative frequency diagram to find an estimate of the interquartile range.",
+                        "bbox": [
+                            70,
+                            507,
+                            481,
+                            523
+                        ],
+                        "page_number": 9
+                    }
+                ]
             },
             {
                 "label": "b",
@@ -523,31 +719,45 @@
                         "type": "text",
                         "text": "h [2]",
                         "bbox": [
-                            640,
-                            680,
-                            916,
-                            698
-                        ]
+                            381,
+                            573,
+                            546,
+                            588
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "text",
                         "text": "(b) \\(70\\%\\) of the adults spent less than \\(k\\) hours on the internet.",
                         "bbox": [
-                            117,
-                            711,
-                            595,
-                            728
-                        ]
+                            70,
+                            599,
+                            354,
+                            614
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "text",
                         "text": "Use the cumulative frequency diagram to find an estimate of the value of \\(k\\) .",
                         "bbox": [
-                            155,
-                            741,
-                            742,
-                            759
-                        ]
+                            92,
+                            625,
+                            442,
+                            640
+                        ],
+                        "page_number": 9
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(k =\\) [2]",
+                        "bbox": [
+                            362,
+                            716,
+                            546,
+                            731
+                        ],
+                        "page_number": 9
                     }
                 ]
             }
@@ -559,11 +769,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    460,
-                    101,
-                    750,
-                    255
+                    274,
+                    85,
+                    447,
+                    215
                 ],
+                "page_number": 10,
                 "image": {
                     "caption": "",
                     "page": 10
@@ -573,11 +784,23 @@
                 "type": "text",
                 "text": "The diagram shows solid \\(A\\) and solid \\(B\\) . Solid \\(A\\) is made from a hemisphere and a cone each with radius \\(6\\mathrm{cm}\\) . The cone has sloping edge \\(10\\mathrm{cm}\\) . Solid \\(B\\) is a cylinder with radius \\(4\\mathrm{cm}\\) and height \\(h\\mathrm{cm}\\) .",
                 "bbox": [
-                    117,
-                    280,
-                    657,
-                    344
-                ]
+                    70,
+                    236,
+                    391,
+                    290
+                ],
+                "page_number": 10
+            },
+            {
+                "type": "text",
+                "text": "The total surface area of solid \\(A\\) is equal to the total surface area of solid \\(B\\) .",
+                "bbox": [
+                    70,
+                    300,
+                    421,
+                    314
+                ],
+                "page_number": 10
             }
         ],
         "parts": [
@@ -586,23 +809,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "The total surface area of solid \\(A\\) is equal to the total surface area of solid \\(B\\) .",
-                        "bbox": [
-                            118,
-                            356,
-                            707,
-                            373
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(a) Work out the value of \\(h\\) .",
                         "bbox": [
-                            118,
-                            386,
-                            346,
-                            402
-                        ]
+                            70,
+                            325,
+                            206,
+                            339
+                        ],
+                        "page_number": 10
                     }
                 ]
             },
@@ -611,23 +825,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) Work out the height of solid \\(A\\) .",
+                        "text": "[5]",
                         "bbox": [
-                            118,
-                            666,
-                            397,
-                            682
-                        ]
+                            361,
+                            534,
+                            546,
+                            549
+                        ],
+                        "page_number": 10
                     },
                     {
                         "type": "text",
-                        "text": "[5]",
+                        "text": "(b) Work out the height of solid \\(A\\) .",
                         "bbox": [
-                            606,
-                            633,
-                            916,
-                            651
-                        ]
+                            70,
+                            561,
+                            236,
+                            575
+                        ],
+                        "page_number": 10
                     }
                 ]
             }
@@ -639,11 +855,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    60,
+                    36,
                     0,
-                    520,
-                    93
+                    310,
+                    78
                 ],
+                "page_number": 11,
                 "image": {
                     "caption": "",
                     "page": 11
@@ -658,11 +875,12 @@
                         "type": "text",
                         "text": "(a) Find \\(\\mathrm{f}(-2)\\) .",
                         "bbox": [
-                            116,
-                            104,
-                            253,
-                            121
-                        ]
+                            69,
+                            88,
+                            151,
+                            102
+                        ],
+                        "page_number": 11
                     }
                 ]
             },
@@ -673,11 +891,12 @@
                         "type": "text",
                         "text": "(b) Find \\(\\mathrm{f}^{-1}(x)\\) .",
                         "bbox": [
-                            116,
-                            181,
-                            255,
-                            199
-                        ]
+                            69,
+                            153,
+                            152,
+                            168
+                        ],
+                        "page_number": 11
                     }
                 ]
             },
@@ -688,21 +907,23 @@
                         "type": "text",
                         "text": "(c) \\(\\mathrm{fg}(x) = ax + b\\)",
                         "bbox": [
-                            116,
-                            305,
-                            310,
-                            322
-                        ]
+                            69,
+                            257,
+                            185,
+                            271
+                        ],
+                        "page_number": 11
                     },
                     {
                         "type": "text",
                         "text": "Find the value of \\(a\\) , and the value of \\(b\\) .",
                         "bbox": [
-                            156,
-                            336,
-                            458,
-                            352
-                        ]
+                            93,
+                            283,
+                            273,
+                            297
+                        ],
+                        "page_number": 11
                     }
                 ]
             },
@@ -713,31 +934,34 @@
                         "type": "text",
                         "text": "(d) Simplify.",
                         "bbox": [
-                            116,
-                            475,
-                            230,
-                            492
-                        ]
+                            69,
+                            400,
+                            137,
+                            415
+                        ],
+                        "page_number": 11
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[\\frac{2}{\\mathrm{f}(x)} -\\frac{5}{\\mathrm{g}(x)}\\]",
                         "bbox": [
-                            195,
-                            505,
-                            290,
-                            540
-                        ]
+                            116,
+                            426,
+                            173,
+                            455
+                        ],
+                        "page_number": 11
                     },
                     {
                         "type": "text",
                         "text": "Give your answer as a single fraction in terms of \\(x\\) .",
                         "bbox": [
-                            156,
-                            545,
-                            553,
-                            561
-                        ]
+                            93,
+                            459,
+                            329,
+                            473
+                        ],
+                        "page_number": 11
                     }
                 ]
             }
@@ -754,21 +978,23 @@
                         "type": "text",
                         "text": "15 (a) Expand and simplify.",
                         "bbox": [
-                            80,
-                            72,
-                            325,
-                            88
-                        ]
+                            48,
+                            61,
+                            194,
+                            74
+                        ],
+                        "page_number": 12
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[(2 - \\sqrt{5})(1 - 3\\sqrt{5})\\]",
                         "bbox": [
-                            194,
-                            105,
-                            343,
-                            124
-                        ]
+                            116,
+                            88,
+                            204,
+                            105
+                        ],
+                        "page_number": 12
                     }
                 ]
             },
@@ -779,21 +1005,23 @@
                         "type": "text",
                         "text": "(b) Rationalise the denominator. Give your answer in its simplest form.",
                         "bbox": [
-                            117,
-                            308,
-                            456,
-                            340
-                        ]
+                            70,
+                            260,
+                            272,
+                            287
+                        ],
+                        "page_number": 12
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[\\frac{6}{\\sqrt{10}}\\]",
                         "bbox": [
-                            435,
-                            342,
-                            477,
-                            373
-                        ]
+                            259,
+                            288,
+                            284,
+                            314
+                        ],
+                        "page_number": 12
                     }
                 ]
             }
@@ -804,23 +1032,25 @@
         "content": [
             {
                 "type": "text",
-                "text": "15 (a) Expand and simplify.",
+                "text": "16 Expand and simplify.",
                 "bbox": [
-                    80,
-                    72,
-                    325,
-                    88
-                ]
+                    48,
+                    450,
+                    170,
+                    464
+                ],
+                "page_number": 12
             },
             {
                 "type": "blockMath",
-                "blockMath": "\\[(2 - \\sqrt{5})(1 - 3\\sqrt{5})\\]",
+                "blockMath": "\\[(x + 4)(x - 3)(3x + 2)\\]",
                 "bbox": [
+                    93,
+                    476,
                     194,
-                    105,
-                    343,
-                    124
-                ]
+                    491
+                ],
+                "page_number": 12
             }
         ]
     },
@@ -835,59 +1065,65 @@
                         "type": "text",
                         "text": "17 (a) A bag contains 6 red marbles, 3 green marbles and 1 blue marble. Two marbles are picked at random from the bag with replacement.",
                         "bbox": [
-                            80,
-                            71,
-                            682,
-                            105
-                        ]
+                            48,
+                            60,
+                            406,
+                            88
+                        ],
+                        "page_number": 13
                     },
                     {
                         "type": "text",
                         "text": "Find the probability that both marbles are green.",
                         "bbox": [
-                            155,
-                            118,
-                            533,
-                            135
-                        ]
+                            92,
+                            99,
+                            317,
+                            114
+                        ],
+                        "page_number": 13
                     }
                 ]
             },
             {
                 "label": "b",
-                "content": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Another bag contains 4 red counters and 2 yellow counters. Two counters are picked at random from this bag without replacement.",
+                        "bbox": [
+                            70,
+                            217,
+                            426,
+                            245
+                        ],
+                        "page_number": 13
+                    }
+                ],
                 "parts": [
                     {
                         "label": "i",
                         "content": [
                             {
                                 "type": "text",
-                                "text": "(b) Another bag contains 4 red counters and 2 yellow counters. Two counters are picked at random from this bag without replacement.",
-                                "bbox": [
-                                    117,
-                                    258,
-                                    716,
-                                    291
-                                ]
-                            },
-                            {
-                                "type": "text",
                                 "text": "(i) Complete the tree diagram.",
                                 "bbox": [
-                                    157,
-                                    304,
-                                    408,
-                                    320
-                                ]
+                                    94,
+                                    256,
+                                    243,
+                                    270
+                                ],
+                                "page_number": 13
                             },
                             {
                                 "type": "image",
                                 "bbox": [
-                                    280,
-                                    345,
-                                    710,
-                                    712
+                                    167,
+                                    291,
+                                    423,
+                                    600
                                 ],
+                                "page_number": 13,
                                 "image": {
                                     "caption": "",
                                     "page": 13
@@ -902,11 +1138,12 @@
                                 "type": "text",
                                 "text": "(ii) Find the probability that one of the two counters is yellow.",
                                 "bbox": [
-                                    151,
-                                    761,
-                                    650,
-                                    780
-                                ]
+                                    90,
+                                    641,
+                                    387,
+                                    657
+                                ],
+                                "page_number": 13
                             }
                         ]
                     }
@@ -921,21 +1158,12 @@
                 "type": "text",
                 "text": "18 One day, Anya runs \\(12\\mathrm{km}\\) at a speed of \\(x\\mathrm{km / h}\\) . The next day she walks \\(10\\mathrm{km}\\) at a speed of \\((x - 4)\\mathrm{km / h}\\) .",
                 "bbox": [
-                    80,
-                    72,
-                    558,
-                    104
-                ]
-            },
-            {
-                "type": "text",
-                "text": "h [1]",
-                "bbox": [
-                    640,
-                    180,
-                    916,
-                    199
-                ]
+                    48,
+                    61,
+                    332,
+                    88
+                ],
+                "page_number": 14
             }
         ],
         "parts": [
@@ -946,11 +1174,23 @@
                         "type": "text",
                         "text": "(a) Write down an expression, in terms of \\(x\\) , for the time she spends running.",
                         "bbox": [
-                            115,
-                            117,
-                            725,
-                            137
-                        ]
+                            68,
+                            99,
+                            432,
+                            115
+                        ],
+                        "page_number": 14
+                    },
+                    {
+                        "type": "text",
+                        "text": "h [1]",
+                        "bbox": [
+                            381,
+                            152,
+                            546,
+                            168
+                        ],
+                        "page_number": 14
                     }
                 ]
             },
@@ -961,11 +1201,23 @@
                         "type": "text",
                         "text": "(b) Write down an expression, in terms of \\(x\\) , for the time she spends walking.",
                         "bbox": [
-                            115,
-                            211,
-                            728,
-                            230
-                        ]
+                            68,
+                            178,
+                            434,
+                            194
+                        ],
+                        "page_number": 14
+                    },
+                    {
+                        "type": "text",
+                        "text": "h [1]",
+                        "bbox": [
+                            381,
+                            230,
+                            546,
+                            246
+                        ],
+                        "page_number": 14
                     }
                 ]
             },
@@ -974,33 +1226,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "h [1]",
-                        "bbox": [
-                            640,
-                            273,
-                            916,
-                            292
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(c) The time Anya spends walking is 1 hour more than the time she spends running.",
                         "bbox": [
-                            115,
-                            303,
-                            778,
-                            322
-                        ]
+                            68,
+                            255,
+                            463,
+                            271
+                        ],
+                        "page_number": 14
                     },
                     {
                         "type": "text",
                         "text": "Write an equation in terms of \\(x\\) and show that it simplifies to \\(x^{2} - 2x - 48 = 0\\) .",
                         "bbox": [
-                            155,
-                            334,
-                            775,
-                            353
-                        ]
+                            92,
+                            282,
+                            462,
+                            298
+                        ],
+                        "page_number": 14
                     }
                 ]
             },
@@ -1011,11 +1255,12 @@
                         "type": "text",
                         "text": "(d) Use factorisation to solve the equation \\(x^{2} - 2x - 48 = 0\\) .",
                         "bbox": [
-                            115,
-                            640,
-                            603,
-                            660
-                        ]
+                            68,
+                            539,
+                            359,
+                            556
+                        ],
+                        "page_number": 14
                     }
                 ]
             },
@@ -1026,11 +1271,12 @@
                         "type": "text",
                         "text": "(e) Find the time Anya spends running.",
                         "bbox": [
-                            115,
-                            797,
-                            435,
-                            815
-                        ]
+                            68,
+                            672,
+                            259,
+                            687
+                        ],
+                        "page_number": 14
                     }
                 ]
             }
@@ -1042,11 +1288,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    60,
+                    36,
                     0,
-                    415,
-                    70
+                    247,
+                    59
                 ],
+                "page_number": 15,
                 "image": {
                     "caption": "",
                     "page": 15
@@ -1056,11 +1303,12 @@
                 "type": "text",
                 "text": "19 Find the value of \\(27^{- \\frac{2}{3}}\\) .",
                 "bbox": [
-                    80,
-                    75,
-                    317,
-                    95
-                ]
+                    48,
+                    63,
+                    189,
+                    80
+                ],
+                "page_number": 15
             }
         ]
     },
@@ -1070,11 +1318,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    60,
-                    0,
-                    415,
-                    70
+                    48,
+                    240,
+                    322,
+                    346
                 ],
+                "page_number": 15,
                 "image": {
                     "caption": "",
                     "page": 15
@@ -1082,13 +1331,25 @@
             },
             {
                 "type": "text",
-                "text": "19 Find the value of \\(27^{- \\frac{2}{3}}\\) .",
+                "text": "Find the exact value of \\(x\\) .",
                 "bbox": [
-                    80,
-                    75,
-                    317,
-                    95
-                ]
+                    70,
+                    364,
+                    188,
+                    378
+                ],
+                "page_number": 15
+            },
+            {
+                "type": "text",
+                "text": "\\(x =\\) [4]",
+                "bbox": [
+                    361,
+                    506,
+                    546,
+                    520
+                ],
+                "page_number": 15
             }
         ]
     },
@@ -1098,11 +1359,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    236,
-                    88,
-                    585,
-                    223
+                    141,
+                    74,
+                    348,
+                    188
                 ],
+                "page_number": 16,
                 "image": {
                     "caption": "",
                     "page": 16
@@ -1112,50 +1374,77 @@
                 "type": "text",
                 "text": "NOT TO SCALE",
                 "bbox": [
-                    684,
-                    140,
-                    760,
-                    173
-                ]
+                    407,
+                    118,
+                    453,
+                    146
+                ],
+                "page_number": 16
             },
             {
                 "type": "text",
                 "text": "\\(OABC\\) is a rhombus and \\(O\\) is the origin. The diagonals of the rhombus intersect at \\(P\\) . \\(\\overrightarrow{OP} = 2\\mathbf{m}\\) and \\(\\overrightarrow{AP} = \\mathbf{n}\\) .",
                 "bbox": [
-                    118,
-                    241,
-                    463,
-                    293
-                ]
+                    70,
+                    203,
+                    276,
+                    247
+                ],
+                "page_number": 16
             }
         ],
         "parts": [
             {
                 "label": "a",
-                "content": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find, in terms of \\(\\mathbf{m}\\) and \\(\\mathbf{n}\\) , in its simplest form",
+                        "bbox": [
+                            70,
+                            257,
+                            310,
+                            272
+                        ],
+                        "page_number": 16
+                    }
+                ],
                 "parts": [
                     {
                         "label": "i",
                         "content": [
                             {
                                 "type": "text",
-                                "text": "(a) Find, in terms of \\(\\mathbf{m}\\) and \\(\\mathbf{n}\\) , in its simplest form",
+                                "text": "(i) \\(\\overrightarrow{OA}\\)",
                                 "bbox": [
-                                    118,
-                                    305,
-                                    520,
-                                    323
-                                ]
+                                    93,
+                                    281,
+                                    136,
+                                    297
+                                ],
+                                "page_number": 16
                             },
                             {
                                 "type": "text",
-                                "text": "(i) \\(\\overrightarrow{OA}\\)",
+                                "text": "\\(\\overrightarrow{OA} =\\) [1]",
                                 "bbox": [
-                                    156,
-                                    333,
-                                    228,
-                                    352
-                                ]
+                                    351,
+                                    319,
+                                    546,
+                                    337
+                                ],
+                                "page_number": 16
+                            },
+                            {
+                                "type": "text",
+                                "text": "(ii) \\(\\overrightarrow{OC}\\) .",
+                                "bbox": [
+                                    89,
+                                    344,
+                                    139,
+                                    362
+                                ],
+                                "page_number": 16
                             }
                         ]
                     },
@@ -1164,23 +1453,25 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "\\(\\overrightarrow{OA} =\\) [1]",
+                                "text": "(ii) \\(\\overrightarrow{OC}\\) .",
                                 "bbox": [
-                                    589,
-                                    378,
-                                    917,
-                                    400
-                                ]
+                                    89,
+                                    344,
+                                    139,
+                                    362
+                                ],
+                                "page_number": 16
                             },
                             {
                                 "type": "text",
-                                "text": "(ii) \\(\\overrightarrow{OC}\\) .",
+                                "text": "\\(\\overrightarrow{OC} =\\) [1]",
                                 "bbox": [
-                                    150,
-                                    408,
-                                    234,
-                                    429
-                                ]
+                                    351,
+                                    396,
+                                    546,
+                                    415
+                                ],
+                                "page_number": 16
                             }
                         ]
                     }
@@ -1191,33 +1482,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "\\(\\overrightarrow{OC} =\\) [1]",
-                        "bbox": [
-                            589,
-                            470,
-                            917,
-                            492
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(b) \\(D\\) is the point such that \\(\\overrightarrow{AD} = 10\\mathbf{m} - 3\\mathbf{n}\\) .",
                         "bbox": [
-                            118,
-                            503,
-                            475,
-                            523
-                        ]
+                            70,
+                            424,
+                            283,
+                            441
+                        ],
+                        "page_number": 16
                     },
                     {
                         "type": "text",
                         "text": "Show that \\(OADC\\) is a trapezium.",
                         "bbox": [
-                            156,
-                            536,
-                            412,
-                            553
-                        ]
+                            93,
+                            452,
+                            245,
+                            466
+                        ],
+                        "page_number": 16
                     }
                 ]
             }
@@ -1230,11 +1513,12 @@
                 "type": "text",
                 "text": "22 A curve has equation \\(y = x^n + qx^2 + 9x\\) . \\(\\frac{\\mathrm{d}y}{\\mathrm{d}x} = 3x^2 - 12x + 9\\)",
                 "bbox": [
-                    80,
-                    75,
-                    440,
-                    130
-                ]
+                    48,
+                    63,
+                    262,
+                    110
+                ],
+                "page_number": 17
             }
         ],
         "parts": [
@@ -1245,11 +1529,23 @@
                         "type": "text",
                         "text": "(a) Find the value of \\(n\\) , and the value of \\(q\\) .",
                         "bbox": [
-                            118,
-                            147,
-                            457,
-                            165
-                        ]
+                            70,
+                            124,
+                            272,
+                            139
+                        ],
+                        "page_number": 17
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(n =\\) \\(q =\\) [2]",
+                        "bbox": [
+                            361,
+                            213,
+                            546,
+                            229
+                        ],
+                        "page_number": 17
                     }
                 ]
             },
@@ -1258,23 +1554,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "\\(n =\\) \\(q =\\) [2]",
-                        "bbox": [
-                            606,
-                            253,
-                            916,
-                            272
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(b) Work out the coordinates of the turning points of the curve.",
                         "bbox": [
-                            117,
-                            284,
-                            617,
-                            302
-                        ]
+                            70,
+                            239,
+                            367,
+                            255
+                        ],
+                        "page_number": 17
                     }
                 ]
             }
@@ -1287,21 +1574,23 @@
                 "type": "text",
                 "text": "23 Simplify.",
                 "bbox": [
-                    80,
-                    72,
-                    195,
-                    88
-                ]
+                    48,
+                    61,
+                    116,
+                    74
+                ],
+                "page_number": 18
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[ \\frac{2x^2 + 10x}{x^2 - 25} \\]",
                 "bbox": [
-                    157,
-                    103,
-                    240,
-                    139
-                ]
+                    94,
+                    87,
+                    143,
+                    117
+                ],
+                "page_number": 18
             }
         ]
     }

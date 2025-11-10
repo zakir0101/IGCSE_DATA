@@ -5,11 +5,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    50,
-                    15,
-                    787,
-                    130
+                    30,
+                    13,
+                    469,
+                    110
                 ],
+                "page_number": 3,
                 "image": {
                     "caption": "",
                     "page": 3
@@ -19,11 +20,12 @@
                 "type": "text",
                 "text": "From this list, write down the number that is",
                 "bbox": [
-                    118,
-                    145,
-                    466,
-                    163
-                ]
+                    70,
+                    122,
+                    278,
+                    137
+                ],
+                "page_number": 3
             }
         ],
         "parts": [
@@ -34,11 +36,12 @@
                         "type": "text",
                         "text": "(a) a multiple of 12",
                         "bbox": [
-                            118,
-                            177,
-                            285,
-                            194
-                        ]
+                            70,
+                            149,
+                            170,
+                            164
+                        ],
+                        "page_number": 3
                     }
                 ]
             },
@@ -49,11 +52,12 @@
                         "type": "text",
                         "text": "(b) a square number",
                         "bbox": [
-                            118,
-                            270,
-                            288,
-                            286
-                        ]
+                            70,
+                            228,
+                            172,
+                            241
+                        ],
+                        "page_number": 3
                     }
                 ]
             },
@@ -64,11 +68,12 @@
                         "type": "text",
                         "text": "(c) a cube number.",
                         "bbox": [
-                            118,
-                            363,
-                            277,
-                            379
-                        ]
+                            70,
+                            306,
+                            165,
+                            319
+                        ],
+                        "page_number": 3
                     }
                 ]
             }
@@ -80,11 +85,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    50,
-                    15,
-                    787,
-                    130
+                    209,
+                    407,
+                    383,
+                    524
                 ],
+                "page_number": 3,
                 "image": {
                     "caption": "",
                     "page": 3
@@ -92,23 +98,14 @@
             },
             {
                 "type": "text",
-                "text": "From this list, write down the number that is",
+                "text": "Shade one square so that the diagram has 1 line of symmetry.",
                 "bbox": [
-                    118,
-                    145,
-                    466,
-                    163
-                ]
-            },
-            {
-                "type": "text",
-                "text": "(a) a multiple of 12",
-                "bbox": [
-                    118,
-                    177,
-                    285,
-                    194
-                ]
+                    70,
+                    538,
+                    354,
+                    553
+                ],
+                "page_number": 3
             }
         ]
     },
@@ -116,37 +113,26 @@
         "label": "3",
         "content": [
             {
-                "type": "image",
+                "type": "text",
+                "text": "3 Put one pair of brackets into this calculation to make it correct.",
                 "bbox": [
-                    50,
-                    15,
-                    787,
-                    130
+                    46,
+                    577,
+                    362,
+                    592
                 ],
-                "image": {
-                    "caption": "",
-                    "page": 3
-                }
+                "page_number": 3
             },
             {
-                "type": "text",
-                "text": "From this list, write down the number that is",
+                "type": "blockMath",
+                "blockMath": "\\[80\\div 8 + 2\\times 3 = 24\\]",
                 "bbox": [
-                    118,
-                    145,
-                    466,
-                    163
-                ]
-            },
-            {
-                "type": "text",
-                "text": "(a) a multiple of 12",
-                "bbox": [
-                    118,
-                    177,
-                    285,
-                    194
-                ]
+                    216,
+                    615,
+                    377,
+                    647
+                ],
+                "page_number": 3
             }
         ]
     },
@@ -157,20 +143,22 @@
                 "type": "text",
                 "text": "4 Tim drives home from work. The travel graph shows his journey.",
                 "bbox": [
-                    80,
-                    72,
-                    397,
-                    104
-                ]
+                    48,
+                    61,
+                    236,
+                    88
+                ],
+                "page_number": 4
             },
             {
                 "type": "image",
                 "bbox": [
-                    184,
-                    115,
-                    812,
-                    380
+                    110,
+                    97,
+                    484,
+                    320
                 ],
+                "page_number": 4,
                 "image": {
                     "caption": "",
                     "page": 4
@@ -185,11 +173,12 @@
                         "type": "text",
                         "text": "(a) Write down the time Tim leaves work.",
                         "bbox": [
-                            117,
-                            398,
-                            457,
-                            416
-                        ]
+                            70,
+                            335,
+                            272,
+                            351
+                        ],
+                        "page_number": 4
                     }
                 ]
             },
@@ -198,13 +187,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(i) Find how far Tim travels before he stops.",
+                        "text": "(b) Tim stops on the way home.",
                         "bbox": [
-                            155,
-                            521,
-                            520,
-                            539
-                        ]
+                            70,
+                            414,
+                            225,
+                            428
+                        ],
+                        "page_number": 4
                     }
                 ],
                 "parts": [
@@ -213,19 +203,32 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "(b) Tim stops on the way home.",
+                                "text": "(i) Find how far Tim travels before he stops.",
                                 "bbox": [
-                                    117,
-                                    491,
-                                    377,
-                                    508
-                                ]
+                                    92,
+                                    439,
+                                    310,
+                                    454
+                                ],
+                                "page_number": 4
                             }
                         ]
                     },
                     {
                         "label": "ii",
-                        "content": []
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Find how long Tim stops for.",
+                                "bbox": [
+                                    88,
+                                    518,
+                                    251,
+                                    532
+                                ],
+                                "page_number": 4
+                            }
+                        ]
                     }
                 ]
             }
@@ -236,36 +239,36 @@
         "content": [
             {
                 "type": "text",
-                "text": "4 Tim drives home from work. The travel graph shows his journey.",
+                "text": "5 Calculate.",
                 "bbox": [
-                    80,
-                    72,
-                    397,
-                    104
-                ]
+                    39,
+                    609,
+                    118,
+                    622
+                ],
+                "page_number": 4
             },
             {
-                "type": "image",
+                "type": "blockMath",
+                "blockMath": "\\[\\frac{2.8^5 - 0.3^2}{\\sqrt{5}}\\]",
                 "bbox": [
-                    184,
-                    115,
-                    812,
-                    380
+                    116,
+                    626,
+                    170,
+                    657
                 ],
-                "image": {
-                    "caption": "",
-                    "page": 4
-                }
+                "page_number": 4
             },
             {
                 "type": "text",
-                "text": "(a) Write down the time Tim leaves work.",
+                "text": "Give your answer correct to 2 decimal places.",
                 "bbox": [
-                    117,
-                    398,
-                    457,
-                    416
-                ]
+                    70,
+                    675,
+                    283,
+                    690
+                ],
+                "page_number": 4
             }
         ]
     },
@@ -275,11 +278,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    45,
-                    19,
-                    506,
-                    66
+                    27,
+                    16,
+                    301,
+                    56
                 ],
+                "page_number": 5,
                 "image": {
                     "caption": "",
                     "page": 5
@@ -289,30 +293,33 @@
                 "type": "text",
                 "text": "6 In a bag of counters, 6 of the counters are blue.",
                 "bbox": [
-                    77,
-                    72,
-                    483,
-                    88
-                ]
+                    46,
+                    61,
+                    288,
+                    74
+                ],
+                "page_number": 5
             },
             {
                 "type": "text",
                 "text": "The arrow (↓) on the probability scale shows the probability of picking a blue counter at random.",
                 "bbox": [
-                    115,
-                    102,
-                    884,
-                    121
-                ]
+                    68,
+                    86,
+                    527,
+                    102
+                ],
+                "page_number": 5
             },
             {
                 "type": "image",
                 "bbox": [
-                    252,
-                    145,
-                    741,
-                    215
+                    150,
+                    122,
+                    441,
+                    181
                 ],
+                "page_number": 5,
                 "image": {
                     "caption": "",
                     "page": 5
@@ -322,11 +329,12 @@
                 "type": "text",
                 "text": "Work out the total number of counters in the bag.",
                 "bbox": [
-                    117,
-                    232,
-                    504,
-                    249
-                ]
+                    70,
+                    196,
+                    300,
+                    210
+                ],
+                "page_number": 5
             }
         ]
     },
@@ -334,60 +342,15 @@
         "label": "7",
         "content": [
             {
-                "type": "image",
+                "type": "text",
+                "text": "7 The local time in Japan is \\(3\\frac{1}{2}\\) hours ahead of the local time in India. Find the time in Japan when it is 21 45 in India.",
                 "bbox": [
-                    45,
-                    19,
-                    506,
-                    66
+                    48,
+                    360,
+                    386,
+                    405
                 ],
-                "image": {
-                    "caption": "",
-                    "page": 5
-                }
-            },
-            {
-                "type": "text",
-                "text": "6 In a bag of counters, 6 of the counters are blue.",
-                "bbox": [
-                    77,
-                    72,
-                    483,
-                    88
-                ]
-            },
-            {
-                "type": "text",
-                "text": "The arrow (↓) on the probability scale shows the probability of picking a blue counter at random.",
-                "bbox": [
-                    115,
-                    102,
-                    884,
-                    121
-                ]
-            },
-            {
-                "type": "image",
-                "bbox": [
-                    252,
-                    145,
-                    741,
-                    215
-                ],
-                "image": {
-                    "caption": "",
-                    "page": 5
-                }
-            },
-            {
-                "type": "text",
-                "text": "Work out the total number of counters in the bag.",
-                "bbox": [
-                    117,
-                    232,
-                    504,
-                    249
-                ]
+                "page_number": 5
             }
         ]
     },
@@ -395,60 +358,26 @@
         "label": "8",
         "content": [
             {
-                "type": "image",
+                "type": "text",
+                "text": "8 Mia changes \\(\\) 350\\(into euros. The exchange rate is\\) \\ \\(1 = 0.92\\) euros.",
                 "bbox": [
-                    45,
-                    19,
-                    506,
-                    66
+                    48,
+                    548,
+                    247,
+                    575
                 ],
-                "image": {
-                    "caption": "",
-                    "page": 5
-                }
+                "page_number": 5
             },
             {
                 "type": "text",
-                "text": "6 In a bag of counters, 6 of the counters are blue.",
+                "text": "Calculate the amount Mia receives.",
                 "bbox": [
-                    77,
-                    72,
-                    483,
-                    88
-                ]
-            },
-            {
-                "type": "text",
-                "text": "The arrow (↓) on the probability scale shows the probability of picking a blue counter at random.",
-                "bbox": [
-                    115,
-                    102,
-                    884,
-                    121
-                ]
-            },
-            {
-                "type": "image",
-                "bbox": [
-                    252,
-                    145,
-                    741,
-                    215
+                    70,
+                    587,
+                    235,
+                    600
                 ],
-                "image": {
-                    "caption": "",
-                    "page": 5
-                }
-            },
-            {
-                "type": "text",
-                "text": "Work out the total number of counters in the bag.",
-                "bbox": [
-                    117,
-                    232,
-                    504,
-                    249
-                ]
+                "page_number": 5
             }
         ]
     },
@@ -458,15 +387,27 @@
             {
                 "type": "image",
                 "bbox": [
-                    165,
-                    85,
-                    680,
-                    293
+                    98,
+                    72,
+                    405,
+                    247
                 ],
+                "page_number": 6,
                 "image": {
                     "caption": "",
                     "page": 6
                 }
+            },
+            {
+                "type": "text",
+                "text": "ABC is a straight line. BD is parallel to AE.",
+                "bbox": [
+                    70,
+                    261,
+                    172,
+                    288
+                ],
+                "page_number": 6
             }
         ],
         "parts": [
@@ -475,23 +416,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "ABC is a straight line. BD is parallel to AE.",
+                        "text": "(a) Find the value of \\(x\\) . Give a geometrical reason for your answer.",
                         "bbox": [
-                            117,
-                            310,
-                            288,
-                            342
-                        ]
+                            70,
+                            299,
+                            292,
+                            327
+                        ],
+                        "page_number": 6
                     },
                     {
                         "type": "text",
-                        "text": "(a) Find the value of \\(x\\) . Give a geometrical reason for your answer.",
+                        "text": "\\(x =\\) because. [2]",
                         "bbox": [
-                            117,
-                            355,
-                            491,
-                            388
-                        ]
+                            68,
+                            362,
+                            546,
+                            378
+                        ],
+                        "page_number": 6
                     }
                 ]
             },
@@ -500,23 +443,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "\\(x =\\) because. [2]",
+                        "text": "(b) Find the value of \\(y\\) . Give a geometrical reason for your answer.",
                         "bbox": [
-                            115,
-                            430,
-                            916,
-                            449
-                        ]
+                            70,
+                            390,
+                            292,
+                            418
+                        ],
+                        "page_number": 6
                     },
                     {
                         "type": "text",
-                        "text": "(b) Find the value of \\(y\\) . Give a geometrical reason for your answer.",
+                        "text": "\\(y =\\) because. [2]",
                         "bbox": [
-                            117,
-                            463,
-                            491,
-                            496
-                        ]
+                            91,
+                            455,
+                            546,
+                            470
+                        ],
+                        "page_number": 6
                     }
                 ]
             }
@@ -529,58 +474,40 @@
                 "type": "text",
                 "text": "10 Solve.",
                 "bbox": [
-                    80,
-                    74,
-                    163,
-                    88
-                ]
+                    48,
+                    62,
+                    97,
+                    74
+                ],
+                "page_number": 7
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[4p + 11 = 25\\]",
                 "bbox": [
-                    168,
-                    103,
-                    272,
-                    120
-                ]
-            }
-        ]
-    },
-    {
-        "label": "11",
-        "content": [
-            {
-                "type": "text",
-                "text": "10 Solve.",
-                "bbox": [
-                    80,
-                    74,
-                    163,
-                    88
-                ]
-            },
-            {
-                "type": "blockMath",
-                "blockMath": "\\[4p + 11 = 25\\]",
-                "bbox": [
-                    168,
-                    103,
-                    272,
-                    120
-                ]
+                    100,
+                    87,
+                    162,
+                    101
+                ],
+                "page_number": 7
             },
             {
                 "type": "text",
                 "text": "\\(p =\\) [2]",
                 "bbox": [
-                    601,
-                    226,
-                    916,
-                    245
-                ]
+                    358,
+                    190,
+                    546,
+                    206
+                ],
+                "page_number": 7
             }
-        ],
+        ]
+    },
+    {
+        "label": "11",
+        "content": [],
         "parts": [
             {
                 "label": "a",
@@ -589,21 +516,23 @@
                         "type": "text",
                         "text": "11 (a) Expand and simplify.",
                         "bbox": [
-                            80,
-                            273,
-                            325,
-                            290
-                        ]
+                            48,
+                            230,
+                            194,
+                            244
+                        ],
+                        "page_number": 7
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[5(x - 2) + 3(x - 7)\\]",
                         "bbox": [
-                            316,
-                            304,
-                            465,
-                            321
-                        ]
+                            188,
+                            256,
+                            277,
+                            271
+                        ],
+                        "page_number": 7
                     }
                 ]
             },
@@ -614,21 +543,23 @@
                         "type": "text",
                         "text": "(b) Factorise.",
                         "bbox": [
-                            117,
-                            490,
-                            234,
-                            505
-                        ]
+                            70,
+                            413,
+                            139,
+                            426
+                        ],
+                        "page_number": 7
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[4a^2 + 16a\\]",
                         "bbox": [
-                            236,
-                            519,
-                            318,
-                            536
-                        ]
+                            141,
+                            437,
+                            189,
+                            452
+                        ],
+                        "page_number": 7
                     }
                 ]
             }
@@ -641,30 +572,33 @@
                 "type": "text",
                 "text": "12 Kai opens his restaurant from Tuesday to Saturday each week. He counts the number of customers each day for two weeks.",
                 "bbox": [
-                    81,
-                    72,
-                    602,
-                    104
-                ]
+                    48,
+                    61,
+                    359,
+                    88
+                ],
+                "page_number": 8
             },
             {
                 "type": "text",
                 "text": "The bar chart shows some of the results.",
                 "bbox": [
-                    118,
-                    118,
-                    432,
-                    135
-                ]
+                    70,
+                    99,
+                    257,
+                    114
+                ],
+                "page_number": 8
             },
             {
                 "type": "image",
                 "bbox": [
-                    128,
-                    147,
-                    830,
-                    440
+                    76,
+                    124,
+                    494,
+                    371
                 ],
+                "page_number": 8,
                 "image": {
                     "caption": "",
                     "page": 8
@@ -679,30 +613,44 @@
                         "type": "text",
                         "text": "(a) In week 1 there were 200 customers in total. Complete the bar chart.",
                         "bbox": [
-                            118,
-                            462,
-                            501,
-                            510
-                        ]
+                            70,
+                            389,
+                            298,
+                            430
+                        ],
+                        "page_number": 8
                     }
                 ]
             },
             {
                 "label": "b",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Write down the mode for week 2.",
+                        "bbox": [
+                            70,
+                            546,
+                            250,
+                            560
+                        ],
+                        "page_number": 8
+                    }
+                ]
             },
             {
                 "label": "c",
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) Write down the mode for week 2.",
+                        "text": "(c) Find the mean number of customers for the 5 days in week 2.",
                         "bbox": [
-                            118,
-                            648,
-                            419,
-                            665
-                        ]
+                            70,
+                            624,
+                            376,
+                            639
+                        ],
+                        "page_number": 8
                     }
                 ]
             }
@@ -715,11 +663,12 @@
                 "type": "text",
                 "text": "13 In May a shop makes a profit of \\(\\) 542\\(. In June the shop makes a profit of\\) \\ \\(600\\) .",
                 "bbox": [
-                    81,
-                    72,
-                    432,
-                    105
-                ]
+                    48,
+                    61,
+                    257,
+                    88
+                ],
+                "page_number": 9
             }
         ],
         "parts": [
@@ -730,11 +679,12 @@
                         "type": "text",
                         "text": "(a) Calculate the percentage increase in the profit from May to June.",
                         "bbox": [
-                            116,
-                            118,
-                            660,
-                            137
-                        ]
+                            69,
+                            99,
+                            393,
+                            115
+                        ],
+                        "page_number": 9
                     }
                 ]
             },
@@ -745,11 +695,12 @@
                         "type": "text",
                         "text": "(b) The shop gives \\(\\frac{2}{5}\\) of the profit from May to a charity. Find the amount the shop gives to the charity.",
                         "bbox": [
-                            116,
-                            330,
-                            571,
-                            385
-                        ]
+                            69,
+                            278,
+                            340,
+                            324
+                        ],
+                        "page_number": 9
                     }
                 ]
             },
@@ -760,21 +711,23 @@
                         "type": "text",
                         "text": "[1]",
                         "bbox": [
-                            620,
-                            460,
-                            916,
-                            479
-                        ]
+                            369,
+                            388,
+                            546,
+                            404
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "text",
                         "text": "(c) The shop spends \\(38\\%\\) of the profit from June on a fridge. Find the amount the shop spends on the fridge.",
                         "bbox": [
-                            116,
-                            488,
-                            602,
-                            538
-                        ]
+                            69,
+                            411,
+                            359,
+                            453
+                        ],
+                        "page_number": 9
                     }
                 ]
             }
@@ -785,23 +738,14 @@
         "content": [
             {
                 "type": "text",
-                "text": "13 In May a shop makes a profit of \\(\\) 542\\(. In June the shop makes a profit of\\) \\ \\(600\\) .",
+                "text": "14 Meg invests \\(\\) 2500\\(at a rate of\\) 4.6\\%\\(per year simple interest. Calculate the total amount of her investment at the end of 3 years.\\)",
                 "bbox": [
-                    81,
-                    72,
-                    432,
-                    105
-                ]
-            },
-            {
-                "type": "text",
-                "text": "(a) Calculate the percentage increase in the profit from May to June.",
-                "bbox": [
-                    116,
-                    118,
-                    660,
-                    137
-                ]
+                    48,
+                    542,
+                    377,
+                    584
+                ],
+                "page_number": 9
             }
         ]
     },
@@ -812,20 +756,22 @@
                 "type": "text",
                 "text": "15 The table gives information about the costs of hiring bikes.",
                 "bbox": [
-                    80,
-                    72,
-                    577,
-                    88
-                ]
+                    48,
+                    61,
+                    344,
+                    74
+                ],
+                "page_number": 10
             },
             {
                 "type": "image",
                 "bbox": [
-                    175,
-                    103,
-                    821,
-                    215
+                    104,
+                    87,
+                    489,
+                    181
                 ],
+                "page_number": 10,
                 "table": {
                     "caption": "",
                     "html": "\n\n<table><tr><td>Type of bike</td><td>Cost for first day</td><td>Cost for each extra day</td></tr><tr><td>Road</td><td>$25</td><td>$20</td></tr><tr><td>Mountain</td><td>$40</td><td>$35</td></tr><tr><td>Electric</td><td>$70</td><td>$50</td></tr></table>  \n\n"
@@ -840,11 +786,12 @@
                         "type": "text",
                         "text": "(a) Work out the cost of hiring 2 road bikes for 3 days.",
                         "bbox": [
-                            117,
-                            227,
-                            553,
-                            245
-                        ]
+                            70,
+                            191,
+                            329,
+                            206
+                        ],
+                        "page_number": 10
                     }
                 ]
             },
@@ -855,11 +802,23 @@
                         "type": "text",
                         "text": "[2]",
                         "bbox": [
-                            623,
-                            350,
-                            916,
-                            369
-                        ]
+                            371,
+                            295,
+                            546,
+                            311
+                        ],
+                        "page_number": 10
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) The cost, \\(M\\) , of hiring a mountain bike for \\(d\\) days can be written as \\(M = 35d + 5\\) .",
+                        "bbox": [
+                            70,
+                            321,
+                            473,
+                            337
+                        ],
+                        "page_number": 10
                     }
                 ],
                 "parts": [
@@ -868,23 +827,14 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "(b) The cost, \\(M\\) , of hiring a mountain bike for \\(d\\) days can be written as \\(M = 35d + 5\\) .",
-                                "bbox": [
-                                    117,
-                                    381,
-                                    794,
-                                    400
-                                ]
-                            },
-                            {
-                                "type": "text",
                                 "text": "(i) Write a formula for the cost, \\(E\\) , of hiring an electric bike for \\(d\\) days.",
                                 "bbox": [
-                                    155,
-                                    412,
-                                    720,
-                                    430
-                                ]
+                                    92,
+                                    347,
+                                    429,
+                                    362
+                                ],
+                                "page_number": 10
                             }
                         ]
                     },
@@ -895,31 +845,34 @@
                                 "type": "text",
                                 "text": "[2]",
                                 "bbox": [
-                                    600,
-                                    520,
-                                    916,
-                                    538
-                                ]
+                                    357,
+                                    438,
+                                    546,
+                                    453
+                                ],
+                                "page_number": 10
                             },
                             {
                                 "type": "text",
                                 "text": "(ii) The cost of hiring an electric bike for 6 days is the same as the cost of hiring a mountain bike for \\(d\\) days.",
                                 "bbox": [
-                                    150,
-                                    550,
-                                    916,
-                                    584
-                                ]
+                                    89,
+                                    464,
+                                    546,
+                                    492
+                                ],
+                                "page_number": 10
                             },
                             {
                                 "type": "text",
                                 "text": "Find the value of \\(d\\) .",
                                 "bbox": [
-                                    193,
-                                    597,
-                                    348,
-                                    614
-                                ]
+                                    115,
+                                    503,
+                                    207,
+                                    518
+                                ],
+                                "page_number": 10
                             }
                         ]
                     }
@@ -934,20 +887,22 @@
                 "type": "text",
                 "text": "16 The scale drawing shows a path from \\(S\\) to \\(P\\) . The scale is \\(1\\mathrm{cm}\\) represents \\(2.5\\mathrm{km}\\) .",
                 "bbox": [
-                    80,
-                    72,
-                    465,
-                    104
-                ]
+                    48,
+                    61,
+                    277,
+                    88
+                ],
+                "page_number": 11
             },
             {
                 "type": "image",
                 "bbox": [
-                    228,
-                    225,
-                    475,
-                    483
+                    136,
+                    190,
+                    283,
+                    407
                 ],
+                "page_number": 11,
                 "image": {
                     "caption": "",
                     "page": 11
@@ -957,30 +912,44 @@
                 "type": "text",
                 "text": "Scale: \\(1\\mathrm{cm}\\) to \\(2.5\\mathrm{km}\\)",
                 "bbox": [
-                    596,
-                    468,
-                    765,
-                    483
-                ]
+                    355,
+                    394,
+                    456,
+                    407
+                ],
+                "page_number": 11
             }
         ],
         "parts": [
             {
                 "label": "a",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Work out the actual distance between \\(S\\) and \\(P\\) .",
+                        "bbox": [
+                            70,
+                            489,
+                            308,
+                            503
+                        ],
+                        "page_number": 11
+                    }
+                ]
             },
             {
                 "label": "b",
                 "content": [
                     {
                         "type": "text",
-                        "text": "(a) Work out the actual distance between \\(S\\) and \\(P\\) .",
+                        "text": "(b) Measure the bearing of \\(S\\) from \\(P\\) .",
                         "bbox": [
-                            117,
-                            580,
-                            517,
-                            597
-                        ]
+                            70,
+                            567,
+                            248,
+                            582
+                        ],
+                        "page_number": 11
                     }
                 ]
             },
@@ -989,13 +958,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) Measure the bearing of \\(S\\) from \\(P\\) .",
+                        "text": "(c) \\(E\\) is \\(20\\mathrm{km}\\) from \\(P\\) on a bearing of \\(070^{\\circ}\\) .",
                         "bbox": [
-                            117,
-                            673,
-                            416,
-                            690
-                        ]
+                            70,
+                            644,
+                            277,
+                            658
+                        ],
+                        "page_number": 11
+                    },
+                    {
+                        "type": "text",
+                        "text": "On the scale drawing, mark the position of \\(E\\) .",
+                        "bbox": [
+                            92,
+                            672,
+                            304,
+                            685
+                        ],
+                        "page_number": 11
                     }
                 ]
             }
@@ -1007,11 +988,12 @@
             {
                 "type": "image",
                 "bbox": [
-                    163,
-                    90,
-                    840,
-                    533
+                    97,
+                    76,
+                    500,
+                    449
                 ],
+                "page_number": 12,
                 "image": {
                     "caption": "",
                     "page": 12
@@ -1026,50 +1008,55 @@
                         "type": "text",
                         "text": "(a) Sue describes the single transformation that maps shape \\(A\\) onto shape \\(B\\) as a translation by the vector \\(\\begin{pmatrix} 7 \\\\ 1 \\end{pmatrix}\\) . Explain why Sue is incorrect.",
                         "bbox": [
-                            117,
-                            564,
-                            918,
-                            630
-                        ]
+                            70,
+                            475,
+                            547,
+                            531
+                        ],
+                        "page_number": 12
                     }
                 ]
             },
             {
                 "label": "b",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) On the grid, draw the image of shape \\(A\\) after a rotation of \\(90^{\\circ}\\) anticlockwise about \\((0, 0)\\) . [2]",
+                        "bbox": [
+                            68,
+                            596,
+                            546,
+                            613
+                        ],
+                        "page_number": 12
+                    }
+                ]
             },
             {
                 "label": "c",
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) On the grid, draw the image of shape \\(A\\) after a rotation of \\(90^{\\circ}\\) anticlockwise about \\((0, 0)\\) . [2]",
-                        "bbox": [
-                            115,
-                            707,
-                            916,
-                            727
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(c) Describe fully the single transformation that maps shape \\(A\\) onto shape \\(C\\) .",
                         "bbox": [
-                            115,
-                            738,
-                            916,
-                            758
-                        ]
+                            68,
+                            622,
+                            546,
+                            639
+                        ],
+                        "page_number": 12
                     },
                     {
                         "type": "text",
                         "text": "[3]",
                         "bbox": [
-                            115,
-                            779,
-                            916,
-                            799
-                        ]
+                            68,
+                            657,
+                            546,
+                            673
+                        ],
+                        "page_number": 12
                     }
                 ]
             }
@@ -1085,11 +1072,12 @@
                     {
                         "type": "image",
                         "bbox": [
-                            371,
-                            87,
-                            625,
-                            250
+                            221,
+                            73,
+                            372,
+                            211
                         ],
+                        "page_number": 13,
                         "image": {
                             "caption": "",
                             "page": 13
@@ -1099,21 +1087,23 @@
                         "type": "text",
                         "text": "Points \\(C\\) and \\(D\\) lie on the circle.",
                         "bbox": [
-                            155,
-                            266,
-                            405,
-                            283
-                        ]
+                            92,
+                            224,
+                            241,
+                            239
+                        ],
+                        "page_number": 13
                     },
                     {
                         "type": "text",
                         "text": "Write down the mathematical name for the line \\(CD\\) .",
                         "bbox": [
-                            155,
-                            298,
-                            560,
-                            315
-                        ]
+                            92,
+                            251,
+                            334,
+                            265
+                        ],
+                        "page_number": 13
                     }
                 ]
             },
@@ -1124,20 +1114,22 @@
                         "type": "text",
                         "text": "(b) The diagram shows a circle with centre \\(O\\) .",
                         "bbox": [
-                            117,
-                            375,
-                            488,
-                            393
-                        ]
+                            70,
+                            316,
+                            291,
+                            331
+                        ],
+                        "page_number": 13
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            380,
-                            401,
-                            617,
-                            571
+                            226,
+                            338,
+                            367,
+                            481
                         ],
+                        "page_number": 13,
                         "image": {
                             "caption": "",
                             "page": 13
@@ -1147,21 +1139,23 @@
                         "type": "text",
                         "text": "Points \\(K\\) , \\(L\\) and \\(M\\) lie on the circumference of the circle.",
                         "bbox": [
-                            155,
-                            585,
-                            593,
-                            602
-                        ]
+                            92,
+                            493,
+                            353,
+                            507
+                        ],
+                        "page_number": 13
                     },
                     {
                         "type": "text",
                         "text": "Draw triangle \\(KLM\\) so that angle \\(KLM = 90^\\circ\\) .",
                         "bbox": [
-                            155,
-                            616,
-                            515,
-                            633
-                        ]
+                            92,
+                            519,
+                            307,
+                            534
+                        ],
+                        "page_number": 13
                     }
                 ]
             }
@@ -1178,20 +1172,22 @@
                         "type": "text",
                         "text": "19 (a) Complete the table of values for \\(y = \\frac{20}{x}\\) .",
                         "bbox": [
-                            81,
-                            73,
-                            488,
-                            100
-                        ]
+                            48,
+                            62,
+                            291,
+                            84
+                        ],
+                        "page_number": 14
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            155,
-                            111,
-                            732,
-                            193
+                            92,
+                            94,
+                            436,
+                            163
                         ],
+                        "page_number": 14,
                         "table": {
                             "caption": "",
                             "html": "\n\n<table><tr><td>x</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>y</td><td>20</td><td>10</td><td></td><td></td><td>4</td></tr></table>  \n\n"
@@ -1206,20 +1202,22 @@
                         "type": "text",
                         "text": "(b) On the grid, draw the graph of \\(y = \\frac{20}{x}\\) for \\(1 \\leqslant x \\leqslant 5\\) .",
                         "bbox": [
-                            117,
-                            216,
-                            593,
-                            245
-                        ]
+                            70,
+                            182,
+                            353,
+                            206
+                        ],
+                        "page_number": 14
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            175,
-                            255,
-                            820,
-                            647
+                            104,
+                            215,
+                            488,
+                            545
                         ],
+                        "page_number": 14,
                         "image": {
                             "caption": "",
                             "page": 14
@@ -1234,11 +1232,23 @@
                         "type": "text",
                         "text": "(c) Use your graph to solve the equation \\(\\frac{20}{x} = 8\\) .",
                         "bbox": [
-                            117,
-                            669,
-                            521,
-                            697
-                        ]
+                            70,
+                            564,
+                            310,
+                            587
+                        ],
+                        "page_number": 14
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(x =\\) [1]",
+                        "bbox": [
+                            359,
+                            621,
+                            546,
+                            638
+                        ],
+                        "page_number": 14
                     }
                 ]
             }
@@ -1251,30 +1261,33 @@
                 "type": "text",
                 "text": "20 A spinner is numbered 1, 2, 3, 4 and 5.",
                 "bbox": [
-                    80,
-                    72,
-                    421,
-                    88
-                ]
+                    48,
+                    61,
+                    251,
+                    74
+                ],
+                "page_number": 15
             },
             {
                 "type": "text",
-                "text": "Rinesh spins the spinner many times.He works out the relative frequency that the spinner lands on each number.",
+                "text": "Rinesh spins the spinner many times. He works out the relative frequency that the spinner lands on each number.",
                 "bbox": [
-                    118,
-                    120,
-                    700,
-                    136
-                ]
+                    70,
+                    88,
+                    244,
+                    101
+                ],
+                "page_number": 15
             },
             {
                 "type": "image",
                 "bbox": [
-                    163,
-                    152,
-                    833,
-                    232
+                    97,
+                    128,
+                    496,
+                    196
                 ],
+                "page_number": 15,
                 "table": {
                     "caption": "",
                     "html": "\n<table><tr><td>Number</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>Relative frequency</td><td>0.15</td><td>0.22</td><td></td><td>0.26</td><td>0.25</td></tr></table>\n\n"
@@ -1289,11 +1302,12 @@
                         "type": "text",
                         "text": "(a) Complete the table.",
                         "bbox": [
-                            118,
-                            247,
-                            312,
-                            263
-                        ]
+                            70,
+                            208,
+                            186,
+                            222
+                        ],
+                        "page_number": 15
                     }
                 ]
             },
@@ -1304,21 +1318,23 @@
                         "type": "text",
                         "text": "(b) Rinesh spins the spinner another 1500 times.",
                         "bbox": [
-                            118,
-                            325,
-                            506,
-                            341
-                        ]
+                            70,
+                            274,
+                            301,
+                            287
+                        ],
+                        "page_number": 15
                     },
                     {
                         "type": "text",
                         "text": "Calculate the expected number of times the spinner lands on 2.",
                         "bbox": [
-                            156,
-                            356,
-                            644,
-                            372
-                        ]
+                            93,
+                            300,
+                            384,
+                            314
+                        ],
+                        "page_number": 15
                     }
                 ]
             }
@@ -1335,21 +1351,23 @@
                         "type": "text",
                         "text": "21 (a) These are the distances above the surface of the Earth of five satellites, \\(A, B, C, D\\) and \\(E\\) . Each distance is in kilometres.",
                         "bbox": [
-                            80,
-                            71,
-                            846,
-                            104
-                        ]
+                            48,
+                            60,
+                            504,
+                            88
+                        ],
+                        "page_number": 16
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[A B C D E\\] \\[35800 7.8\\times 10^{2} 1.5\\times 10^{6} 535 2\\times 10^{4}\\]",
                         "bbox": [
-                            163,
-                            116,
-                            798,
-                            152
-                        ]
+                            97,
+                            98,
+                            475,
+                            128
+                        ],
+                        "page_number": 16
                     }
                 ],
                 "parts": [
@@ -1360,11 +1378,12 @@
                                 "type": "text",
                                 "text": "(i) Write these distances in order, starting with the shortest.",
                                 "bbox": [
-                                    154,
-                                    164,
-                                    631,
-                                    182
-                                ]
+                                    92,
+                                    138,
+                                    376,
+                                    153
+                                ],
+                                "page_number": 16
                             }
                         ]
                     },
@@ -1375,31 +1394,34 @@
                                 "type": "text",
                                 "text": "shortest",
                                 "bbox": [
-                                    198,
-                                    275,
-                                    290,
-                                    304
-                                ]
+                                    118,
+                                    232,
+                                    173,
+                                    256
+                                ],
+                                "page_number": 16
                             },
                             {
                                 "type": "text",
                                 "text": "(ii) The radius of Earth is \\(6370\\mathrm{km}\\) . Satellite \\(A\\) is \\(k\\) times further from the centre of Earth than satellite \\(D\\) .",
                                 "bbox": [
-                                    150,
-                                    318,
-                                    733,
-                                    355
-                                ]
+                                    89,
+                                    268,
+                                    437,
+                                    299
+                                ],
+                                "page_number": 16
                             },
                             {
                                 "type": "text",
                                 "text": "Show that \\(k = 6.11\\) correct to 2 decimal places.",
                                 "bbox": [
-                                    194,
-                                    365,
-                                    564,
-                                    382
-                                ]
+                                    116,
+                                    308,
+                                    336,
+                                    322
+                                ],
+                                "page_number": 16
                             }
                         ]
                     }
@@ -1412,11 +1434,12 @@
                         "type": "text",
                         "text": "(b) A satellite travels at a speed of \\(27 000\\mathrm{km / h}\\) . Find the distance the satellite travels in 95 minutes.",
                         "bbox": [
-                            118,
-                            504,
-                            556,
-                            551
-                        ]
+                            70,
+                            425,
+                            331,
+                            464
+                        ],
+                        "page_number": 16
                     }
                 ]
             },
@@ -1425,23 +1448,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(c) A different satellite travels at a speed of \\(25 200\\mathrm{km / h}\\) . Convert this speed into \\(\\mathrm{m / s}\\) .",
+                        "text": "km [2]",
                         "bbox": [
-                            118,
-                            705,
-                            568,
-                            754
-                        ]
+                            381,
+                            569,
+                            546,
+                            583
+                        ],
+                        "page_number": 16
                     },
                     {
                         "type": "text",
-                        "text": "km [2]",
+                        "text": "(c) A different satellite travels at a speed of \\(25 200\\mathrm{km / h}\\) . Convert this speed into \\(\\mathrm{m / s}\\) .",
                         "bbox": [
-                            640,
-                            675,
-                            916,
-                            692
-                        ]
+                            70,
+                            594,
+                            338,
+                            636
+                        ],
+                        "page_number": 16
                     }
                 ]
             }
@@ -1454,20 +1479,22 @@
                 "type": "text",
                 "text": "22 The diagram shows a solid cylinder with height \\(10\\mathrm{cm}\\) .",
                 "bbox": [
-                    80,
-                    73,
-                    544,
-                    90
-                ]
+                    48,
+                    62,
+                    324,
+                    76
+                ],
+                "page_number": 17
             },
             {
                 "type": "image",
                 "bbox": [
-                    270,
-                    103,
-                    475,
-                    234
+                    161,
+                    87,
+                    283,
+                    197
                 ],
+                "page_number": 17,
                 "image": {
                     "caption": "",
                     "page": 17
@@ -1477,11 +1504,23 @@
                 "type": "text",
                 "text": "NOT TO SCALE",
                 "bbox": [
-                    650,
-                    134,
-                    725,
-                    166
-                ]
+                    387,
+                    113,
+                    432,
+                    140
+                ],
+                "page_number": 17
+            },
+            {
+                "type": "text",
+                "text": "The volume of the cylinder is \\(478\\mathrm{cm}^3\\) .",
+                "bbox": [
+                    70,
+                    209,
+                    250,
+                    223
+                ],
+                "page_number": 17
             }
         ],
         "parts": [
@@ -1490,23 +1529,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "The volume of the cylinder is \\(478\\mathrm{cm}^3\\) .",
-                        "bbox": [
-                            118,
-                            248,
-                            420,
-                            265
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(a) Find the radius of the cylinder.",
                         "bbox": [
-                            118,
-                            280,
-                            396,
-                            297
-                        ]
+                            70,
+                            236,
+                            236,
+                            250
+                        ],
+                        "page_number": 17
                     }
                 ]
             },
@@ -1517,31 +1547,34 @@
                         "type": "text",
                         "text": "(b) The cylinder is made from gold. The density of the gold is \\(19.3\\mathrm{g / cm}^3\\) .",
                         "bbox": [
-                            118,
-                            543,
-                            447,
-                            575
-                        ]
+                            70,
+                            458,
+                            266,
+                            485
+                        ],
+                        "page_number": 17
                     },
                     {
                         "type": "text",
                         "text": "Calculate the mass of the cylinder.",
                         "bbox": [
-                            156,
-                            589,
-                            425,
-                            605
-                        ]
+                            93,
+                            496,
+                            253,
+                            510
+                        ],
+                        "page_number": 17
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[\\left[\\mathrm{Density} = \\frac{\\mathrm{mass}}{\\mathrm{volume}}\\right]\\]",
                         "bbox": [
-                            156,
-                            612,
-                            315,
-                            643
-                        ]
+                            93,
+                            516,
+                            188,
+                            542
+                        ],
+                        "page_number": 17
                     }
                 ]
             }
@@ -1554,20 +1587,22 @@
                 "type": "text",
                 "text": "23 The diagram shows a right- angled triangle.",
                 "bbox": [
-                    80,
-                    72,
-                    454,
-                    88
-                ]
+                    48,
+                    61,
+                    270,
+                    74
+                ],
+                "page_number": 18
             },
             {
                 "type": "image",
                 "bbox": [
-                    180,
-                    103,
-                    816,
-                    245
+                    107,
+                    87,
+                    486,
+                    206
                 ],
+                "page_number": 18,
                 "image": {
                     "caption": "",
                     "page": 18
@@ -1577,11 +1612,23 @@
                 "type": "text",
                 "text": "Calculate the value of \\(h\\) .",
                 "bbox": [
-                    118,
-                    260,
+                    70,
+                    219,
+                    185,
+                    233
+                ],
+                "page_number": 18
+            },
+            {
+                "type": "text",
+                "text": "\\(h =\\) [2]",
+                "bbox": [
+                    359,
                     310,
-                    276
-                ]
+                    546,
+                    325
+                ],
+                "page_number": 18
             }
         ]
     },
@@ -1590,22 +1637,24 @@
         "content": [
             {
                 "type": "text",
-                "text": "23 The diagram shows a right- angled triangle.",
+                "text": "24 The diagram shows a right- angled triangle.",
                 "bbox": [
-                    80,
-                    72,
-                    454,
-                    88
-                ]
+                    47,
+                    336,
+                    273,
+                    351
+                ],
+                "page_number": 18
             },
             {
                 "type": "image",
                 "bbox": [
-                    180,
-                    103,
-                    816,
-                    245
+                    157,
+                    358,
+                    314,
+                    497
                 ],
+                "page_number": 18,
                 "image": {
                     "caption": "",
                     "page": 18
@@ -1613,13 +1662,36 @@
             },
             {
                 "type": "text",
-                "text": "Calculate the value of \\(h\\) .",
+                "text": "NOT TO SCALE",
                 "bbox": [
-                    118,
-                    260,
-                    310,
-                    276
-                ]
+                    359,
+                    396,
+                    435,
+                    425
+                ],
+                "page_number": 18
+            },
+            {
+                "type": "text",
+                "text": "Calculate the value of \\(y\\) .",
+                "bbox": [
+                    70,
+                    512,
+                    184,
+                    525
+                ],
+                "page_number": 18
+            },
+            {
+                "type": "text",
+                "text": "\\(y =\\) [2]",
+                "bbox": [
+                    359,
+                    603,
+                    546,
+                    619
+                ],
+                "page_number": 18
             }
         ]
     }

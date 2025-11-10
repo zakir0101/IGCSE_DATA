@@ -10,11 +10,26 @@
                         "type": "text",
                         "text": "1 (a) Table 1.1 lists some physical quantities. Identify with ticks (✓) which quantities are vectors and which are scalars.",
                         "bbox": [
-                            80,
-                            72,
-                            917,
-                            103
-                        ]
+                            48,
+                            61,
+                            546,
+                            87
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            153,
+                            126,
+                            440,
+                            253
+                        ],
+                        "page_number": 4,
+                        "table": {
+                            "caption": "Table 1.1   \n\n<table><tr><td>quantity</td><td>scalar</td><td>vector</td></tr><tr><td>acceleration</td><td></td><td></td></tr><tr><td>displacement</td><td></td><td></td></tr><tr><td>gravitational potential energy</td><td></td><td></td></tr><tr><td>speed</td><td></td><td></td></tr><tr><td>temperature</td><td></td><td></td></tr></table>",
+                            "html": "\n"
+                        }
                     }
                 ]
             },
@@ -22,17 +37,15 @@
                 "label": "b",
                 "content": [
                     {
-                        "type": "image",
+                        "type": "text",
+                        "text": "(b) A constant resultant force \\(F\\) acts on a car of mass \\(m\\) . The car moves from rest with constant acceleration \\(a\\) along horizontal ground. When the car has displacement \\(s\\) , the speed of the car is \\(v\\) .",
                         "bbox": [
-                            257,
-                            150,
-                            739,
-                            300
+                            70,
+                            277,
+                            546,
+                            318
                         ],
-                        "table": {
-                            "caption": "Table 1.1   \n\n<table><tr><td>quantity</td><td>scalar</td><td>vector</td></tr><tr><td>acceleration</td><td></td><td></td></tr><tr><td>displacement</td><td></td><td></td></tr><tr><td>gravitational potential energy</td><td></td><td></td></tr><tr><td>speed</td><td></td><td></td></tr><tr><td>temperature</td><td></td><td></td></tr></table>",
-                            "html": "\n"
-                        }
+                        "page_number": 4
                     }
                 ],
                 "parts": [
@@ -41,33 +54,25 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "(b) A constant resultant force \\(F\\) acts on a car of mass \\(m\\) . The car moves from rest with constant acceleration \\(a\\) along horizontal ground. When the car has displacement \\(s\\) , the speed of the car is \\(v\\) .",
-                                "bbox": [
-                                    117,
-                                    329,
-                                    917,
-                                    377
-                                ]
-                            },
-                            {
-                                "type": "text",
                                 "text": "(i) Using the concept of work done on the car, show that the kinetic energy \\(E_{\\mathrm{K}}\\) of the car is given by the equation",
                                 "bbox": [
-                                    155,
-                                    391,
-                                    917,
-                                    425
-                                ]
+                                    92,
+                                    330,
+                                    546,
+                                    358
+                                ],
+                                "page_number": 4
                             },
                             {
                                 "type": "blockMath",
                                 "blockMath": "\\[E_{\\mathrm{K}} = \\frac{1}{2} mv^{2}.\\]",
                                 "bbox": [
-                                    446,
-                                    430,
-                                    549,
-                                    461
-                                ]
+                                    266,
+                                    362,
+                                    327,
+                                    389
+                                ],
+                                "page_number": 4
                             }
                         ]
                     },
@@ -78,21 +83,23 @@
                                 "type": "text",
                                 "text": "(ii) The mass of the car is \\(920\\mathrm{kg}\\) . At time \\(t = 0\\) , the car is at rest. At time \\(t = 5.8\\mathrm{s}\\) , its velocity is \\(17\\mathrm{ms}^{-1}\\) .",
                                 "bbox": [
-                                    152,
-                                    638,
-                                    917,
-                                    671
-                                ]
+                                    91,
+                                    538,
+                                    546,
+                                    566
+                                ],
+                                "page_number": 4
                             },
                             {
                                 "type": "text",
                                 "text": "Calculate the kinetic energy of the car at time \\(t = 5.8\\mathrm{s}\\) .",
                                 "bbox": [
-                                    193,
-                                    684,
-                                    641,
-                                    701
-                                ]
+                                    115,
+                                    577,
+                                    382,
+                                    591
+                                ],
+                                "page_number": 4
                             }
                         ]
                     },
@@ -103,31 +110,45 @@
                                 "type": "text",
                                 "text": "kinetic energy = J [1]",
                                 "bbox": [
-                                    448,
-                                    807,
-                                    917,
-                                    826
-                                ]
+                                    267,
+                                    680,
+                                    546,
+                                    696
+                                ],
+                                "page_number": 4
                             },
                             {
                                 "type": "text",
                                 "text": "(iii) Between time \\(t = 0\\) and time \\(t = 5.8s\\) , the work done against resistive forces is \\(4.7 \\times 10^4 \\text{J}\\) .Determine the average output power of the car during this time.",
                                 "bbox": [
-                                    147,
-                                    71,
-                                    917,
-                                    103
-                                ]
+                                    88,
+                                    60,
+                                    546,
+                                    87
+                                ],
+                                "page_number": 5
                             },
                             {
                                 "type": "text",
                                 "text": "Determine the average output power of the car during this time.",
                                 "bbox": [
-                                    194,
-                                    117,
-                                    715,
-                                    135
-                                ]
+                                    116,
+                                    99,
+                                    426,
+                                    114
+                                ],
+                                "page_number": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": "power = W [3]",
+                                "bbox": [
+                                    306,
+                                    229,
+                                    546,
+                                    244
+                                ],
+                                "page_number": 5
                             }
                         ]
                     },
@@ -136,43 +157,47 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "power = W [3]",
-                                "bbox": [
-                                    513,
-                                    272,
-                                    916,
-                                    290
-                                ]
-                            },
-                            {
-                                "type": "text",
                                 "text": "(iv) At time \\(t = 5.8s\\) , the speed of the car becomes constant.",
                                 "bbox": [
-                                    147,
-                                    303,
-                                    657,
-                                    321
-                                ]
+                                    88,
+                                    255,
+                                    391,
+                                    271
+                                ],
+                                "page_number": 5
                             },
                             {
                                 "type": "text",
                                 "text": "State and explain whether the output power of the car is greater than, less than or the same as the output power just before \\(t = 5.8s\\) .",
                                 "bbox": [
-                                    194,
-                                    334,
-                                    916,
-                                    367
-                                ]
+                                    116,
+                                    282,
+                                    546,
+                                    309
+                                ],
+                                "page_number": 5
                             },
                             {
                                 "type": "text",
                                 "text": "[1]",
                                 "bbox": [
-                                    197,
-                                    386,
-                                    916,
-                                    404
-                                ]
+                                    117,
+                                    325,
+                                    546,
+                                    341
+                                ],
+                                "page_number": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": "[Total: 10]",
+                                "bbox": [
+                                    495,
+                                    373,
+                                    546,
+                                    388
+                                ],
+                                "page_number": 5
                             }
                         ]
                     }
@@ -191,11 +216,12 @@
                         "type": "text",
                         "text": "2 (a) Define the moment of a force about a point.",
                         "bbox": [
-                            78,
-                            71,
-                            515,
-                            88
-                        ]
+                            46,
+                            60,
+                            307,
+                            74
+                        ],
+                        "page_number": 6
                     }
                 ]
             },
@@ -206,24 +232,48 @@
                         "type": "text",
                         "text": "(b) A tree of mass \\(270 \\mathrm{kg}\\) grows out of sloping ground and is supported by a post, as shown in Fig. 2.1.",
                         "bbox": [
-                            117,
-                            180,
-                            916,
-                            213
-                        ]
+                            70,
+                            152,
+                            546,
+                            180
+                        ],
+                        "page_number": 6
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            245,
-                            223,
-                            744,
-                            550
+                            146,
+                            188,
+                            443,
+                            464
                         ],
+                        "page_number": 6,
                         "image": {
                             "caption": "<center>Fig. 2.1 (not to scale) </center>",
                             "page": 6
                         }
+                    },
+                    {
+                        "type": "text",
+                        "text": "The ground applies a total force \\(R\\) on the tree at point \\(Q\\) . The centre of gravity of the tree is a horizontal distance of \\(1.2 \\mathrm{m}\\) from \\(Q\\) .",
+                        "bbox": [
+                            93,
+                            503,
+                            369,
+                            517
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "text",
+                        "text": "The post applies a force \\(F\\) of \\(1800 \\mathrm{N}\\) perpendicular to the line \\(PQ\\) . The line of action of \\(F\\) passes through point \\(P\\) at an angle \\(\\theta\\) to the vertical. \\(P\\) is a horizontal distance of \\(1.6 \\mathrm{m}\\) from \\(Q\\) . The tree is in equilibrium and all forces act on the tree in the same plane.",
+                        "bbox": [
+                            93,
+                            529,
+                            546,
+                            569
+                        ],
+                        "page_number": 6
                     }
                 ],
                 "parts": [
@@ -232,23 +282,14 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "The ground applies a total force \\(R\\) on the tree at point \\(Q\\) .The centre of gravity of the tree is a horizontal distance of \\(1.2 \\mathrm{m}\\) from \\(Q\\) .The post applies a force \\(F\\) of \\(1800 \\mathrm{N}\\) perpendicular to the line \\(PQ\\) . The line of action of \\(F\\) passes through point \\(P\\) at an angle \\(\\theta\\) to the vertical. \\(P\\) is a horizontal distance of \\(1.6 \\mathrm{m}\\) from \\(Q\\) . The tree is in equilibrium and all forces act on the tree in the same plane.",
-                                "bbox": [
-                                    156,
-                                    628,
-                                    916,
-                                    675
-                                ]
-                            },
-                            {
-                                "type": "text",
                                 "text": "(i) By taking moments about point \\(Q\\) , show that \\(\\theta\\) is \\(25^{\\circ}\\) .",
                                 "bbox": [
-                                    156,
-                                    690,
-                                    631,
-                                    707
-                                ]
+                                    93,
+                                    582,
+                                    376,
+                                    596
+                                ],
+                                "page_number": 6
                             }
                         ]
                     },
@@ -259,20 +300,22 @@
                                 "type": "text",
                                 "text": "(ii) On Fig. 2.2, draw a labelled scale vector triangle to represent the forces acting on the tree. The weight of the tree has been drawn to scale.",
                                 "bbox": [
-                                    150,
-                                    71,
-                                    916,
-                                    103
-                                ]
+                                    89,
+                                    60,
+                                    546,
+                                    87
+                                ],
+                                "page_number": 7
                             },
                             {
                                 "type": "image",
                                 "bbox": [
-                                    487,
-                                    125,
-                                    576,
-                                    576
+                                    290,
+                                    105,
+                                    343,
+                                    485
                                 ],
+                                "page_number": 7,
                                 "image": {
                                     "caption": "<center>Fig. 2.2 </center>",
                                     "page": 7
@@ -287,11 +330,34 @@
                                 "type": "text",
                                 "text": "(iii) The tree exerts a pressure of \\(150 \\text{kPa}\\) on the top of the post. Determine the surface area of the tree in contact with the post.",
                                 "bbox": [
-                                    147,
-                                    640,
-                                    707,
-                                    688
-                                ]
+                                    88,
+                                    539,
+                                    421,
+                                    580
+                                ],
+                                "page_number": 7
+                            },
+                            {
+                                "type": "text",
+                                "text": "area = m² [2]",
+                                "bbox": [
+                                    313,
+                                    669,
+                                    546,
+                                    684
+                                ],
+                                "page_number": 7
+                            },
+                            {
+                                "type": "text",
+                                "text": "[Total: 8]",
+                                "bbox": [
+                                    500,
+                                    696,
+                                    546,
+                                    710
+                                ],
+                                "page_number": 7
                             }
                         ]
                     }
@@ -306,20 +372,22 @@
                 "type": "text",
                 "text": "3 Two progressive water waves X and Y travel along a straight line from point A to point B. The variation of displacement of the waves with distance from A at an instant in time is shown in Fig. 3.1.",
                 "bbox": [
-                    80,
-                    70,
-                    919,
-                    118
-                ]
+                    48,
+                    59,
+                    547,
+                    99
+                ],
+                "page_number": 8
             },
             {
                 "type": "image",
                 "bbox": [
-                    130,
-                    133,
-                    866,
-                    476
+                    77,
+                    112,
+                    516,
+                    401
                 ],
+                "page_number": 8,
                 "image": {
                     "caption": "<center>Fig. 3.1 </center>",
                     "page": 8
@@ -329,20 +397,44 @@
         "parts": [
             {
                 "label": "a",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) State the amplitude of wave X.",
+                        "bbox": [
+                            70,
+                            443,
+                            244,
+                            459
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "text",
+                        "text": "amplitude = cm [1]",
+                        "bbox": [
+                            288,
+                            469,
+                            546,
+                            484
+                        ],
+                        "page_number": 8
+                    }
+                ]
             },
             {
                 "label": "b",
                 "content": [
                     {
                         "type": "text",
-                        "text": "(a) State the amplitude of wave X.",
+                        "text": "(b) Both waves have frequency \\(16\\mathrm{Hz}\\) .",
                         "bbox": [
-                            118,
-                            526,
-                            410,
-                            544
-                        ]
+                            70,
+                            496,
+                            263,
+                            510
+                        ],
+                        "page_number": 8
                     }
                 ],
                 "parts": [
@@ -351,33 +443,25 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "amplitude = cm [1]",
-                                "bbox": [
-                                    483,
-                                    556,
-                                    916,
-                                    574
-                                ]
-                            },
-                            {
-                                "type": "text",
-                                "text": "(b) Both waves have frequency \\(16\\mathrm{Hz}\\) .",
-                                "bbox": [
-                                    118,
-                                    588,
-                                    442,
-                                    605
-                                ]
-                            },
-                            {
-                                "type": "text",
                                 "text": "(i) Determine the speed of wave X.",
                                 "bbox": [
-                                    157,
-                                    619,
-                                    460,
-                                    636
-                                ]
+                                    94,
+                                    522,
+                                    274,
+                                    536
+                                ],
+                                "page_number": 8
+                            },
+                            {
+                                "type": "text",
+                                "text": "speed = ms- 1 [2]",
+                                "bbox": [
+                                    304,
+                                    598,
+                                    546,
+                                    614
+                                ],
+                                "page_number": 8
                             }
                         ]
                     },
@@ -386,23 +470,14 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "speed = ms- 1 [2]",
-                                "bbox": [
-                                    510,
-                                    710,
-                                    916,
-                                    729
-                                ]
-                            },
-                            {
-                                "type": "text",
                                 "text": "(ii) State and explain whether X and Y are coherent.",
                                 "bbox": [
-                                    150,
-                                    742,
-                                    916,
-                                    850
-                                ]
+                                    89,
+                                    625,
+                                    546,
+                                    716
+                                ],
+                                "page_number": 8
                             }
                         ]
                     }
@@ -415,30 +490,33 @@
                         "type": "text",
                         "text": "(c) Wave X and wave Y superpose to form a resultant wave.",
                         "bbox": [
-                            117,
-                            72,
-                            622,
-                            88
-                        ]
+                            70,
+                            61,
+                            370,
+                            74
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "text",
                         "text": "On Fig. 3.2, sketch the variation of displacement of the resultant wave with distance from A at the instant of time shown in Fig. 3.1.",
                         "bbox": [
-                            155,
-                            102,
-                            917,
-                            136
-                        ]
+                            92,
+                            86,
+                            546,
+                            115
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            303,
-                            152,
-                            837,
-                            496
+                            180,
+                            128,
+                            499,
+                            418
                         ],
+                        "page_number": 9,
                         "image": {
                             "caption": "<center>Fig. 3.2 </center>",
                             "page": 9
@@ -453,11 +531,34 @@
                         "type": "text",
                         "text": "(d) The intensity of wave X is \\(I_{X}\\). The intensity of wave Y is \\(I_{Y}\\). Use Fig. 3.1 to determine the ratio \\(\\frac{I_{X}}{I_{Y}}\\).",
                         "bbox": [
-                            117,
-                            558,
-                            635,
-                            616
-                        ]
+                            70,
+                            470,
+                            378,
+                            519
+                        ],
+                        "page_number": 9
+                    },
+                    {
+                        "type": "text",
+                        "text": "ratio = [2]",
+                        "bbox": [
+                            313,
+                            614,
+                            546,
+                            629
+                        ],
+                        "page_number": 9
+                    },
+                    {
+                        "type": "text",
+                        "text": "[Total: 8]",
+                        "bbox": [
+                            500,
+                            641,
+                            546,
+                            654
+                        ],
+                        "page_number": 9
                     }
                 ]
             }
@@ -470,20 +571,22 @@
                 "type": "text",
                 "text": "4 A small ball is dropped from rest from height \\(h_1\\) above the ground and falls vertically downwards. The ball collides with the ground and bounces back vertically upwards, reaching a maximum height \\(h_2\\) . Fig. 4.1 shows the ball just before and just after hitting the ground.",
                 "bbox": [
-                    80,
-                    70,
-                    919,
-                    120
-                ]
+                    48,
+                    59,
+                    547,
+                    101
+                ],
+                "page_number": 10
             },
             {
                 "type": "image",
                 "bbox": [
-                    227,
-                    140,
-                    770,
-                    280
+                    135,
+                    118,
+                    459,
+                    236
                 ],
+                "page_number": 10,
                 "image": {
                     "caption": "<center>Fig. 4.1 </center>",
                     "page": 10
@@ -491,13 +594,14 @@
             },
             {
                 "type": "text",
-                "text": "(a) State and explain whether the collision is elastic or inelastic.",
+                "text": "The ball has mass \\(0.25kg\\) and is in contact with the ground for a time of \\(0.18s\\) . Just before the ball hits the ground, it has speed \\(5.2ms^{- 1}\\) . Just after it leaves the ground, it has speed \\(3.6ms^{- 1}\\) . Air resistance acting on the ball is negligible.",
                 "bbox": [
-                    118,
-                    405,
-                    920,
-                    515
-                ]
+                    70,
+                    277,
+                    548,
+                    331
+                ],
+                "page_number": 10
             }
         ],
         "parts": [
@@ -506,13 +610,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "The ball has mass \\(0.25kg\\) and is in contact with the ground for a time of \\(0.18s\\) . Just before the ball hits the ground, it has speed \\(5.2ms^{- 1}\\) . Just after it leaves the ground, it has speed \\(3.6ms^{- 1}\\) . Air resistance acting on the ball is negligible.",
+                        "text": "(a) State and explain whether the collision is elastic or inelastic.",
                         "bbox": [
-                            118,
-                            329,
-                            920,
-                            393
-                        ]
+                            70,
+                            341,
+                            548,
+                            434
+                        ],
+                        "page_number": 10
                     }
                 ]
             },
@@ -527,11 +632,12 @@
                                 "type": "text",
                                 "text": "(b) (i) Calculate the change in momentum of the ball during the collision with the ground.",
                                 "bbox": [
-                                    118,
-                                    528,
-                                    867,
-                                    547
-                                ]
+                                    70,
+                                    445,
+                                    516,
+                                    461
+                                ],
+                                "page_number": 10
                             }
                         ]
                     },
@@ -542,11 +648,23 @@
                                 "type": "text",
                                 "text": "change in momentum = \\(kgms^{- 1}\\) [2] (ii) Determine the average force on the ball during the collision with the ground.",
                                 "bbox": [
-                                    137,
-                                    650,
-                                    920,
-                                    702
-                                ]
+                                    82,
+                                    548,
+                                    548,
+                                    592
+                                ],
+                                "page_number": 10
+                            },
+                            {
+                                "type": "text",
+                                "text": "force = N [2]",
+                                "bbox": [
+                                    310,
+                                    692,
+                                    546,
+                                    707
+                                ],
+                                "page_number": 10
                             }
                         ]
                     }
@@ -557,23 +675,36 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "force = N [2]",
+                        "text": "(c) Calculate the ratio \\(\\frac{h_2}{h_1}\\).",
                         "bbox": [
-                            521,
-                            821,
-                            917,
-                            839
-                        ]
+                            70,
+                            63,
+                            202,
+                            89
+                        ],
+                        "page_number": 11
                     },
                     {
                         "type": "text",
-                        "text": "(c) Calculate the ratio \\(\\frac{h_2}{h_1}\\).",
+                        "text": "ratio = ................................................ [3]",
                         "bbox": [
-                            117,
-                            75,
-                            339,
-                            106
-                        ]
+                            313,
+                            200,
+                            546,
+                            215
+                        ],
+                        "page_number": 11
+                    },
+                    {
+                        "type": "text",
+                        "text": "[Total: 8]",
+                        "bbox": [
+                            500,
+                            228,
+                            546,
+                            241
+                        ],
+                        "page_number": 11
                     }
                 ]
             }
@@ -590,11 +721,12 @@
                         "type": "text",
                         "text": "5 (a) Define the Young modulus.",
                         "bbox": [
-                            80,
-                            72,
-                            380,
-                            88
-                        ]
+                            48,
+                            61,
+                            226,
+                            74
+                        ],
+                        "page_number": 12
                     }
                 ]
             },
@@ -605,20 +737,22 @@
                         "type": "text",
                         "text": "(b) A wire of unstretched length \\(0.81m\\) is made of a metal with Young modulus \\(95GPa\\) . The wire obeys Hooke's law and has a constant cross-sectional area. Fig. 5.1 shows the force–extension graph for the wire.",
                         "bbox": [
-                            117,
-                            163,
-                            917,
-                            213
-                        ]
+                            70,
+                            137,
+                            546,
+                            180
+                        ],
+                        "page_number": 12
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            199,
-                            227,
-                            792,
-                            612
+                            119,
+                            191,
+                            472,
+                            516
                         ],
+                        "page_number": 12,
                         "image": {
                             "caption": "<center>Fig. 5.1 </center>",
                             "page": 12
@@ -633,11 +767,23 @@
                                 "type": "text",
                                 "text": "(i) Determine the cross-sectional area of the wire.",
                                 "bbox": [
-                                    156,
-                                    660,
-                                    579,
-                                    677
-                                ]
+                                    93,
+                                    556,
+                                    345,
+                                    571
+                                ],
+                                "page_number": 12
+                            },
+                            {
+                                "type": "text",
+                                "text": "area = m² [3]",
+                                "bbox": [
+                                    313,
+                                    711,
+                                    546,
+                                    727
+                                ],
+                                "page_number": 12
                             }
                         ]
                     },
@@ -648,21 +794,23 @@
                                 "type": "text",
                                 "text": "(ii) The extension of the wire is initially \\(2.0 \\times 10^{-3} \\text{m}\\) .",
                                 "bbox": [
-                                    150,
-                                    72,
-                                    593,
-                                    88
-                                ]
+                                    89,
+                                    61,
+                                    353,
+                                    74
+                                ],
+                                "page_number": 13
                             },
                             {
                                 "type": "text",
                                 "text": "Determine the work done to increase the extension of the wire to \\(3.0 \\times 10^{- 3} \\text{m}\\) .",
                                 "bbox": [
-                                    192,
-                                    102,
-                                    835,
-                                    119
-                                ]
+                                    114,
+                                    86,
+                                    497,
+                                    100
+                                ],
+                                "page_number": 13
                             }
                         ]
                     }
@@ -681,11 +829,12 @@
                         "type": "text",
                         "text": "6 (a) Define electric potential difference across a component.",
                         "bbox": [
-                            78,
-                            72,
-                            612,
-                            88
-                        ]
+                            46,
+                            61,
+                            365,
+                            74
+                        ],
+                        "page_number": 14
                     }
                 ]
             },
@@ -696,34 +845,26 @@
                         "type": "text",
                         "text": "(b) A circuit contains four resistors and a battery of electromotive force (e.m.f.) \\(8.0V\\) with negligible internal resistance. When the variable resistor has resistance \\(R\\) , the currents in the circuit are \\(0.030A\\) , \\(I_1\\) and \\(I_2\\) , as shown in Fig. 6.1.",
                         "bbox": [
-                            117,
-                            163,
-                            916,
-                            213
-                        ]
+                            70,
+                            137,
+                            546,
+                            180
+                        ],
+                        "page_number": 14
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            256,
-                            225,
-                            740,
-                            500
+                            152,
+                            190,
+                            441,
+                            421
                         ],
+                        "page_number": 14,
                         "image": {
                             "caption": "<center>Fig. 6.1 </center>",
                             "page": 14
                         }
-                    },
-                    {
-                        "type": "text",
-                        "text": "\\(I_2 =\\) .................................................... A [1]",
-                        "bbox": [
-                            544,
-                            164,
-                            916,
-                            184
-                        ]
                     }
                 ],
                 "parts": [
@@ -734,11 +875,23 @@
                                 "type": "text",
                                 "text": "(i) Determine the charge passing through the battery in a time of 4.0 minutes.",
                                 "bbox": [
-                                    156,
-                                    544,
-                                    805,
-                                    561
-                                ]
+                                    93,
+                                    459,
+                                    479,
+                                    473
+                                ],
+                                "page_number": 14
+                            },
+                            {
+                                "type": "text",
+                                "text": "charge = C [2]",
+                                "bbox": [
+                                    302,
+                                    561,
+                                    546,
+                                    577
+                                ],
+                                "page_number": 14
                             }
                         ]
                     },
@@ -747,23 +900,25 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "charge = C [2]",
+                                "text": "(ii) Calculate \\(I_1\\) .",
                                 "bbox": [
-                                    507,
-                                    666,
-                                    916,
-                                    685
-                                ]
+                                    91,
+                                    589,
+                                    179,
+                                    603
+                                ],
+                                "page_number": 14
                             },
                             {
                                 "type": "text",
-                                "text": "(ii) Calculate \\(I_1\\) .",
+                                "text": "\\(I_1 =\\) A [2]",
                                 "bbox": [
-                                    152,
-                                    699,
-                                    300,
-                                    716
-                                ]
+                                    325,
+                                    691,
+                                    546,
+                                    707
+                                ],
+                                "page_number": 14
                             }
                         ]
                     },
@@ -772,23 +927,25 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "\\(I_1 =\\) A [2]",
+                                "text": "(iii) Calculate \\(I_2\\).",
                                 "bbox": [
-                                    545,
-                                    820,
-                                    916,
-                                    839
-                                ]
+                                    86,
+                                    61,
+                                    179,
+                                    76
+                                ],
+                                "page_number": 15
                             },
                             {
                                 "type": "text",
-                                "text": "(iii) Calculate \\(I_2\\).",
+                                "text": "\\(I_2 =\\) .................................................... A [1]",
                                 "bbox": [
-                                    144,
-                                    72,
-                                    301,
-                                    90
-                                ]
+                                    324,
+                                    138,
+                                    546,
+                                    155
+                                ],
+                                "page_number": 15
                             }
                         ]
                     },
@@ -799,11 +956,23 @@
                                 "type": "text",
                                 "text": "(iv) Determine \\(R\\).",
                                 "bbox": [
-                                    144,
-                                    198,
-                                    309,
-                                    214
-                                ]
+                                    86,
+                                    167,
+                                    184,
+                                    180
+                                ],
+                                "page_number": 15
+                            },
+                            {
+                                "type": "text",
+                                "text": "\\(R =\\) .................................................... Ω [2]",
+                                "bbox": [
+                                    324,
+                                    269,
+                                    546,
+                                    284
+                                ],
+                                "page_number": 15
                             }
                         ]
                     }
@@ -814,36 +983,61 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "\\(R =\\) .................................................... Ω [2]",
+                        "text": "(c) The variable resistor in (b) is fitted with a scale so that its resistance can be accurately determined. The resistor of resistance \\(240\\Omega\\) is now replaced by a new resistor \\(X\\) of unknown resistance. A galvanometer is connected as shown in Fig. 6.2.",
                         "bbox": [
-                            544,
-                            319,
-                            916,
-                            337
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "(c) The variable resistor in (b) is fitted with a scale so that its resistance can be accurately determined.The resistor of resistance \\(240\\Omega\\) is now replaced by a new resistor \\(X\\) of unknown resistance. A galvanometer is connected as shown in Fig. 6.2.",
-                        "bbox": [
-                            154,
-                            103,
-                            917,
-                            135
-                        ]
+                            70,
+                            60,
+                            546,
+                            87
+                        ],
+                        "page_number": 16
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            270,
-                            149,
-                            727,
-                            420
+                            161,
+                            126,
+                            433,
+                            354
                         ],
+                        "page_number": 16,
                         "image": {
                             "caption": "<center>Fig. 6.2 </center>",
                             "page": 16
                         }
+                    },
+                    {
+                        "type": "text",
+                        "text": "With reference to ratios of resistances, explain how this circuit can be used to determine the resistance of \\(X\\) .",
+                        "bbox": [
+                            92,
+                            393,
+                            546,
+                            421
+                        ],
+                        "page_number": 16
+                    },
+                    {
+                        "type": "text",
+                        "text": "[2]",
+                        "bbox": [
+                            92,
+                            432,
+                            546,
+                            548
+                        ],
+                        "page_number": 16
+                    },
+                    {
+                        "type": "text",
+                        "text": "[Total: 10]",
+                        "bbox": [
+                            494,
+                            561,
+                            546,
+                            575
+                        ],
+                        "page_number": 16
                     }
                 ]
             }
@@ -860,21 +1054,23 @@
                         "type": "text",
                         "text": "7 (a) State what is meant by a fundamental particle.",
                         "bbox": [
-                            78,
-                            72,
-                            540,
-                            90
-                        ]
+                            46,
+                            61,
+                            322,
+                            76
+                        ],
+                        "page_number": 17
                     },
                     {
                         "type": "text",
                         "text": "[1]",
                         "bbox": [
-                            155,
-                            110,
-                            919,
-                            152
-                        ]
+                            92,
+                            93,
+                            547,
+                            128
+                        ],
+                        "page_number": 17
                     }
                 ]
             },
@@ -885,11 +1081,12 @@
                         "type": "text",
                         "text": "(b) A nucleus X has 14 nucleons and \\(p\\) protons. The ratio of charge to mass for nucleus X is \\(4.1 \\times 10^{7} \\text{C kg}^{-1}\\).",
                         "bbox": [
-                            115,
-                            163,
-                            919,
-                            198
-                        ]
+                            68,
+                            137,
+                            547,
+                            167
+                        ],
+                        "page_number": 17
                     }
                 ],
                 "parts": [
@@ -900,11 +1097,12 @@
                                 "type": "text",
                                 "text": "(i) Determine \\(p\\) .",
                                 "bbox": [
-                                    157,
-                                    211,
-                                    303,
-                                    228
-                                ]
+                                    94,
+                                    178,
+                                    180,
+                                    192
+                                ],
+                                "page_number": 17
                             }
                         ]
                     },
@@ -915,31 +1113,45 @@
                                 "type": "text",
                                 "text": "[3]",
                                 "bbox": [
-                                    550,
-                                    384,
-                                    917,
-                                    403
-                                ]
+                                    328,
+                                    324,
+                                    546,
+                                    340
+                                ],
+                                "page_number": 17
                             },
                             {
                                 "type": "text",
                                 "text": "(ii) Nucleus X undergoes \\(\\beta^{-}\\) decay to form nucleus Z.",
                                 "bbox": [
-                                    152,
-                                    415,
-                                    605,
-                                    433
-                                ]
+                                    91,
+                                    350,
+                                    360,
+                                    365
+                                ],
+                                "page_number": 17
                             },
                             {
                                 "type": "text",
                                 "text": "Complete the equation representing this decay.",
                                 "bbox": [
-                                    193,
-                                    445,
-                                    585,
-                                    463
-                                ]
+                                    115,
+                                    375,
+                                    348,
+                                    390
+                                ],
+                                "page_number": 17
+                            },
+                            {
+                                "type": "blockMath",
+                                "blockMath": "\\[\\underbrace{14}_{\\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots} \\underbrace{14}_{\\dots \\dots \\dots \\dots \\dots \\dots \\dots \\ldots \\dots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots \\dots \\dots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots",
+                                "bbox": [
+                                    142,
+                                    405,
+                                    455,
+                                    447
+                                ],
+                                "page_number": 17
                             }
                         ]
                     }
@@ -947,18 +1159,7 @@
             },
             {
                 "label": "c",
-                "content": [
-                    {
-                        "type": "blockMath",
-                        "blockMath": "\\[\\underbrace{14}_{\\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots} \\underbrace{14}_{\\dots \\dots \\dots \\dots \\dots \\dots \\dots \\ldots \\dots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots \\dots \\dots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} \\underbrace{14}_{\\ldots \\dots \\dots} + \\underbrace{14}_{\\dots \\dots \\dots} + \\underbrace{14}_{\\ldots \\dots \\dots} + 14_{\\ldots \\dots \\dots",
-                        "bbox": [
-                            238,
-                            481,
-                            764,
-                            530
-                        ]
-                    }
-                ]
+                "content": []
             }
         ]
     }

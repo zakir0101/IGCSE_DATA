@@ -6,21 +6,23 @@
                 "type": "text",
                 "text": "1 The random variables \\(X\\) and \\(Y\\) have the independent distributions N(44, 16) and N(30, 9) respectively.",
                 "bbox": [
-                    70,
-                    71,
-                    911,
-                    89
-                ]
+                    42,
+                    60,
+                    543,
+                    75
+                ],
+                "page_number": 3
             },
             {
                 "type": "text",
                 "text": "Find \\(P(X-Y < 15)\\). [5]",
                 "bbox": [
-                    115,
-                    103,
-                    917,
-                    121
-                ]
+                    68,
+                    87,
+                    546,
+                    102
+                ],
+                "page_number": 3
             }
         ]
     },
@@ -31,31 +33,34 @@
                 "type": "text",
                 "text": "2 A researcher records the time, \\(T\\) seconds, taken by adults to complete a questionnaire.",
                 "bbox": [
-                    80,
-                    71,
-                    784,
-                    88
-                ]
+                    48,
+                    60,
+                    467,
+                    74
+                ],
+                "page_number": 4
             },
             {
                 "type": "text",
                 "text": "The results for a random sample of 60 adults who completed the questionnaire this year are summarised as follows.",
                 "bbox": [
-                    117,
-                    103,
-                    917,
-                    135
-                ]
+                    70,
+                    87,
+                    546,
+                    114
+                ],
+                "page_number": 4
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[n = 60 \\qquad \\Sigma t = 3678 \\qquad \\Sigma t^2 = 226313.36\\]",
                 "bbox": [
-                    297,
-                    149,
-                    698,
-                    167
-                ]
+                    177,
+                    126,
+                    416,
+                    141
+                ],
+                "page_number": 4
             }
         ],
         "parts": [
@@ -66,11 +71,12 @@
                         "type": "text",
                         "text": "(a) Find an unbiased estimate of \\(\\mathrm{E}(T)\\), and show that an unbiased estimate of \\(\\mathrm{Var}(T)\\) is 14.44. [3]",
                         "bbox": [
-                            117,
-                            181,
-                            917,
-                            199
-                        ]
+                            70,
+                            153,
+                            546,
+                            168
+                        ],
+                        "page_number": 4
                     }
                 ]
             },
@@ -81,21 +87,23 @@
                         "type": "text",
                         "text": "In the past, the population mean time was 62.4 seconds.",
                         "bbox": [
-                            117,
-                            72,
-                            551,
-                            88
-                        ]
+                            70,
+                            61,
+                            328,
+                            74
+                        ],
+                        "page_number": 5
                     },
                     {
                         "type": "text",
                         "text": "(b) Test at the \\(2\\%\\) significance level whether the population mean time for this year is less than 62.4 seconds. [5]",
                         "bbox": [
-                            115,
-                            102,
-                            917,
-                            137
-                        ]
+                            68,
+                            86,
+                            546,
+                            115
+                        ],
+                        "page_number": 5
                     }
                 ]
             },
@@ -112,11 +120,12 @@
                 "type": "text",
                 "text": "3 The random variable \\(X\\) has the distribution \\(\\mathrm{Po}(1.5)\\).",
                 "bbox": [
-                    80,
-                    72,
-                    520,
-                    88
-                ]
+                    48,
+                    61,
+                    310,
+                    74
+                ],
+                "page_number": 6
             }
         ],
         "parts": [
@@ -125,23 +134,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(a) Find \\(\\mathrm{P}(X \\ge 3)\\).",
+                        "text": "(a) Find \\(\\mathrm{P}(X \\ge 3)\\). [2]",
                         "bbox": [
-                            117,
-                            103,
-                            280,
-                            120
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "[2]",
-                        "bbox": [
-                            888,
-                            103,
-                            914,
-                            120
-                        ]
+                            70,
+                            87,
+                            167,
+                            101
+                        ],
+                        "page_number": 6
                     }
                 ]
             },
@@ -150,23 +150,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) Find the probability that the sum of three independent values of \\(X\\) is between 3 and 5 inclusive.",
+                        "text": "(b) Find the probability that the sum of three independent values of \\(X\\) is between 3 and 5 inclusive. [3]",
                         "bbox": [
-                            157,
-                            479,
-                            914,
-                            511
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "[3]",
-                        "bbox": [
-                            888,
-                            490,
-                            914,
-                            508
-                        ]
+                            94,
+                            404,
+                            544,
+                            431
+                        ],
+                        "page_number": 6
                     }
                 ]
             },
@@ -174,24 +165,40 @@
                 "label": "c",
                 "content": [
                     {
+                        "type": "image",
+                        "bbox": [
+                            169,
+                            796,
+                            186,
+                            816
+                        ],
+                        "page_number": 6,
+                        "image": {
+                            "caption": "",
+                            "page": 6
+                        }
+                    },
+                    {
                         "type": "text",
                         "text": "(c) The sum of a large number, \\(n\\), of values of \\(X\\) is denoted by \\(T\\). Using a suitable approximation, it was found that \\(\\mathrm{P}(T > 330) = 0.0391\\), correct to 3 significant figures.",
                         "bbox": [
-                            117,
-                            72,
-                            916,
-                            103
-                        ]
+                            70,
+                            61,
+                            546,
+                            87
+                        ],
+                        "page_number": 7
                     },
                     {
                         "type": "text",
                         "text": "Find the value of \\(n\\). [5]",
                         "bbox": [
-                            157,
-                            118,
-                            916,
-                            135
-                        ]
+                            94,
+                            99,
+                            546,
+                            114
+                        ],
+                        "page_number": 7
                     }
                 ]
             }
@@ -207,11 +214,12 @@
                     {
                         "type": "image",
                         "bbox": [
-                            281,
-                            98,
-                            714,
-                            260
+                            167,
+                            83,
+                            425,
+                            219
                         ],
+                        "page_number": 8,
                         "image": {
                             "caption": "",
                             "page": 8
@@ -221,11 +229,12 @@
                         "type": "text",
                         "text": "The diagram shows the graph of the probability density function, f, of a random variable X. The graph is a straight line from (0, a) to (2, b), where a and b are positive constants. Elsewhere, \\(\\mathrm{f}(x) = 0\\) .",
                         "bbox": [
-                            156,
-                            275,
-                            917,
-                            323
-                        ]
+                            93,
+                            232,
+                            546,
+                            272
+                        ],
+                        "page_number": 8
                     }
                 ],
                 "parts": [
@@ -236,11 +245,12 @@
                                 "type": "text",
                                 "text": "(i) Show that \\(b = 1 - a\\) . [2]",
                                 "bbox": [
-                                    156,
-                                    336,
-                                    917,
-                                    483
-                                ]
+                                    93,
+                                    283,
+                                    546,
+                                    407
+                                ],
+                                "page_number": 8
                             }
                         ]
                     },
@@ -251,20 +261,22 @@
                                 "type": "text",
                                 "text": "(ii) Given that \\(\\mathrm{E}(X) = 1.2\\) , find the value of \\(a\\) . [5]",
                                 "bbox": [
-                                    150,
-                                    490,
-                                    917,
-                                    515
-                                ]
+                                    89,
+                                    413,
+                                    546,
+                                    434
+                                ],
+                                "page_number": 8
                             },
                             {
                                 "type": "image",
                                 "bbox": [
-                                    193,
-                                    526,
-                                    917,
-                                    950
+                                    115,
+                                    443,
+                                    546,
+                                    801
                                 ],
+                                "page_number": 8,
                                 "image": {
                                     "caption": "",
                                     "page": 8
@@ -281,41 +293,34 @@
                         "type": "text",
                         "text": "(b) A random variable \\(T\\) has probability density function given by",
                         "bbox": [
-                            117,
-                            71,
-                            643,
-                            88
-                        ]
+                            70,
+                            60,
+                            383,
+                            74
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[g(t) = \\begin{cases} \\frac{1}{2} \\cos t & -\\frac{1}{2} \\pi \\le t \\le \\frac{1}{2} \\pi, \\\\ 0 & \\text{otherwise.} \\end{cases}\\]",
                         "bbox": [
-                            350,
-                            103,
-                            644,
-                            147
-                        ]
+                            208,
+                            87,
+                            384,
+                            124
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "text",
-                        "text": "Find the value of \\(c\\) such that \\(P(-c < t < c) = \\frac{1}{2}\\).",
+                        "text": "Find the value of \\(c\\) such that \\(P(-c < t < c) = \\frac{1}{2}\\). [4]",
                         "bbox": [
-                            155,
-                            161,
-                            540,
-                            183
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "[4]",
-                        "bbox": [
-                            884,
-                            164,
-                            916,
-                            181
-                        ]
+                            92,
+                            136,
+                            322,
+                            154
+                        ],
+                        "page_number": 9
                     }
                 ]
             }
@@ -328,21 +333,23 @@
                 "type": "text",
                 "text": "5 Amir believes that \\(20\\%\\) of the students at his college are left-handed. His friend believes that the true proportion, \\(p\\) , is less than \\(20\\%\\) . Amir plans to use the binomial distribution to test the null hypothesis, \\(\\mathrm{H}_0: p = 0.2\\) , against the alternative hypothesis, \\(\\mathrm{H}_1: p < 0.2\\) .",
                 "bbox": [
-                    80,
-                    71,
-                    917,
-                    120
-                ]
+                    48,
+                    60,
+                    546,
+                    101
+                ],
+                "page_number": 10
             },
             {
                 "type": "text",
                 "text": "He decides to choose 35 students at random. If 3 or fewer of these students are left- handed, Amir will reject his belief.",
                 "bbox": [
-                    116,
-                    133,
-                    917,
-                    166
-                ]
+                    69,
+                    112,
+                    546,
+                    140
+                ],
+                "page_number": 10
             }
         ],
         "parts": [
@@ -353,11 +360,12 @@
                         "type": "text",
                         "text": "(a) Find the significance level of the test. [3]",
                         "bbox": [
-                            116,
-                            180,
-                            917,
-                            198
-                        ]
+                            69,
+                            152,
+                            546,
+                            167
+                        ],
+                        "page_number": 10
                     }
                 ]
             },
@@ -368,11 +376,12 @@
                         "type": "text",
                         "text": "(b) State the probability of a Type I error. [1]",
                         "bbox": [
-                            116,
-                            737,
-                            915,
-                            755
-                        ]
+                            69,
+                            621,
+                            545,
+                            636
+                        ],
+                        "page_number": 10
                     }
                 ]
             },
@@ -380,13 +389,25 @@
                 "label": "c",
                 "content": [
                     {
+                        "type": "text",
+                        "text": "UCLES 2025 9709/62/F/M/25 [Turn over] NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE NOT FOR PUBLICATION DONOT WRITE HERE",
+                        "bbox": [
+                            0,
+                            0,
+                            14,
+                            0
+                        ],
+                        "page_number": 11
+                    },
+                    {
                         "type": "image",
                         "bbox": [
-                            100,
-                            30,
-                            415,
-                            63
+                            60,
+                            25,
+                            247,
+                            53
                         ],
+                        "page_number": 11,
                         "image": {
                             "caption": "",
                             "page": 11
@@ -396,41 +417,23 @@
                         "type": "text",
                         "text": "It is now given that the true value of \\(p\\) is 0.05.",
                         "bbox": [
-                            118,
-                            72,
-                            480,
-                            88
-                        ]
+                            70,
+                            61,
+                            286,
+                            74
+                        ],
+                        "page_number": 11
                     },
                     {
                         "type": "text",
-                        "text": "(c) Find the probability of a Type II error.",
+                        "text": "(c) Find the probability of a Type II error. [3]",
                         "bbox": [
-                            118,
-                            103,
-                            455,
-                            120
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "[3]",
-                        "bbox": [
-                            888,
-                            103,
-                            916,
-                            120
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "UCLES 20259709/62/F/M/25[Turn over]NOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERENOT FOR PUBLICATIONDONOT WRITE HERE",
-                        "bbox": [
-                            0,
-                            0,
-                            24,
-                            0
-                        ]
+                            70,
+                            87,
+                            271,
+                            101
+                        ],
+                        "page_number": 11
                     }
                 ]
             }
@@ -443,21 +446,23 @@
                 "type": "text",
                 "text": "6 Nikki is investigating the views of students at her school about the school sports facilities. She plans to give a survey to a sample of students.",
                 "bbox": [
-                    80,
-                    72,
-                    917,
-                    105
-                ]
+                    48,
+                    61,
+                    546,
+                    88
+                ],
+                "page_number": 12
             },
             {
                 "type": "text",
                 "text": "Nikki's friend says, \"This survey is about sports facilities, so you should choose a sample of students from the school sports teams.\"",
                 "bbox": [
-                    115,
-                    118,
-                    917,
-                    151
-                ]
+                    68,
+                    99,
+                    546,
+                    127
+                ],
+                "page_number": 12
             }
         ],
         "parts": [
@@ -468,11 +473,23 @@
                         "type": "text",
                         "text": "(a) State, with a reason, whether you agree with Nikki's friend. [1]",
                         "bbox": [
-                            115,
-                            164,
-                            917,
-                            280
-                        ]
+                            68,
+                            138,
+                            546,
+                            236
+                        ],
+                        "page_number": 12
+                    },
+                    {
+                        "type": "text",
+                        "text": "Nikki chooses an appropriate random sample of 60 students. She finds that 45 of these students think that the sports facilities are good.",
+                        "bbox": [
+                            68,
+                            243,
+                            546,
+                            271
+                        ],
+                        "page_number": 12
                     }
                 ]
             },
@@ -481,23 +498,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "Nikki chooses an appropriate random sample of 60 students. She finds that 45 of these students think that the sports facilities are good.",
-                        "bbox": [
-                            115,
-                            288,
-                            917,
-                            321
-                        ]
-                    },
-                    {
-                        "type": "text",
                         "text": "(b) Calculate an approximate \\(95\\%\\) confidence interval for the proportion of students who think that the sports facilities are good. [3]",
                         "bbox": [
-                            115,
-                            334,
-                            917,
-                            368
-                        ]
+                            68,
+                            282,
+                            546,
+                            310
+                        ],
+                        "page_number": 12
                     }
                 ]
             },
@@ -508,31 +516,34 @@
                         "type": "text",
                         "text": "For a different investigation, Nikki uses another large random sample to calculate a 99% confidence interval and an \\(x\\%\\) confidence interval.",
                         "bbox": [
-                            118,
-                            72,
-                            916,
-                            103
-                        ]
+                            70,
+                            61,
+                            546,
+                            87
+                        ],
+                        "page_number": 13
                     },
                     {
                         "type": "text",
                         "text": "The width of the 99% confidence interval is double the width of the \\(x\\%\\) confidence interval.",
                         "bbox": [
-                            118,
-                            118,
-                            833,
-                            136
-                        ]
+                            70,
+                            99,
+                            496,
+                            115
+                        ],
+                        "page_number": 13
                     },
                     {
                         "type": "text",
                         "text": "(c) Calculate the value of \\(x\\). [4]",
                         "bbox": [
-                            118,
-                            150,
-                            916,
-                            167
-                        ]
+                            70,
+                            126,
+                            546,
+                            141
+                        ],
+                        "page_number": 13
                     }
                 ]
             }
