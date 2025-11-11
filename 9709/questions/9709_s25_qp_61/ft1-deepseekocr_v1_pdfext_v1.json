@@ -1,0 +1,466 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "text": "1 It is known that \\(1 \\%\\) of houses in a certain area have a wind turbine. A random sample of 400 houses in this area is chosen for a survey on domestic heating. The number of houses in the sample that have a",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "wind turbine is denoted by \\(X\\).",
+                "bbox": [
+                    70,
+                    88,
+                    208,
+                    103
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "Use a suitable approximating distribution to find \\(\\mathrm{P}(X \\leqslant 3)\\).",
+                "bbox": [
+                    70,
+                    115,
+                    346,
+                    129
+                ],
+                "page_number": 2
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2 The random variable \\(X\\) has the distribution \\(\\mathrm{B}\\left(8, \\frac{3}{4}\\right)\\). A random sample of 100 values of \\(X\\) is chosen, and the sample mean, \\(\\bar{X}\\), is found.",
+                "bbox": [
+                    48,
+                    64,
+                    547,
+                    88
+                ],
+                "page_number": 3
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find \\(\\mathrm{P}(\\bar{X}>6.2)\\). You are not expected to use a continuity correction.",
+                        "bbox": [
+                            70,
+                            108,
+                            417,
+                            125
+                        ],
+                        "page_number": 3
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) State why the Central Limit Theorem was needed in the calculation in part (a).",
+                        "bbox": [
+                            70,
+                            645,
+                            458,
+                            660
+                        ],
+                        "page_number": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "text": "3 The time, \\(T\\) minutes, for a certain daily bus journey is normally distributed. The bus company claims that the mean of \\(T\\) is 45 . A passenger believes that the mean of \\(T\\) is actually greater than 45 . She notes",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "text",
+                "text": "the times taken for this journey on a random sample of 60 days. The results are summarised below.",
+                "bbox": [
+                    70,
+                    88,
+                    529,
+                    103
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\nn=60 \\quad \\sum t=2750 \\quad \\sum t^{2}=127000\n\\]",
+                "bbox": [
+                    186,
+                    113,
+                    409,
+                    129
+                ],
+                "page_number": 4
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Calculate unbiased estimates of the population mean and variance.",
+                        "bbox": [
+                            70,
+                            140,
+                            402,
+                            154
+                        ],
+                        "page_number": 4
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Test the passenger's belief at the \\(5 \\%\\) significance level.",
+                        "bbox": [
+                            70,
+                            400,
+                            351,
+                            417
+                        ],
+                        "page_number": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 At an entertainment centre, the cost for using a particular video game is \\(\\$ 0.40\\) per minute. The number of minutes for which people use the video game has mean 15 and variance 9 .",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 5
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the mean and variance of the amount people pay for using the video game.",
+                        "bbox": [
+                            70,
+                            102,
+                            463,
+                            116
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Each day, 35 people independently use the video game.",
+                        "bbox": [
+                            70,
+                            439,
+                            328,
+                            455
+                        ],
+                        "page_number": 5
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Find the mean and variance of the total amount paid by 35 people.",
+                        "bbox": [
+                            70,
+                            465,
+                            400,
+                            481
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "5 (a) The random variables \\(W\\) and \\(X\\) have the independent distributions \\(\\operatorname{Po}(1.2)\\) and \\(\\operatorname{Po}(2.3)\\) respectively.",
+                        "bbox": [
+                            48,
+                            62,
+                            547,
+                            77
+                        ],
+                        "page_number": 6
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) Find \\(\\mathrm{P}(3 \\leqslant W+X \\leqslant 5)\\).",
+                                "bbox": [
+                                    94,
+                                    88,
+                                    229,
+                                    103
+                                ],
+                                "page_number": 6
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "The random variable \\(S\\) is the sum of 100 independent values of \\(W\\) and 200 independent values of \\(X\\).",
+                                "bbox": [
+                                    94,
+                                    270,
+                                    547,
+                                    286
+                                ],
+                                "page_number": 6
+                            },
+                            {
+                                "type": "text",
+                                "text": "(ii) Use a suitable approximation to find \\(\\mathrm{P}(S>600)\\).",
+                                "bbox": [
+                                    91,
+                                    296,
+                                    348,
+                                    311
+                                ],
+                                "page_number": 6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) The random variable \\(Y\\) has the distribution \\(\\operatorname{Po}(\\lambda)\\), where \\(\\lambda>0\\). It is given that \\(\\frac{5}{2} \\mathrm{P}(Y=3)+\\mathrm{P}(Y=4)=\\mathrm{P}(Y=5)\\).",
+                        "bbox": [
+                            70,
+                            62,
+                            394,
+                            78
+                        ],
+                        "page_number": 7
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(\\lambda\\).",
+                        "bbox": [
+                            94,
+                            115,
+                            187,
+                            129
+                        ],
+                        "page_number": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "text": "6 A manufacturer of cell phones claims that \\(25 \\%\\) of students own a Pumpkin phone. Jeyeraj thinks that the proportion of students at his large college who own a Pumpkin phone is less than \\(25 \\%\\). He plans to",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 8
+            },
+            {
+                "type": "text",
+                "text": "test the manufacturer's claim. He chooses a random sample of 30 students at his college. If the number of students who own a Pumpkin phone is less than 5 , Jeyeraj will reject the manufacturer's claim.",
+                "bbox": [
+                    70,
+                    88,
+                    547,
+                    103
+                ],
+                "page_number": 8
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) State suitable hypotheses for the test.",
+                        "bbox": [
+                            70,
+                            126,
+                            266,
+                            141
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Given that the true proportion of students at the college who own a Pumpkin phone is \\(10 \\%\\), use a binomial distribution to find the probability of a Type II error.",
+                        "bbox": [
+                            70,
+                            283,
+                            547,
+                            298
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "At Florence's college, in a random sample of 40 students, it was found that 5 own a Pumpkin phone.",
+                        "bbox": [
+                            70,
+                            62,
+                            535,
+                            77
+                        ],
+                        "page_number": 9
+                    },
+                    {
+                        "type": "text",
+                        "text": "(c) Calculate an approximate \\(95 \\%\\) confidence interval for the proportion of students at Florence's college who own a Pumpkin phone.",
+                        "bbox": [
+                            70,
+                            88,
+                            547,
+                            103
+                        ],
+                        "page_number": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "text": "\\(7 X\\) is a random variable with probability density function given by",
+                "bbox": [
+                    48,
+                    62,
+                    374,
+                    77
+                ],
+                "page_number": 10
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\mathrm{f}(x)= \\begin{cases}(1+\\cos \\pi x) & 0 \\leqslant x \\leqslant 1 \\\\ 0 & \\text { otherwise }\\end{cases}\n\\]",
+                "bbox": [
+                    208,
+                    90,
+                    386,
+                    123
+                ],
+                "page_number": 10
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Show that \\(\\mathrm{P}\\left(X<\\frac{1}{2}\\right)=\\frac{1}{2}+\\frac{1}{\\pi}\\).",
+                        "bbox": [
+                            70,
+                            135,
+                            236,
+                            161
+                        ],
+                        "page_number": 10
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Show that \\(\\mathrm{E}(X)=\\frac{1}{2}-\\frac{2}{\\pi^{2}}\\).",
+                        "bbox": [
+                            70,
+                            64,
+                            222,
+                            88
+                        ],
+                        "page_number": 11
+                    }
+                ]
+            }
+        ]
+    }
+]

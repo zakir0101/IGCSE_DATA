@@ -214,7 +214,7 @@
                         "page_number": 4
                     },
                     {
-                        "type": "image",
+                        "type": "table",
                         "bbox": [
                             220,
                             153,
@@ -497,6 +497,20 @@
                             25,
                             247,
                             59
+                        ],
+                        "page_number": 7,
+                        "image": {
+                            "caption": "",
+                            "page": 7
+                        }
+                    },
+                    {
+                        "type": "table",
+                        "bbox": [
+                            232,
+                            88,
+                            361,
+                            318
                         ],
                         "page_number": 7,
                         "table": {
@@ -910,7 +924,7 @@
                         "label": "ii",
                         "content": [
                             {
-                                "type": "image",
+                                "type": "table",
                                 "bbox": [
                                     172,
                                     87,

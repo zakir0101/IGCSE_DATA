@@ -1,0 +1,415 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "text": "1 Solve the equation \\(\\ln (3 x+1)-\\ln (x-5)=\\ln 7\\).",
+                "bbox": [
+                    48,
+                    62,
+                    294,
+                    78
+                ],
+                "page_number": 2
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2 A curve passes through the point with coordinates \\(\\left(\\frac{1}{2} \\pi, 5\\right)\\) and is such that \\(\\frac{\\mathrm{d} y}{\\mathrm{~d} x}=4 \\sec ^{2}\\left(\\frac{1}{2} x\\right)\\).",
+                "bbox": [
+                    48,
+                    64,
+                    497,
+                    91
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "text",
+                "text": "Find the equation of the curve.",
+                "bbox": [
+                    70,
+                    97,
+                    215,
+                    113
+                ],
+                "page_number": 3
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "text": "3",
+                "bbox": [
+                    46,
+                    60,
+                    58,
+                    74
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    220,
+                    77,
+                    374,
+                    222
+                ],
+                "page_number": 4,
+                "image": {
+                    "caption": "",
+                    "page": 4
+                }
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curves \\(y=\\mathrm{e}^{2 x}\\) and \\(y=8 \\mathrm{e}^{-x}\\). The shaded region is bounded by the two curves and the \\(y\\)-axis.",
+                "bbox": [
+                    70,
+                    233,
+                    547,
+                    251
+                ],
+                "page_number": 4
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Show that the \\(x\\)-coordinate of the point of intersection of the two curves is \\(\\ln 2\\).",
+                        "bbox": [
+                            70,
+                            275,
+                            461,
+                            289
+                        ],
+                        "page_number": 4
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the area of the shaded region.",
+                        "bbox": [
+                            70,
+                            482,
+                            256,
+                            496
+                        ],
+                        "page_number": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 A curve has equation \\(y=\\frac{4 \\sin x}{3+\\cos 2 x}\\) for values of \\(x\\) such that \\(0 \\leqslant x \\leqslant 2 \\pi\\).",
+                "bbox": [
+                    48,
+                    64,
+                    415,
+                    88
+                ],
+                "page_number": 5
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find \\(\\frac{\\mathrm{d} y}{\\mathrm{~d} x}\\).",
+                        "bbox": [
+                            70,
+                            100,
+                            138,
+                            127
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Hence find the coordinates of the stationary points of the curve.",
+                        "bbox": [
+                            70,
+                            263,
+                            389,
+                            279
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "5 (a) Sketch on the same diagram the graphs of \\(y=|2 x-3|\\) and \\(y=\\ln (x+1)\\).",
+                        "bbox": [
+                            48,
+                            64,
+                            433,
+                            80
+                        ],
+                        "page_number": 6
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The \\(x\\)-coordinates of the points where the graphs intersect are denoted by \\(\\alpha\\) and \\(\\beta\\), where \\(\\alpha<\\beta\\).",
+                        "bbox": [
+                            70,
+                            273,
+                            514,
+                            287
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Show that \\(\\alpha=1.5-0.5 \\ln (\\alpha+1)\\).",
+                        "bbox": [
+                            70,
+                            299,
+                            253,
+                            314
+                        ],
+                        "page_number": 6
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Use an iterative formula, based on the equation in part (b), to find the value of \\(\\alpha\\) correct to 3 significant figures. Give the result of each iteration to 5 significant figures.",
+                        "bbox": [
+                            70,
+                            403,
+                            547,
+                            419
+                        ],
+                        "page_number": 6
+                    }
+                ]
+            },
+            {
+                "label": "d",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(d) Show by calculation that \\(2.055<\\beta<2.065\\).",
+                        "bbox": [
+                            70,
+                            597,
+                            307,
+                            614
+                        ],
+                        "page_number": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "6 (a) Find the quotient and remainder when \\(18 x^{3}-6 x^{2}-30 x+4\\) is divided by \\((3 x-1)\\).",
+                        "bbox": [
+                            48,
+                            64,
+                            472,
+                            82
+                        ],
+                        "page_number": 7
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Hence find \\(\\int_{1}^{5} \\frac{18 x^{3}-6 x^{2}-30 x+4}{3 x-1} \\mathrm{~d} x\\). Give your answer in the form \\(a-\\ln b\\), where \\(a\\) and \\(b\\) are integers.",
+                        "bbox": [
+                            70,
+                            239,
+                            547,
+                            271
+                        ],
+                        "page_number": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "7 （a）Express \\(6 \\sin \\theta-4 \\cos \\theta\\) in the form \\(R \\sin (\\theta-\\alpha)\\) ，where \\(R>0\\) and \\(0^{\\circ}<\\alpha<90^{\\circ}\\) ．Give the exact value of \\(R\\) and the value of \\(\\alpha\\) correct to 2 decimal places．",
+                        "bbox": [
+                            48,
+                            62,
+                            547,
+                            78
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Hence solve the equation \\(6 \\sin \\theta-4 \\cos \\theta+5=0\\) for \\(0^{\\circ}<\\theta<360^{\\circ}\\).",
+                        "bbox": [
+                            70,
+                            62,
+                            415,
+                            78
+                        ],
+                        "page_number": 9
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) As the value of \\(\\beta\\) varies, find the greatest possible value of",
+                        "bbox": [
+                            70,
+                            375,
+                            369,
+                            391
+                        ],
+                        "page_number": 9
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n(3 \\sin 4 \\beta-2 \\cos 4 \\beta)^{2}+15\n\\]",
+                        "bbox": [
+                            235,
+                            398,
+                            359,
+                            419
+                        ],
+                        "page_number": 9
+                    },
+                    {
+                        "type": "text",
+                        "text": "and determine the smallest positive value of \\(\\beta\\), in degrees, for which this greatest value occurs.",
+                        "bbox": [
+                            93,
+                            427,
+                            547,
+                            442
+                        ],
+                        "page_number": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "8",
+        "content": [
+            {
+                "type": "text",
+                "text": "8 A curve has equation \\(3 \\mathrm{e}^{2 x} y+4 \\mathrm{e}^{3 x}+y^{3}=18\\).",
+                "bbox": [
+                    48,
+                    64,
+                    279,
+                    82
+                ],
+                "page_number": 10
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Show that \\(\\frac{\\mathrm{d} y}{\\mathrm{~d} x}=\\frac{-2 \\mathrm{e}^{2 x} y-4 \\mathrm{e}^{3 x}}{\\mathrm{e}^{2 x}+y^{2}}\\).",
+                        "bbox": [
+                            70,
+                            94,
+                            241,
+                            129
+                        ],
+                        "page_number": 10
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Show that the curve has no stationary points.",
+                        "bbox": [
+                            70,
+                            62,
+                            302,
+                            77
+                        ],
+                        "page_number": 11
+                    }
+                ]
+            }
+        ]
+    }
+]

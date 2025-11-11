@@ -1,0 +1,540 @@
+[
+    {
+        "label": "1",
+        "content": [],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "1 (a) Use standard results from the list of formulae (MF19) to show that",
+                        "bbox": [
+                            48,
+                            62,
+                            404,
+                            77
+                        ],
+                        "page_number": 2
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\sum_{r=1}^{n}(2-3 r)(5-3 r)=a n^{3}+b n^{2}+c n\n\\]",
+                        "bbox": [
+                            208,
+                            90,
+                            387,
+                            129
+                        ],
+                        "page_number": 2
+                    },
+                    {
+                        "type": "text",
+                        "text": "where \\(a, b\\) and \\(c\\) are integers to be determined.",
+                        "bbox": [
+                            94,
+                            140,
+                            310,
+                            154
+                        ],
+                        "page_number": 2
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Use the method of differences to find \\(\\sum_{r=1}^{n} \\frac{1}{(2-3 r)(5-3 r)}\\) in terms of \\(n\\).",
+                        "bbox": [
+                            70,
+                            64,
+                            425,
+                            99
+                        ],
+                        "page_number": 3
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Deduce the value of \\(\\sum_{r=1}^{\\infty} \\frac{1}{(2-3 r)(5-3 r)}\\).",
+                        "bbox": [
+                            70,
+                            688,
+                            285,
+                            723
+                        ],
+                        "page_number": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2 The cubic equation \\(x^{3}+2 x+1=0\\) has roots \\(\\alpha, \\beta, \\gamma\\).",
+                "bbox": [
+                    48,
+                    64,
+                    317,
+                    82
+                ],
+                "page_number": 4
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find a cubic equation whose roots are \\(\\alpha^{3}-1, \\beta^{3}-1, \\gamma^{3}-1\\).",
+                        "bbox": [
+                            70,
+                            89,
+                            376,
+                            107
+                        ],
+                        "page_number": 4
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "（b）Find the value of \\(\\left(\\alpha^{3}-1\\right)^{2}+\\left(\\beta^{3}-1\\right)^{2}+\\left(\\gamma^{3}-1\\right)^{2}\\) ．",
+                        "bbox": [
+                            70,
+                            64,
+                            325,
+                            85
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "（c）Find the value of \\(\\left(\\alpha^{3}-1\\right)^{3}+\\left(\\beta^{3}-1\\right)^{3}+\\left(\\gamma^{3}-1\\right)^{3}\\) ．",
+                        "bbox": [
+                            70,
+                            435,
+                            325,
+                            457
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "text": "3 The sequence \\(u_{1}, u_{2}, u_{3}, \\ldots\\) is such that \\(u_{1}=5\\) and \\(u_{n+1}=6 u_{n}+5\\) for \\(n \\geqslant 1\\).",
+                "bbox": [
+                    48,
+                    64,
+                    438,
+                    80
+                ],
+                "page_number": 6
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Prove by induction that \\(u_{n}=6^{n}-1\\) for all positive integers \\(n\\).",
+                        "bbox": [
+                            70,
+                            88,
+                            379,
+                            106
+                        ],
+                        "page_number": 6
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Deduce that \\(u_{2 n}\\) is divisible by \\(u_{n}\\) for \\(n \\geqslant 1\\).",
+                        "bbox": [
+                            70,
+                            704,
+                            300,
+                            720
+                        ],
+                        "page_number": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 The matrix \\(\\mathbf{M}\\) is given by \\(\\mathbf{M}=\\left(\\begin{array}{ll}1 & 2 \\\\ 0 & 1\\end{array}\\right)\\left(\\begin{array}{rr}\\cos \\theta & -\\sin \\theta \\\\ \\sin \\theta & \\cos \\theta\\end{array}\\right)\\) ，where \\(0<\\theta<2 \\pi\\) ．",
+                "bbox": [
+                    48,
+                    64,
+                    412,
+                    94
+                ],
+                "page_number": 8
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "（a）The matrix \\(\\mathbf{M}\\) represents a sequence of two geometrical transformations in the \\(x-y\\) plane．",
+                        "bbox": [
+                            70,
+                            107,
+                            506,
+                            123
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "text",
+                        "text": "State the type of each transformation，and make clear the order in which they are applied．",
+                        "bbox": [
+                            94,
+                            133,
+                            507,
+                            148
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "（b）Find the value of \\(\\theta\\) for which the transformation represented by \\(\\mathbf{M}\\) has a line of invariant points．［7］",
+                        "bbox": [
+                            70,
+                            470,
+                            545,
+                            487
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "text": "5 The curve \\(C\\) has polar equation \\(r=\\theta \\mathrm{e}^{\\frac{1}{8} \\theta}\\), for \\(0 \\leqslant \\theta \\leqslant 2 \\pi\\).",
+                "bbox": [
+                    48,
+                    64,
+                    339,
+                    83
+                ],
+                "page_number": 10
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Sketch \\(C\\).",
+                        "bbox": [
+                            70,
+                            94,
+                            141,
+                            109
+                        ],
+                        "page_number": 10
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the area of the region bounded by \\(C\\) and the initial line, giving your answer in the form \\(\\left(p \\pi^{2}+q \\pi+r\\right) \\mathrm{e}^{\\frac{1}{2} \\pi}+s\\), where \\(p, q, r\\) and \\(s\\) are integers to be determined.",
+                        "bbox": [
+                            72,
+                            341,
+                            549,
+                            358
+                        ],
+                        "page_number": 10
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Show that, at the point of \\(C\\) furthest from the initial line,",
+                        "bbox": [
+                            70,
+                            204,
+                            356,
+                            221
+                        ],
+                        "page_number": 11
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\theta \\cos \\theta+\\left(\\frac{1}{8} \\theta+1\\right) \\sin \\theta=0\n\\]",
+                        "bbox": [
+                            233,
+                            223,
+                            360,
+                            253
+                        ],
+                        "page_number": 11
+                    },
+                    {
+                        "type": "text",
+                        "text": "and verify that this equation has a root between 5 and 5.05.",
+                        "bbox": [
+                            93,
+                            256,
+                            367,
+                            272
+                        ],
+                        "page_number": 11
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "text": "6 The points \\(A, B, C\\) have position vectors",
+                "bbox": [
+                    48,
+                    62,
+                    259,
+                    77
+                ],
+                "page_number": 12
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\mathbf{i}-2 \\mathbf{k}, \\quad \\mathbf{i}+2 \\mathbf{j}+2 \\mathbf{k}, \\quad 2 \\mathbf{i}-\\mathbf{j}-\\mathbf{k}\n\\]",
+                "bbox": [
+                    222,
+                    87,
+                    372,
+                    105
+                ],
+                "page_number": 12
+            },
+            {
+                "type": "text",
+                "text": "respectively.",
+                "bbox": [
+                    70,
+                    115,
+                    131,
+                    129
+                ],
+                "page_number": 12
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the equation of the plane \\(A B C\\), giving your answer in the form \\(a x+b y+c z=d\\).",
+                        "bbox": [
+                            70,
+                            140,
+                            490,
+                            154
+                        ],
+                        "page_number": 12
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "A point \\(D\\) has position vector \\(\\mathbf{i}+t \\mathbf{k}\\), where \\(t \\neq-2\\).",
+                        "bbox": [
+                            70,
+                            452,
+                            307,
+                            466
+                        ],
+                        "page_number": 12
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Find the acute angle between the planes \\(A B C\\) and \\(A B D\\).",
+                        "bbox": [
+                            70,
+                            478,
+                            351,
+                            493
+                        ],
+                        "page_number": 12
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Find the values of \\(t\\) such that the shortest distance between the lines \\(A B\\) and \\(C D\\) is \\(\\sqrt{2}\\).",
+                        "bbox": [
+                            70,
+                            63,
+                            494,
+                            80
+                        ],
+                        "page_number": 13
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "text": "7 The curve \\(C\\) has equation \\(y=\\frac{2 x^{2}-5 x}{2 x^{2}-7 x-4}\\) ．",
+                "bbox": [
+                    48,
+                    64,
+                    275,
+                    94
+                ],
+                "page_number": 14
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "（a）Find the equations of the asymptotes of \\(C\\) ．",
+                        "bbox": [
+                            70,
+                            104,
+                            291,
+                            120
+                        ],
+                        "page_number": 14
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "（b）Find the coordinates of any stationary points on \\(C\\) ．",
+                        "bbox": [
+                            70,
+                            312,
+                            330,
+                            326
+                        ],
+                        "page_number": 14
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Sketch \\(C\\), stating the coordinates of the intersections with the axes.",
+                        "bbox": [
+                            70,
+                            62,
+                            404,
+                            77
+                        ],
+                        "page_number": 15
+                    }
+                ]
+            },
+            {
+                "label": "(d)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(d) Sketch the curve with equation \\(y=\\left|\\frac{2 x^{2}-5 x}{2 x^{2}-7 x-4}\\right|\\).",
+                        "bbox": [
+                            70,
+                            468,
+                            328,
+                            501
+                        ],
+                        "page_number": 15
+                    }
+                ]
+            },
+            {
+                "label": "(e)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(e) Find in exact form the set of values of \\(x\\) for which \\(\\left|\\frac{2 x^{2}-5 x}{2 x^{2}-7 x-4}\\right|<\\frac{1}{9}\\).",
+                        "bbox": [
+                            70,
+                            64,
+                            419,
+                            97
+                        ],
+                        "page_number": 16
+                    }
+                ]
+            }
+        ]
+    }
+]

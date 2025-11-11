@@ -1,0 +1,643 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "text": "1 The manager of a hardware store is interested in whether there is a difference in the amount spent per customer on weekdays ( \\(\\$ x\\) ) compared to weekends ( \\(\\$ y\\) ). Random samples of 120 customers on",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "text",
+                "text": "weekdays and 80 customers on weekends are taken and the amount spent by each customer is recorded. The results are summarised as follows.",
+                "bbox": [
+                    70,
+                    88,
+                    547,
+                    103
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\sum x=10470 \\quad \\sum(x-\\bar{x})^{2}=12283 \\quad \\sum y=6560 \\quad \\sum(y-\\bar{y})^{2}=13520\n\\]",
+                "bbox": [
+                    110,
+                    123,
+                    507,
+                    143
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "text",
+                "text": "Test at the \\(1 \\%\\) significance level whether there is a difference in the mean amount spent per customer on weekdays compared to weekends. You should not assume that the population variances of the amounts",
+                "bbox": [
+                    70,
+                    153,
+                    547,
+                    167
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "text",
+                "text": "spent on weekdays and weekends are equal.",
+                "bbox": [
+                    70,
+                    180,
+                    276,
+                    194
+                ],
+                "page_number": 3
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2",
+                "bbox": [
+                    46,
+                    60,
+                    58,
+                    76
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    172,
+                    73,
+                    422,
+                    205
+                ],
+                "page_number": 4,
+                "image": {
+                    "caption": "",
+                    "page": 4
+                }
+            },
+            {
+                "type": "text",
+                "text": "As shown in the diagram, the continuous random variable \\(X\\) has probability density function \\(f\\) given by",
+                "bbox": [
+                    70,
+                    222,
+                    547,
+                    237
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\nf(x)= \\begin{cases}a & 0 \\leqslant x \\leqslant 5 \\\\ b-c x & 5 \\leqslant x \\leqslant 8 \\\\ 0 & \\text { otherwise }\\end{cases}\n\\]",
+                "bbox": [
+                    227,
+                    244,
+                    367,
+                    291
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "text",
+                "text": "where \\(a, b\\) and \\(c\\) are constants.",
+                "bbox": [
+                    70,
+                    301,
+                    215,
+                    314
+                ],
+                "page_number": 4
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Show that \\(a=\\frac{2}{13}\\) and find the values of \\(b\\) and \\(c\\).",
+                        "bbox": [
+                            70,
+                            324,
+                            319,
+                            343
+                        ],
+                        "page_number": 4
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the mean of \\(X\\).",
+                        "bbox": [
+                            70,
+                            62,
+                            187,
+                            77
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Find the median of \\(X\\).",
+                        "bbox": [
+                            70,
+                            242,
+                            197,
+                            256
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            },
+            {
+                "label": "(d)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The random variable \\(Y\\) is defined by \\(Y=X^{2}\\).",
+                        "bbox": [
+                            70,
+                            394,
+                            281,
+                            410
+                        ],
+                        "page_number": 5
+                    },
+                    {
+                        "type": "text",
+                        "text": "(d) Find the cumulative distribution function for \\(Y\\).",
+                        "bbox": [
+                            70,
+                            422,
+                            313,
+                            437
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "text": "3 Eggs in a supermarket are sold in boxes of six. A supermarket manager wishes to model the number of broken eggs in the boxes sold in the store. A random sample of 2000 boxes is taken and the number of",
+                "bbox": [
+                    48,
+                    62,
+                    549,
+                    77
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "text",
+                "text": "broken eggs recorded. The observed frequencies are shown in the table below.",
+                "bbox": [
+                    70,
+                    88,
+                    432,
+                    103
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    70,
+                    114,
+                    549,
+                    163
+                ],
+                "page_number": 6,
+                "table": {
+                    "caption": "",
+                    "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Number of broken eggs</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>5</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>6</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Observed frequency</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1844</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>143</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>11</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1</div></td>\n  </tr>\n</table>\n\n"
+                }
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Use the data to estimate the probability that an egg is broken. Give your answer correct to 4 significant figures.",
+                        "bbox": [
+                            70,
+                            174,
+                            547,
+                            187
+                        ],
+                        "page_number": 6
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "It is decided to carry out a goodness of fit test at the \\(0.5 \\%\\) significance level to determine whether a binomial distribution fits the data.",
+                        "bbox": [
+                            70,
+                            368,
+                            547,
+                            383
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "text",
+                        "text": "The observed frequencies and the expected frequencies are given in the following table.",
+                        "bbox": [
+                            70,
+                            408,
+                            476,
+                            422
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "table",
+                        "bbox": [
+                            70,
+                            432,
+                            549,
+                            505
+                        ],
+                        "page_number": 6,
+                        "table": {
+                            "caption": "",
+                            "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Number of broken eggs</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>5</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>6</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Observed frequency</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1844</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>143</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>11</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Expected frequency</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1831.3</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(a\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>6.016</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0.119</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0.001</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0.000</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0.000</div></td>\n  </tr>\n</table>\n\n"
+                        }
+                    },
+                    {
+                        "type": "table",
+                        "bbox": [
+                            70,
+                            432,
+                            549,
+                            505
+                        ],
+                        "page_number": 6,
+                        "table": {
+                            "caption": "",
+                            "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Number of broken eggs</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>5</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>6</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Observed frequency</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1844</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>143</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>11</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Expected frequency</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1831.3</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(a\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>6.016</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0.119</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0.001</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0.000</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0.000</div></td>\n  </tr>\n</table>\n\n"
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Show that \\(a=162.6\\) correct to 1 decimal place.",
+                        "bbox": [
+                            77,
+                            515,
+                            317,
+                            528
+                        ],
+                        "page_number": 6
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Carry out a goodness of fit test at the \\(0.5 \\%\\) level of significance to test whether a binomial distribution is a satisfactory model for the data.",
+                        "bbox": [
+                            70,
+                            62,
+                            547,
+                            77
+                        ],
+                        "page_number": 7
+                    }
+                ]
+            },
+            {
+                "label": "(d)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(d) Give a reason why a binomial distribution may not be a suitable model in this situation.",
+                        "bbox": [
+                            70,
+                            699,
+                            499,
+                            713
+                        ],
+                        "page_number": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 A researcher is interested in whether there is a difference between two schools in students＇aptitude for English．She randomly chooses 10 students from school \\(X\\) and 8 students of a similar age from school",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 8
+            },
+            {
+                "type": "text",
+                "text": "\\(Y\\) to take a written English test．The scores for the students from school \\(X(x)\\) and school \\(Y(y)\\) are summarised as follows．",
+                "bbox": [
+                    70,
+                    88,
+                    547,
+                    103
+                ],
+                "page_number": 8
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\sum x=612 \\quad \\sum x^{2}=40104 \\quad \\sum y=444 \\quad \\sum y^{2}=27460\n\\]",
+                "bbox": [
+                    143,
+                    125,
+                    474,
+                    143
+                ],
+                "page_number": 8
+            },
+            {
+                "type": "text",
+                "text": "You should assume that the two distributions are normal and have the same population variance．",
+                "bbox": [
+                    70,
+                    153,
+                    516,
+                    168
+                ],
+                "page_number": 8
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "（a）Find a \\(95 \\%\\) confidence interval for the difference in the mean scores for students from school \\(X\\) and students from school \\(Y\\) in the written English test．",
+                        "bbox": [
+                            70,
+                            180,
+                            549,
+                            194
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Use the confidence interval you found in part (a) to explain why there is insufficient evidence at a 5\\% significance level to suggest that the English scores of students from school \\(X\\) and students",
+                        "bbox": [
+                            70,
+                            672,
+                            547,
+                            688
+                        ],
+                        "page_number": 9
+                    },
+                    {
+                        "type": "text",
+                        "text": "from school \\(Y\\) are different.",
+                        "bbox": [
+                            93,
+                            699,
+                            223,
+                            711
+                        ],
+                        "page_number": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "text": "5 Two jigsaw puzzles have the same number of pieces with identical shapes but have different pictures printed on them. One puzzle has a seaside picture and the other has a cartoon picture. A researcher",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 10
+            },
+            {
+                "type": "text",
+                "text": "believes that children will complete the cartoon puzzle more quickly. To test this belief, 10 children are randomly selected. The time taken in seconds for each child to complete each puzzle is recorded below.",
+                "bbox": [
+                    70,
+                    88,
+                    547,
+                    103
+                ],
+                "page_number": 10
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    70,
+                    126,
+                    547,
+                    198
+                ],
+                "page_number": 10,
+                "table": {
+                    "caption": "",
+                    "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Child</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>A</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>B</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>C</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>D</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(E\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(F\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(G\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(H\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>I</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(J\\)</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Seaside</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>182</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>130</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>193</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>181</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>192</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>204</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>184</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>192</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>180</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>189</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Cartoon</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>161</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>111</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>195</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>159</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>202</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>200</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>168</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>165</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>145</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>160</div></td>\n  </tr>\n</table>\n\n"
+                }
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Carry out a Wilcoxon matched-pairs signed-rank test at the \\(5 \\%\\) significance level to test the researcher's belief.",
+                        "bbox": [
+                            70,
+                            209,
+                            547,
+                            223
+                        ],
+                        "page_number": 10
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Show that using a paired-sample sign test at the \\(5 \\%\\) significance level would result in the opposite conclusion to that found in part (a).",
+                        "bbox": [
+                            70,
+                            62,
+                            547,
+                            77
+                        ],
+                        "page_number": 11
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "It was later discovered that the experiment had been conducted such that each child completed the seaside puzzle first followed by the cartoon puzzle.",
+                        "bbox": [
+                            70,
+                            648,
+                            547,
+                            662
+                        ],
+                        "page_number": 11
+                    },
+                    {
+                        "type": "text",
+                        "text": "(c) Comment on the validity of using this experiment to test the researcher's belief.",
+                        "bbox": [
+                            70,
+                            687,
+                            463,
+                            701
+                        ],
+                        "page_number": 11
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "text": "\\(6 \\quad Y\\) is a discrete random variable which takes the values \\(0,2,4, \\ldots\\). The probability generating function of \\(Y\\) is given by",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 12
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\mathrm{G}_{Y}(t)=\\frac{k}{1-a t^{2}}\n\\]",
+                "bbox": [
+                    258,
+                    95,
+                    337,
+                    123
+                ],
+                "page_number": 12
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find \\(k\\) in terms of \\(a\\).",
+                        "bbox": [
+                            70,
+                            128,
+                            188,
+                            142
+                        ],
+                        "page_number": 12
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Show that \\(\\mathrm{P}(Y>2)=a^{2}\\).",
+                        "bbox": [
+                            70,
+                            309,
+                            218,
+                            324
+                        ],
+                        "page_number": 12
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "It is now given that \\(a=0.2\\).",
+                        "bbox": [
+                            70,
+                            64,
+                            203,
+                            78
+                        ],
+                        "page_number": 13
+                    },
+                    {
+                        "type": "text",
+                        "text": "(c) Find the value of \\(\\mathrm{E}(Y)\\).",
+                        "bbox": [
+                            70,
+                            88,
+                            203,
+                            104
+                        ],
+                        "page_number": 13
+                    }
+                ]
+            }
+        ]
+    }
+]

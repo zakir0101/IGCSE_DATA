@@ -6,10 +6,10 @@
                 "type": "text",
                 "text": "1 Taj is \\(3 \\frac{1}{4}\\) years old.",
                 "bbox": [
-                    29,
-                    54,
-                    98,
-                    74
+                    48,
+                    64,
+                    164,
+                    88
                 ],
                 "page_number": 3
             },
@@ -17,10 +17,10 @@
                 "type": "text",
                 "text": "Work out her age in months.",
                 "bbox": [
-                    42,
-                    80,
-                    121,
-                    92
+                    70,
+                    95,
+                    203,
+                    110
                 ],
                 "page_number": 3
             },
@@ -28,32 +28,10 @@
                 "type": "text",
                 "text": "months [1]",
                 "bbox": [
-                    301,
-                    114,
-                    326,
-                    126
-                ],
-                "page_number": 3
-            },
-            {
-                "type": "text",
-                "text": "2 Div has \\(\\$ 25\\) to buy some cups which cost \\(\\$ 4.25\\) each.",
-                "bbox": [
-                    28,
-                    147,
-                    191,
-                    158
-                ],
-                "page_number": 3
-            },
-            {
-                "type": "text",
-                "text": "Calculate the maximum number of cups he can buy and the change he receives.",
-                "bbox": [
-                    42,
-                    169,
-                    261,
-                    180
+                    491,
+                    135,
+                    547,
+                    148
                 ],
                 "page_number": 3
             }
@@ -64,12 +42,34 @@
         "content": [
             {
                 "type": "text",
-                "text": "Calculate the maximum number of cups he can buy and the change he receives.",
+                "text": "2 Div has \\(\\$ 25\\) to buy some cups which cost \\(\\$ 4.25\\) each.",
                 "bbox": [
-                    42,
-                    169,
-                    261,
-                    180
+                    48,
+                    174,
+                    320,
+                    187
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "text",
+                "text": "Number of cups",
+                "bbox": [
+                    70,
+                    201,
+                    438,
+                    432
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "text",
+                "text": "Change \\$",
+                "bbox": [
+                    337,
+                    344,
+                    382,
+                    357
                 ],
                 "page_number": 3
             }
@@ -79,50 +79,63 @@
         "label": "3",
         "content": [
             {
+                "type": "text",
+                "text": "3",
+                "bbox": [
+                    46,
+                    370,
+                    58,
+                    383
+                ],
+                "page_number": 3
+            },
+            {
                 "type": "image",
                 "bbox": [
-                    98,
-                    317,
-                    269,
-                    414
+                    165,
+                    378,
+                    453,
+                    491
                 ],
                 "page_number": 3,
                 "image": {
                     "caption": "",
                     "page": 3
                 }
-            },
-            {
-                "type": "text",
-                "text": "(a) Measure angle \\(A\\).",
-                "bbox": [
-                    42,
-                    436,
-                    104,
-                    447
-                ],
-                "page_number": 3
-            },
-            {
-                "type": "text",
-                "text": "(b) Write down the mathematical name of this type of angle.",
-                "bbox": [
-                    42,
-                    469,
-                    213,
-                    481
-                ],
-                "page_number": 3
             }
         ],
         "parts": [
             {
                 "label": "a",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Measure angle \\(A\\).",
+                        "bbox": [
+                            70,
+                            518,
+                            175,
+                            531
+                        ],
+                        "page_number": 3
+                    }
+                ]
             },
             {
                 "label": "b",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Write down the mathematical name of this type of angle.",
+                        "bbox": [
+                            70,
+                            555,
+                            358,
+                            570
+                        ],
+                        "page_number": 3
+                    }
+                ]
             }
         ]
     },
@@ -130,38 +143,27 @@
         "label": "4",
         "content": [
             {
-                "type": "text",
-                "text": "4",
+                "type": "table",
                 "bbox": [
+                    34,
                     27,
-                    51,
-                    35,
-                    62
-                ],
-                "page_number": 4
-            },
-            {
-                "type": "image",
-                "bbox": [
-                    86,
-                    62,
-                    268,
-                    95
+                    448,
+                    111
                 ],
                 "page_number": 4,
                 "table": {
                     "caption": "",
-                    "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>30</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>31</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>32</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>33</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>34</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>35</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>36</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>37</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>38</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>39</div></td>\n  </tr>\n</table>\n\n"
+                    "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td colspan=\"7\" style=\"text-align:left; border:1px solid black; padding:4px;\"><div>4</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>30</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>31</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>32</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>33</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>34</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>35</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>36</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>37</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>38</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>39</div></td>\n  </tr>\n</table>\n\n"
                 }
             },
             {
                 "type": "text",
                 "text": "From this list, write down the number that is",
                 "bbox": [
-                    42,
-                    106,
-                    165,
-                    118
+                    70,
+                    123,
+                    279,
+                    139
                 ],
                 "page_number": 4
             }
@@ -174,21 +176,10 @@
                         "type": "text",
                         "text": "(a) a multiple of 13",
                         "bbox": [
-                            42,
-                            128,
-                            98,
-                            140
-                        ],
-                        "page_number": 4
-                    },
-                    {
-                        "type": "text",
-                        "text": "(b) a factor of 140",
-                        "bbox": [
-                            42,
-                            172,
-                            95,
-                            184
+                            70,
+                            149,
+                            170,
+                            165
                         ],
                         "page_number": 4
                     }
@@ -199,12 +190,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(c) the largest prime number",
+                        "text": "(b) a factor of 140",
                         "bbox": [
-                            42,
-                            226,
-                            128,
-                            238
+                            70,
+                            202,
+                            165,
+                            218
                         ],
                         "page_number": 4
                     }
@@ -215,12 +206,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(d) divisible by an even cube number",
+                        "text": "(c) the largest prime number",
                         "bbox": [
-                            42,
-                            267,
-                            149,
-                            279
+                            70,
+                            268,
+                            213,
+                            284
                         ],
                         "page_number": 4
                     }
@@ -231,11 +222,11 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(e) \\(20 \\%\\) of 190 .",
+                        "text": "(d) divisible by an even cube number",
                         "bbox": [
-                            42,
-                            324,
-                            91,
+                            70,
+                            319,
+                            253,
                             335
                         ],
                         "page_number": 4
@@ -247,23 +238,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "5 (a) A farmer plants \\(t\\) trees each day. 5 (a) A farmer plants \\(t\\) trees each day.",
+                        "text": "(e) \\(20 \\%\\) of 190 .",
                         "bbox": [
-                            28,
-                            379,
-                            144,
-                            393
-                        ],
-                        "page_number": 4
-                    },
-                    {
-                        "type": "text",
-                        "text": "Write an expression for the number of trees he plants in \\(d\\) days.",
-                        "bbox": [
-                            56,
-                            401,
-                            230,
-                            415
+                            70,
+                            383,
+                            154,
+                            399
                         ],
                         "page_number": 4
                     }
@@ -280,23 +260,23 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) A train has \\(p\\) passengers. \\(x\\) passengers get off the train and \\(y\\) passengers get on the train.",
+                        "text": "5 (a) A farmer plants \\(t\\) trees each day.",
                         "bbox": [
-                            42,
-                            478,
-                            125,
-                            490
+                            48,
+                            449,
+                            245,
+                            464
                         ],
                         "page_number": 4
                     },
                     {
                         "type": "text",
-                        "text": "Write an expression for the number of passengers on the train now.",
+                        "text": "Write an expression for the number of trees he plants in \\(d\\) days.",
                         "bbox": [
-                            56,
-                            510,
-                            241,
-                            523
+                            93,
+                            474,
+                            387,
+                            491
                         ],
                         "page_number": 4
                     }
@@ -304,7 +284,30 @@
             },
             {
                 "label": "b",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) A train has \\(p\\) passengers. \\(x\\) passengers get off the train and \\(y\\) passengers get on the train.",
+                        "bbox": [
+                            70,
+                            566,
+                            211,
+                            582
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "text": "Write an expression for the number of passengers on the train now.",
+                        "bbox": [
+                            93,
+                            605,
+                            405,
+                            621
+                        ],
+                        "page_number": 4
+                    }
+                ]
             }
         ]
     },
@@ -315,10 +318,10 @@
                 "type": "text",
                 "text": "6 Raj thinks of a negative number, \\(n\\). He adds 10 to \\(n\\) and then multiplies by 5 .",
                 "bbox": [
-                    28,
-                    52,
-                    142,
-                    65
+                    48,
+                    62,
+                    234,
+                    77
                 ],
                 "page_number": 5
             },
@@ -326,10 +329,10 @@
                 "type": "text",
                 "text": "The answer is 30 .",
                 "bbox": [
-                    42,
-                    75,
-                    91,
-                    85
+                    70,
+                    88,
+                    154,
+                    101
                 ],
                 "page_number": 5
             },
@@ -337,10 +340,21 @@
                 "type": "text",
                 "text": "Work out the value of \\(n\\).",
                 "bbox": [
-                    42,
-                    97,
-                    110,
-                    108
+                    70,
+                    115,
+                    185,
+                    127
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\nn=\n\\]",
+                "bbox": [
+                    362,
+                    218,
+                    385,
+                    230
                 ],
                 "page_number": 5
             }
@@ -350,12 +364,23 @@
         "label": "7",
         "content": [
             {
+                "type": "text",
+                "text": "7 The diagram shows a straight line crossing a pair of parallel lines.",
+                "bbox": [
+                    48,
+                    258,
+                    376,
+                    272
+                ],
+                "page_number": 5
+            },
+            {
                 "type": "image",
                 "bbox": [
-                    93,
-                    235,
-                    261,
-                    360
+                    155,
+                    279,
+                    440,
+                    426
                 ],
                 "page_number": 5,
                 "image": {
@@ -367,32 +392,10 @@
                 "type": "text",
                 "text": "Complete these statements.",
                 "bbox": [
-                    42,
-                    379,
-                    118,
-                    391
-                ],
-                "page_number": 5
-            },
-            {
-                "type": "text",
-                "text": "(a) Angle \\(A\\) and angle are corresponding angles.",
-                "bbox": [
-                    42,
-                    400,
-                    210,
-                    414
-                ],
-                "page_number": 5
-            },
-            {
-                "type": "text",
-                "text": "(b) Angle \\(A\\) and angle \\(e\\) are angles.",
-                "bbox": [
-                    42,
-                    423,
-                    122,
-                    435
+                    70,
+                    452,
+                    198,
+                    465
                 ],
                 "page_number": 5
             }
@@ -400,11 +403,35 @@
         "parts": [
             {
                 "label": "a",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Angle \\(A\\) and angle are corresponding angles.",
+                        "bbox": [
+                            70,
+                            478,
+                            182,
+                            492
+                        ],
+                        "page_number": 5
+                    }
+                ]
             },
             {
                 "label": "b",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Angle \\(A\\) and angle \\(e\\) are angles.",
+                        "bbox": [
+                            70,
+                            503,
+                            207,
+                            518
+                        ],
+                        "page_number": 5
+                    }
+                ]
             }
         ]
     },
@@ -415,10 +442,10 @@
                 "type": "text",
                 "text": "8 These are the first four terms of a sequence.",
                 "bbox": [
-                    28,
-                    52,
-                    163,
-                    65
+                    48,
+                    62,
+                    275,
+                    77
                 ],
                 "page_number": 6
             },
@@ -426,10 +453,10 @@
                 "type": "text",
                 "text": "31 24 17 10",
                 "bbox": [
-                    61,
-                    75,
-                    151,
-                    85
+                    104,
+                    87,
+                    259,
+                    101
                 ],
                 "page_number": 6
             }
@@ -442,21 +469,10 @@
                         "type": "text",
                         "text": "(a) Write down the term-to-term rule for continuing this sequence.",
                         "bbox": [
-                            42,
-                            97,
-                            229,
-                            109
-                        ],
-                        "page_number": 6
-                    },
-                    {
-                        "type": "text",
-                        "text": "(b) Find the next two terms in this sequence.",
-                        "bbox": [
-                            42,
-                            151,
-                            169,
-                            164
+                            70,
+                            114,
+                            386,
+                            129
                         ],
                         "page_number": 6
                     }
@@ -467,12 +483,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(c) Find the \\(n\\)th term.",
+                        "text": "(b) Find the next two terms in this sequence.",
                         "bbox": [
-                            42,
-                            217,
-                            107,
-                            229
+                            70,
+                            180,
+                            284,
+                            194
                         ],
                         "page_number": 6
                     }
@@ -483,23 +499,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "9 A cuboid measures 3 cm by 7 cm by 11 cm .",
+                        "text": "(c) Find the \\(n\\)th term.",
                         "bbox": [
-                            28,
-                            293,
-                            161,
-                            307
-                        ],
-                        "page_number": 6
-                    },
-                    {
-                        "type": "text",
-                        "text": "Calculate the surface area of the cuboid.",
-                        "bbox": [
-                            42,
-                            316,
-                            154,
-                            328
+                            70,
+                            258,
+                            179,
+                            272
                         ],
                         "page_number": 6
                     }
@@ -512,12 +517,23 @@
         "content": [
             {
                 "type": "text",
-                "text": "\\(\\mathrm{cm}^{2}\\)",
+                "text": "9 A cuboid measures 3 cm by 7 cm by 11 cm .",
                 "bbox": [
-                    301,
-                    434,
-                    314,
-                    447
+                    48,
+                    348,
+                    270,
+                    362
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "text",
+                "text": "Calculate the surface area of the cuboid.",
+                "bbox": [
+                    70,
+                    375,
+                    257,
+                    388
                 ],
                 "page_number": 6
             }
@@ -530,36 +546,115 @@
                 "type": "text",
                 "text": "10 The table shows an ordered stem-and-leaf diagram. \\(A, B\\) and \\(C\\) are missing numbers.",
                 "bbox": [
-                    29,
-                    52,
-                    185,
-                    65
+                    49,
+                    62,
+                    310,
+                    77
                 ],
                 "page_number": 7
             },
             {
-                "type": "image",
+                "type": "table",
                 "bbox": [
-                    43,
-                    84,
-                    145,
-                    153
+                    70,
+                    100,
+                    246,
+                    182
                 ],
                 "page_number": 7,
                 "table": {
                     "caption": "",
-                    "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(A\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <thead><tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\" text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border: 1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding：4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div><td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align: left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid  black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"></td></tr>\n  </tr>\n</thead>\n<tbody style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style='text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style='text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n  </tr>\n  <tr>\n    <td style='text-align:left; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style='text-align:left; border:1px solid black; padding:4px;\"><div>\\(B\\)</div></td>\n    <td style='text-align:left; border:1px solid black; padding:4px;\"><div>7</div></td>\n  </tr>\n  <tr>\n    <td style='text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style='text-align:left; border：1px solid black; padding：4px;\"><div>0</div></td>\n    <td style='text-align:left; border:1px solid black; padding：4px;\"><div>4</div></td>\n  </tr>\n  <tr>\n    <td style='text-align:left; border:1px solid black; padding:4px;\"><div><table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>A</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding：4px;\"><div></div></td>\n    <thead></tr>\n  <tr>\n    <td style='text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </td></tr>\n  </tr>\n  <tr>\n    <td style='text-align:left; border:1px solid black; padding：4px;\"><div>C</div></td>\n    <td style='text-align:left; border:1px solid black; padding：4px;\"><div></div></td>\n    <thead></tr>\n  </tr>\n  <tr>\n    <td style='text-align:left; border:1px solid black; padding：4px;\"><div></div></td>\n    . . . . . . . . . . . . . . . . . . . . . . . . </td></tr>\n  </tr>\n</table></div></td>\n    <td style='text-align:left; border:1px solid black; padding：4px;\"><div></div></td>\n    <td style='text-align:left; border:1px solid black; padding：4px;\"><div></div></td>\n    . . . . </td>\n  </tr>\n  <tr>\n    <td style='text-align:left; border:1px solid black; padding：4px;\"><div></div></td>\n\n  </tr>\n  <tr>\n    <td style='text-align:left; border:1px solid black; padding：4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style='text-align:left; border:1px solid black; padding：4px;\"><div></div><td></td>\n    <td style='text-align:left; border:1px solid black; padding：4px;\"><div></div></td>\n    <td style=\"text-align:left; border：1px solid black; padding：4px;\"><div></div></td>\n    <td style=\"text-align:left; border：1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border：1px solid black; padding：4px;\"><div></div><td style=\"text-align:left; border：1px solid black; padding：4px;\"><div></div></td>\n    <td style=\"text-align: left; border：1px solid black; padding：4px;\"><div></div></td>\n    <td style=\"text-align:left; border：1px solidblack; padding：4px;\"><div></div></td>\n    <td style=\"text-align:left; border：1px solid black; padding：4px;\"><table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding：4px;\"><div>A</div></td>\n    <td style=\"text-align:left; border：1px solid black; padding：4px;\"><div></div></td>\n    <thead></tr>\n  <tr>\n    <td style='text-align:left；border：1px solid black；padding：4px;\"><div>B</div></td>\n    <td style='text-align:left；border：1px solid black；padding：4px;\"><div></div></td>\n    <td style='text-align:left；border：1px solid black；padding：4px;\"><div></div></td>\n    <thead></tr>\n  </tr>\n  <tr>\n    <td style='text-align:left；border：1px solid black；padding：4px;\"><div>C</div></td>\n    <td style='text-align：left；border：1px solid black；padding：4px;\"><div></div></td>\n    <td style='text-align：left；border：1px solid black；padding：4px;\"><div></div></td>\n    <thead></tr>\n  </tr>\n  <tr>\n    <div style='text-align:left；border：1px solid black；padding：4px;\"><div>A</div></td>\n    <td style='text-align：left；border：1px solid black；padding：4px;\"><div></div></td>\n    . . . . . . . . . . . . . . . . . . . . . . . </td>\n  </tr>\n  <tr>\n    <div style='text-align：left；border：1px solid black；padding：4px;\"><div>B</div></td>\n    <td style='text-align：left；border：1px solid black；padding：4px;\"><div></div></td>\n    \\(\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\cdot \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots\\)</td>\n  </tr>\n  <tr>\n    <div style='text-align：left；border：1px solid black；padding：4px;\"><div>C</div></td>\n    <td style='text-align：left；border：1 px solid black；padding：4px;\"><div></div></td>\n    \\(\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\cdot \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\cdot \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots\\)</td>\n  </tr>\n</thead>\n</table>\n\n"
+                    "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(A\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(B\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>7</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>6</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(C\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n</table>\n\n"
                 }
+            },
+            {
+                "type": "text",
+                "text": "Key : 1|3 represents 13",
+                "bbox": [
+                    251,
+                    192,
+                    367,
+                    206
+                ],
+                "page_number": 7
+            },
+            {
+                "type": "text",
+                "text": "For the ten numbers - the range is 27",
+                "bbox": [
+                    70,
+                    217,
+                    165,
+                    230
+                ],
+                "page_number": 7
+            },
+            {
+                "type": "text",
+                "text": "- the median is 16 - the mean is 16.5 .",
+                "bbox": [
+                    70,
+                    244,
+                    172,
+                    255
+                ],
+                "page_number": 7
             }
         ],
         "parts": [
             {
                 "label": "a",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Work out the values of \\(A, B\\) and \\(C\\).",
+                        "bbox": [
+                            70,
+                            283,
+                            256,
+                            297
+                        ],
+                        "page_number": 7
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\begin{aligned}\n& A= \\\\\n& B= \\\\\n& C=\n\\end{aligned}\n\\]",
+                        "bbox": [
+                            359,
+                            528,
+                            385,
+                            595
+                        ],
+                        "page_number": 7
+                    }
+                ]
             },
             {
                 "label": "b",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Complete this statement.",
+                        "bbox": [
+                            70,
+                            620,
+                            210,
+                            634
+                        ],
+                        "page_number": 7
+                    },
+                    {
+                        "type": "text",
+                        "text": "There is no mode because",
+                        "bbox": [
+                            94,
+                            646,
+                            216,
+                            660
+                        ],
+                        "page_number": 7
+                    }
+                ]
             }
         ]
     },
@@ -570,20 +665,20 @@
                 "type": "text",
                 "text": "11 The scale drawing shows the positions of two lighthouses, \\(P\\) and \\(Q\\). The scale is 1 centimetre represents 0.8 kilometres.",
                 "bbox": [
-                    29,
-                    52,
-                    229,
-                    65
+                    49,
+                    62,
+                    384,
+                    77
                 ],
                 "page_number": 8
             },
             {
                 "type": "image",
                 "bbox": [
-                    64,
-                    84,
-                    85,
-                    151
+                    108,
+                    100,
+                    404,
+                    234
                 ],
                 "page_number": 8,
                 "image": {
@@ -595,21 +690,10 @@
                 "type": "text",
                 "text": "Scale: 1 cm to 0.8 km",
                 "bbox": [
-                    232,
-                    267,
-                    289,
-                    278
-                ],
-                "page_number": 8
-            },
-            {
-                "type": "text",
-                "text": "(a) (i) Find the actual distance between \\(P\\) and \\(Q\\).",
-                "bbox": [
-                    42,
-                    303,
-                    186,
-                    314
+                    387,
+                    315,
+                    486,
+                    328
                 ],
                 "page_number": 8
             }
@@ -624,23 +708,12 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "(ii) Measure the bearing of \\(Q\\) from \\(P\\).",
+                                "text": "(a) (i) Find the actual distance between \\(P\\) and \\(Q\\).",
                                 "bbox": [
-                                    54,
-                                    356,
-                                    163,
-                                    369
-                                ],
-                                "page_number": 8
-                            },
-                            {
-                                "type": "text",
-                                "text": "(b) A boat, \\(B\\), is on a bearing of \\(127^{\\circ}\\) from \\(P\\).",
-                                "bbox": [
-                                    42,
-                                    400,
-                                    171,
-                                    414
+                                    70,
+                                    358,
+                                    311,
+                                    373
                                 ],
                                 "page_number": 8
                             }
@@ -651,12 +724,12 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "Calculate the bearing of \\(P\\) from \\(B\\).",
+                                "text": "(ii) Measure the bearing of \\(Q\\) from \\(P\\).",
                                 "bbox": [
-                                    56,
+                                    91,
                                     422,
-                                    151,
-                                    435
+                                    274,
+                                    437
                                 ],
                                 "page_number": 8
                             }
@@ -666,7 +739,30 @@
             },
             {
                 "label": "b",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) A boat, \\(B\\), is on a bearing of \\(127^{\\circ}\\) from \\(P\\).",
+                        "bbox": [
+                            70,
+                            475,
+                            287,
+                            490
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "text",
+                        "text": "Calculate the bearing of \\(P\\) from \\(B\\).",
+                        "bbox": [
+                            94,
+                            501,
+                            254,
+                            516
+                        ],
+                        "page_number": 8
+                    }
+                ]
             }
         ]
     },
@@ -677,20 +773,20 @@
                 "type": "text",
                 "text": "12 Mo asks some people if they prefer sun, rain or wind. The pie chart shows the results.",
                 "bbox": [
-                    29,
-                    52,
-                    189,
-                    65
+                    49,
+                    62,
+                    319,
+                    77
                 ],
                 "page_number": 9
             },
             {
                 "type": "image",
                 "bbox": [
-                    124,
-                    83,
-                    230,
-                    231
+                    208,
+                    99,
+                    385,
+                    274
                 ],
                 "page_number": 9,
                 "image": {
@@ -702,10 +798,10 @@
                 "type": "text",
                 "text": "45 more people prefer wind than rain.",
                 "bbox": [
-                    42,
-                    252,
-                    148,
-                    264
+                    70,
+                    299,
+                    248,
+                    314
                 ],
                 "page_number": 9
             },
@@ -713,10 +809,10 @@
                 "type": "text",
                 "text": "Work out how many people prefer sun.",
                 "bbox": [
-                    42,
-                    274,
-                    150,
-                    286
+                    70,
+                    325,
+                    253,
+                    340
                 ],
                 "page_number": 9
             }
@@ -727,12 +823,34 @@
         "content": [
             {
                 "type": "text",
+                "text": "13 Xie changes 2000 dollars into krona.",
+                "bbox": [
+                    49,
+                    482,
+                    242,
+                    496
+                ],
+                "page_number": 9
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\begin{aligned}\n& 1 \\text { dollar }=0.615 \\text { euros } \\\\\n& 1 \\text { krona }=0.087 \\text { euros }\n\\end{aligned}\n\\]",
+                "bbox": [
+                    245,
+                    507,
+                    351,
+                    534
+                ],
+                "page_number": 9
+            },
+            {
+                "type": "text",
                 "text": "Use the exchange rates to calculate how many krona she receives. Give your answer correct to the nearest krona.",
                 "bbox": [
-                    42,
-                    461,
-                    224,
-                    473
+                    70,
+                    546,
+                    376,
+                    560
                 ],
                 "page_number": 9
             }
@@ -747,12 +865,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "14 (a) Factorise.",
+                        "text": "14 （a）Factorise．",
                         "bbox": [
-                            29,
-                            52,
-                            84,
-                            65
+                            49,
+                            62,
+                            141,
+                            77
                         ],
                         "page_number": 10
                     },
@@ -760,21 +878,10 @@
                         "type": "blockMath",
                         "blockMath": "\\[\n8 x^{2}-2 x\n\\]",
                         "bbox": [
+                            145,
                             86,
-                            72,
-                            112,
-                            87
-                        ],
-                        "page_number": 10
-                    },
-                    {
-                        "type": "text",
-                        "text": "(b) Expand the brackets and simplify.",
-                        "bbox": [
-                            42,
-                            129,
-                            150,
-                            142
+                            188,
+                            101
                         ],
                         "page_number": 10
                     }
@@ -785,12 +892,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) Expand the brackets and simplify.",
+                        "text": "（b）Expand the brackets and simplify．",
                         "bbox": [
-                            42,
-                            129,
-                            150,
-                            142
+                            70,
+                            153,
+                            253,
+                            167
                         ],
                         "page_number": 10
                     },
@@ -798,10 +905,10 @@
                         "type": "blockMath",
                         "blockMath": "\\[\n5(2 m-1)+3(m+7)\n\\]",
                         "bbox": [
-                            160,
-                            149,
-                            219,
-                            164
+                            267,
+                            180,
+                            367,
+                            194
                         ],
                         "page_number": 10
                     }
@@ -818,23 +925,23 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "km/h [1]",
+                        "text": "15 （a）A car travels 95 km in 2 hours and 15 minutes．",
                         "bbox": [
-                            301,
-                            335,
-                            314,
-                            349
+                            49,
+                            296,
+                            310,
+                            310
                         ],
                         "page_number": 10
                     },
                     {
                         "type": "text",
-                        "text": "(b) Convert 8 m/s into \\(\\mathrm{km} / \\mathrm{h}\\).",
+                        "text": "Calculate the average speed of the car in \\(\\mathrm{km} / \\mathrm{h}\\) ．",
                         "bbox": [
-                            42,
-                            359,
-                            126,
-                            373
+                            94,
+                            322,
+                            311,
+                            336
                         ],
                         "page_number": 10
                     }
@@ -845,12 +952,23 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "km/h [2]",
+                        "text": "km／h［1］",
                         "bbox": [
-                            301,
-                            446,
-                            314,
-                            459
+                            501,
+                            400,
+                            547,
+                            416
+                        ],
+                        "page_number": 10
+                    },
+                    {
+                        "type": "text",
+                        "text": "（b）Convert \\(8 \\mathrm{~m} / \\mathrm{s}\\) into \\(\\mathrm{km} / \\mathrm{h}\\) ．",
+                        "bbox": [
+                            70,
+                            426,
+                            211,
+                            440
                         ],
                         "page_number": 10
                     }
@@ -869,10 +987,10 @@
                         "type": "text",
                         "text": "16 (a) Chi shares \\(\\$ 480\\) in the ratio \\(2: 3: 7\\).",
                         "bbox": [
-                            29,
-                            52,
-                            157,
-                            65
+                            49,
+                            62,
+                            269,
+                            77
                         ],
                         "page_number": 11
                     },
@@ -880,10 +998,10 @@
                         "type": "text",
                         "text": "Calculate the value of the largest share.",
                         "bbox": [
-                            56,
-                            75,
-                            165,
-                            87
+                            94,
+                            88,
+                            277,
+                            103
                         ],
                         "page_number": 11
                     }
@@ -896,21 +1014,10 @@
                         "type": "text",
                         "text": "(b) Simplify these ratios.",
                         "bbox": [
-                            43,
-                            185,
-                            116,
-                            196
-                        ],
-                        "page_number": 11
-                    },
-                    {
-                        "type": "text",
-                        "text": "(i) 98 : 147",
-                        "bbox": [
-                            56,
-                            206,
-                            95,
-                            217
+                            70,
+                            218,
+                            194,
+                            233
                         ],
                         "page_number": 11
                     }
@@ -921,12 +1028,12 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "(ii) \\(2^{450}: 2^{452}\\)",
+                                "text": "(i) 98 : 147",
                                 "bbox": [
-                                    54,
-                                    291,
-                                    98,
-                                    306
+                                    94,
+                                    244,
+                                    157,
+                                    257
                                 ],
                                 "page_number": 11
                             }
@@ -937,34 +1044,23 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "17 (a) Solve.",
+                                "text": ":",
                                 "bbox": [
-                                    29,
-                                    370,
-                                    77,
-                                    382
+                                    454,
+                                    324,
+                                    460,
+                                    335
                                 ],
                                 "page_number": 11
                             },
                             {
-                                "type": "blockMath",
-                                "blockMath": "\\[\n\\frac{x}{3}=18\n\\]",
+                                "type": "text",
+                                "text": "(ii) \\(2^{450}: 2^{452}\\)",
                                 "bbox": [
-                                    75,
-                                    390,
-                                    95,
-                                    411
-                                ],
-                                "page_number": 11
-                            },
-                            {
-                                "type": "blockMath",
-                                "blockMath": "\\[\nx=\n\\]",
-                                "bbox": [
-                                    216,
-                                    430,
-                                    229,
-                                    441
+                                    92,
+                                    346,
+                                    164,
+                                    362
                                 ],
                                 "page_number": 11
                             }
@@ -982,57 +1078,35 @@
                 "label": "a",
                 "content": [
                     {
-                        "type": "blockMath",
-                        "blockMath": "\\[\nx=\n\\]",
-                        "bbox": [
-                            216,
-                            430,
-                            229,
-                            441
-                        ],
-                        "page_number": 11
-                    },
-                    {
                         "type": "text",
-                        "text": "(b) \\(\\quad \\frac{6^{9}}{6^{y}}=6^{11}\\)",
+                        "text": "17 (a) Solve.",
                         "bbox": [
-                            42,
-                            443,
-                            95,
-                            467
-                        ],
-                        "page_number": 11
-                    },
-                    {
-                        "type": "text",
-                        "text": "Find the value of \\(y\\).",
-                        "bbox": [
-                            56,
-                            474,
-                            110,
-                            485
+                            49,
+                            439,
+                            126,
+                            453
                         ],
                         "page_number": 11
                     },
                     {
                         "type": "blockMath",
-                        "blockMath": "\\[\ny=\n\\]",
+                        "blockMath": "\\[\n\\frac{x}{3}=18\n\\]",
                         "bbox": [
-                            216,
-                            507,
-                            229,
-                            519
+                            126,
+                            464,
+                            165,
+                            488
                         ],
                         "page_number": 11
                     },
                     {
                         "type": "text",
-                        "text": "(c) Simplify.",
+                        "text": "\\(x=\\)",
                         "bbox": [
-                            42,
-                            523,
-                            82,
-                            534
+                            363,
+                            510,
+                            383,
+                            520
                         ],
                         "page_number": 11
                     }
@@ -1043,23 +1117,34 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(c) Simplify.",
+                        "text": "(b) \\(\\quad \\frac{6^{9}}{6^{y}}=6^{11}\\)",
                         "bbox": [
-                            42,
-                            523,
-                            82,
-                            534
+                            72,
+                            528,
+                            166,
+                            557
+                        ],
+                        "page_number": 11
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(y\\).",
+                        "bbox": [
+                            94,
+                            564,
+                            185,
+                            578
                         ],
                         "page_number": 11
                     },
                     {
                         "type": "blockMath",
-                        "blockMath": "\\[\n\\frac{a^{6} b^{-2}}{a^{4} b^{3}}\n\\]",
+                        "blockMath": "\\[\ny=\n\\]",
                         "bbox": [
-                            84,
-                            543,
-                            107,
-                            570
+                            362,
+                            605,
+                            383,
+                            619
                         ],
                         "page_number": 11
                     }
@@ -1067,7 +1152,30 @@
             },
             {
                 "label": "c",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Simplify.",
+                        "bbox": [
+                            70,
+                            630,
+                            139,
+                            642
+                        ],
+                        "page_number": 11
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\frac{a^{6} b^{-2}}{a^{4} b^{3}}\n\\]",
+                        "bbox": [
+                            143,
+                            655,
+                            175,
+                            685
+                        ],
+                        "page_number": 11
+                    }
+                ]
             }
         ]
     },
@@ -1082,10 +1190,10 @@
                         "type": "text",
                         "text": "18 (a) Clare invests \\(\\$ 12000\\) for 3 years at a rate of \\(8 \\%\\) per year compound interest.",
                         "bbox": [
-                            29,
-                            52,
-                            267,
-                            65
+                            49,
+                            62,
+                            448,
+                            77
                         ],
                         "page_number": 12
                     },
@@ -1093,10 +1201,10 @@
                         "type": "text",
                         "text": "Calculate the value of her investment at the end of the 3 years. Give your answer correct to the nearest \\(\\$ 10\\).",
                         "bbox": [
-                            56,
-                            75,
-                            228,
-                            87
+                            94,
+                            88,
+                            382,
+                            103
                         ],
                         "page_number": 12
                     }
@@ -1109,10 +1217,10 @@
                         "type": "text",
                         "text": "\\$",
                         "bbox": [
-                            221,
-                            172,
-                            229,
-                            185
+                            371,
+                            206,
+                            385,
+                            220
                         ],
                         "page_number": 12
                     },
@@ -1120,10 +1228,10 @@
                         "type": "text",
                         "text": "(b) Zak invests \\(\\$ 560\\) for one year. After one year his investment is worth \\(\\$ 630\\).",
                         "bbox": [
-                            42,
-                            196,
-                            139,
-                            207
+                            70,
+                            232,
+                            235,
+                            246
                         ],
                         "page_number": 12
                     },
@@ -1131,10 +1239,10 @@
                         "type": "text",
                         "text": "Calculate the percentage increase.",
                         "bbox": [
-                            56,
-                            228,
-                            150,
-                            240
+                            94,
+                            270,
+                            253,
+                            286
                         ],
                         "page_number": 12
                     }
@@ -1151,12 +1259,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) Write 2025 as a product of two square numbers that are both greater than one.",
+                        "text": "19 (a) Write 2025 as the product of its prime factors.",
                         "bbox": [
-                            42,
-                            478,
-                            271,
-                            491
+                            49,
+                            452,
+                            309,
+                            468
                         ],
                         "page_number": 12
                     }
@@ -1164,7 +1272,19 @@
             },
             {
                 "label": "b",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Write 2025 as a product of two square numbers that are both greater than one.",
+                        "bbox": [
+                            70,
+                            569,
+                            455,
+                            584
+                        ],
+                        "page_number": 12
+                    }
+                ]
             }
         ]
     },
@@ -1175,48 +1295,26 @@
                 "type": "text",
                 "text": "20 The diagram shows three shapes, \\(A, B\\) and \\(C\\), on a \\(1 \\mathrm{~cm}^{2}\\) grid.",
                 "bbox": [
-                    28,
-                    54,
-                    213,
-                    68
+                    48,
+                    64,
+                    358,
+                    80
                 ],
                 "page_number": 13
             },
             {
                 "type": "image",
                 "bbox": [
-                    64,
-                    78,
-                    291,
-                    278
+                    110,
+                    94,
+                    484,
+                    335
                 ],
                 "page_number": 13,
                 "image": {
                     "caption": "",
                     "page": 13
                 }
-            },
-            {
-                "type": "text",
-                "text": "(a) On the grid, draw the image of shape \\(A\\) after a rotation, \\(90^{\\circ}\\) clockwise, centre \\((0,3)\\).",
-                "bbox": [
-                    42,
-                    291,
-                    291,
-                    303
-                ],
-                "page_number": 13
-            },
-            {
-                "type": "text",
-                "text": "(b) Describe fully the single transformation that maps",
-                "bbox": [
-                    42,
-                    313,
-                    195,
-                    325
-                ],
-                "page_number": 13
             }
         ],
         "parts": [
@@ -1225,12 +1323,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(i) shape \\(A\\) onto shape \\(B\\)",
+                        "text": "(a) On the grid, draw the image of shape \\(A\\) after a rotation, \\(90^{\\circ}\\) clockwise, centre \\((0,3)\\).",
                         "bbox": [
-                            56,
-                            334,
-                            130,
-                            346
+                            70,
+                            348,
+                            481,
+                            364
                         ],
                         "page_number": 13
                     }
@@ -1238,19 +1336,31 @@
             },
             {
                 "label": "b",
-                "content": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Describe fully the single transformation that maps",
+                        "bbox": [
+                            70,
+                            375,
+                            328,
+                            389
+                        ],
+                        "page_number": 13
+                    }
+                ],
                 "parts": [
                     {
                         "label": "i",
                         "content": [
                             {
                                 "type": "text",
-                                "text": "(ii) shape \\(A\\) onto shape \\(C\\).",
+                                "text": "(i) shape \\(A\\) onto shape \\(B\\)",
                                 "bbox": [
-                                    54,
-                                    400,
-                                    132,
-                                    414
+                                    94,
+                                    401,
+                                    218,
+                                    416
                                 ],
                                 "page_number": 13
                             }
@@ -1261,12 +1371,12 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "(c) Calculate the size of the smallest angle in triangle \\(C\\).",
+                                "text": "(ii) shape \\(A\\) onto shape \\(C\\).",
                                 "bbox": [
-                                    42,
-                                    469,
-                                    203,
-                                    481
+                                    91,
+                                    478,
+                                    222,
+                                    495
                                 ],
                                 "page_number": 13
                             }
@@ -1276,7 +1386,19 @@
             },
             {
                 "label": "c",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Calculate the size of the smallest angle in triangle \\(C\\).",
+                        "bbox": [
+                            70,
+                            555,
+                            341,
+                            571
+                        ],
+                        "page_number": 13
+                    }
+                ]
             }
         ]
     },
@@ -1291,10 +1413,10 @@
                         "type": "text",
                         "text": "21 (a) Show that the sum of the interior angles of a pentagon is \\(540^{\\circ}\\).",
                         "bbox": [
-                            28,
-                            52,
-                            229,
-                            65
+                            48,
+                            62,
+                            384,
+                            78
                         ],
                         "page_number": 14
                     }
@@ -1307,20 +1429,20 @@
                         "type": "text",
                         "text": "(b) In this part, all angles are in degrees.",
                         "bbox": [
-                            42,
-                            151,
-                            157,
-                            164
+                            70,
+                            181,
+                            264,
+                            196
                         ],
                         "page_number": 14
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            60,
-                            177,
-                            294,
-                            314
+                            102,
+                            216,
+                            494,
+                            376
                         ],
                         "page_number": 14,
                         "image": {
@@ -1332,21 +1454,10 @@
                         "type": "text",
                         "text": "The diagram shows the five interior angles of a pentagon, written in terms of \\(x\\).",
                         "bbox": [
-                            56,
-                            325,
-                            274,
-                            337
-                        ],
-                        "page_number": 14
-                    },
-                    {
-                        "type": "text",
-                        "text": "(i) Write down an expression, in terms of \\(x\\), for the sum of the interior angles of the pentagon. Give your answer in its simplest form.",
-                        "bbox": [
-                            56,
-                            347,
-                            319,
-                            359
+                            94,
+                            387,
+                            460,
+                            402
                         ],
                         "page_number": 14
                     }
@@ -1357,12 +1468,12 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "(ii) Work out the value of \\(x\\).",
+                                "text": "(i) Write down an expression, in terms of \\(x\\), for the sum of the interior angles of the pentagon. Give your answer in its simplest form.",
                                 "bbox": [
-                                    53,
-                                    458,
-                                    136,
-                                    469
+                                    94,
+                                    413,
+                                    535,
+                                    428
                                 ],
                                 "page_number": 14
                             }
@@ -1372,13 +1483,24 @@
                         "label": "ii",
                         "content": [
                             {
+                                "type": "text",
+                                "text": "(ii) Work out the value of \\(x\\).",
+                                "bbox": [
+                                    91,
+                                    543,
+                                    229,
+                                    557
+                                ],
+                                "page_number": 14
+                            },
+                            {
                                 "type": "blockMath",
                                 "blockMath": "\\[\nx=\n\\]",
                                 "bbox": [
-                                    216,
-                                    566,
-                                    229,
-                                    577
+                                    363,
+                                    674,
+                                    385,
+                                    689
                                 ],
                                 "page_number": 14
                             }

@@ -1,0 +1,1308 @@
+[
+    {
+        "label": "1",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "1 (a) Explain what is meant by the accuracy of a measured value.",
+                        "bbox": [
+                            49,
+                            62,
+                            389,
+                            77
+                        ],
+                        "page_number": 3
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Two solid cubes, A and B, are measured to determine the density of their materials.",
+                        "bbox": [
+                            70,
+                            140,
+                            500,
+                            155
+                        ],
+                        "page_number": 3
+                    },
+                    {
+                        "type": "text",
+                        "text": "Table 1.1 shows the measurements for cube A.",
+                        "bbox": [
+                            94,
+                            166,
+                            325,
+                            180
+                        ],
+                        "page_number": 3
+                    },
+                    {
+                        "type": "table",
+                        "bbox": [
+                            210,
+                            217,
+                            385,
+                            291
+                        ],
+                        "page_number": 3,
+                        "table": {
+                            "caption": "",
+                            "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>quantity</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>measurement</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>length of side</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\((1.53 \\pm 0.01) \\mathrm{cm}\\)</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>mass</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\((31.3 \\pm 0.5) \\mathrm{g}\\)</div></td>\n  </tr>\n</table>\n\n"
+                        }
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) Show that the calculated density of the material of cube \\(A\\) is \\(8.7 \\times 10^{3} \\mathrm{~kg} \\mathrm{~m}^{-3}\\).",
+                                "bbox": [
+                                    95,
+                                    298,
+                                    491,
+                                    315
+                                ],
+                                "page_number": 3
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Calculate the percentage uncertainty in the density of the material of cube A .",
+                                "bbox": [
+                                    91,
+                                    429,
+                                    491,
+                                    445
+                                ],
+                                "page_number": 3
+                            }
+                        ]
+                    },
+                    {
+                        "label": "iii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "percentage uncertainty = \\% [2]",
+                                "bbox": [
+                                    223,
+                                    586,
+                                    350,
+                                    600
+                                ],
+                                "page_number": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": "(iii) The density of the material of cube \\(B\\) is determined to be \\(9.2 \\times 10^{3} \\mathrm{~kg} \\mathrm{~m}^{-3} \\pm 6 \\%\\).",
+                                "bbox": [
+                                    88,
+                                    610,
+                                    502,
+                                    627
+                                ],
+                                "page_number": 3
+                            },
+                            {
+                                "type": "text",
+                                "text": "State and explain whether cube \\(A\\) and cube \\(B\\) could be made from the same material.",
+                                "bbox": [
+                                    115,
+                                    638,
+                                    535,
+                                    653
+                                ],
+                                "page_number": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "2 (a) State the principle of moments.",
+                        "bbox": [
+                            48,
+                            62,
+                            248,
+                            77
+                        ],
+                        "page_number": 4
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) A solid plastic cylinder floats in water. It is used to support one end of a horizontal uniform beam \\(A B\\) as shown in Fig. 2.1.",
+                        "bbox": [
+                            72,
+                            166,
+                            547,
+                            180
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            80,
+                            204,
+                            514,
+                            442
+                        ],
+                        "page_number": 4,
+                        "image": {
+                            "caption": "",
+                            "page": 4
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "The beam has length 6.0 m and weight 1700 N . The beam is attached to solid ground with a hinge at end A .",
+                        "bbox": [
+                            94,
+                            482,
+                            547,
+                            496
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "text": "The cylinder is floating vertically in the water. The top of the cylinder is attached at its centre to the beam at a horizontal distance of 5.0 m from end A . The cylinder applies a vertical force",
+                        "bbox": [
+                            94,
+                            521,
+                            547,
+                            535
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "text": "of 1300 N to the beam.",
+                        "bbox": [
+                            94,
+                            547,
+                            207,
+                            560
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "text": "A person of weight 660 N stands on the beam at point P .",
+                        "bbox": [
+                            94,
+                            574,
+                            369,
+                            588
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "text": "The beam AB is in equilibrium.",
+                        "bbox": [
+                            94,
+                            600,
+                            244,
+                            614
+                        ],
+                        "page_number": 4
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) By taking moments about end A , determine the distance \\(x\\) from A to P .",
+                                "bbox": [
+                                    95,
+                                    625,
+                                    458,
+                                    639
+                                ],
+                                "page_number": 4
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) The bottom of the cylinder is submerged in the water to depth \\(y\\) as shown in Fig. 2.2. The beam is still attached to the cylinder but not shown.",
+                                "bbox": [
+                                    92,
+                                    62,
+                                    547,
+                                    77
+                                ],
+                                "page_number": 5
+                            },
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    176,
+                                    99,
+                                    417,
+                                    301
+                                ],
+                                "page_number": 5,
+                                "image": {
+                                    "caption": "",
+                                    "page": 5
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "The cylinder has mass 11 kg and diameter 0.78 m . The beam exerts a vertical force of 1300 N on the cylinder. The cylinder is in equilibrium.",
+                                "bbox": [
+                                    117,
+                                    341,
+                                    547,
+                                    353
+                                ],
+                                "page_number": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": "Show that the upthrust acting on the cylinder is 1400 N .",
+                                "bbox": [
+                                    117,
+                                    380,
+                                    386,
+                                    393
+                                ],
+                                "page_number": 5
+                            }
+                        ]
+                    },
+                    {
+                        "label": "iii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(iii) The water has density \\(990 \\mathrm{~kg} \\mathrm{~m}^{-3}\\).",
+                                "bbox": [
+                                    89,
+                                    495,
+                                    284,
+                                    509
+                                ],
+                                "page_number": 5
+                            },
+                            {
+                                "type": "text",
+                                "text": "Calculate the depth \\(y\\).",
+                                "bbox": [
+                                    117,
+                                    523,
+                                    225,
+                                    535
+                                ],
+                                "page_number": 5
+                            },
+                            {
+                                "type": "blockMath",
+                                "blockMath": "\\[\ny=\n\\]",
+                                "bbox": [
+                                    330,
+                                    694,
+                                    351,
+                                    708
+                                ],
+                                "page_number": 5
+                            }
+                        ]
+                    },
+                    {
+                        "label": "iv",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(iv) The person can stand anywhere between A and B .",
+                                "bbox": [
+                                    89,
+                                    62,
+                                    364,
+                                    77
+                                ],
+                                "page_number": 6
+                            },
+                            {
+                                "type": "text",
+                                "text": "On Fig. 2.3, sketch the variation of the depth of the bottom of the cylinder with the distance of the person from A, for distances between 0 and 6.0 m . Numerical values are",
+                                "bbox": [
+                                    117,
+                                    88,
+                                    547,
+                                    103
+                                ],
+                                "page_number": 6
+                            },
+                            {
+                                "type": "text",
+                                "text": "not required.",
+                                "bbox": [
+                                    117,
+                                    115,
+                                    180,
+                                    127
+                                ],
+                                "page_number": 6
+                            },
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    142,
+                                    139,
+                                    453,
+                                    426
+                                ],
+                                "page_number": 6,
+                                "image": {
+                                    "caption": "",
+                                    "page": 6
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "[2]",
+                                "bbox": [
+                                    278,
+                                    443,
+                                    317,
+                                    458
+                                ],
+                                "page_number": 6
+                            },
+                            {
+                                "type": "text",
+                                "text": "[Total: 10]",
+                                "bbox": [
+                                    496,
+                                    484,
+                                    547,
+                                    496
+                                ],
+                                "page_number": 6
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "3 (a) A truck R of mass 9400 kg moves with constant acceleration in a straight line down a slope, as illustrated in Fig. 3.1.",
+                        "bbox": [
+                            48,
+                            62,
+                            547,
+                            77
+                        ],
+                        "page_number": 7
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            162,
+                            99,
+                            433,
+                            255
+                        ],
+                        "page_number": 7,
+                        "image": {
+                            "caption": "",
+                            "page": 7
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "At point \\(A\\) the speed of the truck is \\(13 \\mathrm{~ms}^{-1}\\) and at point \\(B\\) the speed of the truck is \\(22 \\mathrm{~ms}^{-1}\\). \\(A\\) and \\(B\\) are a distance of 180 m apart.",
+                        "bbox": [
+                            94,
+                            298,
+                            547,
+                            312
+                        ],
+                        "page_number": 7
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) Calculate the acceleration of the truck between A and B .",
+                                "bbox": [
+                                    95,
+                                    337,
+                                    391,
+                                    351
+                                ],
+                                "page_number": 7
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "acceleration = \\(\\mathrm{ms}^{-2}\\) [2]",
+                                "bbox": [
+                                    276,
+                                    465,
+                                    348,
+                                    480
+                                ],
+                                "page_number": 7
+                            },
+                            {
+                                "type": "text",
+                                "text": "(ii) Determine the gain in kinetic energy of the truck between \\(A\\) and \\(B\\).",
+                                "bbox": [
+                                    91,
+                                    491,
+                                    440,
+                                    507
+                                ],
+                                "page_number": 7
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "gain in kinetic energy = J [3]",
+                        "bbox": [
+                            233,
+                            674,
+                            350,
+                            689
+                        ],
+                        "page_number": 7
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) A short time after passing point B truck R moves in a straight line on horizontal ground. The driver of the truck applies the brakes. Fig. 3.2 shows the variation with time of the momentum",
+                        "bbox": [
+                            70,
+                            62,
+                            547,
+                            77
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "text",
+                        "text": "of the truck.",
+                        "bbox": [
+                            94,
+                            88,
+                            154,
+                            101
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            108,
+                            113,
+                            486,
+                            432
+                        ],
+                        "page_number": 8,
+                        "image": {
+                            "caption": "",
+                            "page": 8
+                        }
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) Define force.",
+                                "bbox": [
+                                    95,
+                                    474,
+                                    182,
+                                    488
+                                ],
+                                "page_number": 8
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Show that the average resultant force \\(F\\) acting on truck R between time \\(t=0\\) and \\(t=15 \\mathrm{~s}\\) is \\(-1.2 \\times 10^{4} \\mathrm{~N}\\).",
+                                "bbox": [
+                                    92,
+                                    552,
+                                    547,
+                                    566
+                                ],
+                                "page_number": 8
+                            }
+                        ]
+                    },
+                    {
+                        "label": "iii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(iii) An identical truck \\(S\\) has the same initial momentum as truck \\(R\\). Truck \\(S\\) experiences a constant force equal to the force \\(F\\) in (b)(ii).",
+                                "bbox": [
+                                    89,
+                                    62,
+                                    547,
+                                    77
+                                ],
+                                "page_number": 9
+                            },
+                            {
+                                "type": "text",
+                                "text": "State and explain whether truck \\(S\\) will take more, less or the same amount of time to come to rest as truck \\(R\\).",
+                                "bbox": [
+                                    117,
+                                    102,
+                                    547,
+                                    115
+                                ],
+                                "page_number": 9
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 A device containing a microwave emitter and receiver is placed in front of a large metal sheet in a vacuum as shown in Fig. 4.1.",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 10
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    165,
+                    99,
+                    431,
+                    253
+                ],
+                "page_number": 10,
+                "image": {
+                    "caption": "",
+                    "page": 10
+                }
+            },
+            {
+                "type": "text",
+                "text": "The line XY is perpendicular to the metal sheet. The device emits microwaves of frequency 6.3 GHz.",
+                "bbox": [
+                    70,
+                    294,
+                    547,
+                    308
+                ],
+                "page_number": 10
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) When the device is at position P , a stationary wave is formed between the device and the sheet.",
+                        "bbox": [
+                            70,
+                            334,
+                            547,
+                            348
+                        ],
+                        "page_number": 10
+                    },
+                    {
+                        "type": "text",
+                        "text": "Explain how the stationary wave, including the nodes and the antinodes, is formed.",
+                        "bbox": [
+                            94,
+                            372,
+                            499,
+                            387
+                        ],
+                        "page_number": 10
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(b) (i) Calculate the wavelength of the microwaves.",
+                                "bbox": [
+                                    70,
+                                    633,
+                                    337,
+                                    647
+                                ],
+                                "page_number": 10
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "m",
+                                "bbox": [
+                                    518,
+                                    738,
+                                    531,
+                                    750
+                                ],
+                                "page_number": 10
+                            },
+                            {
+                                "type": "text",
+                                "text": "(ii) At point P the receiver detects a maximum amplitude of the stationary wave.",
+                                "bbox": [
+                                    92,
+                                    62,
+                                    490,
+                                    77
+                                ],
+                                "page_number": 11
+                            },
+                            {
+                                "type": "text",
+                                "text": "The device is moved slowly from point P along the line XY and the receiver detects a series of minimum and maximum amplitudes. The first time a minimum amplitude is",
+                                "bbox": [
+                                    117,
+                                    88,
+                                    547,
+                                    102
+                                ],
+                                "page_number": 11
+                            },
+                            {
+                                "type": "text",
+                                "text": "detected by the receiver is when the device is at point Q .",
+                                "bbox": [
+                                    117,
+                                    115,
+                                    394,
+                                    127
+                                ],
+                                "page_number": 11
+                            },
+                            {
+                                "type": "text",
+                                "text": "Determine the distance between P and Q .",
+                                "bbox": [
+                                    117,
+                                    142,
+                                    323,
+                                    153
+                                ],
+                                "page_number": 11
+                            }
+                        ]
+                    },
+                    {
+                        "label": "iii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "distance =",
+                                "bbox": [
+                                    295,
+                                    218,
+                                    350,
+                                    231
+                                ],
+                                "page_number": 11
+                            },
+                            {
+                                "type": "text",
+                                "text": "(iii) The intensity of the microwaves emitted by the device is increased. The frequency of the microwaves is unchanged. The device is moved slowly along the line XY from point Q",
+                                "bbox": [
+                                    89,
+                                    244,
+                                    547,
+                                    259
+                                ],
+                                "page_number": 11
+                            },
+                            {
+                                "type": "text",
+                                "text": "until the next maximum amplitude is detected at point \\(R\\).",
+                                "bbox": [
+                                    117,
+                                    271,
+                                    392,
+                                    284
+                                ],
+                                "page_number": 11
+                            },
+                            {
+                                "type": "text",
+                                "text": "State and explain whether the distance QR is greater than, less than or the same as distance PQ .",
+                                "bbox": [
+                                    117,
+                                    297,
+                                    547,
+                                    310
+                                ],
+                                "page_number": 11
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "text": "5 A stationary loudspeaker emits sound of constant frequency. A microphone is placed near to the loudspeaker and connected to a cathode-ray oscilloscope (CRO). The trace on the screen of the",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 12
+            },
+            {
+                "type": "text",
+                "text": "CRO is shown in Fig. 5.1.",
+                "bbox": [
+                    70,
+                    88,
+                    198,
+                    103
+                ],
+                "page_number": 12
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    138,
+                    112,
+                    458,
+                    419
+                ],
+                "page_number": 12,
+                "image": {
+                    "caption": "",
+                    "page": 12
+                }
+            },
+            {
+                "type": "text",
+                "text": "The time-base of the CRO is set to \\(5.0 \\times 10^{-4} \\mathrm{~s} \\mathrm{~cm}^{-1}\\).",
+                "bbox": [
+                    70,
+                    459,
+                    330,
+                    473
+                ],
+                "page_number": 12
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) The speed of the sound emitted by the loudspeaker is \\(330 \\mathrm{~ms}^{-1}\\).",
+                        "bbox": [
+                            70,
+                            485,
+                            409,
+                            501
+                        ],
+                        "page_number": 12
+                    },
+                    {
+                        "type": "text",
+                        "text": "Determine the wavelength of the sound.",
+                        "bbox": [
+                            94,
+                            512,
+                            290,
+                            526
+                        ],
+                        "page_number": 12
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "wavelength = m",
+                        "bbox": [
+                            281,
+                            610,
+                            350,
+                            625
+                        ],
+                        "page_number": 12
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) The loudspeaker now moves in a straight line while emitting the same sound of constant frequency. The period of the trace on the CRO increases continuously.",
+                        "bbox": [
+                            70,
+                            636,
+                            547,
+                            650
+                        ],
+                        "page_number": 12
+                    },
+                    {
+                        "type": "text",
+                        "text": "Describe the motion of the loudspeaker.",
+                        "bbox": [
+                            94,
+                            674,
+                            290,
+                            689
+                        ],
+                        "page_number": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "text": "6 A cylindrical copper wire \\(P\\) of length 0.24 m is shown in Fig. 6.1.",
+                "bbox": [
+                    48,
+                    62,
+                    382,
+                    77
+                ],
+                "page_number": 13
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    205,
+                    87,
+                    391,
+                    188
+                ],
+                "page_number": 13,
+                "image": {
+                    "caption": "",
+                    "page": 13
+                }
+            },
+            {
+                "type": "text",
+                "text": "The current in the wire is 0.85 A . The resistance of the wire is \\(3.3 \\mathrm{~m} \\Omega\\).",
+                "bbox": [
+                    70,
+                    228,
+                    229,
+                    241
+                ],
+                "page_number": 13
+            },
+            {
+                "type": "text",
+                "text": "The total number of charge carriers \\(N\\) in the wire is \\(2.6 \\times 10^{22}\\). The resistivity of copper is \\(1.8 \\times 10^{-8} \\Omega \\mathrm{~m}\\).",
+                "bbox": [
+                    70,
+                    253,
+                    378,
+                    267
+                ],
+                "page_number": 13
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Calculate the potential difference between the two ends of the wire.",
+                        "bbox": [
+                            70,
+                            292,
+                            422,
+                            307
+                        ],
+                        "page_number": 13
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "potential difference = V",
+                        "bbox": [
+                            243,
+                            372,
+                            350,
+                            385
+                        ],
+                        "page_number": 13
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(b) (i) Show that the cross-sectional area of the wire is \\(1.3 \\times 10^{-6} \\mathrm{~m}^{2}\\).",
+                                "bbox": [
+                                    70,
+                                    395,
+                                    422,
+                                    411
+                                ],
+                                "page_number": 13
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Show that the number density of charge carriers in the wire is \\(8.3 \\times 10^{28} \\mathrm{~m}^{-3}\\).",
+                                "bbox": [
+                                    92,
+                                    538,
+                                    491,
+                                    555
+                                ],
+                                "page_number": 13
+                            }
+                        ]
+                    },
+                    {
+                        "label": "iii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(iii) Calculate the average drift speed of the charge carriers (electrons) in the wire.",
+                                "bbox": [
+                                    89,
+                                    656,
+                                    499,
+                                    672
+                                ],
+                                "page_number": 13
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) A different copper wire Q has the same volume as wire P , but non-uniform radius, as shown in Fig. 6.2.",
+                        "bbox": [
+                            70,
+                            62,
+                            547,
+                            77
+                        ],
+                        "page_number": 14
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            202,
+                            99,
+                            392,
+                            185
+                        ],
+                        "page_number": 14,
+                        "image": {
+                            "caption": "",
+                            "page": 14
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "The radius \\(r_{1}\\) at end X of wire Q is the same as the radius of wire P . Radius \\(r_{2}\\) is less than \\(r_{1}\\).",
+                        "bbox": [
+                            94,
+                            227,
+                            543,
+                            242
+                        ],
+                        "page_number": 14
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) State and explain how the resistance of wire Q compares with the resistance of wire P .",
+                                "bbox": [
+                                    95,
+                                    252,
+                                    538,
+                                    265
+                                ],
+                                "page_number": 14
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) On Fig. 6.3, sketch a graph of the variation of the average drift speed of the charge carriers with distance from end \\(X\\) of wire \\(Q\\).",
+                                "bbox": [
+                                    92,
+                                    62,
+                                    547,
+                                    77
+                                ],
+                                "page_number": 15
+                            },
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    147,
+                                    99,
+                                    450,
+                                    316
+                                ],
+                                "page_number": 15,
+                                "image": {
+                                    "caption": "",
+                                    "page": 15
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "text": "7 An isolated stationary nucleus \\(Q\\) decays into nucleus \\(R\\) and an \\(\\alpha\\)-particle. The \\(\\alpha\\)-particle has speed \\(1.5 \\times 10^{7} \\mathrm{~ms}^{-1}\\).",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 16
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Complete the equation for this decay.",
+                        "bbox": [
+                            70,
+                            102,
+                            277,
+                            116
+                        ],
+                        "page_number": 16
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n{ }_{88} Q \\longrightarrow{ }_{\\ldots}^{222} R+{ }_{2}^{4} Q\n\\]",
+                        "bbox": [
+                            222,
+                            126,
+                            376,
+                            158
+                        ],
+                        "page_number": 16
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) By considering momentum, calculate the speed of nucleus R after the decay.",
+                        "bbox": [
+                            70,
+                            192,
+                            469,
+                            206
+                        ],
+                        "page_number": 16
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[speed = ................................................ m s¹\\]",
+                        "bbox": [
+                            310,
+                            334,
+                            530,
+                            351
+                        ],
+                        "page_number": 16
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) State three quantities that are conserved during the decay.",
+                        "bbox": [
+                            70,
+                            362,
+                            382,
+                            376
+                        ],
+                        "page_number": 16
+                    },
+                    {
+                        "type": "text",
+                        "text": "1",
+                        "bbox": [
+                            93,
+                            388,
+                            102,
+                            400
+                        ],
+                        "page_number": 16
+                    },
+                    {
+                        "type": "text",
+                        "text": "2",
+                        "bbox": [
+                            93,
+                            415,
+                            104,
+                            426
+                        ],
+                        "page_number": 16
+                    },
+                    {
+                        "type": "text",
+                        "text": "3",
+                        "bbox": [
+                            93,
+                            441,
+                            104,
+                            453
+                        ],
+                        "page_number": 16
+                    },
+                    {
+                        "type": "text",
+                        "text": "[Total: 7]",
+                        "bbox": [
+                            503,
+                            478,
+                            547,
+                            493
+                        ],
+                        "page_number": 16
+                    }
+                ]
+            }
+        ]
+    }
+]

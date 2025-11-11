@@ -1,0 +1,563 @@
+[
+    {
+        "label": "1",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "1 (a) One of a group of three students is to be chosen at random.",
+                        "bbox": [
+                            48,
+                            62,
+                            367,
+                            77
+                        ],
+                        "page_number": 3
+                    },
+                    {
+                        "type": "text",
+                        "text": "Explain how a single throw of a fair six-sided dice could be used to make the choice.",
+                        "bbox": [
+                            94,
+                            88,
+                            486,
+                            103
+                        ],
+                        "page_number": 3
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The times, in minutes, taken by students to complete a test are normally distributed with mean 125 and variance 50 . Two students are chosen at random.",
+                        "bbox": [
+                            70,
+                            192,
+                            547,
+                            206
+                        ],
+                        "page_number": 3
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Find the probability that the difference between the times taken by these two students to complete the test is more than 12 minutes.",
+                        "bbox": [
+                            70,
+                            232,
+                            547,
+                            246
+                        ],
+                        "page_number": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2 The height of a certain species of plant is denoted by \\(H \\mathrm{~cm}\\). The heights of a random sample of 100 plants were measured, and the following results were found.",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "text",
+                "text": "- The mean, \\(\\bar{h}\\), for the sample was 80.2 . - An unbiased estimate of the population variance of \\(H\\) was 15.6 .",
+                "bbox": [
+                    70,
+                    101,
+                    274,
+                    116
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "text",
+                "text": "Calculate the value of \\(\\sum h^{2}\\).",
+                "bbox": [
+                    70,
+                    138,
+                    198,
+                    153
+                ],
+                "page_number": 4
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "text": "3 The random variable \\(X\\) has the distribution \\(\\operatorname{Po}(15)\\).",
+                "bbox": [
+                    48,
+                    62,
+                    310,
+                    77
+                ],
+                "page_number": 5
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Write down an expression in terms of e for \\(\\mathrm{P}(X=12)\\).",
+                        "bbox": [
+                            70,
+                            88,
+                            348,
+                            105
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "It is given that \\(\\mathrm{P}(X=n)=\\mathrm{P}(X=n+1)\\).",
+                        "bbox": [
+                            70,
+                            166,
+                            261,
+                            182
+                        ],
+                        "page_number": 5
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Write down an equation in \\(n\\), and hence find the value of \\(n\\).",
+                        "bbox": [
+                            70,
+                            194,
+                            369,
+                            209
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 A biased spinner has four sides. Each side is of a different colour: yellow, red, green or black. The probability, \\(p\\), that the spinner will land on red is unknown. The spinner was spun 200 times, and",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "text",
+                "text": "the proportion, \\(a\\), of times that it landed on red was noted. This proportion was used to calculate an approximate \\(90 \\%\\) confidence interval for \\(p\\). The width of this confidence interval was 0.1066 correct to",
+                "bbox": [
+                    70,
+                    88,
+                    547,
+                    103
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "text",
+                "text": "4 significant figures.",
+                "bbox": [
+                    70,
+                    115,
+                    169,
+                    129
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "text",
+                "text": "Find the two possible values of \\(a\\).",
+                "bbox": [
+                    70,
+                    140,
+                    228,
+                    154
+                ],
+                "page_number": 6
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "text": "5 The amount of time, in minutes, spent by a customer on one visit to a certain shop is modelled by the random variable \\(X \\sim \\mathrm{N}\\left(\\mu, \\sigma^{2}\\right)\\). In the past, the values of \\(\\mu\\) and \\(\\sigma\\) were 10.5 and 3.8 respectively. The",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 7
+            },
+            {
+                "type": "text",
+                "text": "shop has recently moved to a new location, and the manager hopes that the new value of \\(\\mu\\) will be greater than 10.5 . He takes a random sample of 10 customers and notes the time they each spend in the",
+                "bbox": [
+                    70,
+                    88,
+                    547,
+                    103
+                ],
+                "page_number": 7
+            },
+            {
+                "type": "text",
+                "text": "shop. He then calculates the sample mean \\(\\bar{x}\\) for these 10 times.",
+                "bbox": [
+                    70,
+                    115,
+                    364,
+                    129
+                ],
+                "page_number": 7
+            },
+            {
+                "type": "text",
+                "text": "Using a hypothesis test at the \\(5 \\%\\) significance level, the manager finds that there is sufficient evidence to conclude that the new value of \\(\\mu\\) is greater than 10.5 .",
+                "bbox": [
+                    70,
+                    140,
+                    547,
+                    154
+                ],
+                "page_number": 7
+            },
+            {
+                "type": "text",
+                "text": "Stating a necessary assumption, find the smallest possible value of \\(\\bar{x}\\).",
+                "bbox": [
+                    70,
+                    180,
+                    392,
+                    194
+                ],
+                "page_number": 7
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "text": "6 Use suitable approximating distributions to answer the following.",
+                "bbox": [
+                    48,
+                    62,
+                    374,
+                    77
+                ],
+                "page_number": 8
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) The random variable \\(W\\) has the distribution \\(\\mathrm{B}(700,0.005)\\).",
+                        "bbox": [
+                            70,
+                            88,
+                            367,
+                            103
+                        ],
+                        "page_number": 8
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) Find \\(\\mathrm{P}(W \\geqslant 4)\\).",
+                                "bbox": [
+                                    95,
+                                    115,
+                                    192,
+                                    129
+                                ],
+                                "page_number": 8
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Two values of \\(W\\) are chosen at random.",
+                                "bbox": [
+                                    94,
+                                    377,
+                                    277,
+                                    390
+                                ],
+                                "page_number": 8
+                            },
+                            {
+                                "type": "text",
+                                "text": "(ii) Find the probability that the sum of these two values is less than 3 .",
+                                "bbox": [
+                                    91,
+                                    403,
+                                    425,
+                                    417
+                                ],
+                                "page_number": 8
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) The random variable \\(X\\) has the distribution \\(\\operatorname{Po}(200)\\).",
+                        "bbox": [
+                            70,
+                            62,
+                            338,
+                            77
+                        ],
+                        "page_number": 9
+                    },
+                    {
+                        "type": "text",
+                        "text": "Use a suitable approximating distribution to find \\(\\mathrm{P}(X>205)\\).",
+                        "bbox": [
+                            94,
+                            88,
+                            382,
+                            104
+                        ],
+                        "page_number": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "text": "7 The random variable \\(X\\) has probability density function given by",
+                "bbox": [
+                    48,
+                    62,
+                    371,
+                    77
+                ],
+                "page_number": 10
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\nf(x)= \\begin{cases}\\frac{k x^{2}}{a^{2}} & 0 \\leqslant x \\leqslant a \\\\ 0 & \\text { otherwise }\\end{cases}\n\\]",
+                "bbox": [
+                    225,
+                    88,
+                    369,
+                    142
+                ],
+                "page_number": 10
+            },
+            {
+                "type": "text",
+                "text": "where \\(k\\) and \\(a\\) are positive constants.",
+                "bbox": [
+                    70,
+                    153,
+                    241,
+                    165
+                ],
+                "page_number": 10
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Show that \\(k=\\frac{3}{a}\\).",
+                        "bbox": [
+                            70,
+                            177,
+                            175,
+                            201
+                        ],
+                        "page_number": 10
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "It is given that \\(\\mathrm{E}(X)=1\\).",
+                        "bbox": [
+                            70,
+                            442,
+                            187,
+                            457
+                        ],
+                        "page_number": 10
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Find the value of \\(a\\).",
+                        "bbox": [
+                            70,
+                            468,
+                            185,
+                            482
+                        ],
+                        "page_number": 10
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Find the median of \\(X\\).",
+                        "bbox": [
+                            70,
+                            62,
+                            197,
+                            77
+                        ],
+                        "page_number": 11
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "8",
+        "content": [
+            {
+                "type": "text",
+                "text": "8 Birgitte has a six-sided dice. She suspects that the dice is biased so that the probability, \\(p\\), that it will show a six on one throw is less than \\(\\frac{1}{6}\\). She throws the dice 30 times and finds that it shows a six on",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 12
+            },
+            {
+                "type": "text",
+                "text": "exactly 2 throws.",
+                "bbox": [
+                    70,
+                    88,
+                    152,
+                    103
+                ],
+                "page_number": 12
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Use a binomial distribution with a \\(5 \\%\\) significance level to test Birgitte's suspicion.",
+                        "bbox": [
+                            70,
+                            115,
+                            479,
+                            130
+                        ],
+                        "page_number": 12
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Later, Birgitte carries out a similar test at the \\(5 \\%\\) significance level, using another 30 throws of the dice.",
+                        "bbox": [
+                            70,
+                            62,
+                            547,
+                            77
+                        ],
+                        "page_number": 13
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Calculate the probability of a Type I error.",
+                        "bbox": [
+                            70,
+                            88,
+                            290,
+                            103
+                        ],
+                        "page_number": 13
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Given that the value of \\(p\\) is actually 0.02 , calculate the probability of a Type II error.",
+                        "bbox": [
+                            70,
+                            375,
+                            484,
+                            390
+                        ],
+                        "page_number": 13
+                    }
+                ]
+            }
+        ]
+    }
+]

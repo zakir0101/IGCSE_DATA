@@ -5,34 +5,38 @@
             {
                 "type": "image",
                 "bbox": [
-                    44,
-                    28,
-                    415,
-                    66
+                    26,
+                    24,
+                    247,
+                    56
                 ],
+                "page_number": 3,
                 "image": {
-                    "caption": ""
+                    "caption": "",
+                    "page": 3
                 }
             },
             {
                 "type": "text",
                 "text": "1 Solve the equation \\(\\frac{e^x + 2e^{-x}}{e^x - 3} = 4\\). Give your answer correct to 3 decimal places.",
                 "bbox": [
-                    80,
-                    72,
-                    744,
-                    106
-                ]
+                    48,
+                    61,
+                    443,
+                    89
+                ],
+                "page_number": 3
             },
             {
                 "type": "text",
                 "text": "[5]",
                 "bbox": [
-                    888,
-                    78,
-                    916,
-                    98
-                ]
+                    529,
+                    66,
+                    546,
+                    83
+                ],
+                "page_number": 3
             }
         ]
     },
@@ -47,11 +51,12 @@
                         "type": "text",
                         "text": "2 (a) Expand \\((6 - x)(1 - 2x)^{-\\frac{3}{2}}\\) in ascending powers of \\(x\\) , up to and including the term in \\(x^{2}\\) , simplifying the coefficients. [4]",
                         "bbox": [
-                            78,
-                            75,
-                            916,
-                            111
-                        ]
+                            46,
+                            63,
+                            546,
+                            94
+                        ],
+                        "page_number": 4
                     }
                 ]
             },
@@ -62,11 +67,12 @@
                         "type": "text",
                         "text": "(b) State the set of values of \\(x\\) for which the expansion is valid. [1]",
                         "bbox": [
-                            116,
-                            652,
-                            916,
-                            666
-                        ]
+                            69,
+                            550,
+                            546,
+                            561
+                        ],
+                        "page_number": 4
                     }
                 ]
             }
@@ -79,11 +85,12 @@
                 "type": "text",
                 "text": "3 On an Argand diagram shade the region whose points represent complex numbers \\(z\\) which satisfy both the inequalities \\(|z - 3i| \\leq 2\\) and \\(\\frac{1}{4}\\pi \\leq \\arg (z - 1 - 2i) \\leq \\frac{3}{4}\\pi\\) . [5]",
                 "bbox": [
-                    78,
-                    72,
-                    919,
-                    109
-                ]
+                    46,
+                    61,
+                    547,
+                    92
+                ],
+                "page_number": 5
             }
         ]
     },
@@ -94,21 +101,12 @@
                 "type": "text",
                 "text": "4 Solve the equation \\(3 \\cot x - 4 \\cot 2x = 3\\) for \\(0^\\circ \\le x \\le 180^\\circ\\).",
                 "bbox": [
-                    80,
-                    72,
-                    576,
-                    89
-                ]
-            },
-            {
-                "type": "text",
-                "text": "[6]",
-                "bbox": [
-                    888,
-                    70,
-                    916,
-                    88
-                ]
+                    48,
+                    61,
+                    343,
+                    75
+                ],
+                "page_number": 6
             }
         ]
     },
@@ -118,45 +116,51 @@
             {
                 "type": "image",
                 "bbox": [
-                    57,
-                    30,
-                    415,
-                    67
+                    34,
+                    25,
+                    247,
+                    56
                 ],
+                "page_number": 7,
                 "image": {
-                    "caption": ""
+                    "caption": "",
+                    "page": 7
                 }
             },
             {
                 "type": "text",
                 "text": "5 The square roots of \\(-1 - 4\\sqrt{5}\\) i can be expressed in the Cartesian form \\(x + iy\\), where \\(x\\) and \\(y\\) are real and exact.",
                 "bbox": [
-                    78,
-                    75,
-                    920,
-                    108
-                ]
+                    46,
+                    63,
+                    548,
+                    91
+                ],
+                "page_number": 7
             },
             {
                 "type": "text",
                 "text": "By first forming a quartic equation in \\(x\\) or \\(y\\), find the square roots of \\(-1 - 4\\sqrt{5}\\) i in exact Cartesian form. [5]",
                 "bbox": [
-                    118,
-                    120,
-                    920,
-                    155
-                ]
+                    70,
+                    101,
+                    548,
+                    131
+                ],
+                "page_number": 7
             },
             {
                 "type": "image",
                 "bbox": [
-                    118,
-                    170,
-                    916,
-                    940
+                    70,
+                    143,
+                    546,
+                    792
                 ],
+                "page_number": 7,
                 "image": {
-                    "caption": ""
+                    "caption": "",
+                    "page": 7
                 }
             }
         ]
@@ -172,31 +176,34 @@
                         "type": "text",
                         "text": "6 (a) By sketching a suitable pair of graphs, show that the equation",
                         "bbox": [
-                            78,
-                            71,
-                            637,
-                            88
-                        ]
+                            46,
+                            60,
+                            379,
+                            74
+                        ],
+                        "page_number": 8
                     },
                     {
                         "type": "blockMath",
                         "blockMath": "\\[|x - 2| = 2\\sin {\\frac{1}{2}}x\\]",
                         "bbox": [
-                            430,
-                            99,
-                            565,
-                            122
-                        ]
+                            256,
+                            83,
+                            337,
+                            103
+                        ],
+                        "page_number": 8
                     },
                     {
                         "type": "text",
                         "text": "has only one root in the interval \\(0< x< \\pi\\) .",
                         "bbox": [
-                            154,
-                            134,
-                            500,
-                            150
-                        ]
+                            92,
+                            113,
+                            298,
+                            126
+                        ],
+                        "page_number": 8
                     }
                 ]
             },
@@ -207,21 +214,23 @@
                         "type": "text",
                         "text": "(b) Show by calculation that this root lies between 1 and 1.5.",
                         "bbox": [
-                            117,
-                            504,
-                            602,
-                            522
-                        ]
+                            70,
+                            425,
+                            359,
+                            440
+                        ],
+                        "page_number": 8
                     },
                     {
                         "type": "text",
                         "text": "[2]",
                         "bbox": [
-                            117,
-                            533,
-                            914,
-                            920
-                        ]
+                            70,
+                            449,
+                            544,
+                            775
+                        ],
+                        "page_number": 8
                     }
                 ]
             },
@@ -231,35 +240,40 @@
                     {
                         "type": "image",
                         "bbox": [
-                            57,
-                            30,
-                            412,
-                            66
+                            34,
+                            25,
+                            245,
+                            56
                         ],
+                        "page_number": 9,
                         "image": {
-                            "caption": ""
+                            "caption": "",
+                            "page": 9
                         }
                     },
                     {
                         "type": "text",
                         "text": "(c) Use the iterative formula \\(x_{n+1} = 2 - 2 \\sin \\frac{1}{2} x_n\\) with an initial value of 1.03 to calculate the root correct to 2 decimal places. Give the result of each iteration to 4 decimal places. [3]",
                         "bbox": [
-                            115,
-                            73,
-                            917,
-                            111
-                        ]
+                            68,
+                            62,
+                            546,
+                            94
+                        ],
+                        "page_number": 9
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            152,
-                            120,
-                            916,
-                            925
+                            91,
+                            101,
+                            546,
+                            780
                         ],
+                        "page_number": 9,
                         "image": {
-                            "caption": ""
+                            "caption": "",
+                            "page": 9
                         }
                     }
                 ]
@@ -277,11 +291,12 @@
                         "type": "text",
                         "text": "7 (a) Express \\(7 \\sin \\theta + 24 \\cos \\theta\\) in the form \\(R \\cos (\\theta - \\alpha)\\), where \\(R > 0\\) and \\(0 < \\alpha < \\frac{1}{2} \\pi\\). Give the value of \\(\\alpha\\) correct to 4 decimal places. [3]",
                         "bbox": [
-                            78,
-                            75,
-                            917,
-                            110
-                        ]
+                            46,
+                            63,
+                            546,
+                            93
+                        ],
+                        "page_number": 10
                     }
                 ]
             },
@@ -290,23 +305,25 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) Hence solve the equation \\(7 \\sin \\frac{1}{3}x + 24 \\cos \\frac{1}{3}x = 24.5\\) for \\(0 < x < \\pi\\).",
+                        "text": "© UCLES 2025 9709/32/M/J/25",
                         "bbox": [
-                            117,
-                            74,
-                            682,
-                            94
-                        ]
+                            46,
+                            809,
+                            546,
+                            821
+                        ],
+                        "page_number": 10
                     },
                     {
                         "type": "text",
-                        "text": "[4]",
+                        "text": "(b) Hence solve the equation \\(7 \\sin \\frac{1}{3}x + 24 \\cos \\frac{1}{3}x = 24.5\\) for \\(0 < x < \\pi\\).",
                         "bbox": [
-                            888,
-                            75,
-                            916,
-                            92
-                        ]
+                            70,
+                            62,
+                            406,
+                            79
+                        ],
+                        "page_number": 11
                     }
                 ]
             }
@@ -319,41 +336,45 @@
                 "type": "text",
                 "text": "8 The variables \\(x\\) and \\(\\theta\\) satisfy the differential equation",
                 "bbox": [
-                    78,
-                    72,
-                    535,
-                    89
-                ]
+                    46,
+                    61,
+                    319,
+                    75
+                ],
+                "page_number": 12
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[\\sin 2\\theta \\frac{\\mathrm{d}x}{\\mathrm{d}\\theta} = (4x + 3)\\cos 2\\theta ,\\]",
                 "bbox": [
-                    390,
-                    98,
-                    606,
-                    128
-                ]
+                    232,
+                    83,
+                    361,
+                    108
+                ],
+                "page_number": 12
             },
             {
                 "type": "text",
                 "text": "and \\(x = 0\\) when \\(\\theta = \\frac{1}{12}\\pi\\) .",
                 "bbox": [
-                    118,
-                    133,
-                    320,
-                    153
-                ]
+                    70,
+                    112,
+                    191,
+                    129
+                ],
+                "page_number": 12
             },
             {
                 "type": "text",
                 "text": "Solve the differential equation and obtain an expression for \\(x\\) in terms of \\(\\theta\\) .",
                 "bbox": [
-                    118,
-                    164,
-                    700,
-                    183
-                ]
+                    70,
+                    138,
+                    417,
+                    154
+                ],
+                "page_number": 12
             }
         ]
     },
@@ -364,21 +385,23 @@
                 "type": "text",
                 "text": "9 With respect to the origin \\(O\\) , the points \\(A\\) , \\(B\\) and \\(C\\) have position vectors given by",
                 "bbox": [
-                    78,
-                    71,
-                    752,
-                    89
-                ]
+                    46,
+                    60,
+                    448,
+                    75
+                ],
+                "page_number": 14
             },
             {
                 "type": "blockMath",
                 "blockMath": "\\[\\overrightarrow{OA} = \\left( \\begin{array}{c}1\\] \\[-4\\] \\[2} \\end{array} \\right),\\qquad \\overrightarrow{OB} = \\left( \\begin{array}{c} - 2\\] \\[1\\] \\[3} \\end{array} \\right)\\qquad \\mathrm{and}\\qquad \\overrightarrow{OC} = \\left( \\begin{array}{c}2\\] \\[3\\] \\[5} \\end{array} \\right).\\]",
                 "bbox": [
-                    260,
-                    98,
-                    737,
-                    155
-                ]
+                    155,
+                    83,
+                    439,
+                    131
+                ],
+                "page_number": 14
             }
         ],
         "parts": [
@@ -389,11 +412,12 @@
                         "type": "text",
                         "text": "(a) Find a vector equation for the line through \\(A\\) and \\(B\\) .",
                         "bbox": [
-                            117,
-                            164,
-                            558,
-                            183
-                        ]
+                            70,
+                            138,
+                            332,
+                            154
+                        ],
+                        "page_number": 14
                     }
                 ]
             },
@@ -404,21 +428,23 @@
                         "type": "text",
                         "text": "(b) Using a scalar product, find the exact value of \\(\\cos BAC\\) .",
                         "bbox": [
-                            117,
-                            501,
-                            590,
-                            520
-                        ]
+                            70,
+                            422,
+                            351,
+                            438
+                        ],
+                        "page_number": 14
                     },
                     {
                         "type": "text",
                         "text": "[4]",
                         "bbox": [
-                            117,
-                            530,
-                            914,
-                            925
-                        ]
+                            70,
+                            447,
+                            544,
+                            780
+                        ],
+                        "page_number": 14
                     }
                 ]
             },
@@ -429,21 +455,12 @@
                         "type": "text",
                         "text": "(c) Hence find the exact area of triangle ABC.",
                         "bbox": [
-                            115,
-                            72,
-                            470,
-                            88
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "[3]",
-                        "bbox": [
-                            888,
-                            72,
-                            916,
-                            90
-                        ]
+                            68,
+                            61,
+                            280,
+                            74
+                        ],
+                        "page_number": 15
                     }
                 ]
             }
@@ -460,11 +477,12 @@
                         "type": "text",
                         "text": "10 (a) Find the quotient and remainder when \\(x^2\\) is divided by \\(1 + 4x^2\\). [2]",
                         "bbox": [
-                            80,
-                            72,
-                            652,
-                            92
-                        ]
+                            48,
+                            61,
+                            388,
+                            78
+                        ],
+                        "page_number": 16
                     }
                 ]
             },
@@ -475,11 +493,23 @@
                         "type": "text",
                         "text": "(b) Find the exact value of \\(\\int_{0}^{0.5} x \\tan^{-1}(2x) dx\\). [6]",
                         "bbox": [
-                            116,
-                            633,
-                            916,
-                            650
-                        ]
+                            69,
+                            534,
+                            546,
+                            548
+                        ],
+                        "page_number": 16
+                    },
+                    {
+                        "type": "text",
+                        "text": "© UCLES 2025 9709/32/M/J/25",
+                        "bbox": [
+                            69,
+                            802,
+                            546,
+                            811
+                        ],
+                        "page_number": 16
                     }
                 ]
             }
@@ -491,14 +521,27 @@
             {
                 "type": "image",
                 "bbox": [
-                    364,
-                    90,
-                    630,
-                    270
+                    217,
+                    76,
+                    375,
+                    228
                 ],
+                "page_number": 18,
                 "image": {
-                    "caption": ""
+                    "caption": "",
+                    "page": 18
                 }
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the graph of \\(y = 5 \\sin 2x \\cos^2 x\\) for \\(0 \\leq x \\leq \\frac{1}{2} \\pi\\) and its maximum point \\(M\\) .",
+                "bbox": [
+                    70,
+                    240,
+                    503,
+                    257
+                ],
+                "page_number": 18
             }
         ],
         "parts": [
@@ -507,33 +550,14 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "The diagram shows the graph of \\(y = 5 \\sin 2x \\cos^2 x\\) for \\(0 \\leq x \\leq \\frac{1}{2} \\pi\\) and its maximum point \\(M\\) .",
+                        "text": "(a) Find the exact \\(x\\) -coordinate of \\(M\\) . [6]",
                         "bbox": [
-                            118,
-                            285,
-                            844,
-                            305
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "(a) Find the exact \\(x\\) -coordinate of \\(M\\) .",
-                        "bbox": [
-                            118,
-                            316,
-                            416,
-                            334
-                        ]
-                    },
-                    {
-                        "type": "text",
-                        "text": "[6]",
-                        "bbox": [
-                            888,
-                            318,
-                            912,
-                            334
-                        ]
+                            70,
+                            266,
+                            248,
+                            282
+                        ],
+                        "page_number": 18
                     }
                 ]
             },
@@ -544,11 +568,12 @@
                         "type": "text",
                         "text": "(b) By using the substitution \\(u = \\cos x\\), find the area of the region bounded by the curve, the \\(x\\)-axis between \\(x = 0\\) and \\(x = \\frac{1}{4}\\pi\\), and the line \\(x = \\frac{1}{4}\\pi\\). [5]",
                         "bbox": [
-                            117,
-                            71,
-                            916,
-                            110
-                        ]
+                            70,
+                            60,
+                            546,
+                            93
+                        ],
+                        "page_number": 19
                     }
                 ]
             }

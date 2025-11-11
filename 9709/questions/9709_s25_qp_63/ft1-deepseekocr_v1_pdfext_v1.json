@@ -1,0 +1,545 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "text": "1 At a certain shop, customers arrive independently and randomly at a constant average rate of 23.4 per hour.",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 2
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the probability that, in a randomly chosen 1-minute period, at least 2 customers arrive.",
+                        "bbox": [
+                            70,
+                            102,
+                            518,
+                            116
+                        ],
+                        "page_number": 2
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) The random variable \\(X\\) denotes the number of customers who arrive in a randomly chosen 1-hour period.",
+                        "bbox": [
+                            70,
+                            309,
+                            547,
+                            324
+                        ],
+                        "page_number": 2
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) State a suitable approximating distribution for \\(X\\), giving the value(s) of any parameter(s).",
+                                "bbox": [
+                                    94,
+                                    348,
+                                    522,
+                                    364
+                                ],
+                                "page_number": 2
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Use your approximating distribution to find \\(\\mathrm{P}(20<X<30)\\).",
+                                "bbox": [
+                                    91,
+                                    452,
+                                    404,
+                                    467
+                                ],
+                                "page_number": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2 The lengths of pencils made at a factory are normally distributed. The standard deviation of the lengths is \\(\\sigma \\mathrm{~cm}\\), and the mean is supposed to be 10 cm . An inspector thinks that the mean is actually greater",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "text",
+                "text": "than 10 cm . He takes a random sample of 50 pencils produced at the factory and finds that the mean of these 50 lengths is 10.03 cm . He then carries out a hypothesis test.",
+                "bbox": [
+                    70,
+                    88,
+                    549,
+                    103
+                ],
+                "page_number": 3
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) He finds that the value of the test statistic \\(z\\) is 1.995 correct to 3 decimal places.",
+                        "bbox": [
+                            70,
+                            127,
+                            462,
+                            142
+                        ],
+                        "page_number": 3
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) Calculate the value of \\(\\sigma\\).",
+                                "bbox": [
+                                    94,
+                                    153,
+                                    233,
+                                    168
+                                ],
+                                "page_number": 3
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Carry out the hypothesis test at the \\(2.5 \\%\\) significance level.",
+                                "bbox": [
+                                    91,
+                                    413,
+                                    392,
+                                    428
+                                ],
+                                "page_number": 3
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Explain whether it was necessary to use the Central Limit Theorem in carrying out the test.",
+                        "bbox": [
+                            67,
+                            673,
+                            514,
+                            689
+                        ],
+                        "page_number": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "text": "3 A machine dispenses coffee into cups. The volume, \\(V \\mathrm{~cm}^{3}\\), of coffee in a cup was measured for a random sample of 150 cups. The results were summarised as follows.",
+                "bbox": [
+                    48,
+                    64,
+                    547,
+                    81
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\sum v=46350 \\quad \\sum v^{2}=14410800\n\\]",
+                "bbox": [
+                    208,
+                    102,
+                    387,
+                    120
+                ],
+                "page_number": 4
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [],
+                "parts": [
+                    {
+                        "label": "i",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(a) (i) Calculate unbiased estimates of the population mean, \\(\\mu\\), and population variance, \\(\\sigma^{2}\\).",
+                                "bbox": [
+                                    70,
+                                    130,
+                                    510,
+                                    146
+                                ],
+                                "page_number": 4
+                            }
+                        ]
+                    },
+                    {
+                        "label": "ii",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Calculate a \\(95 \\%\\) confidence interval for \\(\\mu\\).",
+                                "bbox": [
+                                    91,
+                                    339,
+                                    315,
+                                    354
+                                ],
+                                "page_number": 4
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Another random sample of \\(n\\) cups of coffee is taken, where \\(100<n<120\\). A \\(95 \\%\\) confidence interval for \\(\\mu\\) is calculated using this sample. You may assume that, for large samples, unbiased estimates of \\(\\sigma^{2}\\) are very similar.",
+                        "bbox": [
+                            70,
+                            547,
+                            547,
+                            562
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Without calculation, state whether this confidence interval would be wider or narrower than the confidence interval found in part (a)(ii). Give a reason for your answer.",
+                        "bbox": [
+                            70,
+                            598,
+                            547,
+                            613
+                        ],
+                        "page_number": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 Emma needs to choose one person at random from three people, \\(P, Q\\) and \\(R\\). She plans to throw two fair coins and note the number, \\(n\\), of heads. If \\(n\\) is 0 , she will choose \\(P\\). If \\(n\\) is 1 , she will choose \\(Q\\). If \\(n\\) is 2 , she will choose \\(R\\).",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 5
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) By considering probabilities, show that the choice made by this method is not random.",
+                        "bbox": [
+                            70,
+                            115,
+                            494,
+                            129
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Later, Emma has to choose two people at random from three people.",
+                        "bbox": [
+                            70,
+                            426,
+                            389,
+                            442
+                        ],
+                        "page_number": 5
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Describe how Emma could use a single throw of a fair six-sided dice to make this random choice.",
+                        "bbox": [
+                            70,
+                            452,
+                            547,
+                            467
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "text": "5 In Urberia, the masses, in kilograms, of men have the distribution \\(\\mathrm{N}(70.3,5.9^{2})\\). A certain footbridge in Urberia can take a maximum safe load of 1500 kg . When \\(n\\) men stand on the bridge, the probability that",
+                "bbox": [
+                    48,
+                    64,
+                    547,
+                    81
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "text",
+                "text": "the bridge is unsafe is less than 0.01 .",
+                "bbox": [
+                    70,
+                    92,
+                    242,
+                    106
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "text",
+                "text": "Stating a necessary assumption, find the maximum value of \\(n\\).",
+                "bbox": [
+                    70,
+                    117,
+                    359,
+                    132
+                ],
+                "page_number": 6
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "text": "6 A random variable \\(X\\) has probability density function given by",
+                "bbox": [
+                    48,
+                    62,
+                    361,
+                    77
+                ],
+                "page_number": 7
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\nf(x)= \\begin{cases}a x & 0 \\leqslant x \\leqslant b \\\\ 0 & \\text { otherwise }\\end{cases}\n\\]",
+                "bbox": [
+                    247,
+                    88,
+                    369,
+                    124
+                ],
+                "page_number": 7
+            },
+            {
+                "type": "text",
+                "text": "where \\(a\\) and \\(b\\) are constants.",
+                "bbox": [
+                    70,
+                    128,
+                    203,
+                    141
+                ],
+                "page_number": 7
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Show that \\(a=\\frac{2}{b^{2}}\\).",
+                        "bbox": [
+                            70,
+                            147,
+                            182,
+                            174
+                        ],
+                        "page_number": 7
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Show that \\(\\mathrm{P}(X<\\mathrm{E}(X))=\\frac{4}{9}\\).",
+                        "bbox": [
+                            70,
+                            384,
+                            233,
+                            403
+                        ],
+                        "page_number": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "text": "7 In the past, one quarter of job applicants at a certain firm had first-class degrees. A change is made in the job description and a director of the firm believes that, on average, the proportion of job applicants",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 8
+            },
+            {
+                "type": "text",
+                "text": "with first class degrees has decreased.",
+                "bbox": [
+                    70,
+                    88,
+                    248,
+                    103
+                ],
+                "page_number": 8
+            },
+            {
+                "type": "text",
+                "text": "In the month following the change, there were 35 job applicants, and \\(r\\) of these had first-class degrees. The firm carried out a hypothesis test at the \\(4 \\%\\) significance level to test the director's belief.",
+                "bbox": [
+                    70,
+                    115,
+                    547,
+                    129
+                ],
+                "page_number": 8
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Use a binomial distribution to find the largest value of \\(r\\) that would provide sufficient evidence that the director's belief is correct.",
+                        "bbox": [
+                            70,
+                            153,
+                            547,
+                            168
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "In another month, the director carries out a similar test at the \\(4 \\%\\) significance level using the 35 job applicants from that month.",
+                        "bbox": [
+                            70,
+                            62,
+                            547,
+                            77
+                        ],
+                        "page_number": 9
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Explain the meaning of a Type I error in this context, and state the probability of a Type I error.",
+                        "bbox": [
+                            70,
+                            102,
+                            547,
+                            116
+                        ],
+                        "page_number": 9
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Given that the proportion of job applicants with first class degrees this year is actually 0.05 , find the probability of a Type II error.",
+                        "bbox": [
+                            70,
+                            348,
+                            547,
+                            362
+                        ],
+                        "page_number": 9
+                    }
+                ]
+            }
+        ]
+    }
+]

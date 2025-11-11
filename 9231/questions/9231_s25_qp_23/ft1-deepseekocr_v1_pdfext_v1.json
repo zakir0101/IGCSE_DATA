@@ -1,0 +1,508 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "text": "1 Find the Maclaurin＇s series for \\(\\mathrm{e}^{\\left(\\frac{1}{x+2}\\right)}\\) up to and including the term in \\(x^{2}\\) ．",
+                "bbox": [
+                    48,
+                    64,
+                    402,
+                    85
+                ],
+                "page_number": 2
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "2 (a) Starting from the definitions of tanh and sech in terms of exponentials, prove that",
+                        "bbox": [
+                            48,
+                            62,
+                            471,
+                            77
+                        ],
+                        "page_number": 3
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\tanh ^{2} t+\\operatorname{sech}^{2} t=1\n\\]",
+                        "bbox": [
+                            250,
+                            83,
+                            345,
+                            103
+                        ],
+                        "page_number": 3
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) The curve \\(C\\) has parametric equations",
+                        "bbox": [
+                            70,
+                            322,
+                            270,
+                            337
+                        ],
+                        "page_number": 3
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\nx=\\ln (\\cosh t), \\quad y=\\tan ^{-1}(\\sinh t), \\quad \\text { for } 0 \\leqslant t \\leqslant 1 .\n\\]",
+                        "bbox": [
+                            176,
+                            345,
+                            419,
+                            364
+                        ],
+                        "page_number": 3
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the length of \\(C\\).",
+                        "bbox": [
+                            93,
+                            375,
+                            192,
+                            389
+                        ],
+                        "page_number": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "text": "3 The curve \\(C\\) has equation",
+                "bbox": [
+                    48,
+                    62,
+                    192,
+                    77
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n9 y^{2}-3 \\sinh ^{-1}(x y)=1-3 \\ln 3 .\n\\]",
+                "bbox": [
+                    225,
+                    85,
+                    369,
+                    103
+                ],
+                "page_number": 4
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Show that, at the point \\(\\left(4, \\frac{1}{3}\\right)\\) on \\(C, \\frac{\\mathrm{~d} y}{\\mathrm{~d} x}=-\\frac{1}{2}\\).",
+                        "bbox": [
+                            70,
+                            121,
+                            302,
+                            146
+                        ],
+                        "page_number": 4
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the value of \\(\\frac{\\mathrm{d}^{2} y}{\\mathrm{~d} x^{2}}\\) at the point \\(\\left(4, \\frac{1}{3}\\right)\\).",
+                        "bbox": [
+                            70,
+                            64,
+                            281,
+                            95
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 Find the particular solution of the differential equation",
+                "bbox": [
+                    48,
+                    62,
+                    325,
+                    77
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\frac{\\mathrm{d}^{2} x}{\\mathrm{~d} t^{2}}+\\frac{\\mathrm{d} x}{\\mathrm{~d} t}-2 x=2 t^{2}+t-1,\n\\]",
+                "bbox": [
+                    233,
+                    93,
+                    363,
+                    123
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "text",
+                "text": "given that，when \\(t=0, x=\\frac{\\mathrm{d} x}{\\mathrm{~d} t}=0\\) ．",
+                "bbox": [
+                    70,
+                    135,
+                    238,
+                    159
+                ],
+                "page_number": 6
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "5 (a) Use de Moivre's theorem to show that",
+                        "bbox": [
+                            48,
+                            62,
+                            272,
+                            77
+                        ],
+                        "page_number": 8
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\sec 5 \\theta=\\frac{\\sec ^{5} \\theta}{5 \\sec ^{4} \\theta-20 \\sec ^{2} \\theta+16}\n\\]",
+                        "bbox": [
+                            218,
+                            92,
+                            378,
+                            127
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "（b）Hence，obtain the roots of the equation",
+                        "bbox": [
+                            70,
+                            62,
+                            274,
+                            77
+                        ],
+                        "page_number": 9
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\sqrt{3} x^{5}-10 x^{4}+40 x^{2}-32=0\n\\]",
+                        "bbox": [
+                            228,
+                            85,
+                            366,
+                            101
+                        ],
+                        "page_number": 9
+                    },
+                    {
+                        "type": "text",
+                        "text": "in the form \\(\\sec (q \\pi)\\) ，where \\(q\\) is rational．",
+                        "bbox": [
+                            94,
+                            114,
+                            281,
+                            129
+                        ],
+                        "page_number": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "text": "6",
+                "bbox": [
+                    46,
+                    60,
+                    58,
+                    74
+                ],
+                "page_number": 10
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    94,
+                    77,
+                    500,
+                    501
+                ],
+                "page_number": 10,
+                "image": {
+                    "caption": "",
+                    "page": 10
+                }
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curve with equation \\(y=\\frac{1}{x^{2}+1}\\) for \\(0 \\leqslant x \\leqslant 1\\), together with a set of \\(n\\) rectangles",
+                "bbox": [
+                    70,
+                    512,
+                    547,
+                    538
+                ],
+                "page_number": 10
+            },
+            {
+                "type": "text",
+                "text": "of width \\(\\frac{1}{n}\\).",
+                "bbox": [
+                    70,
+                    529,
+                    127,
+                    554
+                ],
+                "page_number": 10
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) By considering the sum of the areas of these rectangles, show that",
+                        "bbox": [
+                            70,
+                            560,
+                            400,
+                            575
+                        ],
+                        "page_number": 10
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\sum_{r=1}^{n} \\frac{n}{n^{2}+r^{2}}<\\frac{1}{4} \\pi\n\\]",
+                        "bbox": [
+                            253,
+                            588,
+                            341,
+                            626
+                        ],
+                        "page_number": 10
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Use a similar method to find a lower bound for \\(\\sum_{r=1}^{n} \\frac{n}{n^{2}+r^{2}}\\). Give your answer in terms of \\(n\\) and \\(\\pi\\).",
+                        "bbox": [
+                            70,
+                            286,
+                            547,
+                            322
+                        ],
+                        "page_number": 11
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Deduce the exact value of \\(\\lim _{n \\rightarrow \\infty} \\sum_{r=1}^{n} \\frac{n}{n^{2}+r^{2}}\\).",
+                        "bbox": [
+                            70,
+                            688,
+                            295,
+                            723
+                        ],
+                        "page_number": 11
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "text": "7 Find the solution of the differential equation",
+                "bbox": [
+                    48,
+                    62,
+                    277,
+                    77
+                ],
+                "page_number": 12
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\frac{\\mathrm{d} y}{\\mathrm{~d} x}-\\frac{2 x+6}{x^{2}+6 x+5} y=4,\n\\]",
+                "bbox": [
+                    243,
+                    94,
+                    352,
+                    124
+                ],
+                "page_number": 12
+            },
+            {
+                "type": "text",
+                "text": "given that \\(y=0\\) when \\(x=0\\). Give your answer in an exact form.",
+                "bbox": [
+                    70,
+                    140,
+                    376,
+                    154
+                ],
+                "page_number": 12
+            }
+        ]
+    },
+    {
+        "label": "8",
+        "content": [],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "8 (a) Find the values of \\(a\\) for which the system of equations",
+                        "bbox": [
+                            48,
+                            62,
+                            346,
+                            77
+                        ],
+                        "page_number": 14
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\begin{aligned}\n\\frac{3}{2} x+3 y+8 z & =1, \\\\\na x+3 y+4 z & =2, \\\\\na y-z & =3,\n\\end{aligned}\n\\]",
+                        "bbox": [
+                            256,
+                            80,
+                            338,
+                            135
+                        ],
+                        "page_number": 14
+                    },
+                    {
+                        "type": "text",
+                        "text": "does not have a unique solution.",
+                        "bbox": [
+                            94,
+                            140,
+                            244,
+                            154
+                        ],
+                        "page_number": 14
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The matrix \\(\\mathbf{A}\\) is given by",
+                        "bbox": [
+                            70,
+                            375,
+                            188,
+                            389
+                        ],
+                        "page_number": 14
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\mathbf{A}=\\left(\\begin{array}{rrr}\n\\frac{3}{2} & 3 & 8 \\\\\n0 & 3 & 4 \\\\\n0 & 0 & -1\n\\end{array}\\right) .\n\\]",
+                        "bbox": [
+                            256,
+                            394,
+                            339,
+                            443
+                        ],
+                        "page_number": 14
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Given that \\(\\mathbf{B}=\\mathbf{A}^{-1}\\), use the characteristic equation of \\(\\mathbf{A}\\) to show that \\(\\mathbf{B}^{2}=p \\mathbf{I}+q \\mathbf{A}\\), where \\(p\\) and \\(q\\) are constants to be determined.",
+                        "bbox": [
+                            70,
+                            450,
+                            547,
+                            467
+                        ],
+                        "page_number": 14
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Find a matrix \\(\\mathbf{P}\\) and a diagonal matrix \\(\\mathbf{D}\\) such that \\(\\mathbf{A}^{-1}=\\mathbf{P D} \\mathbf{P}^{-1}\\).",
+                        "bbox": [
+                            70,
+                            64,
+                            398,
+                            82
+                        ],
+                        "page_number": 15
+                    }
+                ]
+            }
+        ]
+    }
+]

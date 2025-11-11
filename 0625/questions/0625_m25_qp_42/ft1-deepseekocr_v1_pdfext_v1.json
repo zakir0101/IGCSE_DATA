@@ -6,37 +6,26 @@
                 "type": "text",
                 "text": "1 Fig. 1.1 shows a force-extension graph for a spring.",
                 "bbox": [
-                    28,
-                    52,
-                    189,
-                    65
+                    48,
+                    62,
+                    326,
+                    77
                 ],
                 "page_number": 2
             },
             {
                 "type": "image",
                 "bbox": [
-                    49,
-                    75,
-                    304,
-                    414
+                    83,
+                    87,
+                    510,
+                    495
                 ],
                 "page_number": 2,
                 "image": {
                     "caption": "",
                     "page": 2
                 }
-            },
-            {
-                "type": "text",
-                "text": "(a) Calculate the spring constant \\(k\\) of the spring.",
-                "bbox": [
-                    42,
-                    448,
-                    186,
-                    461
-                ],
-                "page_number": 2
             }
         ],
         "parts": [
@@ -44,35 +33,24 @@
                 "label": "a",
                 "content": [
                     {
+                        "type": "text",
+                        "text": "(a) Calculate the spring constant \\(k\\) of the spring.",
+                        "bbox": [
+                            70,
+                            533,
+                            313,
+                            547
+                        ],
+                        "page_number": 2
+                    },
+                    {
                         "type": "blockMath",
                         "blockMath": "\\[\nk=\n\\]",
                         "bbox": [
-                            197,
-                            533,
-                            208,
-                            544
-                        ],
-                        "page_number": 2
-                    },
-                    {
-                        "type": "text",
-                        "text": "(b) A student states that the spring has not reached the limit of proportionality when a force of 4500 N is applied to it.",
-                        "bbox": [
-                            42,
-                            554,
-                            326,
-                            566
-                        ],
-                        "page_number": 2
-                    },
-                    {
-                        "type": "text",
-                        "text": "State how the graph shows that this statement is true.",
-                        "bbox": [
-                            56,
-                            587,
-                            213,
-                            598
+                            330,
+                            631,
+                            351,
+                            646
                         ],
                         "page_number": 2
                     }
@@ -80,7 +58,30 @@
             },
             {
                 "label": "b",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) A student states that the spring has not reached the limit of proportionality when a force of 4500 N is applied to it.",
+                        "bbox": [
+                            70,
+                            656,
+                            549,
+                            672
+                        ],
+                        "page_number": 2
+                    },
+                    {
+                        "type": "text",
+                        "text": "State how the graph shows that this statement is true.",
+                        "bbox": [
+                            94,
+                            695,
+                            358,
+                            711
+                        ],
+                        "page_number": 2
+                    }
+                ]
             },
             {
                 "label": "c",
@@ -89,10 +90,10 @@
                         "type": "text",
                         "text": "(c) Springs can be compressed by forces. The spring described by Fig. 1.1 is compressed by a force \\(F\\) and has an extension of -0.025 m .",
                         "bbox": [
-                            42,
-                            52,
-                            326,
-                            65
+                            70,
+                            62,
+                            547,
+                            77
                         ],
                         "page_number": 3
                     },
@@ -100,10 +101,21 @@
                         "type": "text",
                         "text": "Determine F.",
                         "bbox": [
-                            56,
-                            86,
-                            95,
-                            96
+                            94,
+                            102,
+                            160,
+                            115
+                        ],
+                        "page_number": 3
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\nF=\n\\]",
+                        "bbox": [
+                            329,
+                            199,
+                            350,
+                            212
                         ],
                         "page_number": 3
                     }
@@ -113,24 +125,13 @@
                 "label": "d",
                 "content": [
                     {
-                        "type": "blockMath",
-                        "blockMath": "\\[\nF=\n\\]",
-                        "bbox": [
-                            197,
-                            168,
-                            208,
-                            180
-                        ],
-                        "page_number": 3
-                    },
-                    {
                         "type": "text",
                         "text": "(d) State whether force is a scalar quantity or a vector quantity. Explain your answer.",
                         "bbox": [
-                            42,
-                            190,
-                            291,
-                            201
+                            70,
+                            225,
+                            490,
+                            239
                         ],
                         "page_number": 3
                     }
@@ -145,37 +146,26 @@
                 "type": "text",
                 "text": "2 Trolley A and trolley B are on a horizontal，frictionless bench．Trolley A moves to the right with a constant velocity \\(u=0.44 \\mathrm{~m} / \\mathrm{s}\\) ．Trolley B is stationary．",
                 "bbox": [
-                    28,
-                    52,
-                    326,
-                    65
+                    48,
+                    62,
+                    547,
+                    77
                 ],
                 "page_number": 4
             },
             {
                 "type": "image",
                 "bbox": [
-                    50,
-                    106,
-                    304,
-                    217
+                    80,
+                    123,
+                    514,
+                    256
                 ],
                 "page_number": 4,
                 "image": {
                     "caption": "",
                     "page": 4
                 }
-            },
-            {
-                "type": "text",
-                "text": "（a）State the momentum of trolley B before the collision．Explain your answer．",
-                "bbox": [
-                    42,
-                    252,
-                    271,
-                    264
-                ],
-                "page_number": 4
             }
         ],
         "parts": [
@@ -184,12 +174,23 @@
                 "content": [
                     {
                         "type": "text",
+                        "text": "（a）State the momentum of trolley B before the collision．Explain your answer．",
+                        "bbox": [
+                            70,
+                            298,
+                            455,
+                            312
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
                         "text": "statement",
                         "bbox": [
-                            56,
-                            274,
-                            86,
-                            285
+                            94,
+                            324,
+                            146,
+                            336
                         ],
                         "page_number": 4
                     },
@@ -197,32 +198,10 @@
                         "type": "text",
                         "text": "explanation",
                         "bbox": [
-                            56,
-                            295,
-                            91,
-                            307
-                        ],
-                        "page_number": 4
-                    },
-                    {
-                        "type": "text",
-                        "text": "（b）After the collision，the two trolleys are joined together and travel with a constant velocity \\(v=0.18 \\mathrm{~m} / \\mathrm{s}\\) to the right．The mass of trolley A is 0.75 kg ．",
-                        "bbox": [
-                            42,
-                            349,
-                            326,
-                            361
-                        ],
-                        "page_number": 4
-                    },
-                    {
-                        "type": "text",
-                        "text": "Calculate the mass of trolley B．",
-                        "bbox": [
-                            56,
-                            382,
-                            148,
-                            394
+                            94,
+                            350,
+                            152,
+                            362
                         ],
                         "page_number": 4
                     }
@@ -233,12 +212,23 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "mass of trolley \\(\\mathrm{B}=\\)",
+                        "text": "（b）After the collision，the two trolleys are joined together and travel with a constant velocity \\(v=0.18 \\mathrm{~m} / \\mathrm{s}\\) to the right．The mass of trolley A is 0.75 kg ．",
                         "bbox": [
-                            151,
-                            489,
-                            208,
-                            501
+                            70,
+                            415,
+                            547,
+                            428
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "text": "Calculate the mass of trolley B．",
+                        "bbox": [
+                            94,
+                            452,
+                            248,
+                            468
                         ],
                         "page_number": 4
                     }
@@ -246,7 +236,19 @@
             },
             {
                 "label": "c",
-                "content": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "mass of trolley B＝",
+                        "bbox": [
+                            256,
+                            580,
+                            350,
+                            593
+                        ],
+                        "page_number": 4
+                    }
+                ],
                 "parts": [
                     {
                         "label": "i",
@@ -255,10 +257,10 @@
                                 "type": "text",
                                 "text": "(c) (i) The trolleys move onto a rough surface which exerts a constant force \\(F\\) on the trolleys and brings them to rest in 2.6 s .",
                                 "bbox": [
-                                    42,
-                                    52,
-                                    326,
-                                    65
+                                    70,
+                                    62,
+                                    547,
+                                    77
                                 ],
                                 "page_number": 5
                             },
@@ -266,10 +268,21 @@
                                 "type": "text",
                                 "text": "Calculate F.",
                                 "bbox": [
-                                    70,
-                                    86,
-                                    104,
-                                    95
+                                    117,
+                                    102,
+                                    177,
+                                    113
+                                ],
+                                "page_number": 5
+                            },
+                            {
+                                "type": "blockMath",
+                                "blockMath": "\\[\nF=\n\\]",
+                                "bbox": [
+                                    329,
+                                    199,
+                                    352,
+                                    212
                                 ],
                                 "page_number": 5
                             }
@@ -279,35 +292,24 @@
                         "label": "ii",
                         "content": [
                             {
-                                "type": "blockMath",
-                                "blockMath": "\\[\nF=\n\\]",
-                                "bbox": [
-                                    196,
-                                    168,
-                                    208,
-                                    180
-                                ],
-                                "page_number": 5
-                            },
-                            {
                                 "type": "text",
                                 "text": "(ii) A different rough surface exerts a smaller resistive force on the trolleys. State how this affects the time taken to bring the trolleys to rest. Explain your answer.",
                                 "bbox": [
-                                    55,
-                                    190,
-                                    326,
-                                    201
+                                    92,
+                                    225,
+                                    547,
+                                    239
                                 ],
                                 "page_number": 5
                             },
                             {
                                 "type": "text",
-                                "text": "statement statement",
+                                "text": "statement",
                                 "bbox": [
-                                    70,
-                                    223,
-                                    101,
-                                    233
+                                    117,
+                                    265,
+                                    169,
+                                    277
                                 ],
                                 "page_number": 5
                             },
@@ -315,10 +317,10 @@
                                 "type": "text",
                                 "text": "explanation",
                                 "bbox": [
-                                    70,
-                                    244,
-                                    104,
-                                    256
+                                    117,
+                                    291,
+                                    175,
+                                    305
                                 ],
                                 "page_number": 5
                             }
@@ -335,37 +337,26 @@
                 "type": "text",
                 "text": "3 Fig. 3.1 shows a mains electric heater used to heat a small room.",
                 "bbox": [
-                    28,
-                    52,
-                    233,
-                    65
+                    48,
+                    62,
+                    391,
+                    77
                 ],
                 "page_number": 6
             },
             {
                 "type": "image",
                 "bbox": [
-                    96,
-                    73,
-                    259,
-                    181
+                    161,
+                    86,
+                    435,
+                    217
                 ],
                 "page_number": 6,
                 "image": {
                     "caption": "",
                     "page": 6
                 }
-            },
-            {
-                "type": "text",
-                "text": "(a) State the region of the electromagnetic spectrum which radiates thermal energy from the heater.",
-                "bbox": [
-                    42,
-                    216,
-                    326,
-                    228
-                ],
-                "page_number": 6
             }
         ],
         "parts": [
@@ -374,12 +365,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(b) Explain why the shiny metal surface behind the heating elements increases the thermal energy radiated into the room.",
+                        "text": "(a) State the region of the electromagnetic spectrum which radiates thermal energy from the heater.",
                         "bbox": [
-                            42,
-                            271,
-                            326,
-                            285
+                            70,
+                            256,
+                            547,
+                            271
                         ],
                         "page_number": 6
                     }
@@ -390,12 +381,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "(c) The metal outer casing of the heater is earthed. State why this is an important safety feature.",
+                        "text": "(b) Explain why the shiny metal surface behind the heating elements increases the thermal energy radiated into the room.",
                         "bbox": [
-                            42,
-                            368,
-                            326,
-                            382
+                            70,
+                            320,
+                            547,
+                            336
                         ],
                         "page_number": 6
                     }
@@ -403,19 +394,31 @@
             },
             {
                 "label": "c",
-                "content": []
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) The metal outer casing of the heater is earthed. State why this is an important safety feature.",
+                        "bbox": [
+                            70,
+                            437,
+                            547,
+                            453
+                        ],
+                        "page_number": 6
+                    }
+                ]
             },
             {
                 "label": "d",
                 "content": [
                     {
                         "type": "text",
-                        "text": "（d）The mains voltage is 230 V ．The two identical heating elements are connected in parallel． Each heating element has a resistance of \\(89 \\Omega\\) ．",
+                        "text": "(d) The mains voltage is 230 V . The two identical heating elements are connected in parallel. Each heating element has a resistance of \\(89 \\Omega\\).",
                         "bbox": [
-                            42,
-                            52,
-                            326,
-                            65
+                            70,
+                            62,
+                            547,
+                            77
                         ],
                         "page_number": 7
                     }
@@ -426,12 +429,23 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "（i）Calculate the current in one heating element．",
+                                "text": "(i) Calculate the current in one heating element.",
                                 "bbox": [
-                                    56,
-                                    86,
-                                    203,
-                                    98
+                                    95,
+                                    102,
+                                    338,
+                                    116
+                                ],
+                                "page_number": 7
+                            },
+                            {
+                                "type": "blockMath",
+                                "blockMath": "\\[current =\\]",
+                                "bbox": [
+                                    301,
+                                    199,
+                                    351,
+                                    213
                                 ],
                                 "page_number": 7
                             }
@@ -442,45 +456,12 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "current＝",
+                                "text": "(ii) Show that the electrical power of the heater is approximately 1200 W . State any equation you use in words or symbols.",
                                 "bbox": [
-                                    180,
-                                    170,
-                                    208,
-                                    181
-                                ],
-                                "page_number": 7
-                            },
-                            {
-                                "type": "text",
-                                "text": "（ii）Show that the electrical power of the heater is approximately 1200 W ．State any equation you use in words or symbols．",
-                                "bbox": [
-                                    55,
-                                    191,
-                                    326,
-                                    204
-                                ],
-                                "page_number": 7
-                            },
-                            {
-                                "type": "text",
-                                "text": "（iii）The heater is \\(95 \\%\\) efficient at converting electrical work done to thermal energy．",
-                                "bbox": [
-                                    53,
-                                    325,
-                                    302,
-                                    339
-                                ],
-                                "page_number": 7
-                            },
-                            {
-                                "type": "text",
-                                "text": "Calculate the thermal energy emitted by the heater in（d）（ii）in 60 s ．Give your answer to two significant figures．",
-                                "bbox": [
-                                    70,
-                                    347,
-                                    326,
-                                    360
+                                    92,
+                                    225,
+                                    547,
+                                    239
                                 ],
                                 "page_number": 7
                             }
@@ -491,12 +472,23 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "thermal energy＝",
+                                "text": "(iii) The heater is \\(95 \\%\\) efficient at converting electrical work done to thermal energy.",
                                 "bbox": [
-                                    155,
-                                    485,
-                                    208,
-                                    497
+                                    89,
+                                    389,
+                                    506,
+                                    405
+                                ],
+                                "page_number": 7
+                            },
+                            {
+                                "type": "text",
+                                "text": "Calculate the thermal energy emitted by the heater in (d)(ii) in 60 s . Give your answer to two significant figures.",
+                                "bbox": [
+                                    116,
+                                    416,
+                                    547,
+                                    431
                                 ],
                                 "page_number": 7
                             }
@@ -513,10 +505,10 @@
                 "type": "text",
                 "text": "4 A train has a maximum speed of \\(200 \\mathrm{~km} / \\mathrm{h}\\). It accelerates from rest with constant acceleration of \\(0.70 \\mathrm{~m} / \\mathrm{s}^{2}\\).",
                 "bbox": [
-                    28,
-                    52,
-                    326,
-                    65
+                    48,
+                    62,
+                    547,
+                    77
                 ],
                 "page_number": 8
             }
@@ -533,10 +525,10 @@
                                 "type": "text",
                                 "text": "(a) (i) Define acceleration.",
                                 "bbox": [
-                                    42,
-                                    86,
-                                    128,
-                                    98
+                                    70,
+                                    102,
+                                    215,
+                                    116
                                 ],
                                 "page_number": 8
                             }
@@ -549,21 +541,10 @@
                                 "type": "text",
                                 "text": "(ii) Show that the maximum speed of the train is approximately \\(56 \\mathrm{~m} / \\mathrm{s}\\).",
                                 "bbox": [
-                                    55,
-                                    151,
-                                    267,
-                                    164
-                                ],
-                                "page_number": 8
-                            },
-                            {
-                                "type": "text",
-                                "text": "(iii) Calculate the time taken for the train to reach its maximum speed.",
-                                "bbox": [
-                                    53,
-                                    256,
-                                    261,
-                                    270
+                                    92,
+                                    180,
+                                    447,
+                                    194
                                 ],
                                 "page_number": 8
                             }
@@ -573,24 +554,24 @@
                         "label": "iii",
                         "content": [
                             {
-                                "type": "blockMath",
-                                "blockMath": "\\[time =\\]",
+                                "type": "text",
+                                "text": "(iii) Calculate the time taken for the train to reach its maximum speed.",
                                 "bbox": [
-                                    186,
-                                    363,
-                                    208,
-                                    375
+                                    89,
+                                    304,
+                                    438,
+                                    318
                                 ],
                                 "page_number": 8
                             },
                             {
-                                "type": "text",
-                                "text": "(b) (i) The train has a total mass of 440000 kg . Calculate the force which causes the acceleration of the train.",
+                                "type": "blockMath",
+                                "blockMath": "\\[time =\\]",
                                 "bbox": [
-                                    42,
-                                    384,
-                                    326,
-                                    398
+                                    316,
+                                    431,
+                                    350,
+                                    443
                                 ],
                                 "page_number": 8
                             }
@@ -606,46 +587,24 @@
                         "label": "i",
                         "content": [
                             {
+                                "type": "text",
+                                "text": "(b) (i) The train has a total mass of 440000 kg . Calculate the force which causes the acceleration of the train.",
+                                "bbox": [
+                                    70,
+                                    455,
+                                    547,
+                                    469
+                                ],
+                                "page_number": 8
+                            },
+                            {
                                 "type": "blockMath",
                                 "blockMath": "\\[force =\\]",
                                 "bbox": [
-                                    183,
-                                    478,
-                                    208,
-                                    491
-                                ],
-                                "page_number": 8
-                            },
-                            {
-                                "type": "text",
-                                "text": "(ii) The train travels into a headwind. The force of this headwind opposes the motion of the train. State and explain the effect of this force on the motion of the train.",
-                                "bbox": [
-                                    55,
-                                    500,
-                                    326,
-                                    512
-                                ],
-                                "page_number": 8
-                            },
-                            {
-                                "type": "text",
-                                "text": "statement",
-                                "bbox": [
-                                    70,
-                                    533,
-                                    101,
-                                    543
-                                ],
-                                "page_number": 8
-                            },
-                            {
-                                "type": "text",
-                                "text": "explanation",
-                                "bbox": [
-                                    70,
-                                    554,
-                                    104,
-                                    566
+                                    312,
+                                    567,
+                                    350,
+                                    580
                                 ],
                                 "page_number": 8
                             }
@@ -653,7 +612,41 @@
                     },
                     {
                         "label": "ii",
-                        "content": []
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) The train travels into a headwind. The force of this headwind opposes the motion of the train. State and explain the effect of this force on the motion of the train.",
+                                "bbox": [
+                                    92,
+                                    593,
+                                    547,
+                                    608
+                                ],
+                                "page_number": 8
+                            },
+                            {
+                                "type": "text",
+                                "text": "statement",
+                                "bbox": [
+                                    117,
+                                    633,
+                                    168,
+                                    644
+                                ],
+                                "page_number": 8
+                            },
+                            {
+                                "type": "text",
+                                "text": "explanation",
+                                "bbox": [
+                                    117,
+                                    657,
+                                    175,
+                                    672
+                                ],
+                                "page_number": 8
+                            }
+                        ]
                     }
                 ]
             }
@@ -666,10 +659,10 @@
                 "type": "text",
                 "text": "5 A light-dependent resistor (LDR) has a low resistance in high light intensity and a high resistance in the dark.",
                 "bbox": [
-                    28,
-                    52,
-                    326,
-                    65
+                    49,
+                    62,
+                    547,
+                    77
                 ],
                 "page_number": 9
             }
@@ -682,10 +675,10 @@
                         "type": "text",
                         "text": "(a) Sketch a graph of resistance ( \\(y\\)-axis) against light intensity ( \\(x\\)-axis) for an LDR.",
                         "bbox": [
-                            42,
-                            86,
-                            285,
-                            98
+                            70,
+                            100,
+                            478,
+                            116
                         ],
                         "page_number": 9
                     }
@@ -698,58 +691,60 @@
                         "type": "text",
                         "text": "(b) Fig. 5.1 shows part of the electric circuit used to turn on a light when it is dark.",
                         "bbox": [
-                            42,
-                            239,
-                            283,
-                            250
+                            70,
+                            281,
+                            474,
+                            297
                         ],
                         "page_number": 9
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            107,
-                            270,
-                            248,
-                            403
+                            178,
+                            319,
+                            418,
+                            475
                         ],
                         "page_number": 9,
                         "image": {
                             "caption": "",
                             "page": 9
                         }
-                    },
-                    {
-                        "type": "text",
-                        "text": "(i) Complete the circuit in Fig. 5.1 with the symbol for a light-dependent resistor (LDR).",
-                        "bbox": [
-                            56,
-                            446,
-                            311,
-                            459
-                        ],
-                        "page_number": 9
-                    },
-                    {
-                        "type": "text",
-                        "text": "(ii) Explain why the lamp is off in the light and the lamp is on in the dark. Use ideas about potential difference (p.d.) in your answer.",
-                        "bbox": [
-                            55,
-                            467,
-                            326,
-                            479
-                        ],
-                        "page_number": 9
                     }
                 ],
                 "parts": [
                     {
                         "label": "i",
-                        "content": []
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) Complete the circuit in Fig. 5.1 with the symbol for a light-dependent resistor (LDR).",
+                                "bbox": [
+                                    95,
+                                    528,
+                                    524,
+                                    543
+                                ],
+                                "page_number": 9
+                            }
+                        ]
                     },
                     {
                         "label": "ii",
-                        "content": []
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Explain why the lamp is off in the light and the lamp is on in the dark. Use ideas about potential difference (p.d.) in your answer.",
+                                "bbox": [
+                                    92,
+                                    554,
+                                    549,
+                                    568
+                                ],
+                                "page_number": 9
+                            }
+                        ]
                     }
                 ]
             }
@@ -760,61 +755,28 @@
         "content": [
             {
                 "type": "text",
-                "text": "6 Fig. 6.1 shows an object \\(O\\) which is 5.0 cm away from the centre of a thin, converging lens \\(L\\). The focal length of \\(L\\) is 3.0 cm . Fig. 6.1 is drawn to full scale.",
+                "text": "6 Fig. 6.1 shows an object O which is 5.0 cm away from the centre of a thin, converging lens L . The focal length of \\(L\\) is 3.0 cm . Fig. 6.1 is drawn to full scale.",
                 "bbox": [
-                    28,
-                    52,
-                    326,
-                    65
+                    48,
+                    62,
+                    547,
+                    77
                 ],
                 "page_number": 10
             },
             {
                 "type": "image",
                 "bbox": [
-                    41,
-                    95,
-                    310,
-                    395
+                    68,
+                    113,
+                    527,
+                    470
                 ],
                 "page_number": 10,
                 "image": {
                     "caption": "",
                     "page": 10
                 }
-            },
-            {
-                "type": "text",
-                "text": "(a) (i) On Fig. 6.1, label the principal axis with a \\(P\\).",
-                "bbox": [
-                    42,
-                    440,
-                    197,
-                    453
-                ],
-                "page_number": 10
-            },
-            {
-                "type": "text",
-                "text": "(ii) On Fig. 6.1, place a letter \\(X\\) at a focal point.",
-                "bbox": [
-                    55,
-                    462,
-                    197,
-                    474
-                ],
-                "page_number": 10
-            },
-            {
-                "type": "text",
-                "text": "(iii) On Fig. 6.1, draw two rays from \\(O\\) to locate the tip of the image produced by the lens.",
-                "bbox": [
-                    54,
-                    483,
-                    312,
-                    496
-                ],
-                "page_number": 10
             }
         ],
         "parts": [
@@ -824,15 +786,51 @@
                 "parts": [
                     {
                         "label": "i",
-                        "content": []
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(a) (i) On Fig. 6.1, label the principal axis with a \\(P\\).",
+                                "bbox": [
+                                    70,
+                                    523,
+                                    331,
+                                    537
+                                ],
+                                "page_number": 10
+                            }
+                        ]
                     },
                     {
                         "label": "ii",
-                        "content": []
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) On Fig. 6.1, place a letter X at a focal point.",
+                                "bbox": [
+                                    92,
+                                    550,
+                                    330,
+                                    563
+                                ],
+                                "page_number": 10
+                            }
+                        ]
                     },
                     {
                         "label": "iii",
-                        "content": []
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(iii) On Fig. 6.1, draw two rays from O to locate the tip of the image produced by the lens.",
+                                "bbox": [
+                                    89,
+                                    575,
+                                    534,
+                                    590
+                                ],
+                                "page_number": 10
+                            }
+                        ]
                     },
                     {
                         "label": "iv",
@@ -841,46 +839,10 @@
                                 "type": "text",
                                 "text": "(iv) In Table 6.1, place a tick in the right-hand column next to all the terms that describe the image in (a)(iii).",
                                 "bbox": [
-                                    53,
-                                    52,
-                                    326,
-                                    65
-                                ],
-                                "page_number": 11
-                            },
-                            {
-                                "type": "image",
-                                "bbox": [
-                                    132,
-                                    107,
-                                    222,
-                                    280
-                                ],
-                                "page_number": 11,
-                                "table": {
-                                    "caption": "",
-                                    "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>diminished</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>enlarged</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>inverted</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </td>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>real</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  <td></td>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>same size</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n\n  <tr>\n    <td colspan=\"2\" style=\"text-align:left; border:1px solid black; padding:4px;\"><div>upright</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n   &lt;tr style=\"border-collapse: collapse;\">\n   <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>virtual</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n   \\multicolumn{1}{t|}{}</td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <tr style=\"border-collapse: collapse;\">\n    \\multicolumn{1}{t|}{}</td>\n    \\multicolumn{1}{t|}{}</td>\n   \\multicolumn{1}{t|}{}</td>\n   \\multicolumn{1}{t|}{}</td>\n   \\multicolumn{1}{t|}{}</td>\n   \\hline\n   \\multicolumn{1}{t|}{}</td>\n   \\multicolumn{1}{t|}{}</td>\n   \\multicolumn{1}{t|}{}</td>\n    \\multicolumn{1}{t|}{}</td>\n   \\multicolumn{1}{t|}{}</td>\n   \\hline\n   \\multicolumn{1}{t|}{} & \\multicolumn{1}{t|}{} & \\multicolumn{1}{t|}{} & \\multicolumn{1}{t|}{} & \\multicolumn{1}{t|}{}\n   \\hline\n</table>\n\n"
-                                }
-                            },
-                            {
-                                "type": "text",
-                                "text": "(b) The object moves closer to \\(L\\). The new distance between \\(L\\) and the object is less than the focal length of \\(L\\).",
-                                "bbox": [
-                                    42,
-                                    303,
-                                    326,
-                                    317
-                                ],
-                                "page_number": 11
-                            },
-                            {
-                                "type": "text",
-                                "text": "Describe how the new image is different from the image in (a)(iv).",
-                                "bbox": [
-                                    56,
-                                    336,
-                                    247,
-                                    350
+                                    89,
+                                    62,
+                                    547,
+                                    77
                                 ],
                                 "page_number": 11
                             }
@@ -892,13 +854,38 @@
                 "label": "b",
                 "content": [
                     {
+                        "type": "table",
+                        "bbox": [
+                            222,
+                            126,
+                            372,
+                            329
+                        ],
+                        "page_number": 11,
+                        "table": {
+                            "caption": "",
+                            "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>diminished</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>enlarged</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>inverted</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>real</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>same size</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>upright</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>virtual</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n</table>\n\n"
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) The object moves closer to \\(L\\). The new distance between \\(L\\) and the object is less than the focal length of \\(L\\).",
+                        "bbox": [
+                            70,
+                            352,
+                            547,
+                            366
+                        ],
+                        "page_number": 11
+                    },
+                    {
                         "type": "text",
                         "text": "Describe how the new image is different from the image in (a)(iv).",
                         "bbox": [
-                            56,
-                            336,
-                            247,
-                            350
+                            94,
+                            391,
+                            415,
+                            405
                         ],
                         "page_number": 11
                     }
@@ -915,79 +902,58 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "7 (a) Fig. 7.1 is a scale drawing of light waves approaching a narrow slit.",
+                        "text": "7 （a）Fig． 7.1 is a scale drawing of light waves approaching a narrow slit．",
                         "bbox": [
-                            28,
-                            52,
-                            251,
-                            65
+                            48,
+                            62,
+                            422,
+                            77
                         ],
                         "page_number": 12
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            88,
-                            83,
-                            266,
-                            396
+                            148,
+                            99,
+                            447,
+                            472
                         ],
                         "page_number": 12,
                         "image": {
                             "caption": "",
                             "page": 12
                         }
-                    },
-                    {
-                        "type": "text",
-                        "text": "(i) Name the wave effect produced by the narrow slit.",
-                        "bbox": [
-                            56,
-                            442,
-                            216,
-                            453
-                        ],
-                        "page_number": 12
-                    },
-                    {
-                        "type": "text",
-                        "text": "(ii) Using Fig. 7.1, determine the wavelength of the light. Give your answer to two significant figures.",
-                        "bbox": [
-                            55,
-                            489,
-                            326,
-                            502
-                        ],
-                        "page_number": 12
                     }
                 ],
                 "parts": [
                     {
                         "label": "i",
-                        "content": []
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "（i）Name the wave effect produced by the narrow slit．",
+                                "bbox": [
+                                    95,
+                                    523,
+                                    363,
+                                    538
+                                ],
+                                "page_number": 12
+                            }
+                        ]
                     },
                     {
                         "label": "ii",
                         "content": [
                             {
                                 "type": "text",
-                                "text": "wavelength =",
+                                "text": "（ii）Using Fig．7．1，determine the wavelength of the light．Give your answer to two significant figures．",
                                 "bbox": [
-                                    166,
-                                    579,
-                                    208,
-                                    591
-                                ],
-                                "page_number": 12
-                            },
-                            {
-                                "type": "text",
-                                "text": "(iii) On Fig. 7.1, draw three wavefronts that have passed through the narrow slit.",
-                                "bbox": [
-                                    53,
-                                    600,
-                                    292,
-                                    614
+                                    92,
+                                    576,
+                                    547,
+                                    590
                                 ],
                                 "page_number": 12
                             }
@@ -995,7 +961,30 @@
                     },
                     {
                         "label": "iii",
-                        "content": []
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "wavelength＝",
+                                "bbox": [
+                                    279,
+                                    688,
+                                    348,
+                                    701
+                                ],
+                                "page_number": 12
+                            },
+                            {
+                                "type": "text",
+                                "text": "（iii）On Fig．7．1，draw three wavefronts that have passed through the narrow slit．",
+                                "bbox": [
+                                    89,
+                                    712,
+                                    491,
+                                    728
+                                ],
+                                "page_number": 12
+                            }
+                        ]
                     }
                 ]
             },
@@ -1006,10 +995,10 @@
                         "type": "text",
                         "text": "(b) A foghorn emits a sound with frequency 380 Hz . The sound is heard by a ship 2.5 km away from the foghorn. The speed of sound in air is \\(330 \\mathrm{~m} / \\mathrm{s}\\).",
                         "bbox": [
-                            42,
-                            52,
-                            326,
-                            65
+                            70,
+                            62,
+                            547,
+                            77
                         ],
                         "page_number": 13
                     }
@@ -1022,10 +1011,10 @@
                                 "type": "text",
                                 "text": "(i) Show that the wavelength of the sound is approximately 0.9 m . State any equation you use in words or symbols.",
                                 "bbox": [
-                                    56,
-                                    86,
-                                    251,
-                                    98
+                                    95,
+                                    102,
+                                    422,
+                                    116
                                 ],
                                 "page_number": 13
                             }
@@ -1038,10 +1027,10 @@
                                 "type": "text",
                                 "text": "(ii) Calculate the time it takes for sound to travel to the ship from the foghorn.",
                                 "bbox": [
-                                    54,
-                                    201,
-                                    285,
-                                    213
+                                    92,
+                                    239,
+                                    476,
+                                    253
                                 ],
                                 "page_number": 13
                             },
@@ -1049,10 +1038,10 @@
                                 "type": "blockMath",
                                 "blockMath": "\\[time =\\]",
                                 "bbox": [
-                                    187,
-                                    306,
-                                    208,
-                                    318
+                                    314,
+                                    365,
+                                    350,
+                                    378
                                 ],
                                 "page_number": 13
                             }
@@ -1069,48 +1058,26 @@
                 "type": "text",
                 "text": "8 Fig. 8.1 shows a metal rod suspended in the magnetic field produced by a pair of permanent magnets. The metal rod is connected to a cell and there is a current in the metal rod.",
                 "bbox": [
-                    28,
-                    52,
-                    326,
-                    65
+                    48,
+                    62,
+                    547,
+                    77
                 ],
                 "page_number": 14
             },
             {
                 "type": "image",
                 "bbox": [
-                    107,
-                    83,
-                    248,
-                    212
+                    178,
+                    99,
+                    417,
+                    251
                 ],
                 "page_number": 14,
                 "image": {
                     "caption": "",
                     "page": 14
                 }
-            },
-            {
-                "type": "text",
-                "text": "(a) State the direction of the force on the metal rod due to the current.",
-                "bbox": [
-                    42,
-                    244,
-                    248,
-                    256
-                ],
-                "page_number": 14
-            },
-            {
-                "type": "text",
-                "text": "Explain your answer.",
-                "bbox": [
-                    56,
-                    266,
-                    118,
-                    278
-                ],
-                "page_number": 14
             }
         ],
         "parts": [
@@ -1119,12 +1086,34 @@
                 "content": [
                     {
                         "type": "text",
+                        "text": "(a) State the direction of the force on the metal rod due to the current.",
+                        "bbox": [
+                            70,
+                            289,
+                            417,
+                            305
+                        ],
+                        "page_number": 14
+                    },
+                    {
+                        "type": "text",
+                        "text": "Explain your answer.",
+                        "bbox": [
+                            94,
+                            316,
+                            198,
+                            330
+                        ],
+                        "page_number": 14
+                    },
+                    {
+                        "type": "text",
                         "text": "direction of force",
                         "bbox": [
-                            56,
-                            288,
-                            104,
-                            299
+                            94,
+                            342,
+                            179,
+                            355
                         ],
                         "page_number": 14
                     },
@@ -1132,10 +1121,10 @@
                         "type": "text",
                         "text": "explanation",
                         "bbox": [
-                            56,
-                            310,
-                            91,
-                            322
+                            94,
+                            368,
+                            152,
+                            383
                         ],
                         "page_number": 14
                     }
@@ -1148,10 +1137,10 @@
                         "type": "text",
                         "text": "(b) The connections to the cell are reversed.",
                         "bbox": [
-                            42,
-                            387,
-                            175,
-                            399
+                            70,
+                            459,
+                            294,
+                            473
                         ],
                         "page_number": 14
                     },
@@ -1159,10 +1148,10 @@
                         "type": "text",
                         "text": "State how this change affects the force on the metal rod.",
                         "bbox": [
-                            56,
-                            409,
-                            221,
-                            421
+                            94,
+                            485,
+                            371,
+                            499
                         ],
                         "page_number": 14
                     }
@@ -1175,20 +1164,20 @@
                         "type": "text",
                         "text": "(c) Two magnets and a cell are used to make a simple electric motor as shown in Fig. 8.2.",
                         "bbox": [
-                            42,
-                            52,
-                            307,
-                            65
+                            70,
+                            62,
+                            516,
+                            77
                         ],
                         "page_number": 15
                     },
                     {
                         "type": "image",
                         "bbox": [
-                            97,
-                            72,
-                            257,
-                            260
+                            162,
+                            85,
+                            433,
+                            310
                         ],
                         "page_number": 15,
                         "image": {
@@ -1200,10 +1189,10 @@
                         "type": "text",
                         "text": "Describe the function of parts \\(\\mathrm{J}, \\mathrm{K}, \\mathrm{L}\\) and M .",
                         "bbox": [
-                            56,
-                            293,
-                            185,
-                            305
+                            94,
+                            351,
+                            310,
+                            365
                         ],
                         "page_number": 15
                     },
@@ -1211,10 +1200,10 @@
                         "type": "text",
                         "text": "J",
                         "bbox": [
-                            56,
-                            315,
-                            62,
-                            327
+                            93,
+                            377,
+                            104,
+                            391
                         ],
                         "page_number": 15
                     },
@@ -1222,10 +1211,10 @@
                         "type": "text",
                         "text": "K",
                         "bbox": [
-                            56,
-                            366,
-                            64,
-                            378
+                            94,
+                            429,
+                            107,
+                            442
                         ],
                         "page_number": 15
                     },
@@ -1233,10 +1222,10 @@
                         "type": "text",
                         "text": "L",
                         "bbox": [
-                            56,
-                            406,
-                            64,
-                            418
+                            93,
+                            482,
+                            104,
+                            496
                         ],
                         "page_number": 15
                     },
@@ -1244,10 +1233,10 @@
                         "type": "text",
                         "text": "M",
                         "bbox": [
-                            56,
-                            448,
-                            64,
-                            460
+                            94,
+                            533,
+                            107,
+                            548
                         ],
                         "page_number": 15
                     }
@@ -1262,10 +1251,10 @@
                 "type": "text",
                 "text": "9 Strontium-90 is a radioactive isotope of strontium. The nuclide notation for strontium-90 is:",
                 "bbox": [
-                    28,
-                    52,
-                    304,
-                    65
+                    48,
+                    62,
+                    510,
+                    77
                 ],
                 "page_number": 16
             }
@@ -1282,10 +1271,10 @@
                                 "type": "text",
                                 "text": "(a) (i) Explain what isotopes are.",
                                 "bbox": [
-                                    42,
-                                    97,
-                                    148,
-                                    110
+                                    70,
+                                    115,
+                                    248,
+                                    129
                                 ],
                                 "page_number": 16
                             }
@@ -1298,37 +1287,26 @@
                                 "type": "text",
                                 "text": "(ii) Complete Table 9.1 for strontium-90.",
                                 "bbox": [
-                                    55,
-                                    162,
-                                    177,
-                                    174
+                                    92,
+                                    192,
+                                    297,
+                                    206
                                 ],
                                 "page_number": 16
                             },
                             {
-                                "type": "image",
+                                "type": "table",
                                 "bbox": [
-                                    75,
-                                    206,
-                                    281,
-                                    306
+                                    126,
+                                    244,
+                                    469,
+                                    362
                                 ],
                                 "page_number": 16,
                                 "table": {
                                     "caption": "",
-                                    "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>particle</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>number in one atom</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>location</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>38</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>outside nucleus</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>neutron</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\" text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></td></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>38</div></td>\n    <!--  <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>inside nucleus</div> -->   \n  </tr>\n</table>\n\n"
+                                    "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>particle</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>number in one atom</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>location</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>38</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>outside nucleus</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>neutron</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>38</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>inside nucleus</div></td>\n  </tr>\n</table>\n\n"
                                 }
-                            },
-                            {
-                                "type": "text",
-                                "text": "[2]",
-                                "bbox": [
-                                    316,
-                                    263,
-                                    323,
-                                    276
-                                ],
-                                "page_number": 16
                             }
                         ]
                     }
@@ -1341,10 +1319,10 @@
                         "type": "text",
                         "text": "(b) Strontium-90 is used to measure the thickness of metal sheets in industry. Strontium-90 decays by emitting beta ( \\(\\beta\\) ) particles which pass through a metal sheet to a",
                         "bbox": [
-                            42,
-                            52,
-                            271,
-                            65
+                            70,
+                            62,
+                            455,
+                            77
                         ],
                         "page_number": 17
                     },
@@ -1352,10 +1330,10 @@
                         "type": "text",
                         "text": "detector.",
                         "bbox": [
-                            55,
-                            75,
-                            81,
-                            85
+                            94,
+                            88,
+                            139,
+                            101
                         ],
                         "page_number": 17
                     }
@@ -1368,10 +1346,10 @@
                                 "type": "text",
                                 "text": "(i) One metal sheet is 0.75 mm thick. Suggest why strontium-90 is a suitable radioactive source to measure the thickness of the metal sheets.",
                                 "bbox": [
-                                    56,
                                     95,
-                                    326,
-                                    108
+                                    114,
+                                    547,
+                                    128
                                 ],
                                 "page_number": 17
                             }
@@ -1384,20 +1362,20 @@
                                 "type": "text",
                                 "text": "(ii) The half-life of strontium-90 is approximately 27 years. Fig. 9.1 shows the shape of a decay curve.",
                                 "bbox": [
-                                    54,
-                                    196,
-                                    326,
-                                    208
+                                    92,
+                                    232,
+                                    547,
+                                    246
                                 ],
                                 "page_number": 17
                             },
                             {
                                 "type": "image",
                                 "bbox": [
-                                    43,
-                                    226,
-                                    311,
-                                    358
+                                    73,
+                                    268,
+                                    522,
+                                    424
                                 ],
                                 "page_number": 17,
                                 "image": {
@@ -1407,12 +1385,12 @@
                             },
                             {
                                 "type": "text",
-                                "text": "The strontium-90 source is replaced with a new source after 15 years. Using Fig. 9.1, suggest why a strontium-90 source that is more than 15 years old needs to be replaced",
+                                "text": "The strontium-90 source is replaced with a new source after 15 years. Using Fig. 9.1, suggest why a strontium- 90 source that is more than 15 years old needs to be replaced",
                                 "bbox": [
-                                    68,
-                                    392,
-                                    326,
-                                    404
+                                    116,
+                                    465,
+                                    547,
+                                    479
                                 ],
                                 "page_number": 17
                             },
@@ -1420,10 +1398,10 @@
                                 "type": "text",
                                 "text": "with a new source.",
                                 "bbox": [
-                                    68,
-                                    415,
-                                    125,
-                                    425
+                                    116,
+                                    491,
+                                    210,
+                                    504
                                 ],
                                 "page_number": 17
                             }
@@ -1440,48 +1418,26 @@
                 "type": "text",
                 "text": "10 Fig. 10.1 shows the path of the Earth as it orbits the Sun. \\(X\\) is a position on the Earth where scientists observe the apparent motion of the Sun throughout the year.",
                 "bbox": [
-                    29,
-                    52,
-                    326,
-                    65
+                    49,
+                    62,
+                    547,
+                    77
                 ],
                 "page_number": 18
             },
             {
                 "type": "image",
                 "bbox": [
-                    56,
-                    83,
-                    298,
-                    282
+                    95,
+                    99,
+                    499,
+                    336
                 ],
                 "page_number": 18,
                 "image": {
                     "caption": "",
                     "page": 18
                 }
-            },
-            {
-                "type": "text",
-                "text": "(a) Determine how many days it takes the Earth to move around its orbit from F to G . Explain your answer.",
-                "bbox": [
-                    42,
-                    316,
-                    292,
-                    328
-                ],
-                "page_number": 18
-            },
-            {
-                "type": "text",
-                "text": "number of days =",
-                "bbox": [
-                    56,
-                    349,
-                    110,
-                    361
-                ],
-                "page_number": 18
             }
         ],
         "parts": [
@@ -1490,45 +1446,34 @@
                 "content": [
                     {
                         "type": "text",
+                        "text": "(a) Determine how many days it takes the Earth to move around its orbit from F to G . Explain your answer.",
+                        "bbox": [
+                            70,
+                            375,
+                            491,
+                            389
+                        ],
+                        "page_number": 18
+                    },
+                    {
+                        "type": "text",
+                        "text": "number of days =",
+                        "bbox": [
+                            94,
+                            415,
+                            182,
+                            428
+                        ],
+                        "page_number": 18
+                    },
+                    {
+                        "type": "text",
                         "text": "explanation",
                         "bbox": [
-                            56,
-                            371,
-                            91,
-                            383
-                        ],
-                        "page_number": 18
-                    },
-                    {
-                        "type": "text",
-                        "text": "(b) Fig. 10.1 shows four positions \\(\\mathrm{E}, \\mathrm{F}, \\mathrm{G}\\) and H of the Earth in its orbit of the Sun.",
-                        "bbox": [
-                            42,
-                            426,
-                            285,
-                            440
-                        ],
-                        "page_number": 18
-                    },
-                    {
-                        "type": "text",
-                        "text": "(i) Identify the position of the Earth when it is summer at X .",
-                        "bbox": [
-                            56,
-                            448,
-                            228,
-                            461
-                        ],
-                        "page_number": 18
-                    },
-                    {
-                        "type": "text",
-                        "text": "(ii) Identify the position of the Earth when it is winter at X .",
-                        "bbox": [
-                            55,
-                            470,
-                            228,
-                            482
+                            94,
+                            441,
+                            152,
+                            455
                         ],
                         "page_number": 18
                     }
@@ -1536,15 +1481,51 @@
             },
             {
                 "label": "b",
-                "content": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Fig. 10.1 shows four positions \\(\\mathrm{E}, \\mathrm{F}, \\mathrm{G}\\) and H of the Earth in its orbit of the Sun.",
+                        "bbox": [
+                            70,
+                            505,
+                            477,
+                            521
+                        ],
+                        "page_number": 18
+                    }
+                ],
                 "parts": [
                     {
                         "label": "i",
-                        "content": []
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) Identify the position of the Earth when it is summer at X .",
+                                "bbox": [
+                                    95,
+                                    531,
+                                    390,
+                                    547
+                                ],
+                                "page_number": 18
+                            }
+                        ]
                     },
                     {
                         "label": "ii",
-                        "content": []
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Identify the position of the Earth when it is winter at X .",
+                                "bbox": [
+                                    92,
+                                    557,
+                                    379,
+                                    571
+                                ],
+                                "page_number": 18
+                            }
+                        ]
                     }
                 ]
             },
@@ -1555,10 +1536,10 @@
                         "type": "text",
                         "text": "(c) The orbital speed of the Earth around the Sun is approximately \\(3.0 \\times 10^{4} \\mathrm{~m} / \\mathrm{s}\\).",
                         "bbox": [
-                            42,
-                            52,
-                            282,
-                            65
+                            70,
+                            61,
+                            474,
+                            77
                         ],
                         "page_number": 19
                     },
@@ -1566,10 +1547,21 @@
                         "type": "text",
                         "text": "Calculate the average radius of the Earth's orbit.",
                         "bbox": [
-                            56,
-                            75,
-                            197,
-                            87
+                            94,
+                            88,
+                            331,
+                            103
+                        ],
+                        "page_number": 19
+                    },
+                    {
+                        "type": "text",
+                        "text": "radius =",
+                        "bbox": [
+                            306,
+                            240,
+                            350,
+                            254
                         ],
                         "page_number": 19
                     }
@@ -1580,23 +1572,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "radius =",
-                        "bbox": [
-                            182,
-                            201,
-                            208,
-                            212
-                        ],
-                        "page_number": 19
-                    },
-                    {
-                        "type": "text",
                         "text": "(d) Earth is a planet in the Solar System. State one other type of naturally occurring object that is present in the Solar System.",
                         "bbox": [
-                            42,
-                            223,
-                            326,
-                            234
+                            70,
+                            266,
+                            547,
+                            281
                         ],
                         "page_number": 19
                     }

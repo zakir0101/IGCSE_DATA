@@ -1,0 +1,474 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "text": "1 Rachel has three coins. The first coin is biased so that the probability of obtaining a head when it is thrown is \\(\\frac{1}{3}\\). The second coin is biased so that the probability of obtaining a head when it is thrown is \\(\\frac{1}{4}\\).",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "The third coin is fair.",
+                "bbox": [
+                    70,
+                    88,
+                    170,
+                    103
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "Rachel throws the three coins at the same time. The random variable \\(X\\) is the number of tails that she obtains.",
+                "bbox": [
+                    70,
+                    114,
+                    547,
+                    128
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "Draw up the probability distribution table for \\(X\\).",
+                "bbox": [
+                    70,
+                    151,
+                    294,
+                    165
+                ],
+                "page_number": 2
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "text": "2 In Millford, \\(70 \\%\\) of the residents own a bicycle. A random sample of 160 residents is selected.",
+                "bbox": [
+                    48,
+                    62,
+                    507,
+                    77
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "text",
+                "text": "Use a suitable approximation to find the probability that more than 120 of these residents own a bicycle.",
+                "bbox": [
+                    70,
+                    88,
+                    547,
+                    103
+                ],
+                "page_number": 3
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "text": "3 A bag contains 4 blue marbles and 12 red marbles. One marble is selected at random from the bag. If this marble is blue, it is replaced in the bag, but if it is red, it is not replaced. A second marble is now",
+                "bbox": [
+                    48,
+                    62,
+                    549,
+                    77
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "text",
+                "text": "selected at random from the bag.",
+                "bbox": [
+                    70,
+                    88,
+                    225,
+                    103
+                ],
+                "page_number": 4
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the probability that both marbles selected are the same colour.",
+                        "bbox": [
+                            70,
+                            115,
+                            405,
+                            129
+                        ],
+                        "page_number": 4
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the probability that the first marble is blue given that the second marble is red.",
+                        "bbox": [
+                            70,
+                            426,
+                            481,
+                            442
+                        ],
+                        "page_number": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "text": "4 Vehicles approaching a certain road junction from Bromley must go either left, right or straight on. Over time, it is known that \\(30 \\%\\) turn left, \\(25 \\%\\) turn right and \\(45 \\%\\) go straight on. The driver of each",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "text",
+                "text": "vehicle chooses a direction independently of all other drivers.",
+                "bbox": [
+                    70,
+                    88,
+                    358,
+                    103
+                ],
+                "page_number": 5
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the probability that the next three vehicles approaching this junction from Bromley all go in different directions.",
+                        "bbox": [
+                            70,
+                            115,
+                            547,
+                            129
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the probability that, from the vehicles approaching this junction from Bromley today, the 1st vehicle to go left is before the 9th vehicle.",
+                        "bbox": [
+                            70,
+                            334,
+                            549,
+                            350
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Find the probability that, from the vehicles approaching this junction from Bromley today, the 2nd vehicle to go left is the 7th vehicle.",
+                        "bbox": [
+                            70,
+                            555,
+                            549,
+                            571
+                        ],
+                        "page_number": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "text": "5 The times taken, \\(t\\) minutes, by 300 students to travel to Hollowtown College are recorded. The results are summarised in the table below.",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 6
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    70,
+                    100,
+                    530,
+                    143
+                ],
+                "page_number": 6,
+                "table": {
+                    "caption": "",
+                    "html": "\n<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Time ( \\(t\\) minutes )</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(t \\leqslant 10\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(t \\leqslant 20\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(t \\leqslant 30\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(t \\leqslant 40\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(t \\leqslant 60\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(t \\leqslant 90\\)</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Cumulative frequency</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>34</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>86</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>142</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>208</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>265</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>300</div></td>\n  </tr>\n</table>\n\n"
+                }
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) On the grid, draw a cumulative frequency graph to illustrate this information.",
+                        "bbox": [
+                            70,
+                            153,
+                            451,
+                            169
+                        ],
+                        "page_number": 6
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            124,
+                            176,
+                            471,
+                            638
+                        ],
+                        "page_number": 6,
+                        "image": {
+                            "caption": "",
+                            "page": 6
+                        }
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) 120 students take more than \\(k\\) minutes to travel to college. Use your graph to estimate the value of \\(k\\).",
+                        "bbox": [
+                            70,
+                            674,
+                            547,
+                            689
+                        ],
+                        "page_number": 6
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "（c）Calculate estimates of the mean and standard deviation of the times taken to travel to college by the 300 students．",
+                        "bbox": [
+                            70,
+                            62,
+                            547,
+                            77
+                        ],
+                        "page_number": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "6 (a) Find the number of different ways in which the 10 letters in the word AMALGAMATE can be arranged so that there is an M at the beginning, an M at the end and no As are together.",
+                        "bbox": [
+                            48,
+                            62,
+                            547,
+                            77
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the number of different ways in which the 10 letters in the word AMALGAMATE can be arranged with exactly 3 letters between the two Ms.",
+                        "bbox": [
+                            70,
+                            543,
+                            547,
+                            557
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Five letters are selected from the 10 letters in the word AMALGAMATE.",
+                        "bbox": [
+                            70,
+                            308,
+                            411,
+                            324
+                        ],
+                        "page_number": 9
+                    },
+                    {
+                        "type": "text",
+                        "text": "(c) Find the number of different selections in which the five letters include at least one M and at least two As.",
+                        "bbox": [
+                            70,
+                            334,
+                            547,
+                            350
+                        ],
+                        "page_number": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "text": "7 Kestrels are birds whose adult wingspans are normally distributed with mean 74.8 cm and standard deviation 3.2 cm . A random sample of 120 adult kestrels is selected.",
+                "bbox": [
+                    48,
+                    62,
+                    547,
+                    77
+                ],
+                "page_number": 10
+            }
+        ],
+        "parts": [
+            {
+                "label": "a",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) How many of these 120 adult kestrels would you expect to have wingspan between 72.4 cm and 76.3 cm ?",
+                        "bbox": [
+                            70,
+                            102,
+                            547,
+                            116
+                        ],
+                        "page_number": 10
+                    }
+                ]
+            },
+            {
+                "label": "b",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The masses of adult kestrels are normally distributed with mean \\(\\mu \\mathrm{kg}\\) and standard deviation \\(\\sigma \\mathrm{kg}\\). It is known that \\(20 \\%\\) of adult kestrels have mass greater than 0.202 kg and \\(28 \\%\\) have mass less than",
+                        "bbox": [
+                            70,
+                            503,
+                            547,
+                            518
+                        ],
+                        "page_number": 10
+                    },
+                    {
+                        "type": "text",
+                        "text": "0.185 kg .",
+                        "bbox": [
+                            70,
+                            529,
+                            114,
+                            544
+                        ],
+                        "page_number": 10
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Find the value of \\(\\mu\\) and the value of \\(\\sigma\\).",
+                        "bbox": [
+                            70,
+                            555,
+                            274,
+                            570
+                        ],
+                        "page_number": 10
+                    }
+                ]
+            },
+            {
+                "label": "c",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "10 adult kestrels are selected at random.",
+                        "bbox": [
+                            70,
+                            387,
+                            257,
+                            402
+                        ],
+                        "page_number": 11
+                    },
+                    {
+                        "type": "text",
+                        "text": "(c) Find the probability that fewer than 3 have masses greater than 0.202 kg .",
+                        "bbox": [
+                            70,
+                            413,
+                            430,
+                            428
+                        ],
+                        "page_number": 11
+                    }
+                ]
+            }
+        ]
+    }
+]
