@@ -69,7 +69,18 @@
                     495.87004103967166
                 ],
                 "page_number": 3,
-                "text": "\\(A B C D\\) is a quadrilateral. \\(C D E\\) is a straight line."
+                "text": "\\(A B C D\\) is a quadrilateral."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    494.71819425444596,
+                    175.3047895500726,
+                    509.1162790697674
+                ],
+                "page_number": 3,
+                "text": "\\(C D E\\) is a straight line."
             },
             {
                 "type": "text",
@@ -94,7 +105,7 @@
                 "text": "Find the value of \\(x\\) and the value of \\(y\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     362.4117077890663,
                     715.296853625171,
@@ -102,7 +113,8 @@
                     755.8994528043776
                 ],
                 "page_number": 3,
-                "blockMath": "\\[\n\\begin{aligned}\n& x= \\\\\n& y=\n\\end{aligned}\n\\]"
+                "blockMath": "\\[\n\\begin{aligned}\n& x= \\\\\n& y=\n\\end{aligned}\n\\]",
+                "text": "\\(\n\\begin{aligned}\n& x= \\\\\n& y=\n\\end{aligned}\n\\)"
             }
         ]
     },
@@ -149,7 +161,7 @@
                     139.08549931600547
                 ],
                 "page_number": 4,
-                "text": "not to SCALE"
+                "text": "not to"
             },
             {
                 "type": "text",
@@ -160,7 +172,18 @@
                     275.57934336525307
                 ],
                 "page_number": 4,
-                "text": "The diagram shows a pyramid \\(A B C D E\\) with a square base. \\(M\\) is the centre of the square base."
+                "text": "The diagram shows a pyramid \\(A B C D E\\) with a square base."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    274.42749658002737,
+                    229.42186744073538,
+                    288.8255813953488
+                ],
+                "page_number": 4,
+                "text": "\\(M\\) is the centre of the square base."
             },
             {
                 "type": "text",
@@ -176,7 +199,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -192,7 +215,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -206,11 +229,11 @@
                         "text": "(b) Using two of the letters from \\(A, B, C, D, E\\) and \\(M\\), complete the statement about the pyramid."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             106.79487179487181,
                             391.33994528043775,
-                            377.38026124818583,
+                            443.87518142235126,
                             406.3139534883721
                         ],
                         "page_number": 4,
@@ -284,7 +307,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -300,7 +323,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -316,7 +339,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -332,7 +355,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -363,7 +386,18 @@
                     76.59781121751026
                 ],
                 "page_number": 6,
-                "text": "6 There are 15 giraffes in a group. The table gives information about the heights of the 15 giraffes."
+                "text": "6 There are 15 giraffes in a group."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    365.8659893565554,
+                    89.84404924760602
+                ],
+                "page_number": 6,
+                "text": "The table gives information about the heights of the 15 giraffes."
             },
             {
                 "type": "table",
@@ -375,7 +409,7 @@
                 ],
                 "page_number": 6,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>One giraffe has a height of 2.6 m</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>No giraffe is shorter than 2.5 m</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>The range of heights for the 15 giraffes is 2.3 m</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>More than 3 giraffes have the same height</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>The modal height for the giraffes is 3.9 m</div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >One giraffe has a height of 2.6 m</td></tr><tr><td >No giraffe is shorter than 2.5 m</td></tr><tr><td >The range of heights for the 15 giraffes is 2.3 m</td></tr><tr><td >More than 3 giraffes have the same height</td></tr><tr><td >The modal height for the giraffes is 3.9 m</td></tr></table>",
                     "caption": ""
                 }
             },
@@ -400,7 +434,7 @@
                 ],
                 "page_number": 6,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>5</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>7</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>7</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>5</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>7</div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >2</td><td >5</td><td ></td><td ></td><td ></td><td ></td></tr><tr><td >3</td><td >2</td><td >7</td><td >7</td><td ></td><td ></td></tr><tr><td >4</td><td >1</td><td >1</td><td >4</td><td >5</td><td >7</td></tr></table>",
                     "caption": ""
                 }
             },
@@ -424,7 +458,18 @@
                     383.27701778385773
                 ],
                 "page_number": 6,
-                "text": "Use the information in the table to complete the stem-and-leaf diagram for the group of 15 giraffes."
+                "text": "Use the information in the table to complete the stem-and-leaf diagram for the group of"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    382.125170998632,
+                    125.79342041606193,
+                    397.3871409028728
+                ],
+                "page_number": 6,
+                "text": "15 giraffes."
             }
         ]
     },
@@ -445,7 +490,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -472,7 +517,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -505,7 +550,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -521,7 +566,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -543,7 +588,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -568,31 +613,20 @@
                         "blockMath": "\\[\n5 x^{2}=12-17 x\n\\]"
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             364.7145621673924,
-                            217.69904240766073,
-                            384.86453797774556,
-                            228.64158686730505
-                        ],
-                        "page_number": 8,
-                        "blockMath": "\\[\nx=\n\\]"
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            438.6937590711176,
                             216.83515731874144,
                             473.5244315432995,
                             228.64158686730505
                         ],
                         "page_number": 8,
-                        "text": "or \\(x=\\)"
+                        "text": "\\(\nx=\n\\) or \\(x=\\)"
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -628,7 +662,7 @@
                         "text": "Write down the other solution."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             361.548137397194,
                             384.71682626538984,
@@ -636,7 +670,8 @@
                             400.55471956224346
                         ],
                         "page_number": 8,
-                        "blockMath": "\\[\nx=\\text {.............................................. [1] }\n\\]"
+                        "blockMath": "\\[\nx=\\text {.............................................. [1] }\n\\]",
+                        "text": "\\(\nx=\\text {.............................................. [1] }\n\\)"
                     }
                 ]
             }
@@ -668,7 +703,7 @@
                 "blockMath": "\\[\n\\begin{aligned}\n& 4 x-5 y=13 \\\\\n& 3 x-2 y=8\n\\end{aligned}\n\\]"
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     361.548137397194,
                     675.8461012311901,
@@ -676,7 +711,8 @@
                     716.4487004103967
                 ],
                 "page_number": 8,
-                "blockMath": "\\[\n\\begin{aligned}\n& x=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . \\\\\n& y=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . .\n\\end{aligned}\n\\]"
+                "blockMath": "\\[\n\\begin{aligned}\n& x=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . \\\\\n& y=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . .\n\\end{aligned}\n\\]",
+                "text": "\\(\n\\begin{aligned}\n& x=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . \\\\\n& y=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . .\n\\end{aligned}\n\\)"
             }
         ]
     },
@@ -692,7 +728,18 @@
                     76.59781121751026
                 ],
                 "page_number": 9,
-                "text": "11 Angela picks a number at random from the numbers 1, 2 and 3 . She then picks a number at random from the numbers 4,5 and 6 ."
+                "text": "11 Angela picks a number at random from the numbers 1, 2 and 3 ."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    370.75955491049837,
+                    89.84404924760602
+                ],
+                "page_number": 9,
+                "text": "She then picks a number at random from the numbers 4,5 and 6 ."
             },
             {
                 "type": "text",
@@ -708,7 +755,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -741,14 +788,14 @@
                         ],
                         "page_number": 9,
                         "table": {
-                            "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>+</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>3</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\cline { 2 - 5 }</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>5</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>6</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>7</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\cline { 2 - 5 } \\multirow{2}{*}{<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Second</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>number</div></td>\n  </tr>\n</table>}</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>5</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\cline { 2 - 5 }</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>6</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\cline { 2 - 5 }</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n</table>",
+                            "html": "<table><tr><td ></td><td >+</td><td >1</td><td >2</td><td >3</td></tr><tr><td >\\cline { 2 - 5 }</td><td >4</td><td >5</td><td >6</td><td >7</td></tr><tr><td >\\cline { 2 - 5 } \\multirow{2}{*}{<table><tr><td >Second</td></tr><tr><td >number</td></tr></table>}</td><td >5</td><td ></td><td ></td><td ></td></tr><tr><td >\\cline { 2 - 5 }</td><td >6</td><td ></td><td ></td><td ></td></tr><tr><td >\\cline { 2 - 5 }</td><td ></td><td ></td><td ></td><td ></td></tr></table>",
                             "caption": ""
                         }
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -770,7 +817,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -797,7 +844,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -873,24 +920,24 @@
             {
                 "type": "text",
                 "bbox": [
-                    412.4987905176585,
-                    175.94459644322845,
-                    457.9801644895985,
-                    188.3269493844049
-                ],
-                "page_number": 10,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     69.66134494436382,
                     299.1922024623803,
                     239.20899854862122,
                     313.30232558139534
                 ],
                 "page_number": 10,
-                "text": "\\(A, B, C\\) and \\(D\\) are points on a circle． \\(E F\\) is a tangent to the circle at \\(A\\) ．"
+                "text": "\\(A, B, C\\) and \\(D\\) are points on a circle．"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    312.43844049247605,
+                    224.52830188679246,
+                    326.5485636114911
+                ],
+                "page_number": 10,
+                "text": "\\(E F\\) is a tangent to the circle at \\(A\\) ．"
             },
             {
                 "type": "text",
@@ -906,7 +953,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -924,7 +971,7 @@
                         "bbox": [
                             101.90130624092889,
                             376.3659370725034,
-                            171.85050798258348,
+                            283.82680212868894,
                             392.49179206566345
                         ],
                         "page_number": 10,
@@ -933,7 +980,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -947,7 +994,7 @@
                         "text": "（b）Find angle \\(D B C\\) ．"
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             312.32462506047415,
                             511.4199726402189,
@@ -955,7 +1002,8 @@
                             530.4254445964432
                         ],
                         "page_number": 10,
-                        "blockMath": "\\[\n\\text { Angle } D B C=\n\\]"
+                        "blockMath": "\\[\n\\text { Angle } D B C=\n\\]",
+                        "text": "\\(\n\\text { Angle } D B C=\n\\)"
                     }
                 ]
             }
@@ -982,7 +1030,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1009,7 +1057,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1020,10 +1068,21 @@
                             220.57865937072503
                         ],
                         "page_number": 11,
-                        "text": "(b) \\(\\quad \\frac{40 \\sqrt{8}}{5 \\sqrt{2}}=k\\), where \\(k\\) is an integer. Find the value of \\(k\\)."
+                        "text": "(b) \\(\\quad \\frac{40 \\sqrt{8}}{5 \\sqrt{2}}=k\\), where \\(k\\) is an integer."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            225.1860465116279,
+                            185.0919206579584,
+                            237.8563611491108
+                        ],
+                        "page_number": 11,
+                        "text": "Find the value of \\(k\\)."
+                    },
+                    {
+                        "type": "form_text",
                         "bbox": [
                             364.7145621673924,
                             351.0253077975376,
@@ -1031,12 +1090,13 @@
                             364.27154582763336
                         ],
                         "page_number": 11,
-                        "blockMath": "\\[\nk=\n\\]"
+                        "blockMath": "\\[\nk=\n\\]",
+                        "text": "\\(\nk=\n\\)"
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1117,17 +1177,6 @@
             {
                 "type": "text",
                 "bbox": [
-                    417.3923560716014,
-                    128.14295485636114,
-                    461.1465892597968,
-                    139.08549931600547
-                ],
-                "page_number": 12,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     284.97822931785197,
                     185.73529411764704,
                     323.263183357523,
@@ -1144,7 +1193,18 @@
                     229.50547195622434
                 ],
                 "page_number": 12,
-                "text": "The height of solid \\(A\\) is 7 cm and its surface area is \\(60 \\mathrm{~cm}^{2}\\). The surface area of solid \\(B\\) is \\(540 \\mathrm{~cm}^{2}\\)."
+                "text": "The height of solid \\(A\\) is 7 cm and its surface area is \\(60 \\mathrm{~cm}^{2}\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    226.91381668946647,
+                    252.45041122399616,
+                    241.02393980848152
+                ],
+                "page_number": 12,
+                "text": "The surface area of solid \\(B\\) is \\(540 \\mathrm{~cm}^{2}\\)."
             },
             {
                 "type": "text",
@@ -1185,25 +1245,15 @@
                 "blockMath": "\\[\n2=\\frac{m(1-t)}{p t}\n\\]"
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     364.7145621673924,
-                    562.3891928864568,
-                    384.86453797774556,
-                    575.6354309165527
-                ],
-                "page_number": 12,
-                "blockMath": "\\[\nt=\n\\]"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    530.8079342041607,
                     560.6614227086183,
                     547.5036284470248,
                     575.6354309165527
                 ],
-                "page_number": 12
+                "page_number": 12,
+                "text": "\\(\nt=\n\\) "
             }
         ]
     },
@@ -1277,7 +1327,18 @@
                     211.3638850889193
                 ],
                 "page_number": 13,
-                "text": "The diagram shows a sector of a circle, centre \\(O\\). The radius of the circle is 6 cm ."
+                "text": "The diagram shows a sector of a circle, centre \\(O\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    210.5,
+                    217.907595549105,
+                    224.61012311901504
+                ],
+                "page_number": 13,
+                "text": "The radius of the circle is 6 cm ."
             },
             {
                 "type": "text",
@@ -1288,7 +1349,18 @@
                     250.81463748290014
                 ],
                 "page_number": 13,
-                "text": "Calculate the length of the major \\(\\operatorname{arc} A B\\). Give your answer in its simplest form in terms of \\(\\pi\\)."
+                "text": "Calculate the length of the major \\(\\operatorname{arc} A B\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    249.95075239398085,
+                    314.0517658442187,
+                    264.0608755129959
+                ],
+                "page_number": 13,
+                "text": "Give your answer in its simplest form in terms of \\(\\pi\\)."
             }
         ]
     },
@@ -1297,7 +1369,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1313,7 +1385,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1347,7 +1419,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1363,7 +1435,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1377,7 +1449,7 @@
                         "text": "(b) Find \\(\\mathrm{f}^{-1}(x)\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             337.656023222061,
                             269.53214774281804,
@@ -1385,12 +1457,13 @@
                             288.8255813953488
                         ],
                         "page_number": 14,
-                        "blockMath": "\\[\n\\mathrm{f}^{-1}(x)=\n\\]"
+                        "blockMath": "\\[\n\\mathrm{f}^{-1}(x)=\n\\]",
+                        "text": "\\(\n\\mathrm{f}^{-1}(x)=\n\\)"
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1404,7 +1477,7 @@
                         "text": "(c) Solve \\(\\mathrm{fg}(x)=25\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             363.2752781809386,
                             455.2674418604651,
@@ -1412,12 +1485,13 @@
                             468.8016415868673
                         ],
                         "page_number": 14,
-                        "blockMath": "\\[\nx=\n\\]"
+                        "blockMath": "\\[\nx=\n\\]",
+                        "text": "\\(\nx=\n\\)"
                     }
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -1431,7 +1505,7 @@
                         "text": "(d) Find \\(x\\) when \\(\\mathrm{h}^{-1}(x)=2\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             363.2752781809386,
                             598.3844049247606,
@@ -1439,7 +1513,8 @@
                             611.9186046511628
                         ],
                         "page_number": 14,
-                        "blockMath": "\\[\nx=\n\\]"
+                        "blockMath": "\\[\nx=\n\\]",
+                        "text": "\\(\nx=\n\\)"
                     }
                 ]
             }
@@ -1450,7 +1525,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1466,7 +1541,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1522,7 +1597,7 @@
                         "text": "Find \\(x\\) in terms of \\(n\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             363.2752781809386,
                             628.0444596443228,
@@ -1530,7 +1605,19 @@
                             638.1231190150479
                         ],
                         "page_number": 15,
-                        "blockMath": "\\[\nx=\n\\]"
+                        "blockMath": "\\[\nx=\n\\]",
+                        "text": "\\(\nx=\n\\)"
+                    },
+                    {
+                        "type": "form_text",
+                        "bbox": [
+                            218.4833091436865,
+                            710.4015047879617,
+                            375.65312046444126,
+                            724.5116279069767
+                        ],
+                        "page_number": 15,
+                        "text": "Question 24 is on the next page."
                     }
                 ]
             }
@@ -1541,7 +1628,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1557,7 +1644,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1573,7 +1660,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1598,7 +1685,7 @@
                                 "text": "Find an expression for \\(a\\) in terms of \\(b\\)."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     361.548137397194,
                                     331.15595075239395,
@@ -1606,14 +1693,15 @@
                                     344.69015047879617
                                 ],
                                 "page_number": 16,
-                                "blockMath": "\\[\na=\\text {................................................ }\n\\]"
+                                "blockMath": "\\[\na=\\text {................................................ }\n\\]",
+                                "text": "\\(\na=\\text {................................................ }\n\\)"
                             }
                         ]
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1624,7 +1712,18 @@
                             370.89466484268127
                         ],
                         "page_number": 16,
-                        "text": "(b) \\(D\\) is the point \\((22,34)\\) and \\(E\\) is the point \\((23,39)\\). \\(D\\) is the point on \\(C E\\) such that \\(2 C E=5 D E\\)."
+                        "text": "(b) \\(D\\) is the point \\((22,34)\\) and \\(E\\) is the point \\((23,39)\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            92.68988872762459,
+                            369.7428180574555,
+                            295.34107402031935,
+                            384.140902872777
+                        ],
+                        "page_number": 16,
+                        "text": "\\(D\\) is the point on \\(C E\\) such that \\(2 C E=5 D E\\)."
                     },
                     {
                         "type": "text",

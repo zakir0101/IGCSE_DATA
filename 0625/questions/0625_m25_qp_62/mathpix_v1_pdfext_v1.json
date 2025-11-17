@@ -7,8 +7,8 @@
                 "bbox": [
                     47.49637155297533,
                     62.48768809849521,
-                    546.6400580551524,
-                    76.59781121751026
+                    132.4141267537494,
+                    89.84404924760602
                 ],
                 "page_number": 2,
                 "text": "1 A student investigates the behaviour of a spring, and then uses the spring to determine the mass of an object."
@@ -57,7 +57,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -68,32 +68,37 @@
                             370.89466484268127
                         ],
                         "page_number": 2,
-                        "text": "(a) The student suspends a mass \\(m=100 \\mathrm{~g}\\) from the spring. She measures, and records in Table 1.1, the stretched length \\(l\\) of the spring, as indicated"
+                        "text": "(a) The student suspends a mass \\(m=100 \\mathrm{~g}\\) from the spring."
                     },
                     {
                         "type": "text",
                         "bbox": [
                             93.55345911949686,
-                            382.98905608755126,
+                            369.7428180574555,
                             147.3826802128689,
                             397.3871409028728
                         ],
                         "page_number": 2,
-                        "text": "in Fig. 1.1."
+                        "text": "She measures, and records in Table 1.1, the stretched length \\(l\\) of the spring, as indicated in Fig. 1.1."
                     },
                     {
                         "type": "text",
                         "bbox": [
                             93.55345911949686,
                             408.61764705882354,
-                            546.6400580551524,
-                            422.7277701778386
+                            263.96468311562654,
+                            436.8378932968536
                         ],
                         "page_number": 2,
                         "text": "Describe two techniques for measuring the length of the spring, to ensure an accurate reading. You may draw a diagram."
-                    },
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
                     {
-                        "type": "text",
+                        "type": "pre_text",
                         "bbox": [
                             92.68988872762459,
                             562.9651162790698,
@@ -104,7 +109,7 @@
                         "text": "1"
                     },
                     {
-                        "type": "text",
+                        "type": "pre_text",
                         "bbox": [
                             92.68988872762459,
                             615.6621067031464,
@@ -113,12 +118,7 @@
                         ],
                         "page_number": 2,
                         "text": "2"
-                    }
-                ]
-            },
-            {
-                "label": "b",
-                "content": [
+                    },
                     {
                         "type": "text",
                         "bbox": [
@@ -128,7 +128,18 @@
                             76.59781121751026
                         ],
                         "page_number": 3,
-                        "text": "(b) She repeats step (a) for values of \\(m=200 \\mathrm{~g}, m=300 \\mathrm{~g}, m=400 \\mathrm{~g}\\) and \\(m=500 \\mathrm{~g}\\). Her readings are shown in Table 1.1."
+                        "text": "(b) She repeats step (a) for values of \\(m=200 \\mathrm{~g}, m=300 \\mathrm{~g}, m=400 \\mathrm{~g}\\) and \\(m=500 \\mathrm{~g}\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            75.44596443228454,
+                            275.4789550072569,
+                            89.84404924760602
+                        ],
+                        "page_number": 3,
+                        "text": "Her readings are shown in Table 1.1."
                     },
                     {
                         "type": "text",
@@ -150,7 +161,7 @@
                         ],
                         "page_number": 3,
                         "table": {
-                            "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(\\mathrm{m} / \\mathrm{g}\\)</div></td>\n    <td style=\"text-align:right; border:1px solid black; padding:4px;\"><div>\\(l / \\mathrm{cm}\\)</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>100</div></td>\n    <td style=\"text-align:right; border:1px solid black; padding:4px;\"><div>6.0</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>200</div></td>\n    <td style=\"text-align:right; border:1px solid black; padding:4px;\"><div>9.2</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>300</div></td>\n    <td style=\"text-align:right; border:1px solid black; padding:4px;\"><div>13.6</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>400</div></td>\n    <td style=\"text-align:right; border:1px solid black; padding:4px;\"><div>16.8</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>500</div></td>\n    <td style=\"text-align:right; border:1px solid black; padding:4px;\"><div>21.0</div></td>\n  </tr>\n</table>",
+                            "html": "<table><tr><td >\\(\\mathrm{m} / \\mathrm{g}\\)</td><td >\\(l / \\mathrm{cm}\\)</td></tr><tr><td >100</td><td >6.0</td></tr><tr><td >200</td><td >9.2</td></tr><tr><td >300</td><td >13.6</td></tr><tr><td >400</td><td >16.8</td></tr><tr><td >500</td><td >21.0</td></tr></table>",
                             "caption": ""
                         }
                     },
@@ -163,7 +174,18 @@
                             273.8515731874145
                         ],
                         "page_number": 3,
-                        "text": "Plot a graph of \\(l / \\mathrm{cm}\\) ( \\(y\\)-axis) against \\(m / \\mathrm{g}\\) ( \\(x\\)-axis). Start the axes from the origin \\((0,0)\\)."
+                        "text": "Plot a graph of \\(l / \\mathrm{cm}\\) ( \\(y\\)-axis) against \\(m / \\mathrm{g}\\) ( \\(x\\)-axis)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            272.9876880984952,
+                            267.41896468311563,
+                            287.09781121751024
+                        ],
+                        "page_number": 3,
+                        "text": "Start the axes from the origin \\((0,0)\\)."
                     },
                     {
                         "type": "text",
@@ -199,7 +221,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -226,10 +248,10 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
-                        "type": "text",
+                        "type": "pre_text",
                         "bbox": [
                             277.781809385583,
                             539.3522571819425,
@@ -252,7 +274,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -289,7 +311,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -300,7 +322,18 @@
                                     657.1285909712722
                                 ],
                                 "page_number": 4,
-                                "text": "(ii) Use the graph and your reading from (d)(i), to determine the mass \\(m_{\\mathrm{X}}\\) of object \\(\\mathbf{X}\\). Show clearly on the graph how you obtained your answer."
+                                "text": "(ii) Use the graph and your reading from (d)(i), to determine the mass \\(m_{\\mathrm{X}}\\) of object \\(\\mathbf{X}\\)."
+                            },
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    116.58200290275764,
+                                    655.9767441860465,
+                                    400.4088050314466,
+                                    668.6470588235294
+                                ],
+                                "page_number": 4,
+                                "text": "Show clearly on the graph how you obtained your answer."
                             },
                             {
                                 "type": "blockMath",
@@ -328,7 +361,7 @@
                 ]
             },
             {
-                "label": "e",
+                "label": "(e)",
                 "content": [
                     {
                         "type": "text",
@@ -339,15 +372,26 @@
                             76.59781121751026
                         ],
                         "page_number": 5,
-                        "text": "(e) Two students measure the mass of another object using the same method and apparatus. One student records the mass as 132.6 g . The other student records the mass as 130 g ."
+                        "text": "(e) Two students measure the mass of another object using the same method and apparatus."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            75.44596443228454,
+                            522.1722302854379,
+                            89.84404924760602
+                        ],
+                        "page_number": 5,
+                        "text": "One student records the mass as 132.6 g . The other student records the mass as 130 g ."
                     },
                     {
                         "type": "text",
                         "bbox": [
                             93.55345911949686,
                             101.93844049247606,
-                            546.6400580551524,
-                            115.18467852257182
+                            173.57764876632802,
+                            127.56703146374828
                         ],
                         "page_number": 5,
                         "text": "State and explain which answer has the more suitable number of significant figures for this experiment."
@@ -384,13 +428,13 @@
             {
                 "type": "text",
                 "bbox": [
-                    70.52491533623609,
-                    27.06839945280438,
-                    574.2743105950653,
-                    77.17373461012312
+                    47.49637155297533,
+                    62.48768809849521,
+                    405.3023705853895,
+                    76.59781121751026
                 ],
                 "page_number": 6,
-                "text": "A student investigates the effect of insulation on the cooling of water. 2 A student investigates the effect of insulation on the cooling of water."
+                "text": "2 A student investigates the effect of insulation on the cooling of water."
             },
             {
                 "type": "text",
@@ -428,29 +472,29 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": []
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": []
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             60.75991792065663,
-                            547.5036284470248,
-                            76.59781121751026
+                            143.9283986453798,
+                            88.11627906976744
                         ],
                         "page_number": 7,
                         "text": "(b) The student pours \\(200 \\mathrm{~cm}^{3}\\) of hot water into beaker A and records the temperature \\(\\theta\\) at time \\(t=0\\)."
@@ -500,7 +544,7 @@
                         "text": "Describe a technique which will make it easier for the student to do that."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             272.0246734397678,
                             282.7783857729138,
@@ -510,7 +554,7 @@
                         "page_number": 7
                     },
                     {
-                        "type": "table",
+                        "type": "form_table",
                         "bbox": [
                             160.9119496855346,
                             307.2551299589603,
@@ -519,132 +563,141 @@
                         ],
                         "page_number": 7,
                         "table": {
-                            "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>beaker A with insulation</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>beaker B without insulation</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(t / \\mathrm{s}\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(\\theta /{ }^{\\circ} \\mathrm{C}\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(\\theta /{ }^{\\circ} \\mathrm{C}\\)</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>92.5</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>93.0</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>30</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>90.5</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>90.5</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>60</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>89.0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>88.5</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>90</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>87.5</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>87.0</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>120</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>86.0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>85.5</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>150</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>85.0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>84.0</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>180</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>85.5</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>83.0</div></td>\n  </tr>\n</table>",
+                            "html": "<table><tr><td ></td><td >beaker A with insulation</td><td >beaker B without insulation</td></tr><tr><td >\\(t / \\mathrm{s}\\)</td><td >\\(\\theta /{ }^{\\circ} \\mathrm{C}\\)</td><td >\\(\\theta /{ }^{\\circ} \\mathrm{C}\\)</td></tr><tr><td >0</td><td >92.5</td><td >93.0</td></tr><tr><td >30</td><td >90.5</td><td >90.5</td></tr><tr><td >60</td><td >89.0</td><td >88.5</td></tr><tr><td >90</td><td >87.5</td><td >87.0</td></tr><tr><td >120</td><td >86.0</td><td >85.5</td></tr><tr><td >150</td><td >85.0</td><td >84.0</td></tr><tr><td >180</td><td >85.5</td><td >83.0</td></tr></table>",
                             "caption": ""
                         }
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             255.32897919690376,
                             313.59028727770175,
-                            327.29317851959365,
+                            426.02805999032415,
                             339.50683994528043
                         ],
                         "page_number": 7,
                         "text": " "
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             198.33333333333334,
                             344.69015047879617,
-                            216.18045476536045,
+                            396.37880986937597,
                             358.8002735978112
                         ],
                         "page_number": 7,
                         "text": "  "
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             208.6961780358007,
                             366.28727770177835,
-                            217.61973875181425,
+                            395.8030962747944,
                             378.3816689466484
                         ],
                         "page_number": 7,
                         "text": "  "
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             202.9390420899855,
                             387.3084815321477,
-                            217.61973875181425,
+                            395.8030962747944,
                             398.25102599179206
                         ],
                         "page_number": 7,
                         "text": "  "
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             202.9390420899855,
                             407.17783857729137,
-                            217.61973875181425,
+                            395.8030962747944,
                             417.83242134062925
                         ],
                         "page_number": 7,
                         "text": "  "
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             202.9390420899855,
                             425.60738714090286,
-                            217.61973875181425,
+                            395.8030962747944,
                             437.7017783857729
                         ],
                         "page_number": 7,
                         "text": "  "
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             197.46976294146108,
                             446.6285909712722,
-                            217.61973875181425,
+                            395.8030962747944,
                             457.2831737346101
                         ],
                         "page_number": 7,
                         "text": "  "
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             197.46976294146108,
                             466.2099863201094,
-                            217.61973875181425,
+                            395.8030962747944,
                             479.16826265389875
                         ],
                         "page_number": 7,
                         "text": "  "
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             197.46976294146108,
                             486.07934336525307,
-                            217.61973875181425,
+                            395.8030962747944,
                             496.73392612859095
                         ],
                         "page_number": 7,
                         "text": "  "
-                    },
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             514.5875512995896,
-                            546.6400580551524,
-                            528.985636114911
+                            377.38026124818583,
+                            541.9439124487004
                         ],
                         "page_number": 7,
                         "text": "(c) Write a conclusion stating whether the insulation affects the rate of cooling of the water. Justify your answer by referring to values from the results."
                     }
-                ],
+                ]
+            },
+            {
+                "label": "(d)",
+                "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     70.52491533623609,
                                     62.48768809849521,
-                                    546.6400580551524,
-                                    76.59781121751026
+                                    487.62941461054675,
+                                    89.84404924760602
                                 ],
                                 "page_number": 8,
                                 "text": "(d) (i) Calculate the average cooling rate \\(x_{1}\\) during the first half of the experiment for the water in beaker B. Use the readings for beaker B from Table 2.1 and the equation:"
@@ -665,8 +718,8 @@
                                 "bbox": [
                                     116.58200290275764,
                                     134.76607387140902,
-                                    546.6400580551524,
-                                    149.74008207934335
+                                    201.49975810353172,
+                                    160.39466484268127
                                 ],
                                 "page_number": 8,
                                 "text": "where \\(T=90 \\mathrm{~s}\\) and \\(\\theta_{0}\\) and \\(\\theta_{90}\\) are the temperatures of the water in beaker B at times \\(t=0\\) and \\(t=90 \\mathrm{~s}\\)."
@@ -706,15 +759,15 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     91.8263183357523,
                                     251.390560875513,
-                                    546.6400580551524,
-                                    266.65253077975376
+                                    517.2786647314949,
+                                    279.0348837209302
                                 ],
                                 "page_number": 8,
                                 "text": "(ii) Calculate the average cooling rate \\(x_{2}\\) during the second half of the experiment for the water in beaker B. Use the readings for beaker B from Table 2.1 and the equation:"
@@ -735,8 +788,8 @@
                                 "bbox": [
                                     115.71843251088535,
                                     323.9569083447332,
-                                    548.367198838897,
-                                    339.79480164158684
+                                    221.36187711659412,
+                                    349.58549931600544
                                 ],
                                 "page_number": 8,
                                 "text": "where \\(T=90 \\mathrm{~s}\\) and \\(\\theta_{90}\\) and \\(\\theta_{180}\\) are the temperatures of the water in beaker B at \\(t=90 \\mathrm{~s}\\) and \\(t=180 \\mathrm{~s}\\)."
@@ -772,28 +825,82 @@
                                     429.3508891928864
                                 ],
                                 "page_number": 8
-                            },
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "(e)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            440.5813953488372,
+                            423.4373488147073,
+                            467.937756497948
+                        ],
+                        "page_number": 8,
+                        "text": "(e) A student suggests that, for this type of experiment, the temperature of the water in each beaker at time \\(t=0\\) must be the same for the comparison to be fair."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            478.30437756497946,
+                            467.7672955974843,
+                            494.4302325581395
+                        ],
+                        "page_number": 8,
+                        "text": "Use your answers from (d)(i) and (d)(ii) to explain whether this is necessary."
+                    }
+                ]
+            },
+            {
+                "label": "(f)",
+                "content": [],
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     70.52491533623609,
-                                    440.5813953488372,
-                                    546.6400580551524,
-                                    454.97948016415864
+                                    62.48768809849521,
+                                    217.907595549105,
+                                    88.11627906976744
                                 ],
-                                "page_number": 8,
-                                "text": "(e) A student suggests that, for this type of experiment, the temperature of the water in each beaker at time \\(t=0\\) must be the same for the comparison to be fair."
+                                "page_number": 9,
+                                "text": "(f) (i) A student wants to eliminate, from the comparison, any thermal energy lost from the surface of the water."
                             },
                             {
                                 "type": "text",
                                 "bbox": [
-                                    93.55345911949686,
-                                    478.30437756497946,
-                                    467.7672955974843,
-                                    494.4302325581395
+                                    116.58200290275764,
+                                    101.93844049247606,
+                                    382.2738268021287,
+                                    116.0485636114911
                                 ],
-                                "page_number": 8,
-                                "text": "Use your answers from (d)(i) and (d)(ii) to explain whether this is necessary."
+                                "page_number": 9,
+                                "text": "Suggest a change to the equipment which will do that."
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(ii)",
+                        "content": [
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    90.3870343492985,
+                                    179.11217510259917,
+                                    187.68263183357524,
+                                    205.02872777017782
+                                ],
+                                "page_number": 9,
+                                "text": "(ii) Suggest what effect this change will have on the cooling rates of the water in beaker A and beaker B."
                             }
                         ]
                     }
@@ -859,15 +966,15 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             692.2599179206566,
-                            546.6400580551524,
-                            706.3700410396716
+                            193.43976777939045,
+                            719.6162790697674
                         ],
                         "page_number": 10,
                         "text": "(a) The student places a transparent block ABCD near the centre of the ray-trace sheet as indicated in Fig. 3.1."
@@ -875,15 +982,15 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     95.28059990324142,
                                     731.7106703146375,
-                                    546.6400580551524,
-                                    745.8207934336525
+                                    173.57764876632802,
+                                    755.8994528043776
                                 ],
                                 "page_number": 10,
                                 "text": "(i) Draw a normal to point \\(\\mathbf{N}\\), extending above \\(\\mathbf{A B}\\). Label the upper end of the normal with the letter L ."
@@ -891,7 +998,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -902,7 +1009,18 @@
                                     76.59781121751026
                                 ],
                                 "page_number": 11,
-                                "text": "(ii) The student draws line \\(\\mathbf{E N}\\) as shown in Fig. 3.1. On Fig. 3.1, measure the acute angle \\(\\theta\\) between the lines \\(\\mathbf{L N}\\) and \\(\\mathbf{E N}\\)."
+                                "text": "(ii) The student draws line \\(\\mathbf{E N}\\) as shown in Fig. 3.1."
+                            },
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    116.58200290275764,
+                                    75.44596443228454,
+                                    457.9801644895985,
+                                    89.84404924760602
+                                ],
+                                "page_number": 11,
+                                "text": "On Fig. 3.1, measure the acute angle \\(\\theta\\) between the lines \\(\\mathbf{L N}\\) and \\(\\mathbf{E N}\\)."
                             },
                             {
                                 "type": "text",
@@ -941,7 +1059,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -957,7 +1075,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -994,7 +1112,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1005,7 +1123,18 @@
                                     245.9192886456908
                                 ],
                                 "page_number": 11,
-                                "text": "(ii) State whether the two pins are a suitable distance apart for accurate ray tracing. Explain your answer."
+                                "text": "(ii) State whether the two pins are a suitable distance apart for accurate ray tracing."
+                            },
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    116.58200290275764,
+                                    244.7674418604651,
+                                    219.63473633284957,
+                                    259.16552667578657
+                                ],
+                                "page_number": 11,
+                                "text": "Explain your answer."
                             },
                             {
                                 "type": "text",
@@ -1034,7 +1163,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1045,18 +1174,18 @@
                             362.8317373461012
                         ],
                         "page_number": 11,
-                        "text": "(c) The student views the images of \\(\\mathrm{P}_{1}\\) and \\(\\mathrm{P}_{2}\\) through the block. He places two pins \\(\\mathrm{P}_{3}\\) and \\(\\mathrm{P}_{4}\\) so that pins \\(\\mathrm{P}_{3}\\) and \\(\\mathrm{P}_{4}\\) and the images of \\(\\mathrm{P}_{1}\\) and \\(\\mathrm{P}_{2}\\) all appear"
+                        "text": "(c) The student views the images of \\(\\mathrm{P}_{1}\\) and \\(\\mathrm{P}_{2}\\) through the block."
                     },
                     {
                         "type": "text",
                         "bbox": [
                             93.55345911949686,
-                            374.92612859097125,
+                            361.6798905608755,
                             237.76971456216742,
                             389.0362517099863
                         ],
                         "page_number": 11,
-                        "text": "exactly one behind the other."
+                        "text": "He places two pins \\(\\mathrm{P}_{3}\\) and \\(\\mathrm{P}_{4}\\) so that pins \\(\\mathrm{P}_{3}\\) and \\(\\mathrm{P}_{4}\\) and the images of \\(\\mathrm{P}_{1}\\) and \\(\\mathrm{P}_{2}\\) all appear exactly one behind the other."
                     },
                     {
                         "type": "text",
@@ -1074,8 +1203,8 @@
                         "bbox": [
                             93.55345911949686,
                             425.89534883720927,
-                            546.6400580551524,
-                            440.0054719562243
+                            175.3047895500726,
+                            451.5239398084815
                         ],
                         "page_number": 11,
                         "text": "Label the point at which this line meets \\(\\mathbf{C D}\\) with the letter \\(\\mathbf{F}\\). Label the lower end of this line with the letter \\(\\mathbf{G}\\)."
@@ -1089,27 +1218,27 @@
                             479.45622435020516
                         ],
                         "page_number": 11,
-                        "text": "Extend line \\(\\mathbf{E N}\\) to approximately 5 cm below line \\(\\mathbf{C D}\\). Label the point at which this line crosses \\(\\mathbf{C D}\\) with the letter \\(\\mathbf{H}\\). Label the lower end of this line"
+                        "text": "Extend line \\(\\mathbf{E N}\\) to approximately 5 cm below line \\(\\mathbf{C D}\\)."
                     },
                     {
                         "type": "text",
                         "bbox": [
                             93.55345911949686,
-                            491.5506155950752,
+                            478.30437756497946,
                             173.57764876632802,
                             504.22093023255815
                         ],
                         "page_number": 11,
-                        "text": "with the letter J ."
+                        "text": "Label the point at which this line crosses \\(\\mathbf{C D}\\) with the letter \\(\\mathbf{H}\\). Label the lower end of this line with the letter J ."
                     }
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1158,7 +1287,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1176,8 +1305,8 @@
                                 "bbox": [
                                     116.58200290275764,
                                     672.390560875513,
-                                    546.6400580551524,
-                                    686.7886456908344
+                                    237.76971456216742,
+                                    700.0348837209302
                                 ],
                                 "page_number": 11,
                                 "text": "State whether your results support this suggestion. Justify your answer by reference to values from your results."
@@ -1209,7 +1338,7 @@
                 ]
             },
             {
-                "label": "e",
+                "label": "(e)",
                 "content": [
                     {
                         "type": "text",
@@ -1247,18 +1376,29 @@
                 ]
             },
             {
-                "label": "f",
+                "label": "(f)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             203.01299589603283,
-                            546.6400580551524,
-                            220.57865937072503
+                            175.3047895500726,
+                            232.9610123119015
                         ],
                         "page_number": 12,
                         "text": "(f) Suggest one reason why different students, all doing this experiment carefully, may not obtain identical results."
+                    },
+                    {
+                        "type": "form_text",
+                        "bbox": [
+                            496.2651185292695,
+                            295.73666210670314,
+                            546.6400580551524,
+                            310.1347469220246
+                        ],
+                        "page_number": 12,
+                        "text": ""
                     }
                 ]
             }
@@ -1283,8 +1423,8 @@
                 "bbox": [
                     70.52491533623609,
                     88.6922024623803,
-                    546.6400580551524,
-                    102.80232558139535
+                    127.5205611998065,
+                    114.32079343365253
                 ],
                 "page_number": 13,
                 "text": "Plan an experiment which enables him to investigate how the length of a wire affects the resistance of the wire."
@@ -1331,7 +1471,18 @@
                     217.98700410396717
                 ],
                 "page_number": 13,
-                "text": "- a selection of wires - a variable power supply"
+                "text": "- a selection of wires"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    218.56292749658002,
+                    213.01402999516208,
+                    232.9610123119015
+                ],
+                "page_number": 13,
+                "text": "- a variable power supply"
             },
             {
                 "type": "text",
@@ -1342,7 +1493,18 @@
                     244.47948016415867
                 ],
                 "page_number": 13,
-                "text": "- an ammeter - a voltmeter."
+                "text": "- an ammeter"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    244.7674418604651,
+                    153.13981615868408,
+                    257.437756497948
+                ],
+                "page_number": 13,
+                "text": "- a voltmeter."
             },
             {
                 "type": "text",
@@ -1371,8 +1533,8 @@
                 "bbox": [
                     70.52491533623609,
                     322.22913816689464,
-                    546.6400580551524,
-                    336.3392612859097
+                    135.86840832123852,
+                    347.85772913816686
                 ],
                 "page_number": 13,
                 "text": "- complete Fig. 4.1 to show a voltmeter connected to measure the potential difference across the wire"
@@ -1382,8 +1544,8 @@
                 "bbox": [
                     70.52491533623609,
                     361.6798905608755,
-                    546.6400580551524,
-                    375.79001367989054
+                    240.93613933236577,
+                    387.3084815321477
                 ],
                 "page_number": 13,
                 "text": "- explain briefly how to do the experiment, including the measurements to take so that the resistance can be determined"
@@ -1404,8 +1566,8 @@
                 "bbox": [
                     70.52491533623609,
                     425.89534883720927,
-                    546.6400580551524,
-                    441.7332421340629
+                    324.1267537493953,
+                    454.97948016415864
                 ],
                 "page_number": 13,
                 "text": "- draw a table, or tables, with column headings, to show how to display the readings (you are not required to enter any readings in the table)"

@@ -32,7 +32,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -48,7 +48,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -82,7 +82,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -98,7 +98,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -152,7 +152,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -179,7 +179,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -215,8 +215,8 @@
                 "bbox": [
                     223.37687469762943,
                     88.6922024623803,
-                    278.93323657474605,
-                    101.3625170998632
+                    371.6231253023706,
+                    103.66621067031463
                 ],
                 "page_number": 4,
                 "text": "10 weeks is days."
@@ -275,7 +275,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -291,7 +291,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -325,7 +325,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -341,7 +341,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -384,11 +384,11 @@
                 "blockMath": "\\[\n\\frac{5}{8} \\quad \\frac{11}{12} \\quad \\frac{2}{3} \\quad \\frac{3}{4} \\quad \\frac{13}{24}\n\\]"
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     272.0246734397678,
                     645.3221614227086,
-                    285.26608611514274,
+                    477.8422835026609,
                     662.0239398084815
                 ],
                 "page_number": 4,
@@ -413,7 +413,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -449,7 +449,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -460,7 +460,18 @@
                             610.1908344733242
                         ],
                         "page_number": 5,
-                        "text": "(b) Work out the volume of the cuboid. Give the units of your answer."
+                        "text": "(b) Work out the volume of the cuboid."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            609.9028727770177,
+                            234.3154329946783,
+                            623.4370725034199
+                        ],
+                        "page_number": 5,
+                        "text": "Give the units of your answer."
                     }
                 ]
             }
@@ -490,7 +501,7 @@
                 ],
                 "page_number": 6,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>7</div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >0</td><td >2</td><td >2</td><td >3</td><td >4</td><td >7</td></tr></table>",
                     "caption": ""
                 }
             },
@@ -508,7 +519,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -524,7 +535,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -540,7 +551,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -556,7 +567,7 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -585,7 +596,18 @@
                     412.0731874145007
                 ],
                 "page_number": 6,
-                "text": "12 Tim has a method for multiplying a number by 99 . He shows his method for \\(53 \\times 99\\)."
+                "text": "12 Tim has a method for multiplying a number by 99 ."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    410.92134062927494,
+                    227.69472665699084,
+                    423.59165526675787
+                ],
+                "page_number": 6,
+                "text": "He shows his method for \\(53 \\times 99\\)."
             },
             {
                 "type": "blockMath",
@@ -616,7 +638,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -638,7 +660,18 @@
                             102.80232558139535
                         ],
                         "page_number": 7,
-                        "text": "- 4 equal length sides - 2 lines of symmetry"
+                        "text": "- 4 equal length sides"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            101.93844049247606,
+                            211.28688921141753,
+                            116.0485636114911
+                        ],
+                        "page_number": 7,
+                        "text": "- 2 lines of symmetry"
                     },
                     {
                         "type": "text",
@@ -665,7 +698,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -703,7 +736,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -714,71 +747,7 @@
                             299.4801641586867
                         ],
                         "page_number": 7,
-                        "text": "(c)       "
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            140.47411707789067,
-                            327.98837209302326,
-                            171.5626511852927,
-                            355.34473324213405
-                        ],
-                        "page_number": 7,
-                        "text": "  "
-                    },
-                    {
-                        "type": "image",
-                        "bbox": [
-                            170.69908079342042,
-                            354.19288645690835,
-                            201.78761490082246,
-                            383.56497948016414
-                        ],
-                        "page_number": 7,
-                        "image": {
-                            "caption": "",
-                            "bbox": [
-                                170.69908079342042,
-                                354.19288645690835,
-                                201.78761490082246,
-                                383.56497948016414
-                            ],
-                            "page": 7
-                        }
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            140.47411707789067,
-                            437.7017783857729,
-                            168.97194000967588,
-                            468.22571819425445
-                        ],
-                        "page_number": 7,
-                        "text": " "
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            92.68988872762459,
-                            481.7599179206566,
-                            377.38026124818583,
-                            495.87004103967166
-                        ],
-                        "page_number": 7,
-                        "text": "The parallel sides of a trapezium have lengths 6 cm and 4 cm . The area of the trapezium is \\(15 \\mathrm{~cm}^{2}\\)."
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            92.68988872762459,
-                            519.4829001367989,
-                            395.51523947750366,
-                            537.0485636114911
-                        ],
-                        "page_number": 7,
-                        "text": "On the \\(1 \\mathrm{~cm}^{2}\\) grid, draw a trapezium with these lengths and area."
+                        "text": "(c)"
                     }
                 ]
             }
@@ -789,7 +758,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -812,14 +781,14 @@
                         ],
                         "page_number": 8,
                         "table": {
-                            "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(x\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>3</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(y\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>6</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n</table>",
+                            "html": "<table><tr><td >\\(x\\)</td><td >-4</td><td >-3</td><td >-2</td><td >-1</td><td >0</td><td >1</td><td >2</td><td >3</td></tr><tr><td >\\(y\\)</td><td >6</td><td ></td><td >-4</td><td ></td><td ></td><td >-4</td><td ></td><td ></td></tr></table>",
                             "caption": ""
                         }
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -855,7 +824,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -871,7 +840,7 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -887,7 +856,7 @@
                 ]
             },
             {
-                "label": "e",
+                "label": "(e)",
                 "content": [
                     {
                         "type": "text",
@@ -938,7 +907,18 @@
                     271.54787961696303
                 ],
                 "page_number": 9,
-                "text": "15 Beth thinks of a positive number, \\(n\\). She squares \\(n\\) then subtracts 55 ."
+                "text": "15 Beth thinks of a positive number, \\(n\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    271.2599179206566,
+                    219.63473633284957,
+                    283.93023255813955
+                ],
+                "page_number": 9,
+                "text": "She squares \\(n\\) then subtracts 55 ."
             },
             {
                 "type": "text",
@@ -963,7 +943,7 @@
                 "text": "Work out the value of \\(n\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     361.548137397194,
                     415.81668946648426,
@@ -971,7 +951,8 @@
                     426.18331053351574
                 ],
                 "page_number": 9,
-                "blockMath": "\\[\nn=\n\\]"
+                "blockMath": "\\[\nn=\n\\]",
+                "text": "\\(\nn=\n\\)"
             }
         ]
     },
@@ -1012,7 +993,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1026,7 +1007,7 @@
                         "text": "(a) Find the area of triangle \\(B\\)."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             504.61296565070154,
                             537.6244870041039,
@@ -1039,11 +1020,11 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1057,20 +1038,20 @@
                                 "text": "(b) (i) Write down the coordinates of point \\(P\\)."
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     376.22883405902274,
                                     589.4575923392613,
-                                    384.86453797774556,
+                                    547.5036284470248,
                                     609.3269493844049
                                 ],
                                 "page_number": 10,
-                                "text": "\\((\\) , ) [1]"
+                                "text": "\\((\\) , ) "
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1084,22 +1065,22 @@
                                 "text": "(ii) Work out the coordinates of point \\(P\\) after a translation by the vector \\(\\binom{-20}{12}\\)."
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     376.22883405902274,
                                     721.9199726402188,
-                                    384.86453797774556,
+                                    547.5036284470248,
                                     741.7893296853625
                                 ],
                                 "page_number": 10,
-                                "text": "\\((\\) , ) [1]"
+                                "text": "\\((\\) , ) "
                             }
                         ]
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1115,7 +1096,7 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -1131,7 +1112,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1147,7 +1128,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1174,8 +1155,8 @@
                 "bbox": [
                     48.35994194484761,
                     62.48768809849521,
-                    546.6400580551524,
-                    76.59781121751026
+                    145.65553942912436,
+                    88.11627906976744
                 ],
                 "page_number": 12,
                 "text": "17 By writing each number in the calculation correct to 1 significant figure, find an estimate for the value of"
@@ -1214,7 +1195,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1262,7 +1243,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1397,6 +1378,17 @@
                 ],
                 "page_number": 13,
                 "text": "Complete this statement about the value of \\(m\\)."
+            },
+            {
+                "type": "form_text",
+                "bbox": [
+                    369.6081277213353,
+                    623.1491108071135,
+                    403.8630865989357,
+                    635.8194254445964
+                ],
+                "page_number": 13,
+                "text": "\\(\\leqslant m<\\)"
             }
         ]
     },
@@ -1405,7 +1397,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1432,7 +1424,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1486,7 +1478,7 @@
                 "blockMath": "\\[\n\\begin{aligned}\n& 5 x+2 y=3 \\\\\n& 3 x+4 y=27\n\\end{aligned}\n\\]"
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     359.8209966134495,
                     550.8707250341997,
@@ -1494,7 +1486,8 @@
                     594.640902872777
                 ],
                 "page_number": 14,
-                "blockMath": "\\[\n\\begin{aligned}\n& x=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . . . . . . . . . . . . . . . . . . . . . \\\\\n& y=\\ldots . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\\end{aligned}\n\\]"
+                "blockMath": "\\[\n\\begin{aligned}\n& x=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . . . . . . . . . . . . . . . . . . . . . \\\\\n& y=\\ldots . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\\end{aligned}\n\\]",
+                "text": "\\(\n\\begin{aligned}\n& x=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . . . . . . . . . . . . . . . . . . . . . \\\\\n& y=\\ldots . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\\end{aligned}\n\\)"
             }
         ]
     },
@@ -1541,7 +1534,18 @@
                     284.5061559507524
                 ],
                 "page_number": 15,
-                "text": "The radius of the large semicircle is 7 cm . The radius of the small semicircle is 4 cm ."
+                "text": "The radius of the large semicircle is 7 cm ."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    284.21819425444596,
+                    267.41896468311563,
+                    296.88850889192884
+                ],
+                "page_number": 15,
+                "text": "The radius of the small semicircle is 4 cm ."
             },
             {
                 "type": "text",
@@ -1552,7 +1556,29 @@
                     323.38098495212034
                 ],
                 "page_number": 15,
-                "text": "Work out the perimeter of the shape. Give your answer in terms of \\(\\pi\\)."
+                "text": "Work out the perimeter of the shape."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    322.22913816689464,
+                    221.93759071117563,
+                    336.3392612859097
+                ],
+                "page_number": 15,
+                "text": "Give your answer in terms of \\(\\pi\\)."
+            },
+            {
+                "type": "form_text",
+                "bbox": [
+                    511.233671988389,
+                    438.8536251709986,
+                    546.6400580551524,
+                    453.25170998632007
+                ],
+                "page_number": 15,
+                "text": "cm "
             }
         ]
     }

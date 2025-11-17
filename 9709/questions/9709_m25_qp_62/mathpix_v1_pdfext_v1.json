@@ -45,8 +45,8 @@
                 "bbox": [
                     70.52491533623609,
                     88.6922024623803,
-                    546.6400580551524,
-                    102.80232558139535
+                    122.62699564586359,
+                    114.32079343365253
                 ],
                 "page_number": 4,
                 "text": "The results for a random sample of 60 adults who completed the questionnaire this year are summarised as follows."
@@ -65,7 +65,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -81,10 +81,10 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
-                        "type": "text",
+                        "type": "pre_text",
                         "bbox": [
                             70.52491533623609,
                             62.48768809849521,
@@ -99,8 +99,8 @@
                         "bbox": [
                             70.52491533623609,
                             88.6922024623803,
-                            546.6400580551524,
-                            102.80232558139535
+                            158.8969521044993,
+                            114.32079343365253
                         ],
                         "page_number": 5,
                         "text": "(b) Test at the \\(2 \\%\\) significance level whether the population mean time for this year is less than 62.4 seconds."
@@ -108,15 +108,15 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             568.7243502051983,
-                            546.6400580551524,
-                            583.1224350205198
+                            134.14126753749397,
+                            596.3686730506156
                         ],
                         "page_number": 5,
                         "text": "(c) State, with a reason, whether it was necessary to use the Central Limit Theorem in your answer to part (b)."
@@ -142,7 +142,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -158,31 +158,31 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             400.26675786593705,
-                            546.6400580551524,
-                            415.5287277701778
+                            547.5036284470248,
+                            427.62311901504785
                         ],
                         "page_number": 6,
-                        "text": "(b) Find the probability that the sum of three independent values of \\(X\\) is between 3 and 5 inclusive. [3]"
+                        "text": "(b) Find the probability that the sum of three independent values of \\(X\\) is between 3 and 5 inclusive. "
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             62.48768809849521,
-                            546.6400580551524,
-                            76.59781121751026
+                            415.37735849056605,
+                            89.84404924760602
                         ],
                         "page_number": 7,
                         "text": "(c) The sum of a large number, \\(n\\), of values of \\(X\\) is denoted by \\(T\\). Using a suitable approximation, it was found that \\(\\mathrm{P}(T>330)=0.0391\\), correct to 3 significant figures."
@@ -207,7 +207,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -245,27 +245,16 @@
                         "bbox": [
                             93.55345911949686,
                             233.24897400820794,
-                            546.6400580551524,
-                            247.6470588235294
-                        ],
-                        "page_number": 8,
-                        "text": "The diagram shows the graph of the probability density function, f , of a random variable \\(X\\). The graph is a straight line from \\((0, a)\\) to \\((2, b)\\), where \\(a\\) and \\(b\\) are positive constants. Elsewhere,"
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            94.41702951136914,
-                            259.74145006839944,
                             137.30769230769232,
                             273.8515731874145
                         ],
                         "page_number": 8,
-                        "text": "\\(\\mathrm{f}(x)=0\\)."
+                        "text": "The diagram shows the graph of the probability density function, f , of a random variable \\(X\\). The graph is a straight line from \\((0, a)\\) to \\((2, b)\\), where \\(a\\) and \\(b\\) are positive constants. Elsewhere, \\(\\mathrm{f}(x)=0\\)."
                     }
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -281,7 +270,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -299,7 +288,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -346,30 +335,19 @@
                 "bbox": [
                     47.49637155297533,
                     62.48768809849521,
-                    546.6400580551524,
-                    76.59781121751026
-                ],
-                "page_number": 10,
-                "text": "5 Amir believes that \\(20 \\%\\) of the students at his college are left-handed. His friend believes that the true proportion, \\(p\\), is less than \\(20 \\%\\). Amir plans to use the binomial distribution to test the null hypothesis,"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    70.52491533623609,
-                    88.6922024623803,
                     352.6245766811805,
                     104.53009575923392
                 ],
                 "page_number": 10,
-                "text": "\\(\\mathrm{H}_{0}: p=0.2\\), against the alternative hypothesis, \\(\\mathrm{H}_{1}: p<0.2\\)."
+                "text": "5 Amir believes that \\(20 \\%\\) of the students at his college are left-handed. His friend believes that the true proportion, \\(p\\), is less than \\(20 \\%\\). Amir plans to use the binomial distribution to test the null hypothesis, \\(\\mathrm{H}_{0}: p=0.2\\), against the alternative hypothesis, \\(\\mathrm{H}_{1}: p<0.2\\)."
             },
             {
                 "type": "text",
                 "bbox": [
                     70.52491533623609,
                     114.0328317373461,
-                    546.6400580551524,
-                    127.56703146374828
+                    147.3826802128689,
+                    142.2530779753762
                 ],
                 "page_number": 10,
                 "text": "He decides to choose 35 students at random. If 3 or fewer of these students are left-handed, Amir will reject his belief."
@@ -377,7 +355,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -393,7 +371,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -409,10 +387,10 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
-                        "type": "text",
+                        "type": "pre_text",
                         "bbox": [
                             70.52491533623609,
                             62.48768809849521,
@@ -445,8 +423,8 @@
                 "bbox": [
                     47.49637155297533,
                     62.48768809849521,
-                    546.6400580551524,
-                    76.59781121751026
+                    245.8297048863087,
+                    89.84404924760602
                 ],
                 "page_number": 12,
                 "text": "6 Nikki is investigating the views of students at her school about the school sports facilities. She plans to give a survey to a sample of students."
@@ -456,8 +434,8 @@
                 "bbox": [
                     70.52491533623609,
                     101.93844049247606,
-                    546.6400580551524,
-                    116.0485636114911
+                    213.87760038703436,
+                    129.29480164158687
                 ],
                 "page_number": 12,
                 "text": "Nikki's friend says,\"This survey is about sports facilities, so you should choose a sample of students from the school sports teams.\""
@@ -465,7 +443,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -481,15 +459,15 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
-                        "type": "text",
+                        "type": "pre_text",
                         "bbox": [
                             70.52491533623609,
                             243.32763337893297,
-                            546.6400580551524,
-                            259.16552667578657
+                            226.25544267053704,
+                            272.4117647058823
                         ],
                         "page_number": 12,
                         "text": "Nikki chooses an appropriate random sample of 60 students. She finds that 45 of these students think that the sports facilities are good."
@@ -499,8 +477,8 @@
                         "bbox": [
                             70.52491533623609,
                             282.7783857729138,
-                            547.5036284470248,
-                            297.7523939808481
+                            229.42186744073538,
+                            311.86251709986317
                         ],
                         "page_number": 12,
                         "text": "(b) Calculate an approximate \\(95 \\%\\) confidence interval for the proportion of students who think that the sports facilities are good."
@@ -508,21 +486,21 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
-                        "type": "text",
+                        "type": "pre_text",
                         "bbox": [
                             70.52491533623609,
                             62.48768809849521,
-                            546.6400580551524,
-                            76.59781121751026
+                            253.31398161586844,
+                            88.11627906976744
                         ],
                         "page_number": 13,
                         "text": "For a different investigation, Nikki uses another large random sample to calculate a \\(99 \\%\\) confidence interval and an \\(x \\%\\) confidence interval."
                     },
                     {
-                        "type": "text",
+                        "type": "pre_text",
                         "bbox": [
                             70.52491533623609,
                             100.21067031463748,

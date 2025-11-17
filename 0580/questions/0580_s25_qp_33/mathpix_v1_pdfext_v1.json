@@ -23,7 +23,7 @@
                 ],
                 "page_number": 3,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>6</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>16</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>18</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>24</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>26</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>27</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>33</div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >2</td><td >6</td><td >16</td><td >18</td><td >24</td><td >26</td><td >27</td><td >33</td></tr></table>",
                     "caption": ""
                 }
             },
@@ -41,7 +41,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -57,7 +57,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -73,7 +73,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -176,7 +176,18 @@
                     74.87004103967168
                 ],
                 "page_number": 4,
-                "text": "4 Tim drives home from work. The travel graph shows his journey."
+                "text": "4 Tim drives home from work."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    237.76971456216742,
+                    89.84404924760602
+                ],
+                "page_number": 4,
+                "text": "The travel graph shows his journey."
             },
             {
                 "type": "image",
@@ -201,7 +212,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -217,7 +228,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -233,7 +244,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -247,7 +258,7 @@
                                 "text": "(i) Find how far Tim travels before he stops."
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     509.50653120464443,
                                     493.2783857729138,
@@ -255,12 +266,12 @@
                                     507.38850889192884
                                 ],
                                 "page_number": 4,
-                                "text": "km [1]"
+                                "text": "km "
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -274,7 +285,7 @@
                                 "text": "(ii) Find how long Tim stops for."
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     506.9158200290276,
                                     570.4521203830369,
@@ -425,7 +436,18 @@
                     561.813269493844
                 ],
                 "page_number": 5,
-                "text": "8 Mia changes \\(\\$ 350\\) into euros. The exchange rate is \\(\\$ 1=0.92\\) euros."
+                "text": "8 Mia changes \\(\\$ 350\\) into euros."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    560.6614227086183,
+                    247.55684567005324,
+                    574.7715458276333
+                ],
+                "page_number": 5,
+                "text": "The exchange rate is \\(\\$ 1=0.92\\) euros."
             },
             {
                 "type": "text",
@@ -477,29 +499,29 @@
             {
                 "type": "text",
                 "bbox": [
-                    450.208030962748,
-                    96.75512995896032,
-                    495.689404934688,
-                    107.98563611491107
-                ],
-                "page_number": 6,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     70.52491533623609,
                     261.469220246238,
                     173.57764876632802,
                     275.57934336525307
                 ],
                 "page_number": 6,
-                "text": "\\(A B C\\) is a straight line. \\(B D\\) is parallel to \\(A E\\)."
+                "text": "\\(A B C\\) is a straight line."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    274.42749658002737,
+                    168.6840832123851,
+                    288.8255813953488
+                ],
+                "page_number": 6,
+                "text": "\\(B D\\) is parallel to \\(A E\\)."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -510,14 +532,25 @@
                             314.1662106703146
                         ],
                         "page_number": 6,
-                        "text": "(a) Find the value of \\(x\\). Give a geometrical reason for your answer."
+                        "text": "(a) Find the value of \\(x\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            313.8782489740082,
+                            293.6139332365748,
+                            328.27633378932967
+                        ],
+                        "page_number": 6,
+                        "text": "Give a geometrical reason for your answer."
                     },
                     {
                         "type": "text",
                         "bbox": [
                             93.55345911949686,
                             366.5752393980848,
-                            115.14271891630383,
+                            213.87760038703436,
                             379.2455540355677
                         ],
                         "page_number": 6,
@@ -526,7 +559,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -537,14 +570,25 @@
                             405.4500683994528
                         ],
                         "page_number": 6,
-                        "text": "(b) Find the value of \\(y\\). Give a geometrical reason for your answer."
+                        "text": "(b) Find the value of \\(y\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            404.2982216142271,
+                            293.6139332365748,
+                            419.56019151846783
+                        ],
+                        "page_number": 6,
+                        "text": "Give a geometrical reason for your answer."
                     },
                     {
                         "type": "text",
                         "bbox": [
                             93.55345911949686,
                             456.9952120383037,
-                            115.14271891630383,
+                            214.74117077890665,
                             472.25718194254443
                         ],
                         "page_number": 6,
@@ -580,7 +624,7 @@
                 "blockMath": "\\[\n4 p+11=25\n\\]"
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     358.9574262215772,
                     182.27975376196989,
@@ -588,7 +632,8 @@
                     208.19630642954854
                 ],
                 "page_number": 7,
-                "blockMath": "\\[\np=\\text {............................................... }\n\\]"
+                "blockMath": "\\[\np=\\text {............................................... }\n\\]",
+                "text": "\\(\np=\\text {............................................... }\n\\)"
             }
         ]
     },
@@ -597,7 +642,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -624,7 +669,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -649,7 +694,7 @@
                         "blockMath": "\\[\n4 a^{2}+16 a\n\\]"
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             530.8079342041607,
                             530.1374829001368,
@@ -657,7 +702,7 @@
                             546.2633378932968
                         ],
                         "page_number": 7,
-                        "text": "[2]"
+                        "text": ""
                     }
                 ]
             }
@@ -675,7 +720,18 @@
                     76.59781121751026
                 ],
                 "page_number": 8,
-                "text": "12 Kai opens his restaurant from Tuesday to Saturday each week. He counts the number of customers each day for two weeks."
+                "text": "12 Kai opens his restaurant from Tuesday to Saturday each week."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    351.1852926947267,
+                    89.84404924760602
+                ],
+                "page_number": 8,
+                "text": "He counts the number of customers each day for two weeks."
             },
             {
                 "type": "text",
@@ -722,7 +778,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -749,7 +805,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -765,7 +821,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -794,12 +850,23 @@
                     76.59781121751026
                 ],
                 "page_number": 9,
-                "text": "13 In May a shop makes a profit of \\(\\$ 542\\). In June the shop makes a profit of \\(\\$ 600\\)."
+                "text": "13 In May a shop makes a profit of \\(\\$ 542\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    259.07111756168365,
+                    89.84404924760602
+                ],
+                "page_number": 9,
+                "text": "In June the shop makes a profit of \\(\\$ 600\\)."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -815,7 +882,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -838,14 +905,9 @@
                         ],
                         "page_number": 9,
                         "text": "Find the amount the shop gives to the charity."
-                    }
-                ]
-            },
-            {
-                "label": "c",
-                "content": [
+                    },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             371.33526850507985,
                             383.85294117647055,
@@ -854,7 +916,12 @@
                         ],
                         "page_number": 9,
                         "text": "\\$"
-                    },
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
                     {
                         "type": "text",
                         "bbox": [
@@ -876,6 +943,17 @@
                         ],
                         "page_number": 9,
                         "text": "Find the amount the shop spends on the fridge."
+                    },
+                    {
+                        "type": "form_text",
+                        "bbox": [
+                            371.33526850507985,
+                            516.3153214774281,
+                            384.86453797774556,
+                            531.2893296853625
+                        ],
+                        "page_number": 9,
+                        "text": "\\$"
                     }
                 ]
             }
@@ -905,6 +983,17 @@
                 ],
                 "page_number": 9,
                 "text": "Calculate the total amount of her investment at the end of 3 years."
+            },
+            {
+                "type": "form_text",
+                "bbox": [
+                    371.33526850507985,
+                    711.8413132694939,
+                    384.86453797774556,
+                    728.5430916552667
+                ],
+                "page_number": 9,
+                "text": "\\$"
             }
         ]
     },
@@ -932,7 +1021,7 @@
                 ],
                 "page_number": 10,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Type of bike</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Cost for first day</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Cost for each extra day</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Road</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\$25</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\$20</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Mountain</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\$40</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\$35</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Electric</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\$70</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\$50</div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >Type of bike</td><td >Cost for first day</td><td >Cost for each extra day</td></tr><tr><td >Road</td><td >\\$25</td><td >\\$20</td></tr><tr><td >Mountain</td><td >\\$40</td><td >\\$35</td></tr><tr><td >Electric</td><td >\\$70</td><td >\\$50</td></tr></table>",
                     "caption": ""
                 }
             },
@@ -941,30 +1030,8 @@
                 "bbox": [
                     109.6734397677794,
                     94.73939808481532,
-                    171.27479438800194,
+                    479.5694242864055,
                     108.84952120383036
-                ],
-                "page_number": 10,
-                "text": "   "
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    414.80164489598457,
-                    114.32079343365253,
-                    434.95162070633774,
-                    130.44664842681257
-                ],
-                "page_number": 10,
-                "text": " "
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    111.1127237542332,
-                    140.2373461012312,
-                    158.033381712627,
-                    152.33173734610122
                 ],
                 "page_number": 10,
                 "text": "  "
@@ -973,9 +1040,31 @@
                 "type": "text",
                 "bbox": [
                     110.53701015965169,
-                    162.41039671682626,
-                    148.8219641993227,
-                    174.5047879616963
+                    113.74487004103966,
+                    137.5955491049831,
+                    130.44664842681257
+                ],
+                "page_number": 10,
+                "text": "  "
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    111.1127237542332,
+                    140.2373461012312,
+                    434.95162070633774,
+                    152.90766073871407
+                ],
+                "page_number": 10,
+                "text": "  "
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    110.53701015965169,
+                    161.8344733242134,
+                    438.11804547653605,
+                    175.3686730506156
                 ],
                 "page_number": 10,
                 "text": "  "
@@ -983,7 +1072,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -995,14 +1084,9 @@
                         ],
                         "page_number": 10,
                         "text": "(a) Work out the cost of hiring 2 road bikes for 3 days."
-                    }
-                ]
-            },
-            {
-                "label": "b",
-                "content": [
+                    },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             371.33526850507985,
                             295.73666210670314,
@@ -1011,7 +1095,12 @@
                         ],
                         "page_number": 10,
                         "text": "\\$"
-                    },
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
                     {
                         "type": "text",
                         "bbox": [
@@ -1026,7 +1115,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1040,7 +1129,7 @@
                                 "text": "(i) Write a formula for the cost, \\(E\\), of hiring an electric bike for \\(d\\) days."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     358.0938558297049,
                                     437.41381668946644,
@@ -1048,20 +1137,21 @@
                                     454.11559507523936
                                 ],
                                 "page_number": 10,
-                                "blockMath": "\\[\nE=\n\\]"
+                                "blockMath": "\\[\nE=\n\\]",
+                                "text": "\\(\nE=\n\\)"
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     90.3870343492985,
                                     465.3461012311901,
-                                    546.6400580551524,
-                                    481.18399452804374
+                                    166.95694242864056,
+                                    492.7024623803009
                                 ],
                                 "page_number": 10,
                                 "text": "(ii) The cost of hiring an electric bike for 6 days is the same as the cost of hiring a mountain bike for \\(d\\) days."
@@ -1078,25 +1168,15 @@
                                 "text": "Find the value of \\(d\\)."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     358.0938558297049,
-                                    672.390560875513,
-                                    383.137397194001,
-                                    687.6525307797538
-                                ],
-                                "page_number": 10,
-                                "blockMath": "\\[\nd=\n\\]"
-                            },
-                            {
-                                "type": "text",
-                                "bbox": [
-                                    530.8079342041607,
                                     672.390560875513,
                                     547.5036284470248,
                                     689.0923392612859
                                 ],
-                                "page_number": 10
+                                "page_number": 10,
+                                "text": "\\(\nd=\n\\) "
                             }
                         ]
                     }
@@ -1116,7 +1196,18 @@
                     76.59781121751026
                 ],
                 "page_number": 11,
-                "text": "16 The scale drawing shows a path from \\(S\\) to \\(P\\). The scale is 1 cm represents 2.5 km ."
+                "text": "16 The scale drawing shows a path from \\(S\\) to \\(P\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    237.76971456216742,
+                    89.84404924760602
+                ],
+                "page_number": 11,
+                "text": "The scale is 1 cm represents 2.5 km ."
             },
             {
                 "type": "image",
@@ -1141,7 +1232,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1155,7 +1246,7 @@
                         "text": "(a) Work out the actual distance between \\(S\\) and \\(P\\)."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             509.50653120464443,
                             540.7920656634747,
@@ -1163,12 +1254,12 @@
                             556.9179206566347
                         ],
                         "page_number": 11,
-                        "text": "km [2]"
+                        "text": "km "
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1184,7 +1275,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1249,15 +1340,15 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             477.7284541723666,
-                            546.6400580551524,
-                            491.8385772913816
+                            145.65553942912436,
+                            518.9069767441861
                         ],
                         "page_number": 12,
                         "text": "(a) Sue describes the single transformation that maps shape \\(A\\) onto shape \\(B\\) as a translation by the vector \\(\\binom{7}{1}\\)."
@@ -1276,7 +1367,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1292,7 +1383,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1314,7 +1405,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1372,7 +1463,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1436,7 +1527,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1459,14 +1550,14 @@
                         ],
                         "page_number": 14,
                         "table": {
-                            "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(x\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>5</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(y\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>20</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>10</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>4</div></td>\n  </tr>\n</table>",
+                            "html": "<table><tr><td >\\(x\\)</td><td >1</td><td >2</td><td >3</td><td >4</td><td >5</td></tr><tr><td >\\(y\\)</td><td >20</td><td >10</td><td ></td><td ></td><td >4</td></tr></table>",
                             "caption": ""
                         }
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1502,7 +1593,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1553,7 +1644,18 @@
                     102.80232558139535
                 ],
                 "page_number": 15,
-                "text": "Rinesh spins the spinner many times. He works out the relative frequency that the spinner lands on each number."
+                "text": "Rinesh spins the spinner many times."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    101.93844049247606,
+                    417.68021286889217,
+                    116.0485636114911
+                ],
+                "page_number": 15,
+                "text": "He works out the relative frequency that the spinner lands on each number."
             },
             {
                 "type": "table",
@@ -1565,14 +1667,14 @@
                 ],
                 "page_number": 15,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Number</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>5</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Relative frequency</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0.15</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0.22</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0.26</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0.25</div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >Number</td><td >1</td><td >2</td><td >3</td><td >4</td><td >5</td></tr><tr><td >Relative frequency</td><td >0.15</td><td >0.22</td><td ></td><td >0.26</td><td >0.25</td></tr></table>",
                     "caption": ""
                 }
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1588,7 +1690,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1621,7 +1723,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1632,7 +1734,18 @@
                             76.59781121751026
                         ],
                         "page_number": 16,
-                        "text": "21 (a) These are the distances above the surface of the Earth of five satellites, \\(A, B, C, D\\) and \\(E\\). Each distance is in kilometres."
+                        "text": "21 (a) These are the distances above the surface of the Earth of five satellites, \\(A, B, C, D\\) and \\(E\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            75.44596443228454,
+                            236.04257377842285,
+                            88.11627906976744
+                        ],
+                        "page_number": 16,
+                        "text": "Each distance is in kilometres."
                     },
                     {
                         "type": "table",
@@ -1644,14 +1757,14 @@
                         ],
                         "page_number": 16,
                         "table": {
-                            "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(A\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(B\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(C\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(D\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(E\\)</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>35800</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(7.8 \\times 10^{2}\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(1.5 \\times 10^{6}\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>535</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(2 \\times 10^{4}\\)</div></td>\n  </tr>\n</table>",
+                            "html": "<table><tr><td >\\(A\\)</td><td >\\(B\\)</td><td >\\(C\\)</td><td >\\(D\\)</td><td >\\(E\\)</td></tr><tr><td >35800</td><td >\\(7.8 \\times 10^{2}\\)</td><td >\\(1.5 \\times 10^{6}\\)</td><td >535</td><td >\\(2 \\times 10^{4}\\)</td></tr></table>",
                             "caption": ""
                         }
                     }
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1665,7 +1778,7 @@
                                 "text": "(i) Write these distances in order, starting with the shortest."
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     139.6105466860184,
                                     246.4952120383037,
@@ -1678,7 +1791,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1689,7 +1802,18 @@
                                     283.93023255813955
                                 ],
                                 "page_number": 16,
-                                "text": "(ii) The radius of Earth is 6370 km . Satellite \\(A\\) is \\(k\\) times further from the centre of Earth than satellite \\(D\\)."
+                                "text": "(ii) The radius of Earth is 6370 km ."
+                            },
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    116.58200290275764,
+                                    283.6422708618331,
+                                    437.54233188195457,
+                                    296.88850889192884
+                                ],
+                                "page_number": 16,
+                                "text": "Satellite \\(A\\) is \\(k\\) times further from the centre of Earth than satellite \\(D\\)."
                             },
                             {
                                 "type": "text",
@@ -1707,7 +1831,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1732,7 +1856,7 @@
                         "text": "Find the distance the satellite travels in 95 minutes."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             509.50653120464443,
                             568.7243502051983,
@@ -1740,12 +1864,12 @@
                             583.1224350205198
                         ],
                         "page_number": 16,
-                        "text": "km [2]"
+                        "text": "km "
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1770,7 +1894,7 @@
                         "text": "Convert this speed into m/s."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             504.61296565070154,
                             764.5383036935705,
@@ -1832,7 +1956,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1848,7 +1972,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1859,7 +1983,18 @@
                             472.8331053351573
                         ],
                         "page_number": 17,
-                        "text": "（b）The cylinder is made from gold． The density of the gold is \\(19.3 \\mathrm{~g} / \\mathrm{cm}^{3}\\) ．"
+                        "text": "（b）The cylinder is made from gold．"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            92.68988872762459,
+                            470.24145006839944,
+                            267.9946782776972,
+                            486.07934336525307
+                        ],
+                        "page_number": 17,
+                        "text": "The density of the gold is \\(19.3 \\mathrm{~g} / \\mathrm{cm}^{3}\\) ．"
                     },
                     {
                         "type": "text",
@@ -1870,7 +2005,18 @@
                             512.2838577291382
                         ],
                         "page_number": 17,
-                        "text": "Calculate the mass of the cylinder． \\(\\left[\\right.\\) Density \\(\\left.=\\frac{\\text { mass }}{\\text { volume }}\\right]\\)"
+                        "text": "Calculate the mass of the cylinder．"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            516.3153214774281,
+                            189.12191582002905,
+                            543.671682626539
+                        ],
+                        "page_number": 17,
+                        "text": "\\(\\left[\\right.\\) Density \\(\\left.=\\frac{\\text { mass }}{\\text { volume }}\\right]\\)"
                     }
                 ]
             }
@@ -1922,25 +2068,15 @@
                 "text": "Calculate the value of \\(h\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     359.8209966134495,
-                    310.71067031463747,
-                    383.137397194001,
-                    325.6846785225718
-                ],
-                "page_number": 18,
-                "blockMath": "\\[\nh=\n\\]"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    530.8079342041607,
                     310.71067031463747,
                     547.5036284470248,
                     325.6846785225718
                 ],
-                "page_number": 18
+                "page_number": 18,
+                "text": "\\(\nh=\n\\) "
             }
         ]
     },
@@ -1986,19 +2122,17 @@
                     291.02322206095795,
                     398.25102599179206
                 ],
-                "page_number": 18,
-                "text": " NOT TO"
+                "page_number": 18
             },
             {
                 "type": "text",
                 "bbox": [
-                    391.19738751814225,
-                    412.6491108071135,
-                    430.0580551523948,
-                    423.59165526675787
+                    297.35607160135464,
+                    425.89534883720927,
+                    335.6410256410257,
+                    437.7017783857729
                 ],
-                "page_number": 18,
-                "text": "SCALE "
+                "page_number": 18
             },
             {
                 "type": "text",
@@ -2022,25 +2156,15 @@
                 "text": "Calculate the value of \\(y\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     358.9574262215772,
-                    605.0075239398085,
-                    383.137397194001,
-                    620.2694938440492
-                ],
-                "page_number": 18,
-                "blockMath": "\\[\ny=\n\\]"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    530.8079342041607,
                     603.2797537619699,
                     547.5036284470248,
                     620.2694938440492
                 ],
-                "page_number": 18
+                "page_number": 18,
+                "text": "\\(\ny=\n\\) "
             }
         ]
     }

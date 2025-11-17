@@ -1,0 +1,543 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.49637155297533,
+                    63.92749658002736,
+                    402.1359458151911,
+                    84.94870041039671
+                ],
+                "page_number": 2,
+                "text": "1 Find the Maclaurin＇s series for \\(\\mathrm{e}^{\\left(\\frac{1}{x+2}\\right)}\\) up to and including the term in \\(x^{2}\\) ．"
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            47.49637155297533,
+                            62.48768809849521,
+                            471.22157716497344,
+                            76.59781121751026
+                        ],
+                        "page_number": 3,
+                        "text": "2 (a) Starting from the definitions of tanh and sech in terms of exponentials, prove that"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            249.85970004837932,
+                            83.796853625171,
+                            345.4281567489115,
+                            102.80232558139535
+                        ],
+                        "page_number": 3,
+                        "blockMath": "\\[\n\\tanh ^{2} t+\\operatorname{sech}^{2} t=1\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            530.8079342041607,
+                            88.6922024623803,
+                            547.5036284470248,
+                            103.66621067031463
+                        ],
+                        "page_number": 3
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            322.22913816689464,
+                            270.585389453314,
+                            337.203146374829
+                        ],
+                        "page_number": 3,
+                        "text": "(b) The curve \\(C\\) has parametric equations"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            175.8805031446541,
+                            344.4021887824897,
+                            419.4073536526367,
+                            364.27154582763336
+                        ],
+                        "page_number": 3,
+                        "blockMath": "\\[\nx=\\ln (\\cosh t), \\quad y=\\tan ^{-1}(\\sinh t), \\quad \\text { for } 0 \\leqslant t \\leqslant 1 .\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            92.68988872762459,
+                            374.92612859097125,
+                            191.71262699564588,
+                            389.0362517099863
+                        ],
+                        "page_number": 3,
+                        "text": "Find the length of \\(C\\)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.49637155297533,
+                    62.48768809849521,
+                    191.71262699564588,
+                    76.59781121751026
+                ],
+                "page_number": 4,
+                "text": "3 The curve \\(C\\) has equation"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    224.24044508950172,
+                    83.796853625171,
+                    369.32027092404456,
+                    104.53009575923392
+                ],
+                "page_number": 4,
+                "blockMath": "\\[\n9 y^{2}-3 \\sinh ^{-1}(x y)=1-3 \\ln 3 .\n\\]"
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            119.79206566347469,
+                            301.67392356071605,
+                            145.70861833105334
+                        ],
+                        "page_number": 4,
+                        "text": "(a) Show that, at the point \\(\\left(4, \\frac{1}{3}\\right)\\) on \\(C, \\frac{\\mathrm{~d} y}{\\mathrm{~d} x}=-\\frac{1}{2}\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            63.92749658002736,
+                            281.2360909530721,
+                            95.60328317373461
+                        ],
+                        "page_number": 5,
+                        "text": "(b) Find the value of \\(\\frac{\\mathrm{d}^{2} y}{\\mathrm{~d} x^{2}}\\) at the point \\(\\left(4, \\frac{1}{3}\\right)\\)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.49637155297533,
+                    62.48768809849521,
+                    323.263183357523,
+                    76.59781121751026
+                ],
+                "page_number": 6,
+                "text": "4 Find the particular solution of the differential equation"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    233.16400580551527,
+                    92.72366621067032,
+                    362.6995645863571,
+                    122.67168262653898
+                ],
+                "page_number": 6,
+                "blockMath": "\\[\n\\frac{\\mathrm{d}^{2} x}{\\mathrm{~d} t^{2}}+\\frac{\\mathrm{d} x}{\\mathrm{~d} t}-2 x=2 t^{2}+t-1,\n\\]"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    134.76607387140902,
+                    237.76971456216742,
+                    158.9548563611491
+                ],
+                "page_number": 6,
+                "text": "given that，when \\(t=0, x=\\frac{\\mathrm{d} x}{\\mathrm{~d} t}=0\\) ．"
+            },
+            {
+                "type": "form_text",
+                "bbox": [
+                    579.455732946299,
+                    687.3645690834473,
+                    589.5307208514756,
+                    812.6279069767442
+                ],
+                "page_number": 6
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            47.49637155297533,
+                            62.48768809849521,
+                            272.3125302370586,
+                            76.59781121751026
+                        ],
+                        "page_number": 8,
+                        "text": "5 (a) Use de Moivre's theorem to show that"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            216.75616835994197,
+                            88.11627906976744,
+                            379.3952588292211,
+                            127.56703146374828
+                        ],
+                        "page_number": 8,
+                        "blockMath": "\\[\n\\sec 5 \\theta=\\frac{\\sec ^{5} \\theta}{5 \\sec ^{4} \\theta-20 \\sec ^{2} \\theta+16}\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            530.8079342041607,
+                            101.93844049247606,
+                            547.5036284470248,
+                            116.9124487004104
+                        ],
+                        "page_number": 8
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            62.48768809849521,
+                            273.7518142235124,
+                            76.59781121751026
+                        ],
+                        "page_number": 9,
+                        "text": "（b）Hence，obtain the roots of the equation"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            228.27044025157235,
+                            85.23666210670314,
+                            365.8659893565554,
+                            101.3625170998632
+                        ],
+                        "page_number": 9,
+                        "blockMath": "\\[\n\\sqrt{3} x^{5}-10 x^{4}+40 x^{2}-32=0\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            113.45690834473324,
+                            280.37252056119985,
+                            129.29480164158687
+                        ],
+                        "page_number": 9,
+                        "text": "in the form \\(\\sec (q \\pi)\\) ，where \\(q\\) is rational．"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    45.769230769230774,
+                    59.896032831737344,
+                    57.57135945815192,
+                    74.00615595075239
+                ],
+                "page_number": 10,
+                "text": "6"
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    92.68988872762459,
+                    75.44596443228454,
+                    501.44654088050316,
+                    500.765389876881
+                ],
+                "page_number": 10,
+                "image": {
+                    "caption": "",
+                    "bbox": [
+                        92.68988872762459,
+                        75.44596443228454,
+                        501.44654088050316,
+                        500.765389876881
+                    ],
+                    "page": 10
+                }
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    511.4199726402189,
+                    127.5205611998065,
+                    553.4623803009575
+                ],
+                "page_number": 10,
+                "text": "The diagram shows the curve with equation \\(y=\\frac{1}{x^{2}+1}\\) for \\(0 \\leqslant x \\leqslant 1\\), together with a set of \\(n\\) rectangles of width \\(\\frac{1}{n}\\)."
+            }
+        ],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            560.6614227086183,
+                            400.4088050314466,
+                            574.7715458276333
+                        ],
+                        "page_number": 10,
+                        "text": "(a) By considering the sum of the areas of these rectangles, show that"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            253.88969521044996,
+                            588.5937072503419,
+                            340.5345911949686,
+                            626.0287277701779
+                        ],
+                        "page_number": 10,
+                        "blockMath": "\\[\n\\sum_{r=1}^{n} \\frac{n}{n^{2}+r^{2}}<\\frac{1}{4} \\pi\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            530.8079342041607,
+                            600.1121751025992,
+                            547.5036284470248,
+                            615.0861833105334
+                        ],
+                        "page_number": 10
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            69.66134494436382,
+                            285.94596443228454,
+                            126.65699080793422,
+                            334.0355677154583
+                        ],
+                        "page_number": 11,
+                        "text": "(b) Use a similar method to find a lower bound for \\(\\sum_{r=1}^{n} \\frac{n}{n^{2}+r^{2}}\\). Give your answer in terms of \\(n\\) and \\(\\pi\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            687.3645690834473,
+                            295.34107402031935,
+                            722.7838577291382
+                        ],
+                        "page_number": 11,
+                        "text": "(c) Deduce the exact value of \\(\\lim _{n \\rightarrow \\infty} \\sum_{r=1}^{n} \\frac{n}{n^{2}+r^{2}}\\)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.49637155297533,
+                    62.48768809849521,
+                    277.2060957910015,
+                    76.59781121751026
+                ],
+                "page_number": 12,
+                "text": "7 Find the solution of the differential equation"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    243.23899371069186,
+                    93.5875512995896,
+                    352.04886308659894,
+                    123.53556771545827
+                ],
+                "page_number": 12,
+                "blockMath": "\\[\n\\frac{\\mathrm{d} y}{\\mathrm{~d} x}-\\frac{2 x+6}{x^{2}+6 x+5} y=4,\n\\]"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    139.66142270861832,
+                    375.65312046444126,
+                    154.63543091655265
+                ],
+                "page_number": 12,
+                "text": "given that \\(y=0\\) when \\(x=0\\). Give your answer in an exact form."
+            }
+        ]
+    },
+    {
+        "label": "8",
+        "content": [],
+        "parts": [
+            {
+                "label": "(a)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            47.49637155297533,
+                            62.48768809849521,
+                            346.2917271407838,
+                            76.59781121751026
+                        ],
+                        "page_number": 14,
+                        "text": "8 (a) Find the values of \\(a\\) for which the system of equations"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            254.75326560232222,
+                            79.47742818057455,
+                            339.6710208030963,
+                            135.05403556771546
+                        ],
+                        "page_number": 14,
+                        "blockMath": "\\[\n\\begin{aligned}\n\\frac{3}{2} x+3 y+8 z & =1, \\\\\na x+3 y+4 z & =2, \\\\\na y-z & =3,\n\\end{aligned}\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            139.66142270861832,
+                            244.3904208998549,
+                            154.63543091655265
+                        ],
+                        "page_number": 14,
+                        "text": "does not have a unique solution."
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "bbox": [
+                            70.52491533623609,
+                            374.92612859097125,
+                            188.25834542815676,
+                            389.0362517099863
+                        ],
+                        "page_number": 14,
+                        "text": "The matrix \\(\\mathbf{A}\\) is given by"
+                    },
+                    {
+                        "type": "pre_blockMath",
+                        "bbox": [
+                            256.19254958877605,
+                            394.5075239398085,
+                            338.807450411224,
+                            442.5971272229822
+                        ],
+                        "page_number": 14,
+                        "blockMath": "\\[\n\\mathbf{A}=\\left(\\begin{array}{rrr}\n\\frac{3}{2} & 3 & 8 \\\\\n0 & 3 & 4 \\\\\n0 & 0 & -1\n\\end{array}\\right) .\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            450.3720930232558,
+                            247.55684567005324,
+                            479.45622435020516
+                        ],
+                        "page_number": 14,
+                        "text": "(b) Given that \\(\\mathbf{B}=\\mathbf{A}^{-1}\\), use the characteristic equation of \\(\\mathbf{A}\\) to show that \\(\\mathbf{B}^{2}=p \\mathbf{I}+q \\mathbf{A}\\), where \\(p\\) and \\(q\\) are constants to be determined."
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.52491533623609,
+                            63.92749658002736,
+                            398.68166424770203,
+                            81.49316005471955
+                        ],
+                        "page_number": 15,
+                        "text": "(c) Find a matrix \\(\\mathbf{P}\\) and a diagonal matrix \\(\\mathbf{D}\\) such that \\(\\mathbf{A}^{-1}=\\mathbf{P D} \\mathbf{P}^{-1}\\)."
+                    }
+                ]
+            }
+        ]
+    }
+]

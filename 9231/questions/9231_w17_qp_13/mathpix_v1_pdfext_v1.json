@@ -1,0 +1,798 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    62.48768809849521,
+                    377.56292352371736,
+                    94.73939808481532
+                ],
+                "page_number": 2,
+                "text": "1 Find \\(\\sum_{r=1}^{n}(4 r-3)(4 r+1)\\), giving your answer in its simplest form."
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    63.92749658002736,
+                    318.5237173281704,
+                    79.76538987688099
+                ],
+                "page_number": 3,
+                "text": "2 Find the general solution of the differential equation"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    231.83688286544046,
+                    82.06908344733242,
+                    362.8751210067764,
+                    117.77633378932968
+                ],
+                "page_number": 3,
+                "blockMath": "\\[\n\\frac{\\mathrm{d}^{2} x}{\\mathrm{~d} t^{2}}+2 \\frac{\\mathrm{~d} x}{\\mathrm{~d} t}+5 x=4-5 t^{2}\n\\]"
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            47.51936108422072,
+                            62.48768809849521,
+                            350.4912875121007,
+                            91.28385772913816
+                        ],
+                        "page_number": 4,
+                        "text": "3 (i) Show that \\(\\frac{\\mathrm{d}^{n+1}}{\\mathrm{~d} x^{n+1}}\\left(x^{n+1} \\ln x\\right)=\\frac{\\mathrm{d}^{n}}{\\mathrm{~d} x^{n}}\\left(x^{n}+(n+1) x^{n} \\ln x\\right)\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            75.45498547918683,
+                            251.390560875513,
+                            398.87463697967087,
+                            264.9247606019152
+                        ],
+                        "page_number": 4,
+                        "text": "(ii) Prove by mathematical induction that, for all positive integers \\(n\\),"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            199.0053242981607,
+                            271.2599179206566,
+                            396.57066795740565,
+                            300.344049247606
+                        ],
+                        "page_number": 4,
+                        "blockMath": "\\[\n\\frac{\\mathrm{d}^{n}}{\\mathrm{~d} x^{n}}\\left(x^{n} \\ln x\\right)=n!\\left(\\ln x+1+\\frac{1}{2}+\\ldots+\\frac{1}{n}\\right) .\n\\]"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    62.48768809849521,
+                    373.53097773475315,
+                    79.76538987688099
+                ],
+                "page_number": 5,
+                "text": "4 The cubic equation \\(2 x^{3}-3 x^{2}+4 x-10=0\\) has roots \\(\\alpha, \\beta\\) and \\(\\gamma\\)."
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            90.41997264021887,
+                            279.06824782187806,
+                            104.53009575923392
+                        ],
+                        "page_number": 5,
+                        "text": "(i) Find the value of \\((\\alpha+1)(\\beta+1)(\\gamma+1)\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            73.7270087124879,
+                            429.06292749658,
+                            279.06824782187806,
+                            444.90082079343364
+                        ],
+                        "page_number": 5,
+                        "text": "(ii) Find the value of \\((\\beta+\\gamma)(\\gamma+\\alpha)(\\alpha+\\beta)\\)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    62.48768809849521,
+                    319.96369796708615,
+                    79.76538987688099
+                ],
+                "page_number": 6,
+                "text": "5 The curve \\(C\\) has equation \\(2 x^{3}+3 x^{2} y-3 y^{3}-16=0\\)."
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            89.55608755129958,
+                            417.0183930300097,
+                            116.0485636114911
+                        ],
+                        "page_number": 6,
+                        "text": "(i) Find the coordinates of the point \\(A\\) on \\(C\\) at which \\(\\frac{\\mathrm{d} y}{\\mathrm{~d} x}=0\\) and \\(x \\neq 0\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            73.7270087124879,
+                            61.62380300957592,
+                            224.63697967086156,
+                            91.28385772913816
+                        ],
+                        "page_number": 7,
+                        "text": "(ii) Find the value of \\(\\frac{\\mathrm{d}^{2} y}{\\mathrm{~d} x^{2}}\\) at \\(A\\)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    63.92749658002736,
+                    522.4249757986447,
+                    79.76538987688099
+                ],
+                "page_number": 8,
+                "text": "6 The points \\(A, B\\) and \\(C\\) have position vectors \\(2 \\mathbf{i}-\\mathbf{j}+\\mathbf{k}, 3 \\mathbf{i}+4 \\mathbf{j}-\\mathbf{k}\\) and \\(-\\mathbf{i}+2 \\mathbf{j}+4 \\mathbf{k}\\) respectively."
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            90.41997264021887,
+                            257.4685382381413,
+                            104.53009575923392
+                        ],
+                        "page_number": 8,
+                        "text": "(i) Find the area of the triangle \\(A B C\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            73.7270087124879,
+                            63.92749658002736,
+                            398.2986447241046,
+                            79.76538987688099
+                        ],
+                        "page_number": 9,
+                        "text": "(ii) Find the perpendicular distance of the point \\(A\\) from the line \\(B C\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(iii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            429.06292749658,
+                            381.0188770571152,
+                            444.90082079343364
+                        ],
+                        "page_number": 9,
+                        "text": "(iii) Find the cartesian equation of the plane through \\(A, B\\) and \\(C\\)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    62.48768809849521,
+                    435.1621490803485,
+                    79.76538987688099
+                ],
+                "page_number": 10,
+                "text": "7 The linear transformation \\(\\mathrm{T}: \\mathbb{R}^{4} \\rightarrow \\mathbb{R}^{4}\\) is represented by the matrix \\(\\mathbf{A}\\), where"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    230.10890609874153,
+                    81.20519835841313,
+                    366.0430784123911,
+                    145.70861833105334
+                ],
+                "page_number": 10,
+                "blockMath": "\\[\n\\mathbf{A}=\\left(\\begin{array}{rrrr}\n1 & -1 & -2 & 3 \\\\\n5 & -3 & -4 & 25 \\\\\n6 & -4 & -6 & 28 \\\\\n7 & -5 & -8 & 31\n\\end{array}\\right)\n\\]"
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            157.8030095759234,
+                            347.89932236205226,
+                            171.91313269493844
+                        ],
+                        "page_number": 10,
+                        "text": "(i) Find the rank of \\(\\mathbf{A}\\) and a basis for the null space of T ."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            73.7270087124879,
+                            286.80984952120383,
+                            547.1926427879962,
+                            344.9781121751026
+                        ],
+                        "page_number": 11,
+                        "text": "(ii) Find the matrix product \\(\\mathbf{A}\\left(\\begin{array}{r}-1 \\\\ 1 \\\\ -1 \\\\ 1\\end{array}\\right)\\) and hence find the general solution of the equation \\(\\mathbf{A x}=\\left(\\begin{array}{r}3 \\\\ 21 \\\\ 24 \\\\ 27\\end{array}\\right)\\)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "8",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    61.62380300957592,
+                    221.46902226524685,
+                    94.73939808481532
+                ],
+                "page_number": 12,
+                "text": "\\(8 \\quad\\) Let \\(I_{n}=\\int_{0}^{\\frac{1}{4} \\pi} \\sec ^{n} x \\mathrm{~d} x\\) for \\(n>0\\)."
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            103.3782489740082,
+                            191.8054211035818,
+                            119.50410396716826
+                        ],
+                        "page_number": 12,
+                        "text": "(i) Find the value of \\(I_{2}\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            73.7270087124879,
+                            226.91381668946647,
+                            194.97337850919652,
+                            239.29616963064294
+                        ],
+                        "page_number": 12,
+                        "text": "(ii) Show that, for \\(n>2\\),"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            223.48499515972895,
+                            241.5998632010944,
+                            370.93901258470476,
+                            264.0608755129959
+                        ],
+                        "page_number": 12,
+                        "blockMath": "\\[\n(n-1) I_{n}=2^{\\frac{1}{2} n-1}+(n-2) I_{n-2} .\n\\]"
+                    }
+                ]
+            },
+            {
+                "label": "(iii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            62.48768809849521,
+                            226.36495643756052,
+                            107.98563611491107
+                        ],
+                        "page_number": 13,
+                        "text": "(iii) The curve \\(C\\) has equation \\(y=\\sec ^{3} x\\) for \\(0 \\leqslant x \\leqslant \\frac{1}{4} \\pi\\). The region \\(R\\) is bounded by \\(C\\), the \\(x\\)-axis, the \\(y\\)-axis and the line \\(x=\\frac{1}{4} \\pi\\). Find the volume of revolution generated when \\(R\\) is rotated through \\(2 \\pi\\) radians about the \\(x\\)-axis."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "9",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    63.92749658002736,
+                    194.97337850919652,
+                    79.76538987688099
+                ],
+                "page_number": 14,
+                "text": "9 The curve \\(C\\) has equation"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    249.98063891577928,
+                    77.17373461012312,
+                    344.7313649564376,
+                    111.1532147742818
+                ],
+                "page_number": 14,
+                "blockMath": "\\[\ny=\\frac{3 x-9}{(x-2)(x+1)}\n\\]"
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            123.24760601915185,
+                            296.9240077444337,
+                            137.3577291381669
+                        ],
+                        "page_number": 14,
+                        "text": "(i) Find the equations of the asymptotes of \\(C\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            74.59099709583737,
+                            271.2599179206566,
+                            346.4593417231365,
+                            290.265389876881
+                        ],
+                        "page_number": 14,
+                        "text": "(ii) Show that there is no point on \\(C\\) for which \\(\\frac{1}{3}<y<3\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(iii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            63.92749658002736,
+                            318.5237173281704,
+                            79.76538987688099
+                        ],
+                        "page_number": 15,
+                        "text": "(iii) Find the coordinates of the turning points of \\(C\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(iv)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            432.23050615595076,
+                            143.99806389157794,
+                            446.6285909712722
+                        ],
+                        "page_number": 15,
+                        "text": "(iv) Sketch \\(C\\)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "10",
+        "content": [],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            49.24733785091965,
+                            65.65526675786593,
+                            274.7483059051307,
+                            76.59781121751026
+                        ],
+                        "page_number": 16,
+                        "text": "10 (i) Use de Moivre's theorem to show that"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            207.06921587608906,
+                            83.796853625171,
+                            387.35479186834465,
+                            101.3625170998632
+                        ],
+                        "page_number": 16,
+                        "blockMath": "\\[\n\\sin 5 \\theta=5 \\sin \\theta-20 \\sin ^{3} \\theta+16 \\sin ^{5} \\theta\n\\]"
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            73.7270087124879,
+                            62.48768809849521,
+                            546.904646660213,
+                            81.49316005471955
+                        ],
+                        "page_number": 17,
+                        "text": "(ii) Hence explain why the roots of the equation \\(16 x^{4}-20 x^{2}+5=0\\) are \\(x= \\pm \\sin \\frac{1}{5} \\pi\\) and \\(x= \\pm \\sin \\frac{2}{5} \\pi\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(iii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            364.84746922024624,
+                            338.10745401742497,
+                            379.2455540355677
+                        ],
+                        "page_number": 17,
+                        "text": "(iii) Without using a calculator, find the exact values of"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            167.6137463697967,
+                            384.71682626538984,
+                            426.810261374637,
+                            407.17783857729137
+                        ],
+                        "page_number": 17,
+                        "blockMath": "\\[\n\\sin \\frac{1}{5} \\pi \\sin \\frac{2}{5} \\pi \\sin \\frac{3}{5} \\pi \\sin \\frac{4}{5} \\pi \\quad \\text { and } \\quad \\sin ^{2}\\left(\\frac{1}{5} \\pi\\right)+\\sin ^{2}\\left(\\frac{2}{5} \\pi\\right)\n\\]"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "11",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    48.383349467570184,
+                    65.65526675786593,
+                    311.8998063891578,
+                    78.32558139534883
+                ],
+                "page_number": 18,
+                "text": "11 Answer only one of the following two alternatives."
+            }
+        ],
+        "parts": [
+            {
+                "label": "EITHER",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            91.85978112175103,
+                            119.51839303000969,
+                            102.22640218878249
+                        ],
+                        "page_number": 18,
+                        "text": "EITHER"
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "content": [
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    78.9109390125847,
+                                    116.62448700410397,
+                                    330.0435624394966,
+                                    155.49931600547194
+                                ],
+                                "page_number": 18,
+                                "text": "(i) The vector \\(\\mathbf{e}\\) is an eigenvector of the matrix \\(\\mathbf{A}\\), with corresponding eigenvalue \\(\\lambda\\), and is also an eigenvector of the matrix \\(\\mathbf{B}\\), with corresponding eigenvalue \\(\\mu\\). Show that \\(\\mathbf{e}\\) is an eigenvector of the matrix \\(\\mathbf{A B}\\) with corresponding eigenvalue \\(\\lambda \\mu\\)."
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(ii)",
+                        "content": [
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    75.45498547918683,
+                                    429.06292749658,
+                                    456.473862536302,
+                                    441.7332421340629
+                                ],
+                                "page_number": 18,
+                                "text": "(ii) Find the eigenvalues and corresponding eigenvectors of the matrix \\(\\mathbf{A}\\), where"
+                            },
+                            {
+                                "type": "blockMath",
+                                "bbox": [
+                                    249.98063891577928,
+                                    448.9322845417237,
+                                    344.7313649564376,
+                                    490.97469220246234
+                                ],
+                                "page_number": 18,
+                                "blockMath": "\\[\n\\mathbf{A}=\\left(\\begin{array}{rrr}\n0 & 1 & 3 \\\\\n3 & 2 & -3 \\\\\n1 & 1 & 2\n\\end{array}\\right) .\n\\]"
+                            },
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    531.0648596321394,
+                                    463.61833105335154,
+                                    547.7686350435624,
+                                    477.15253077975376
+                                ],
+                                "page_number": 18
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(iii)",
+                        "content": [
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    70.55905130687319,
+                                    63.92749658002736,
+                                    194.97337850919652,
+                                    78.32558139534883
+                                ],
+                                "page_number": 20,
+                                "text": "(iii) The matrix \\(\\mathbf{B}\\), where"
+                            },
+                            {
+                                "type": "blockMath",
+                                "bbox": [
+                                    244.7967086156825,
+                                    77.17373461012312,
+                                    349.62729912875125,
+                                    123.53556771545827
+                                ],
+                                "page_number": 20,
+                                "blockMath": "\\[\n\\mathbf{B}=\\left(\\begin{array}{rrr}\n3 & 6 & 1 \\\\\n1 & -2 & -1 \\\\\n6 & 6 & -2\n\\end{array}\\right),\n\\]"
+                            },
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    93.59874152952565,
+                                    126.41518467852256,
+                                    229.53291384317524,
+                                    178.53625170998632
+                                ],
+                                "page_number": 20,
+                                "text": "has eigenvectors \\(\\left(\\begin{array}{r}1 \\\\ -1 \\\\ 0\\end{array}\\right),\\left(\\begin{array}{r}1 \\\\ -1 \\\\ 1\\end{array}\\right)\\) and \\(\\left(\\begin{array}{l}1 \\\\ 0 \\\\ 1\\end{array}\\right)\\). Find the eigenvalues of the matrix \\(\\mathbf{A B}\\), and state corresponding eigenvectors."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "OR",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            65.65526675786593,
+                            92.15876089060987,
+                            77.46169630642954
+                        ],
+                        "page_number": 21,
+                        "text": "OR"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            90.41997264021887,
+                            527.3209099709584,
+                            103.66621067031463
+                        ],
+                        "page_number": 21,
+                        "text": "The polar equation of a curve \\(C\\) is \\(r=a(1+\\cos \\theta)\\) for \\(0 \\leqslant \\theta<2 \\pi\\), where \\(a\\) is a positive constant."
+                    }
+                ],
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "content": [
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    77.18296224588578,
+                                    116.62448700410397,
+                                    143.13407550822848,
+                                    129.29480164158687
+                                ],
+                                "page_number": 21,
+                                "text": "(i) Sketch \\(C\\)."
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(ii)",
+                        "content": [
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    75.45498547918683,
+                                    427.33515731874144,
+                                    284.54017424975797,
+                                    441.7332421340629
+                                ],
+                                "page_number": 21,
+                                "text": "(ii) Show that the cartesian equation of \\(C\\) is"
+                            },
+                            {
+                                "type": "blockMath",
+                                "bbox": [
+                                    230.10890609874153,
+                                    445.4767441860465,
+                                    362.8751210067764,
+                                    464.7701778385773
+                                ],
+                                "page_number": 21,
+                                "blockMath": "\\[\nx^{2}+y^{2}=a\\left(x+\\sqrt{ }\\left(x^{2}+y^{2}\\right)\\right) .\n\\]"
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(iii)",
+                        "content": [
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    70.55905130687319,
+                                    62.48768809849521,
+                                    370.93901258470476,
+                                    81.49316005471955
+                                ],
+                                "page_number": 22,
+                                "text": "(iii) Find the area of the sector of \\(C\\) between \\(\\theta=0\\) and \\(\\theta=\\frac{1}{3} \\pi\\)."
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(iv)",
+                        "content": [
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    72.28702807357212,
+                                    62.48768809849521,
+                                    489.593417231365,
+                                    81.49316005471955
+                                ],
+                                "page_number": 23,
+                                "text": "(iv) Find the arc length of \\(C\\) between the point where \\(\\theta=0\\) and the point where \\(\\theta=\\frac{1}{3} \\pi\\)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

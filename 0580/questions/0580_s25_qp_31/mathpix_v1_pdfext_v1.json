@@ -18,7 +18,7 @@
                 "bbox": [
                     175.01693275278183,
                     93.29958960328317,
-                    202.36332849540398,
+                    345.71601354620225,
                     106.2578659370725
                 ],
                 "page_number": 3,
@@ -27,9 +27,9 @@
             {
                 "type": "text",
                 "bbox": [
-                    225.104015481374,
+                    179.62264150943398,
                     114.32079343365253,
-                    340.5345911949686,
+                    193.7276245766812,
                     139.08549931600547
                 ],
                 "page_number": 3,
@@ -80,7 +80,7 @@
                 "bbox": [
                     297.35607160135464,
                     259.74145006839944,
-                    325.5660377358491,
+                    441.5723270440252,
                     274.7154582763338
                 ],
                 "page_number": 3,
@@ -89,7 +89,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -105,7 +105,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -229,7 +229,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -245,7 +245,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -285,7 +285,18 @@
                     310.1347469220246
                 ],
                 "page_number": 4,
-                "text": "Using a ruler and compasses only, construct triangle \\(A B C\\). Leave in your construction arcs."
+                "text": "Using a ruler and compasses only, construct triangle \\(A B C\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    307.2551299589603,
+                    221.36187711659412,
+                    321.6532147742818
+                ],
+                "page_number": 4,
+                "text": "Leave in your construction arcs."
             },
             {
                 "type": "text",
@@ -326,7 +337,7 @@
                 "blockMath": "\\[\n3 y=18\n\\]"
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     361.548137397194,
                     743.2291381668946,
@@ -334,7 +345,8 @@
                     758.203146374829
                 ],
                 "page_number": 4,
-                "blockMath": "\\[\ny=\n\\]"
+                "blockMath": "\\[\ny=\n\\]",
+                "text": "\\(\ny=\n\\)"
             }
         ]
     },
@@ -343,7 +355,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -368,7 +380,7 @@
                         "text": "Find the value of \\(T\\) when \\(P=12\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             359.8209966134495,
                             152.90766073871407,
@@ -376,12 +388,13 @@
                             169.609439124487
                         ],
                         "page_number": 5,
-                        "blockMath": "\\[\nT=\n\\]"
+                        "blockMath": "\\[\nT=\n\\]",
+                        "text": "\\(\nT=\n\\)"
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -406,7 +419,7 @@
                         "text": "Find the value of \\(t\\) when \\(W=369\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             363.2752781809386,
                             310.71067031463747,
@@ -414,7 +427,8 @@
                             324.24487004103963
                         ],
                         "page_number": 5,
-                        "blockMath": "\\[\nt=\n\\]"
+                        "blockMath": "\\[\nt=\n\\]",
+                        "text": "\\(\nt=\n\\)"
                     }
                 ]
             }
@@ -451,11 +465,11 @@
                 "text": "Write these numbers in order, starting with the smallest."
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     284.97822931785197,
                     262.9090287277702,
-                    298.5074987905177,
+                    457.9801644895985,
                     274.7154582763338
                 ],
                 "page_number": 6,
@@ -475,7 +489,18 @@
                     315.0300957592339
                 ],
                 "page_number": 6,
-                "text": "11 A plane leaves Seattle at 0730 on Tuesday and arrives in Seoul 10 hours and 55 minutes later. The local time in Seoul is 16 hours ahead of the local time in Seattle."
+                "text": "11 A plane leaves Seattle at 0730 on Tuesday and arrives in Seoul 10 hours and 55 minutes later."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    313.8782489740082,
+                    390.62167392356076,
+                    326.5485636114911
+                ],
+                "page_number": 6,
+                "text": "The local time in Seoul is 16 hours ahead of the local time in Seattle."
             },
             {
                 "type": "text",
@@ -489,11 +514,11 @@
                 "text": "Work out the day and time in Seoul when the plane arrives."
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     303.9767779390421,
                     481.7599179206566,
-                    327.29317851959365,
+                    438.98161586840837,
                     496.73392612859095
                 ],
                 "page_number": 6,
@@ -518,7 +543,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -534,7 +559,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -548,7 +573,7 @@
                         "text": "(b) Write down the equation of a line parallel to line \\(L\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             358.9574262215772,
                             699.7469220246238,
@@ -556,7 +581,8 @@
                             719.6162790697674
                         ],
                         "page_number": 6,
-                        "blockMath": "\\[\ny=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . \\ldots \\ldots . . . . . . . . . . . . . . . . . .\n\\]"
+                        "blockMath": "\\[\ny=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . \\ldots \\ldots . . . . . . . . . . . . . . . . . .\n\\]",
+                        "text": "\\(\ny=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . \\ldots \\ldots . . . . . . . . . . . . . . . . . .\n\\)"
                     }
                 ]
             }
@@ -574,7 +600,18 @@
                     76.59781121751026
                 ],
                 "page_number": 7,
-                "text": "13 The scale drawing shows the position of ship \\(A\\). The scale is 1 centimetre represents 50 kilometres."
+                "text": "13 The scale drawing shows the position of ship \\(A\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    305.12820512820514,
+                    89.84404924760602
+                ],
+                "page_number": 7,
+                "text": "The scale is 1 centimetre represents 50 kilometres."
             },
             {
                 "type": "image",
@@ -595,6 +632,39 @@
                     ],
                     "page": 7
                 }
+            },
+            {
+                "type": "form_text",
+                "bbox": [
+                    364.7145621673924,
+                    386.4445964432284,
+                    461.1465892597968,
+                    398.8269493844049
+                ],
+                "page_number": 7,
+                "text": "Scale: 1 cm to 50 km"
+            },
+            {
+                "type": "form_text",
+                "bbox": [
+                    70.52491533623609,
+                    412.6491108071135,
+                    307.43105950653126,
+                    426.75923392612856
+                ],
+                "page_number": 7,
+                "text": "Ship \\(B\\) is 300 km from ship \\(A\\) on a bearing of \\(105^{\\circ}\\)."
+            },
+            {
+                "type": "form_text",
+                "bbox": [
+                    70.52491533623609,
+                    438.8536251709986,
+                    300.23463957426225,
+                    453.25170998632007
+                ],
+                "page_number": 7,
+                "text": "On the scale drawing mark the position of ship \\(B\\)."
             }
         ]
     },
@@ -610,7 +680,18 @@
                     505.08481532147744
                 ],
                 "page_number": 7,
-                "text": "14 Tom needs 225 g of flour to make 10 cakes. A shop sells flour in 500 g bags."
+                "text": "14 Tom needs 225 g of flour to make 10 cakes."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    504.79685362517097,
+                    219.63473633284957,
+                    518.0430916552667
+                ],
+                "page_number": 7,
+                "text": "A shop sells flour in 500 g bags."
             },
             {
                 "type": "text",
@@ -637,15 +718,26 @@
                     74.00615595075239
                 ],
                 "page_number": 8,
-                "text": "15       "
+                "text": "15"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    65.63134978229319,
+                    73.1422708618331,
+                    398.1059506531205,
+                    333.171682626539
+                ],
+                "page_number": 8,
+                "text": "      "
             },
             {
                 "type": "image",
                 "bbox": [
                     67.35849056603774,
                     80.34131326949384,
-                    198.33333333333334,
-                    199.8454172366621
+                    525.3386550556362,
+                    209.92407660738712
                 ],
                 "page_number": 8,
                 "image": {
@@ -662,20 +754,19 @@
             {
                 "type": "text",
                 "bbox": [
-                    483.31156265118534,
-                    185.73529411764704,
-                    527.0657958393808,
-                    198.40560875512995
+                    65.63134978229319,
+                    203.01299589603283,
+                    199.19690372520563,
+                    331.4439124487004
                 ],
-                "page_number": 8,
-                "text": "NOT TO "
+                "page_number": 8
             },
             {
                 "type": "image",
                 "bbox": [
                     66.49492017416546,
-                    203.87688098495212,
-                    196.6061925495888,
+                    203.01299589603283,
+                    198.33333333333334,
                     330.5800273597811
                 ],
                 "page_number": 8,
@@ -734,8 +825,8 @@
                 "type": "image",
                 "bbox": [
                     219.63473633284957,
-                    207.04445964432284,
-                    351.7610062893082,
+                    205.31668946648426,
+                    500.5829704886309,
                     330.86798905608754
                 ],
                 "page_number": 8,
@@ -764,7 +855,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -780,7 +871,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -841,6 +932,18 @@
                 ],
                 "page_number": 9,
                 "text": "Work out the area of this shape."
+            },
+            {
+                "type": "form_text",
+                "bbox": [
+                    506.05224963715534,
+                    483.4876880984952,
+                    527.9293662312531,
+                    499.3255813953488
+                ],
+                "page_number": 9,
+                "blockMath": "\\[\n\\mathrm{cm}^{2}\n\\]",
+                "text": "\\(\n\\mathrm{cm}^{2}\n\\)"
             }
         ]
     },
@@ -856,7 +959,18 @@
                     541.0800273597811
                 ],
                 "page_number": 9,
-                "text": "17 The volume of a cylinder is \\(863.5 \\mathrm{~cm}^{3}\\). The height of the cylinder is 12.3 cm ."
+                "text": "17 The volume of a cylinder is \\(863.5 \\mathrm{~cm}^{3}\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    537.6244870041039,
+                    244.9661344944364,
+                    553.4623803009575
+                ],
+                "page_number": 9,
+                "text": "The height of the cylinder is 12.3 cm ."
             },
             {
                 "type": "text",
@@ -870,7 +984,7 @@
                 "text": "Find the radius of the cylinder."
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     511.233671988389,
                     720.1922024623802,
@@ -878,7 +992,7 @@
                     734.3023255813953
                 ],
                 "page_number": 9,
-                "text": "cm [3]"
+                "text": "cm "
             }
         ]
     },
@@ -894,7 +1008,18 @@
                     76.59781121751026
                 ],
                 "page_number": 10,
-                "text": "18 Dara changes 5700 Thai baht to dollars. The exchange rate is \\(\\$ 1=34.18\\) Thai baht."
+                "text": "18 Dara changes 5700 Thai baht to dollars."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    272.3125302370586,
+                    89.84404924760602
+                ],
+                "page_number": 10,
+                "text": "The exchange rate is \\(\\$ 1=34.18\\) Thai baht."
             },
             {
                 "type": "text",
@@ -932,7 +1057,18 @@
                     205.02872777017782
                 ],
                 "page_number": 10,
-                "text": "19 A four-sided dice is numbered 1 to 4. Hrishi throws the dice 50 times."
+                "text": "19 A four-sided dice is numbered 1 to 4."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    205.31668946648426,
+                    219.63473633284957,
+                    217.98700410396717
+                ],
+                "page_number": 10,
+                "text": "Hrishi throws the dice 50 times."
             },
             {
                 "type": "text",
@@ -955,7 +1091,7 @@
                 ],
                 "page_number": 10,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>Number</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>Frequency</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>14</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>15</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>9</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>12</div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >Number</td><td >Frequency</td></tr><tr><td >1</td><td >14</td></tr><tr><td >2</td><td >15</td></tr><tr><td >3</td><td >9</td></tr><tr><td >4</td><td >12</td></tr></table>",
                     "caption": ""
                 }
             },
@@ -984,7 +1120,18 @@
                     532.1532147742818
                 ],
                 "page_number": 10,
-                "text": "20 A tin contains red, yellow, green and brown sweets. The table shows some of the probabilities of picking a sweet of each colour at random."
+                "text": "20 A tin contains red, yellow, green and brown sweets."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    531.0013679890561,
+                    472.0851475568457,
+                    545.3994528043776
+                ],
+                "page_number": 10,
+                "text": "The table shows some of the probabilities of picking a sweet of each colour at random."
             },
             {
                 "type": "table",
@@ -996,7 +1143,7 @@
                 ],
                 "page_number": 10,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Colour</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>Red</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>Yellow</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>Green</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>Brown</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Probability</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0.68</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0.05</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0.14</div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >Colour</td><td >Red</td><td >Yellow</td><td >Green</td><td >Brown</td></tr><tr><td >Probability</td><td >0.68</td><td ></td><td >0.05</td><td >0.14</td></tr></table>",
                     "caption": ""
                 }
             },
@@ -1016,16 +1163,6 @@
     {
         "label": "21",
         "content": [
-            {
-                "type": "text",
-                "bbox": [
-                    5.469279148524432,
-                    31.09986320109439,
-                    14.968553459119498,
-                    158.0909712722298
-                ],
-                "page_number": 11
-            },
             {
                 "type": "text",
                 "bbox": [
@@ -1072,7 +1209,7 @@
                 "bbox": [
                     169.25979680696662,
                     133.03830369357044,
-                    206.3933236574746,
+                    282.09966134494437,
                     145.70861833105334
                 ],
                 "page_number": 11,
@@ -1083,7 +1220,7 @@
                 "bbox": [
                     197.1819061441703,
                     172.4890560875513,
-                    208.12046444121918,
+                    286.129656507015,
                     187.75102599179206
                 ],
                 "page_number": 11,
@@ -1101,12 +1238,12 @@
                 "text": "Calculate \\(B C\\) ．"
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     353.20029027576203,
                     297.4644322845417,
-                    383.137397194001,
-                    309.2708618331053
+                    545.2007740686986,
+                    310.1347469220246
                 ],
                 "page_number": 11,
                 "text": "\\(B C=\\) cm［3］"
@@ -1118,22 +1255,8 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
-                    {
-                        "type": "table",
-                        "bbox": [
-                            4.029995162070634,
-                            29.372093023255815,
-                            17.271407837445576,
-                            815.7954856361149
-                        ],
-                        "page_number": 11,
-                        "table": {
-                            "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>NISyVW SIHI NI ヨHYM ION OI</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>NISyVW SIHI NI ヨHYM ION OI</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>NISyVW SIHI NI ヨHYM ION OC</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>NISyVW SIHI NI ヨHYM ION OI</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>NISyVW SIHI NI ヨHYM ION OC</div></td>\n  </tr>\n</table>",
-                            "caption": ""
-                        }
-                    },
                     {
                         "type": "text",
                         "bbox": [
@@ -1148,16 +1271,16 @@
                     {
                         "type": "text",
                         "bbox": [
-                            5.469279148524432,
+                            93.55345911949686,
                             359.9521203830369,
-                            14.968553459119498,
-                            485.5034199726402
+                            497.41654571843253,
+                            375.79001367989054
                         ],
                         "page_number": 11,
-                        "text": " Write the ratio money invested by Anil ：money invested by Baz in its simplest form．"
+                        "text": "Write the ratio money invested by Anil ：money invested by Baz in its simplest form．"
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             450.208030962748,
                             424.1675786593707,
@@ -1170,7 +1293,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1181,7 +1304,18 @@
                             466.4979480164159
                         ],
                         "page_number": 11,
-                        "text": "（b）Kamil and Lavik share some money in the ratio Kamil ：Lavik＝5：9． Lavik receives \\(\\$ 72\\) more than Kamil．"
+                        "text": "（b）Kamil and Lavik share some money in the ratio Kamil ：Lavik＝5：9．"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            465.3461012311901,
+                            267.41896468311563,
+                            478.01641586867305
+                        ],
+                        "page_number": 11,
+                        "text": "Lavik receives \\(\\$ 72\\) more than Kamil．"
                     },
                     {
                         "type": "text",
@@ -1195,17 +1329,7 @@
                         "text": "Calculate the total amount of money they share．"
                     },
                     {
-                        "type": "text",
-                        "bbox": [
-                            5.469279148524432,
-                            523.2264021887825,
-                            14.968553459119498,
-                            649.641586867305
-                        ],
-                        "page_number": 11
-                    },
-                    {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             371.33526850507985,
                             595.2168262653898,
@@ -1218,7 +1342,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1243,17 +1367,7 @@
                         "text": "Calculate the total interest earned during the 5 years．"
                     },
                     {
-                        "type": "text",
-                        "bbox": [
-                            5.469279148524432,
-                            686.7886456908344,
-                            14.968553459119498,
-                            814.3556771545827
-                        ],
-                        "page_number": 11
-                    },
-                    {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             374.789550072569,
                             738.3337893296854,
@@ -1313,7 +1427,7 @@
                 "bbox": [
                     291.59893565553944,
                     254.84610123119015,
-                    474.3880019351718,
+                    471.22157716497344,
                     344.69015047879617
                 ],
                 "page_number": 12,
@@ -1362,13 +1476,23 @@
             {
                 "type": "text",
                 "bbox": [
-                    428.90662796323176,
+                    152.85195936139334,
                     259.74145006839944,
-                    472.66086115142724,
-                    270.68399452804374
+                    166.09337203676827,
+                    274.7154582763338
                 ],
                 "page_number": 12,
-                "text": "   "
+                "text": "  "
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    428.90662796323176,
+                    273.5636114911081,
+                    467.7672955974843,
+                    285.37004103967166
+                ],
+                "page_number": 12
             },
             {
                 "type": "text",
@@ -1384,22 +1508,23 @@
                 "type": "text",
                 "bbox": [
                     119.17271407837447,
-                    311.57455540355676,
-                    133.2776971456217,
+                    310.71067031463747,
+                    254.1775520077407,
                     324.24487004103963
                 ],
                 "page_number": 12,
-                "text": "     "
+                "text": "  "
             },
             {
                 "type": "text",
                 "bbox": [
-                    358.0938558297049,
-                    330.29206566347466,
-                    389.75810353168845,
-                    343.8262653898769
+                    169.25979680696662,
+                    322.22913816689464,
+                    466.90372520561203,
+                    334.8994528043776
                 ],
-                "page_number": 12
+                "page_number": 12,
+                "text": "  "
             },
             {
                 "type": "text",
@@ -1424,7 +1549,7 @@
                 "text": "Calculate \\(A B\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     351.7610062893082,
                     501.3413132694938,
@@ -1432,7 +1557,8 @@
                     515.7393980848153
                 ],
                 "page_number": 12,
-                "blockMath": "\\[\nA B=\n\\]"
+                "blockMath": "\\[\nA B=\n\\]",
+                "text": "\\(\nA B=\n\\)"
             }
         ]
     },
@@ -1448,7 +1574,18 @@
                     555.1901504787961
                 ],
                 "page_number": 12,
-                "text": "25 A bar of gold in the shape of a cuboid has dimensions 2 cm by 4 cm by 6.5 cm . The density of gold is \\(19.32 \\mathrm{~g} / \\mathrm{cm}^{3}\\)."
+                "text": "25 A bar of gold in the shape of a cuboid has dimensions 2 cm by 4 cm by 6.5 cm ."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    552.3105335157319,
+                    235.1790033865506,
+                    568.4363885088919
+                ],
+                "page_number": 12,
+                "text": "The density of gold is \\(19.32 \\mathrm{~g} / \\mathrm{cm}^{3}\\)."
             },
             {
                 "type": "text",
@@ -1497,7 +1634,18 @@
                     102.80232558139535
                 ],
                 "page_number": 13,
-                "text": "15 students speak English. 12 students speak Spanish."
+                "text": "15 students speak English."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    101.93844049247606,
+                    196.6061925495888,
+                    116.0485636114911
+                ],
+                "page_number": 13,
+                "text": "12 students speak Spanish."
             },
             {
                 "type": "text",
@@ -1533,7 +1681,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1549,7 +1697,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1565,7 +1713,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1606,6 +1754,17 @@
                 ],
                 "page_number": 13,
                 "text": "Complete this statement about the value of \\(h\\)."
+            },
+            {
+                "type": "form_text",
+                "bbox": [
+                    437.2544750846638,
+                    629.7722298221614,
+                    469.49443638122887,
+                    643.8823529411765
+                ],
+                "page_number": 13,
+                "text": "\\(\\leqslant h<\\)"
             }
         ]
     },
@@ -1614,11 +1773,11 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1641,14 +1800,14 @@
                                 ],
                                 "page_number": 14,
                                 "table": {
-                                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(x\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>4</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(y\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n</table>",
+                                    "html": "<table><tr><td >\\(x\\)</td><td >-3</td><td >-2</td><td >-1</td><td >0</td><td >1</td><td >2</td><td >3</td><td >4</td></tr><tr><td >\\(y\\)</td><td ></td><td >1</td><td >-3</td><td ></td><td ></td><td >-3</td><td >1</td><td ></td></tr></table>",
                                     "caption": ""
                                 }
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1686,7 +1845,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1702,7 +1861,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1773,7 +1932,18 @@
                     264.9247606019152
                 ],
                 "page_number": 15,
-                "text": "This shape is made from a rectangle and a semicircle. The diameter of the semicircle is 10 cm ."
+                "text": "This shape is made from a rectangle and a semicircle."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    264.63679890560877,
+                    257.3439767779391,
+                    277.30711354309165
+                ],
+                "page_number": 15,
+                "text": "The diameter of the semicircle is 10 cm ."
             },
             {
                 "type": "text",
@@ -1785,6 +1955,17 @@
                 ],
                 "page_number": 15,
                 "text": "Calculate the perimeter of this shape."
+            },
+            {
+                "type": "form_text",
+                "bbox": [
+                    511.233671988389,
+                    484.92749658002737,
+                    546.6400580551524,
+                    499.3255813953488
+                ],
+                "page_number": 15,
+                "text": "cm "
             }
         ]
     },
@@ -1835,32 +2016,21 @@
             {
                 "type": "text",
                 "bbox": [
-                    251.29898403483313,
+                    164.36623125302373,
                     152.90766073871407,
-                    276.3425253991292,
-                    166.15389876880985
+                    189.12191582002905,
+                    168.74555403556772
                 ],
                 "page_number": 16,
-                "text": "  NOT TO"
+                "text": " "
             },
             {
                 "type": "text",
                 "bbox": [
-                    386.30382196419936,
-                    177.3844049247606,
-                    426.6037735849057,
-                    190.0547195622435
-                ],
-                "page_number": 16,
-                "text": "SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    304.8403483309144,
+                    179.04692791485246,
                     230.0813953488372,
-                    318.36961780358007,
-                    240.16005471956223
+                    194.01548137397197,
+                    251.67852257181943
                 ],
                 "page_number": 16,
                 "text": " "
@@ -1888,25 +2058,15 @@
                 "text": "Calculate angle \\(Q R P\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     313.76390904692795,
                     433.9582763337893,
-                    382.2738268021287,
+                    547.5036284470248,
                     449.79616963064296
                 ],
                 "page_number": 16,
-                "blockMath": "\\[\n\\text { Angle } Q R P=\n\\]"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    530.8079342041607,
-                    435.68604651162786,
-                    547.5036284470248,
-                    449.2202462380301
-                ],
-                "page_number": 16
+                "text": "\\(\n\\text { Angle } Q R P=\n\\) "
             }
         ]
     }

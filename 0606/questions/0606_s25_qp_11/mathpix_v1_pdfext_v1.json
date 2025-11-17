@@ -4,7 +4,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -20,15 +20,15 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             356.7845417236662,
-                            546.6400580551524,
-                            370.89466484268127
+                            216.18045476536045,
+                            384.140902872777
                         ],
                         "page_number": 3,
                         "text": "(b) The vectors \\(\\mathbf{a}, \\mathbf{b}\\) and \\(\\mathbf{c}\\) are such that \\(\\mathbf{a}=\\alpha \\mathbf{i}+6 \\mathbf{j}, \\quad \\mathbf{b}=4 \\mathbf{i}+\\beta \\mathbf{j} \\quad\\) and \\(\\quad \\mathbf{c}=(2 \\alpha+5 \\beta) \\mathbf{i}+20 \\mathbf{j}\\), where \\(\\alpha\\) and \\(\\beta\\) are scalars."
@@ -92,7 +92,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -108,7 +108,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -124,7 +124,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -146,7 +146,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -162,7 +162,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -195,7 +195,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -211,7 +211,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -265,7 +265,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -281,35 +281,35 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     70.52491533623609,
                                     62.48768809849521,
-                                    454.81373971940013,
-                                    78.32558139534883
+                                    547.5036284470248,
+                                    79.18946648426812
                                 ],
                                 "page_number": 9,
-                                "text": "(b) (i) Show that the curve has stationary points where \\(x=-1, x=0\\) and \\(x=1\\). [1]"
+                                "text": "(b) (i) Show that the curve has stationary points where \\(x=-1, x=0\\) and \\(x=1\\). "
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     90.3870343492985,
                                     167.593707250342,
-                                    546.6400580551524,
-                                    181.99179206566347
+                                    382.2738268021287,
+                                    194.9500683994528
                                 ],
                                 "page_number": 9,
                                 "text": "(ii) Use the first derivative test to determine which two stationary points have the same nature and state whether they are maximum or minimum points."
@@ -332,7 +332,18 @@
                     76.59781121751026
                 ],
                 "page_number": 10,
-                "text": "7 Solutions to this question by accurate drawing will not be accepted. Find the \\(x\\)-coordinates of the points where the curve \\(y=(2 x-9)\\left(x^{2}+5\\right)+42\\) cuts the \\(x\\)-axis."
+                "text": "7 Solutions to this question by accurate drawing will not be accepted."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    77.17373461012312,
+                    513.8243831640059,
+                    96.4671682626539
+                ],
+                "page_number": 10,
+                "text": "Find the \\(x\\)-coordinates of the points where the curve \\(y=(2 x-9)\\left(x^{2}+5\\right)+42\\) cuts the \\(x\\)-axis."
             }
         ]
     },
@@ -341,7 +352,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -357,7 +368,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -417,7 +428,18 @@
                     393.9316005471956
                 ],
                 "page_number": 12,
-                "text": "The point \\(A\\) with \\(x\\)-coordinate 2 lies on the curve \\(y=\\sqrt{4 x+1}\\). The diagram shows part of this curve and the tangent to the curve at \\(A\\)."
+                "text": "The point \\(A\\) with \\(x\\)-coordinate 2 lies on the curve \\(y=\\sqrt{4 x+1}\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    392.7797537619699,
+                    398.68166424770203,
+                    407.17783857729137
+                ],
+                "page_number": 12,
+                "text": "The diagram shows part of this curve and the tangent to the curve at \\(A\\)."
             },
             {
                 "type": "text",
@@ -437,7 +459,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -453,7 +475,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -482,12 +504,23 @@
                     76.59781121751026
                 ],
                 "page_number": 15,
-                "text": "11 An arithmetic progression has common difference \\(d\\) ． The 3rd term of this progression is 10."
+                "text": "11 An arithmetic progression has common difference \\(d\\) ．"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    250.72327044025158,
+                    89.84404924760602
+                ],
+                "page_number": 15,
+                "text": "The 3rd term of this progression is 10."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -498,12 +531,23 @@
                             116.0485636114911
                         ],
                         "page_number": 15,
-                        "text": "（a）Write down expressions for the 1st term and the 2nd term of this progression． Give your answers in terms of \\(d\\) only．"
+                        "text": "（a）Write down expressions for the 1st term and the 2nd term of this progression．"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            114.89671682626539,
+                            268.85824866956943,
+                            129.29480164158687
+                        ],
+                        "page_number": 15,
+                        "text": "Give your answers in terms of \\(d\\) only．"
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -514,15 +558,26 @@
                             259.16552667578657
                         ],
                         "page_number": 15,
-                        "text": "（b）When each of the first 3 terms is squared，the sum of these squares is 140 ． There are two possible values for \\(d\\) ．"
+                        "text": "（b）When each of the first 3 terms is squared，the sum of these squares is 140 ．"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            258.01367989056087,
+                            260.79825834542817,
+                            272.4117647058823
+                        ],
+                        "page_number": 15,
+                        "text": "There are two possible values for \\(d\\) ．"
                     },
                     {
                         "type": "text",
                         "bbox": [
                             93.55345911949686,
                             282.7783857729138,
-                            546.6400580551524,
-                            296.88850889192884
+                            181.92549588776006,
+                            310.1347469220246
                         ],
                         "page_number": 15,
                         "text": "Using your answer to part（a），find the sum of the first 200 terms of the progression with the smaller value of \\(d\\) ．"
@@ -543,7 +598,18 @@
                     76.59781121751026
                 ],
                 "page_number": 16,
-                "text": "12 In this question \\(n \\geqslant 6\\). Use an algebraic method to show that \\({ }^{n} \\mathrm{C}_{5}-{ }^{n-1} \\mathrm{C}_{5}\\) can be written as \\({ }^{n-1} \\mathrm{C}_{4}\\)."
+                "text": "12 In this question \\(n \\geqslant 6\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    73.71819425444596,
+                    434.95162070633774,
+                    93.01162790697674
+                ],
+                "page_number": 16,
+                "text": "Use an algebraic method to show that \\({ }^{n} \\mathrm{C}_{5}-{ }^{n-1} \\mathrm{C}_{5}\\) can be written as \\({ }^{n-1} \\mathrm{C}_{4}\\)."
             }
         ]
     }

@@ -83,7 +83,7 @@
                 "text": "Find the values of \\(w, x\\) and \\(y\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     358.9574262215772,
                     593.4890560875513,
@@ -91,7 +91,8 @@
                     661.1600547195623
                 ],
                 "page_number": 3,
-                "blockMath": "\\[\n\\begin{aligned}\n& w= \\\\\n& x= \\\\\n& y=\n\\end{aligned}\n\\]"
+                "blockMath": "\\[\n\\begin{aligned}\n& w= \\\\\n& x= \\\\\n& y=\n\\end{aligned}\n\\]",
+                "text": "\\(\n\\begin{aligned}\n& w= \\\\\n& x= \\\\\n& y=\n\\end{aligned}\n\\)"
             }
         ]
     },
@@ -121,7 +122,7 @@
                 "text": "Work out the total value of her investment at the end of 6 years."
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     374.789550072569,
                     231.80916552667577,
@@ -235,7 +236,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -251,7 +252,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -302,7 +303,18 @@
                     568.4363885088919
                 ],
                 "page_number": 5,
-                "text": "7 Write the recurring decimal \\(0.2 \\dot{6}\\) as a fraction. Give your answer in its simplest form."
+                "text": "7 Write the recurring decimal \\(0.2 \\dot{6}\\) as a fraction."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    565.5567715458276,
+                    250.72327044025158,
+                    581.3946648426812
+                ],
+                "page_number": 5,
+                "text": "Give your answer in its simplest form."
             }
         ]
     },
@@ -323,7 +335,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -339,7 +351,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -364,7 +376,7 @@
                         "text": "Find the value of \\(y\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             362.4117077890663,
                             330.29206566347466,
@@ -372,7 +384,8 @@
                             342.0984952120383
                         ],
                         "page_number": 6,
-                        "blockMath": "\\[\ny=\n\\]"
+                        "blockMath": "\\[\ny=\n\\]",
+                        "text": "\\(\ny=\n\\)"
                     }
                 ]
             }
@@ -402,7 +415,7 @@
                 ],
                 "page_number": 6,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Test mark</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>5</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>8</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Frequency</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(n\\)</div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >Test mark</td><td >4</td><td >5</td><td >8</td></tr><tr><td >Frequency</td><td >2</td><td >4</td><td >\\(n\\)</td></tr></table>",
                     "caption": ""
                 }
             },
@@ -429,7 +442,7 @@
                 "text": "Work out the value of \\(n\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     363.2752781809386,
                     683.9090287277702,
@@ -437,7 +450,8 @@
                     695.7154582763337
                 ],
                 "page_number": 6,
-                "blockMath": "\\[\nn=\n\\]"
+                "blockMath": "\\[\nn=\n\\]",
+                "text": "\\(\nn=\n\\)"
             }
         ]
     },
@@ -484,7 +498,18 @@
                     341.5225718194254
                 ],
                 "page_number": 7,
-                "text": "\\(A, B\\) and \\(C\\) are three points on a circle, centre \\(O\\). \\(D E\\) is a tangent to the circle at \\(A\\)."
+                "text": "\\(A, B\\) and \\(C\\) are three points on a circle, centre \\(O\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    69.66134494436382,
+                    340.3707250341997,
+                    224.52830188679246,
+                    353.6169630642955
+                ],
+                "page_number": 7,
+                "text": "\\(D E\\) is a tangent to the circle at \\(A\\)."
             },
             {
                 "type": "text",
@@ -511,7 +536,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -538,7 +563,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -565,7 +590,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -592,7 +617,7 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -606,7 +631,7 @@
                         "text": "(d) angle \\(O A B\\)."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             313.76390904692795,
                             703.7783857729138,
@@ -663,12 +688,23 @@
                     466.4979480164159
                 ],
                 "page_number": 8,
-                "text": "The tangent from \\(P\\) touches the graph of \\(y=\\mathrm{f}(x)\\) at the point \\((a, b)\\). The values of \\(a\\) and \\(b\\) are integers."
+                "text": "The tangent from \\(P\\) touches the graph of \\(y=\\mathrm{f}(x)\\) at the point \\((a, b)\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    465.3461012311901,
+                    231.14900822447996,
+                    479.45622435020516
+                ],
+                "page_number": 8,
+                "text": "The values of \\(a\\) and \\(b\\) are integers."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -695,7 +731,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -706,10 +742,21 @@
                             583.1224350205198
                         ],
                         "page_number": 8,
-                        "text": "(b) Find the equation of the tangent. Give your answer in the form \\(y=m x+c\\)."
+                        "text": "(b) Find the equation of the tangent."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "text",
+                        "bbox": [
+                            92.68988872762459,
+                            581.1067031463748,
+                            288.72036768263183,
+                            596.3686730506156
+                        ],
+                        "page_number": 8,
+                        "text": "Give your answer in the form \\(y=m x+c\\)."
+                    },
+                    {
+                        "type": "form_text",
                         "bbox": [
                             361.548137397194,
                             751.2920656634747,
@@ -717,7 +764,8 @@
                             766.5540355677155
                         ],
                         "page_number": 8,
-                        "blockMath": "\\[\ny=\n\\]"
+                        "blockMath": "\\[\ny=\n\\]",
+                        "text": "\\(\ny=\n\\)"
                     }
                 ]
             }
@@ -735,7 +783,18 @@
                     76.59781121751026
                 ],
                 "page_number": 9,
-                "text": "12 The time spent on the internet by each of 120 adults is recorded for one day. The cumulative frequency diagram shows this information."
+                "text": "12 The time spent on the internet by each of 120 adults is recorded for one day."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    346.2917271407838,
+                    89.84404924760602
+                ],
+                "page_number": 9,
+                "text": "The cumulative frequency diagram shows this information."
             },
             {
                 "type": "image",
@@ -760,7 +819,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -774,7 +833,7 @@
                         "text": "(a) Use the cumulative frequency diagram to find an estimate of the interquartile range."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             517.5665215287858,
                             573.9076607387141,
@@ -782,12 +841,12 @@
                             589.7455540355677
                         ],
                         "page_number": 9,
-                        "text": "h [2]"
+                        "text": "h "
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -812,7 +871,7 @@
                         "text": "Use the cumulative frequency diagram to find an estimate of the value of \\(k\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             359.8209966134495,
                             713.5690834473324,
@@ -820,7 +879,8 @@
                             734.3023255813953
                         ],
                         "page_number": 9,
-                        "blockMath": "\\[\nk=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . \\ldots \\ldots . . . \\ldots . . . . . . . . . . .\n\\]"
+                        "blockMath": "\\[\nk=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . \\ldots \\ldots . . . \\ldots . . . . . . . . . . .\n\\]",
+                        "text": "\\(\nk=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . . \\ldots \\ldots . . . \\ldots . . . . . . . . . . .\n\\)"
                     }
                 ]
             }
@@ -845,7 +905,7 @@
                 "bbox": [
                     118.30914368650218,
                     73.71819425444596,
-                    227.69472665699084,
+                    388.8945331398162,
                     199.8454172366621
                 ],
                 "page_number": 10,
@@ -863,20 +923,9 @@
             {
                 "type": "text",
                 "bbox": [
-                    432.07305273343013,
-                    123.24760601915185,
-                    476.11514271891633,
-                    134.19015047879617
-                ],
-                "page_number": 10,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     147.67053701015968,
                     207.04445964432284,
-                    185.0919206579584,
+                    342.83744557329464,
                     219.71477428180575
                 ],
                 "page_number": 10,
@@ -891,7 +940,18 @@
                     250.81463748290014
                 ],
                 "page_number": 10,
-                "text": "The diagram shows solid \\(A\\) and solid \\(B\\). Solid \\(A\\) is made from a hemisphere and a cone each with radius 6 cm ."
+                "text": "The diagram shows solid \\(A\\) and solid \\(B\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    249.95075239398085,
+                    392.3488147073053,
+                    264.0608755129959
+                ],
+                "page_number": 10,
+                "text": "Solid \\(A\\) is made from a hemisphere and a cone each with radius 6 cm ."
             },
             {
                 "type": "text",
@@ -902,7 +962,18 @@
                     277.30711354309165
                 ],
                 "page_number": 10,
-                "text": "The cone has sloping edge 10 cm . Solid \\(B\\) is a cylinder with radius 4 cm and height \\(h \\mathrm{~cm}\\)."
+                "text": "The cone has sloping edge 10 cm ."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    276.15526675786595,
+                    323.263183357523,
+                    290.265389876881
+                ],
+                "page_number": 10,
+                "text": "Solid \\(B\\) is a cylinder with radius 4 cm and height \\(h \\mathrm{~cm}\\)."
             },
             {
                 "type": "text",
@@ -918,7 +989,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -932,7 +1003,7 @@
                         "text": "(a) Work out the value of \\(h\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             361.548137397194,
                             535.8967168262653,
@@ -940,12 +1011,13 @@
                             549.4309165526676
                         ],
                         "page_number": 10,
-                        "blockMath": "\\[\nh=\n\\]"
+                        "blockMath": "\\[\nh=\n\\]",
+                        "text": "\\(\nh=\n\\)"
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -967,7 +1039,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -983,7 +1055,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -997,7 +1069,7 @@
                         "text": "(b) Find \\(\\mathrm{f}^{-1}(x)\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             336.7924528301887,
                             228.3536251709986,
@@ -1005,12 +1077,13 @@
                             247.6470588235294
                         ],
                         "page_number": 11,
-                        "blockMath": "\\[\n\\mathrm{f}^{-1}(x)=\n\\]"
+                        "blockMath": "\\[\n\\mathrm{f}^{-1}(x)=\n\\]",
+                        "text": "\\(\n\\mathrm{f}^{-1}(x)=\n\\)"
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1035,31 +1108,21 @@
                         "text": "Find the value of \\(a\\), and the value of \\(b\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             361.548137397194,
-                            376.3659370725034,
-                            384.86453797774556,
-                            388.172366621067
-                        ],
-                        "page_number": 11,
-                        "blockMath": "\\[\na=\n\\]"
-                    },
-                    {
-                        "type": "blockMath",
-                        "bbox": [
-                            448.7687469762942,
                             374.92612859097125,
                             470.3580067731012,
                             389.9001367989056
                         ],
                         "page_number": 11,
-                        "blockMath": "\\[\nb=\n\\]"
+                        "blockMath": "\\[\nb=\n\\]",
+                        "text": "\\(\na=\n\\) \\(\nb=\n\\)"
                     }
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -1103,7 +1166,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1130,7 +1193,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1141,7 +1204,18 @@
                             273.8515731874145
                         ],
                         "page_number": 12,
-                        "text": "（b）Rationalise the denominator． Give your answer in its simplest form．"
+                        "text": "（b）Rationalise the denominator．"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            272.9876880984952,
+                            272.3125302370586,
+                            287.09781121751024
+                        ],
+                        "page_number": 12,
+                        "text": "Give your answer in its simplest form．"
                     },
                     {
                         "type": "blockMath",
@@ -1190,7 +1264,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1201,7 +1275,18 @@
                             76.59781121751026
                         ],
                         "page_number": 13,
-                        "text": "17 (a) A bag contains 6 red marbles, 3 green marbles and 1 blue marble. Two marbles are picked at random from the bag with replacement."
+                        "text": "17 (a) A bag contains 6 red marbles, 3 green marbles and 1 blue marble."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            75.44596443228454,
+                            407.02951136913407,
+                            89.84404924760602
+                        ],
+                        "page_number": 13,
+                        "text": "Two marbles are picked at random from the bag with replacement."
                     },
                     {
                         "type": "text",
@@ -1217,7 +1302,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1228,12 +1313,23 @@
                             232.9610123119015
                         ],
                         "page_number": 13,
-                        "text": "(b) Another bag contains 4 red counters and 2 yellow counters. Two counters are picked at random from this bag without replacement."
+                        "text": "(b) Another bag contains 4 red counters and 2 yellow counters."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            92.68988872762459,
+                            231.80916552667577,
+                            428.33091436865027,
+                            245.9192886456908
+                        ],
+                        "page_number": 13,
+                        "text": "Two counters are picked at random from this bag without replacement."
                     }
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1269,7 +1365,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1300,12 +1396,23 @@
                     76.59781121751026
                 ],
                 "page_number": 14,
-                "text": "18 One day, Anya runs 12 km at a speed of \\(x \\mathrm{~km} / \\mathrm{h}\\). The next day she walks 10 km at a speed of \\((x-4) \\mathrm{km} / \\mathrm{h}\\)."
+                "text": "18 One day, Anya runs 12 km at a speed of \\(x \\mathrm{~km} / \\mathrm{h}\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    333.05031446540886,
+                    89.84404924760602
+                ],
+                "page_number": 14,
+                "text": "The next day she walks 10 km at a speed of \\((x-4) \\mathrm{km} / \\mathrm{h}\\)."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1321,7 +1428,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1337,7 +1444,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1364,7 +1471,7 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -1378,7 +1485,7 @@
                         "text": "(d) Use factorisation to solve the equation \\(x^{2}-2 x-48=0\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             359.8209966134495,
                             646.1860465116279,
@@ -1386,12 +1493,13 @@
                             663.7517099863201
                         ],
                         "page_number": 14,
-                        "blockMath": "\\[\nx=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . \\text { or } x=\\ldots \\ldots . . . . . . . . . . . . .\n\\]"
+                        "blockMath": "\\[\nx=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . \\text { or } x=\\ldots \\ldots . . . . . . . . . . . . .\n\\]",
+                        "text": "\\(\nx=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . \\text { or } x=\\ldots \\ldots . . . . . . . . . . . . .\n\\)"
                     }
                 ]
             },
             {
-                "label": "e",
+                "label": "(e)",
                 "content": [
                     {
                         "type": "text",
@@ -1461,13 +1569,13 @@
             {
                 "type": "text",
                 "bbox": [
-                    405.878084179971,
-                    281.0506155950752,
-                    451.35945815191104,
-                    293.72093023255815
+                    297.35607160135464,
+                    289.4015047879617,
+                    446.4658925979681,
+                    306.9671682626539
                 ],
                 "page_number": 15,
-                "text": "  "
+                "text": " "
             },
             {
                 "type": "text",
@@ -1477,8 +1585,17 @@
                     189.12191582002905,
                     334.0355677154583
                 ],
-                "page_number": 15,
-                "text": " "
+                "page_number": 15
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    215.31688437348816,
+                    338.64295485636114,
+                    241.79970972423806,
+                    348.72161422708615
+                ],
+                "page_number": 15
             },
             {
                 "type": "text",
@@ -1492,7 +1609,7 @@
                 "text": "Find the exact value of \\(x\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     361.548137397194,
                     509.6922024623803,
@@ -1500,7 +1617,8 @@
                     523.2264021887825
                 ],
                 "page_number": 15,
-                "blockMath": "\\[\nx=\n\\]"
+                "blockMath": "\\[\nx=\n\\]",
+                "text": "\\(\nx=\n\\)"
             }
         ]
     },
@@ -1547,7 +1665,18 @@
                     219.71477428180575
                 ],
                 "page_number": 16,
-                "text": "\\(O A B C\\) is a rhombus and \\(O\\) is the origin. The diagonals of the rhombus intersect at \\(P\\)."
+                "text": "\\(O A B C\\) is a rhombus and \\(O\\) is the origin."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    218.56292749658002,
+                    277.2060957910015,
+                    232.0971272229822
+                ],
+                "page_number": 16,
+                "text": "The diagonals of the rhombus intersect at \\(P\\)."
             },
             {
                 "type": "text",
@@ -1563,7 +1692,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1579,7 +1708,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1606,7 +1735,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1635,7 +1764,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1675,12 +1804,23 @@
                     81.49316005471955
                 ],
                 "page_number": 17,
-                "text": "22 A curve has equation \\(y=x^{n}+q x^{2}+9 x\\). \\(\\frac{\\mathrm{d} y}{\\mathrm{~d} x}=3 x^{2}-12 x+9\\)"
+                "text": "22 A curve has equation \\(y=x^{n}+q x^{2}+9 x\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    83.796853625171,
+                    161.19980648282535,
+                    109.42544459644323
+                ],
+                "page_number": 17,
+                "text": "\\(\\frac{\\mathrm{d} y}{\\mathrm{~d} x}=3 x^{2}-12 x+9\\)"
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1694,7 +1834,7 @@
                         "text": "(a) Find the value of \\(n\\), and the value of \\(q\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             359.8209966134495,
                             213.66757865937072,
@@ -1702,12 +1842,13 @@
                             231.23324213406292
                         ],
                         "page_number": 17,
-                        "blockMath": "\\[\nn=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . \\quad q=\n\\]"
+                        "blockMath": "\\[\nn=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . \\quad q=\n\\]",
+                        "text": "\\(\nn=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . \\quad q=\n\\)"
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1721,7 +1862,7 @@
                         "text": "(b) Work out the coordinates of the turning points of the curve."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             410.77164973391393,
                             475.1367989056087,

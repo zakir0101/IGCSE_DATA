@@ -1,0 +1,355 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    63.92749658002736,
+                    214.84511132623427,
+                    91.28385772913816
+                ],
+                "page_number": 2,
+                "text": "1 A random variable, \\(X\\), has the distribution \\(\\operatorname{Po}(31)\\). Use the normal approximation to the Poisson distribution to find \\(\\mathrm{P}(X>40)\\)."
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    431.6545827633379,
+                    489.593417231365,
+                    484.3515731874145
+                ],
+                "page_number": 2,
+                "text": "2 An airline has found that, on average, 1 in 100 passengers do not arrive for each flight, and that this occurs randomly. For one particular flight the airline always sells 403 seats. The plane only has room for 400 passengers, so the flight is overbooked if the number of passengers who do not arrive is less than 3 . Use a suitable approximation to find the probability that the flight is overbooked."
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    63.92749658002736,
+                    145.72604065827687,
+                    117.77633378932968
+                ],
+                "page_number": 3,
+                "text": "3 After an election 153 adults, from a random sample of 200 adults, said that they had voted. Using this information, an \\(\\alpha \\%\\) confidence interval for the proportion of all adults who voted in the election was found to be 0.695 to 0.835 , both correct to 3 significant figures. Find the value of \\(\\alpha\\), correct to the nearest integer."
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    64.79138166894664,
+                    122.6863504356244,
+                    102.80232558139535
+                ],
+                "page_number": 4,
+                "text": "4 The lengths, in millimetres, of rods produced by a machine are normally distributed with mean \\(\\mu\\) and standard deviation 0.9. A random sample of 75 rods produced by the machine has mean length 300.1 mm ."
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            116.62448700410397,
+                            496.7933204259439,
+                            131.02257181942545
+                        ],
+                        "page_number": 4,
+                        "text": "(i) Find a \\(99 \\%\\) confidence interval for \\(\\mu\\), giving your answer correct to 2 decimal places."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "bbox": [
+                            70.55905130687319,
+                            568.1484268125855,
+                            468.85769603097776,
+                            581.3946648426812
+                        ],
+                        "page_number": 4,
+                        "text": "The manufacturer claims that the machine produces rods with mean length 300 mm ."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            75.45498547918683,
+                            593.4890560875513,
+                            428.5382381413359,
+                            607.8871409028727
+                        ],
+                        "page_number": 4,
+                        "text": "(ii) Use the confidence interval found in part (i) to comment on this claim."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    63.92749658002736,
+                    428.5382381413359,
+                    79.76538987688099
+                ],
+                "page_number": 5,
+                "text": "5 A continuous random variable, \\(X\\), has probability density function given by"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    218.5890609874153,
+                    83.796853625171,
+                    373.53097773475315,
+                    120.9439124487004
+                ],
+                "page_number": 5,
+                "blockMath": "\\[\nf(x)= \\begin{cases}\\frac{1}{4}(x+1) & 0 \\leqslant x \\leqslant 2 \\\\ 0 & \\text { otherwise }\\end{cases}\n\\]"
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            134.76607387140902,
+                            148.8939980638916,
+                            148.87619699042406
+                        ],
+                        "page_number": 5,
+                        "text": "(i) Find \\(\\mathrm{E}(X)\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            73.7270087124879,
+                            448.9322845417237,
+                            201.5972894482091,
+                            461.31463748290014
+                        ],
+                        "page_number": 5,
+                        "text": "(ii) Find the median of \\(X\\)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    65.65526675786593,
+                    543.7366892545982,
+                    106.2578659370725
+                ],
+                "page_number": 6,
+                "text": "6 The numbers of barrels of oil, in millions, extracted per day in two oil fields \\(A\\) and \\(B\\) are modelled by the independent random variables \\(X\\) and \\(Y\\) respectively, where \\(X \\sim \\mathrm{~N}\\left(3.2,0.4^{2}\\right)\\) and \\(Y \\sim \\mathrm{~N}\\left(4.3,0.6^{2}\\right)\\). The income generated by the oil from the two fields is \\(\\$ 90\\) per barrel for \\(A\\) and \\(\\$ 95\\) per barrel for \\(B\\)."
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            118.35225718194253,
+                            546.904646660213,
+                            132.4623803009576
+                        ],
+                        "page_number": 6,
+                        "text": "(i) Find the mean and variance of the daily income, in millions of dollars, generated by field \\(A\\). "
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            74.59099709583737,
+                            63.92749658002736,
+                            160.4138431752178,
+                            89.84404924760602
+                        ],
+                        "page_number": 7,
+                        "text": "(ii) Find the probability that the total income produced by the two fields in a day is at least \\(\\$ 670\\) million."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    63.92749658002736,
+                    232.9888673765731,
+                    131.02257181942545
+                ],
+                "page_number": 8,
+                "text": "7 In the past the number of cars sold per day at a showroom has been modelled by a random variable with distribution \\(\\operatorname{Po}(0.7)\\). Following an advertising campaign, it is hoped that the mean number of sales per day will increase. In order to test at the \\(10 \\%\\) significance level whether this is the case, the total number of sales during the first 5 days after the campaign is noted. You should assume that a Poisson model is still appropriate."
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            142.82900136798906,
+                            474.61761858664084,
+                            156.36320109439123
+                        ],
+                        "page_number": 8,
+                        "text": "(i) Given that the total number of cars sold during the 5 days is 5 , carry out the test."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "bbox": [
+                            70.55905130687319,
+                            63.92749658002736,
+                            386.7787996127783,
+                            91.28385772913816
+                        ],
+                        "page_number": 9,
+                        "text": "The number of cars sold per day at another showroom has the independent distribution \\(\\operatorname{Po}(0.6)\\). Assume that the distribution for the first showroom is still \\(\\operatorname{Po}(0.7)\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            74.59099709583737,
+                            103.3782489740082,
+                            142.27008712487898,
+                            130.15868673050616
+                        ],
+                        "page_number": 9,
+                        "text": "(ii) Find the probability that the total number of cars sold in the two showrooms during 3 days is exactly 2 ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "8",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    63.92749658002736,
+                    216.28509196515006,
+                    116.0485636114911
+                ],
+                "page_number": 10,
+                "text": "8 In order to test the effect of a drug, a researcher monitors the concentration, \\(X\\), of a certain protein in the blood stream of patients. For patients who are not taking the drug the mean value of \\(X\\) is 0.185 . A random sample of 150 patients taking the drug was selected and the values of \\(X\\) were found. The results are summarised below."
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    202.17328170377542,
+                    121.51983584131327,
+                    390.8107454017425,
+                    139.08549931600547
+                ],
+                "page_number": 10,
+                "blockMath": "\\[\nn=150 \\quad \\Sigma x=27.0 \\quad \\Sigma x^{2}=5.01\n\\]"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    146.2845417236662,
+                    413.850435624395,
+                    173.64090287277702
+                ],
+                "page_number": 10,
+                "text": "The researcher wishes to test at the \\(1 \\%\\) significance level whether the mean concentration of the protein in the blood stream of patients taking the drug is less than 0.185 ."
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            185.73529411764704,
+                            182.01355275895452,
+                            199.26949384404924
+                        ],
+                        "page_number": 10,
+                        "text": "(i) Carry out the test."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            75.45498547918683,
+                            65.65526675786593,
+                            277.3402710551791,
+                            91.28385772913816
+                        ],
+                        "page_number": 11,
+                        "text": "(ii) Given that, in fact, the mean concentration for patients taking the drug is 0.175 , find the probability of a Type II error occurring in the test."
+                    }
+                ]
+            }
+        ]
+    }
+]

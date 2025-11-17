@@ -1,0 +1,453 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    63.06361149110807,
+                    252.5726040658277,
+                    79.76538987688099
+                ],
+                "page_number": 2,
+                "text": "1 Solve the inequality \\(|x+2|>\\left|\\frac{1}{2} x-2\\right|\\)."
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    103.3782489740082,
+                    546.904646660213,
+                    119.50410396716826
+                ],
+                "page_number": 2,
+                "text": "2 Use logarithms to solve the equation \\(4^{x+1}=5^{2 x-3}\\), giving your answer correct to 3 significant figures."
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    45.79138431752178,
+                    157.8030095759234,
+                    57.599225556631175,
+                    170.47332421340627
+                ],
+                "page_number": 2,
+                "text": "3"
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    160.98983543078413,
+                    165.8659370725034,
+                    458.20183930300095,
+                    318.4856361149111
+                ],
+                "page_number": 2,
+                "image": {
+                    "caption": "",
+                    "bbox": [
+                        160.98983543078413,
+                        165.8659370725034,
+                        458.20183930300095,
+                        318.4856361149111
+                    ],
+                    "page": 2
+                }
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    335.4753761969904,
+                    400.6026137463698,
+                    349.58549931600544
+                ],
+                "page_number": 2,
+                "text": "The diagram shows the curve \\(y=x-2 \\ln x\\) and its minimum point \\(M\\)."
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            361.6798905608755,
+                            227.80493707647628,
+                            374.3502051983584
+                        ],
+                        "page_number": 2,
+                        "text": "(i) Find the \\(x\\)-coordinate of \\(M\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            74.59099709583737,
+                            387.8844049247606,
+                            411.25847047434655,
+                            402.28248974008204
+                        ],
+                        "page_number": 2,
+                        "text": "(ii) Use the trapezium rule with three intervals to estimate the value of"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            257.1805421103582,
+                            407.75376196990425,
+                            338.10745401742497,
+                            438.27770177838573
+                        ],
+                        "page_number": 2,
+                        "blockMath": "\\[\n\\int_{2}^{5}(x-2 \\ln x) \\mathrm{d} x\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.59874152952565,
+                            445.4767441860465,
+                            319.96369796708615,
+                            458.1470588235294
+                        ],
+                        "page_number": 2,
+                        "text": "giving your answer correct to 2 decimal places."
+                    }
+                ]
+            },
+            {
+                "label": "(iii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            72.28702807357212,
+                            471.10533515731873,
+                            283.9641819941917,
+                            497.59781121751024
+                        ],
+                        "page_number": 2,
+                        "text": "(iii) State, with a reason, whether the trapezium rule gives an under-estimate or an over-estimate of the true value of the integral in part (ii)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    522.938440492476,
+                    338.10745401742497,
+                    537.0485636114911
+                ],
+                "page_number": 2,
+                "text": "4 Find the exact value of the positive constant \\(k\\) for which"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    246.52468538238142,
+                    542.5198358413132,
+                    349.62729912875125,
+                    574.7715458276333
+                ],
+                "page_number": 2,
+                "blockMath": "\\[\n\\int_{0}^{k} e^{4 x} d x=\\int_{0}^{2 k} e^{x} d x\n\\]"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    531.0648596321394,
+                    552.3105335157319,
+                    547.7686350435624,
+                    567.5725034199726
+                ],
+                "page_number": 2
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            47.51936108422072,
+                            606.7352941176471,
+                            387.35479186834465,
+                            620.8454172366621
+                        ],
+                        "page_number": 2,
+                        "text": "5 (i) By sketching a suitable pair of graphs, show that the equation"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            273.02032913843175,
+                            625.7407660738714,
+                            323.419651500484,
+                            655.4008207934336
+                        ],
+                        "page_number": 2,
+                        "blockMath": "\\[\n\\frac{1}{x}=\\sin x\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            94.46272991287512,
+                            659.4322845417237,
+                            352.79525653436593,
+                            676.9979480164159
+                        ],
+                        "page_number": 2,
+                        "text": "where \\(x\\) is in radians, has only one root for \\(0<x \\leqslant \\frac{1}{2} \\pi\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            75.45498547918683,
+                            687.3645690834473,
+                            415.57841239109393,
+                            701.4746922024624
+                        ],
+                        "page_number": 2,
+                        "text": "(ii) Verify by calculation that this root lies between \\(x=1.1\\) and \\(x=1.2\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(iii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            72.28702807357212,
+                            711.8413132694939,
+                            316.79574056147146,
+                            753.3077975376196
+                        ],
+                        "page_number": 2,
+                        "text": "(iii) Use the iterative formula \\(x_{n+1}=\\frac{1}{\\sin x_{n}}\\) to determine this root correct to 2 decimal places. Give the result of each iteration to 4 decimal places."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    63.92749658002736,
+                    260.92449177153924,
+                    79.76538987688099
+                ],
+                "page_number": 3,
+                "text": "6 The parametric equations of a curve are"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    225.21297192642788,
+                    83.796853625171,
+                    369.499031945789,
+                    102.80232558139535
+                ],
+                "page_number": 3,
+                "blockMath": "\\[\nx=1+2 \\sin ^{2} \\theta, \\quad y=4 \\tan \\theta\n\\]"
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            116.62448700410397,
+                            232.9888673765731,
+                            145.70861833105334
+                        ],
+                        "page_number": 3,
+                        "text": "(i) Show that \\(\\frac{\\mathrm{d} y}{\\mathrm{~d} x}=\\frac{1}{\\sin \\theta \\cos ^{3} \\theta}\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            73.7270087124879,
+                            154.34746922024624,
+                            193.53339787028074,
+                            185.1593707250342
+                        ],
+                        "page_number": 3,
+                        "text": "(ii) Find the equation of the tangent to the curve at the point where \\(\\theta=\\frac{1}{4} \\pi\\), giving your answer in the form \\(y=m x+c\\)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    46.65537270087125,
+                    207.04445964432284,
+                    481.24152952565345,
+                    236.12859097127222
+                ],
+                "page_number": 3,
+                "text": "7 The polynomial \\(a x^{3}-3 x^{2}-11 x+b\\), where \\(a\\) and \\(b\\) are constants, is denoted by \\(\\mathrm{p}(x)\\). It is given that \\((x+2)\\) is a factor of \\(\\mathrm{p}(x)\\), and that when \\(\\mathrm{p}(x)\\) is divided by \\((x+1)\\) the remainder is 12 ."
+            }
+        ],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            246.4952120383037,
+                            222.90900290416263,
+                            261.75718194254443
+                        ],
+                        "page_number": 3,
+                        "text": "(i) Find the values of \\(a\\) and \\(b\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            73.7270087124879,
+                            272.9876880984952,
+                            375.83494675701843,
+                            287.96169630642953
+                        ],
+                        "page_number": 3,
+                        "text": "(ii) When \\(a\\) and \\(b\\) have these values, factorise \\(\\mathrm{p}(x)\\) completely."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "8",
+        "content": [],
+        "parts": [
+            {
+                "label": "(i)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            47.51936108422072,
+                            312.43844049247605,
+                            366.0430784123911,
+                            339.79480164158684
+                        ],
+                        "page_number": 3,
+                        "text": "8 (i) Express \\(5 \\cos \\theta-3 \\sin \\theta\\) in the form \\(R \\cos (\\theta+\\alpha)\\), where \\(R>0\\) and \\(0^{\\circ}<\\alpha<90^{\\circ}\\), giving the exact value of \\(R\\) and the value of \\(\\alpha\\) correct to 2 decimal places."
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            73.7270087124879,
+                            351.0253077975376,
+                            216.28509196515006,
+                            365.99931600547194
+                        ],
+                        "page_number": 3,
+                        "text": "(ii) Hence solve the equation"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            246.52468538238142,
+                            366.5752393980848,
+                            347.89932236205226,
+                            384.140902872777
+                        ],
+                        "page_number": 3,
+                        "blockMath": "\\[\n5 \\cos \\theta-3 \\sin \\theta=4\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.59874152952565,
+                            387.8844049247606,
+                            324.8596321393998,
+                            404.0102599179206
+                        ],
+                        "page_number": 3,
+                        "text": "giving all solutions in the interval \\(0^{\\circ} \\leqslant \\theta \\leqslant 360^{\\circ}\\)."
+                    }
+                ]
+            },
+            {
+                "label": "(iii)",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            414.3768809849521,
+                            373.53097773475315,
+                            428.48700410396714
+                        ],
+                        "page_number": 3,
+                        "text": "(iii) Write down the least value of \\(15 \\cos \\theta-9 \\sin \\theta\\) as \\(\\theta\\) varies."
+                    }
+                ]
+            }
+        ]
+    }
+]

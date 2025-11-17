@@ -46,7 +46,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -60,7 +60,7 @@
                         "text": "(a) Calculate the spring constant \\(k\\) of the spring."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             330.17174649250126,
                             631.5,
@@ -68,20 +68,21 @@
                             644.7462380300957
                         ],
                         "page_number": 2,
-                        "blockMath": "\\[\nk=\n\\]"
+                        "blockMath": "\\[\nk=\n\\]",
+                        "text": "\\(\nk=\n\\)"
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             655.9767441860465,
-                            548.367198838897,
-                            671.8146374829001
+                            204.9540396710208,
+                            685.0608755129958
                         ],
                         "page_number": 2,
                         "text": "(b) A student states that the spring has not reached the limit of proportionality when a force of 4500 N is applied to it."
@@ -100,15 +101,15 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             62.48768809849521,
-                            546.6400580551524,
-                            76.59781121751026
+                            300.23463957426225,
+                            88.11627906976744
                         ],
                         "page_number": 3,
                         "text": "(c) Springs can be compressed by forces. The spring described by Fig. 1.1 is compressed by a force \\(F\\) and has an extension of -0.025 m ."
@@ -125,7 +126,7 @@
                         "text": "Determine F."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             328.73246250604745,
                             198.9815321477428,
@@ -133,12 +134,13 @@
                             212.22777017783858
                         ],
                         "page_number": 3,
-                        "blockMath": "\\[\nF=\n\\]"
+                        "blockMath": "\\[\nF=\n\\]",
+                        "text": "\\(\nF=\n\\)"
                     }
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -163,8 +165,8 @@
                 "bbox": [
                     47.49637155297533,
                     62.48768809849521,
-                    546.6400580551524,
-                    76.59781121751026
+                    331.3231736816643,
+                    89.84404924760602
                 ],
                 "page_number": 4,
                 "text": "2 Trolley A and trolley B are on a horizontal，frictionless bench．Trolley A moves to the right with a constant velocity \\(u=0.44 \\mathrm{~m} / \\mathrm{s}\\) ．Trolley B is stationary．"
@@ -222,7 +224,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -260,7 +262,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -277,8 +279,8 @@
                         "bbox": [
                             70.52491533623609,
                             413.5129958960328,
-                            546.6400580551524,
-                            428.48700410396714
+                            371.6231253023706,
+                            441.7332421340629
                         ],
                         "page_number": 4,
                         "text": "（b）After the collision，the two trolleys are joined together and travel with a constant velocity \\(v=0.18 \\mathrm{~m} / \\mathrm{s}\\) to the right．The mass of trolley A is 0.75 kg ．"
@@ -305,7 +307,7 @@
                         "page_number": 4
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             256.19254958877605,
                             580.2428180574556,
@@ -328,19 +330,19 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     70.52491533623609,
                                     62.48768809849521,
-                                    546.6400580551524,
-                                    76.59781121751026
+                                    270.585389453314,
+                                    89.84404924760602
                                 ],
                                 "page_number": 5,
                                 "text": "(c) (i) The trolleys move onto a rough surface which exerts a constant force \\(F\\) on the trolleys and brings them to rest in 2.6 s ."
@@ -357,7 +359,7 @@
                                 "text": "Calculate F."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     329.5960328979197,
                                     198.9815321477428,
@@ -365,20 +367,21 @@
                                     210.5
                                 ],
                                 "page_number": 5,
-                                "blockMath": "\\[\nF=\n\\]"
+                                "blockMath": "\\[\nF=\n\\]",
+                                "text": "\\(\nF=\n\\)"
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     91.8263183357523,
                                     225.1860465116279,
-                                    546.6400580551524,
-                                    239.29616963064294
+                                    459.707305273343,
+                                    252.54240766073872
                                 ],
                                 "page_number": 5,
                                 "text": "(ii) A different rough surface exerts a smaller resistive force on the trolleys. State how this affects the time taken to bring the trolleys to rest. Explain your answer."
@@ -404,6 +407,17 @@
                                 ],
                                 "page_number": 5,
                                 "text": "explanation"
+                            },
+                            {
+                                "type": "form_text",
+                                "bbox": [
+                                    502.88582486695697,
+                                    355.05677154582764,
+                                    546.6400580551524,
+                                    369.4548563611491
+                                ],
+                                "page_number": 5,
+                                "text": ""
                             }
                         ]
                     }
@@ -458,15 +472,15 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             256.2859097127223,
-                            546.6400580551524,
-                            270.68399452804374
+                            129.24770198355105,
+                            282.202462380301
                         ],
                         "page_number": 6,
                         "text": "(a) State the region of the electromagnetic spectrum which radiates thermal energy from the heater."
@@ -474,15 +488,15 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             320.50136798905606,
-                            546.6400580551524,
-                            336.3392612859097
+                            242.66328011611031,
+                            349.58549931600544
                         ],
                         "page_number": 6,
                         "text": "(b) Explain why the shiny metal surface behind the heating elements increases the thermal energy radiated into the room."
@@ -490,7 +504,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -506,15 +520,15 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             62.48768809849521,
-                            546.6400580551524,
-                            76.59781121751026
+                            326.42960812772134,
+                            89.84404924760602
                         ],
                         "page_number": 7,
                         "text": "(d) The mains voltage is 230 V . The two identical heating elements are connected in parallel. Each heating element has a resistance of \\(89 \\Omega\\)."
@@ -522,7 +536,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -536,7 +550,7 @@
                                 "text": "(i) Calculate the current in one heating element."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     300.8103531688438,
                                     198.9815321477428,
@@ -544,20 +558,21 @@
                                     213.09165526675787
                                 ],
                                 "page_number": 7,
-                                "blockMath": "\\[current =\\]"
+                                "blockMath": "\\[current =\\]",
+                                "text": "\\(current =\\)"
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     91.8263183357523,
                                     225.1860465116279,
-                                    546.6400580551524,
-                                    239.29616963064294
+                                    260.79825834542817,
+                                    252.54240766073872
                                 ],
                                 "page_number": 7,
                                 "text": "(ii) Show that the electrical power of the heater is approximately 1200 W . State any equation you use in words or symbols."
@@ -565,7 +580,7 @@
                         ]
                     },
                     {
-                        "label": "iii",
+                        "label": "(iii)",
                         "content": [
                             {
                                 "type": "text",
@@ -583,11 +598,22 @@
                                 "bbox": [
                                     115.71843251088535,
                                     415.81668946648426,
-                                    546.6400580551524,
-                                    431.078659370725
+                                    228.5582970488631,
+                                    444.90082079343364
                                 ],
                                 "page_number": 7,
                                 "text": "Calculate the thermal energy emitted by the heater in (d)(ii) in 60 s . Give your answer to two significant figures."
+                            },
+                            {
+                                "type": "form_text",
+                                "bbox": [
+                                    261.3739719400097,
+                                    581.9705882352941,
+                                    547.5036284470248,
+                                    597.8084815321478
+                                ],
+                                "page_number": 7,
+                                "text": "\\(thermal energy =\\) "
                             }
                         ]
                     }
@@ -603,8 +629,8 @@
                 "bbox": [
                     47.49637155297533,
                     62.48768809849521,
-                    547.5036284470248,
-                    76.59781121751026
+                    124.35413642960813,
+                    88.11627906976744
                 ],
                 "page_number": 8,
                 "text": "4 A train has a maximum speed of \\(200 \\mathrm{~km} / \\mathrm{h}\\). It accelerates from rest with constant acceleration of \\(0.70 \\mathrm{~m} / \\mathrm{s}^{2}\\)."
@@ -612,11 +638,11 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -632,7 +658,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -648,7 +674,7 @@
                         ]
                     },
                     {
-                        "label": "iii",
+                        "label": "(iii)",
                         "content": [
                             {
                                 "type": "text",
@@ -662,7 +688,7 @@
                                 "text": "(iii) Calculate the time taken for the train to reach its maximum speed."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     315.4910498306725,
                                     430.7906976744186,
@@ -670,32 +696,33 @@
                                     442.5971272229822
                                 ],
                                 "page_number": 8,
-                                "blockMath": "\\[time =\\]"
+                                "blockMath": "\\[time =\\]",
+                                "text": "\\(time =\\)"
                             }
                         ]
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     71.38848572810838,
                                     455.2674418604651,
-                                    546.6400580551524,
-                                    469.66552667578657
+                                    236.04257377842285,
+                                    481.18399452804374
                                 ],
                                 "page_number": 8,
                                 "text": "(b) (i) The train has a total mass of 440000 kg . Calculate the force which causes the acceleration of the train."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     312.32462506047415,
                                     567.2845417236662,
@@ -703,20 +730,21 @@
                                     579.954856361149
                                 ],
                                 "page_number": 8,
-                                "blockMath": "\\[force =\\]"
+                                "blockMath": "\\[force =\\]",
+                                "text": "\\(force =\\)"
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     91.8263183357523,
                                     593.4890560875513,
-                                    546.6400580551524,
-                                    607.8871409028727
+                                    466.32801161103055,
+                                    619.40560875513
                                 ],
                                 "page_number": 8,
                                 "text": "(ii) The train travels into a headwind. The force of this headwind opposes the motion of the train. State and explain the effect of this force on the motion of the train."
@@ -742,6 +770,17 @@
                                 ],
                                 "page_number": 8,
                                 "text": "explanation"
+                            },
+                            {
+                                "type": "form_text",
+                                "bbox": [
+                                    502.88582486695697,
+                                    723.359781121751,
+                                    546.6400580551524,
+                                    737.7578659370724
+                                ],
+                                "page_number": 8,
+                                "text": ""
                             }
                         ]
                     }
@@ -757,8 +796,8 @@
                 "bbox": [
                     49.223512336719885,
                     62.48768809849521,
-                    546.6400580551524,
-                    76.59781121751026
+                    127.5205611998065,
+                    88.11627906976744
                 ],
                 "page_number": 9,
                 "text": "5 A light-dependent resistor (LDR) has a low resistance in high light intensity and a high resistance in the dark."
@@ -766,7 +805,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -782,7 +821,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -828,7 +867,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -844,15 +883,15 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     91.8263183357523,
                                     554.0383036935705,
-                                    548.367198838897,
-                                    568.4363885088919
+                                    316.64247701983555,
+                                    581.3946648426812
                                 ],
                                 "page_number": 9,
                                 "text": "(ii) Explain why the lamp is off in the light and the lamp is on in the dark. Use ideas about potential difference (p.d.) in your answer."
@@ -871,8 +910,8 @@
                 "bbox": [
                     49.223512336719885,
                     62.48768809849521,
-                    546.6400580551524,
-                    76.59781121751026
+                    342.83744557329464,
+                    89.84404924760602
                 ],
                 "page_number": 10,
                 "text": "6 Fig. 6.1 shows an object O which is 5.0 cm away from the centre of a thin, converging lens L . The focal length of \\(L\\) is 3.0 cm . Fig. 6.1 is drawn to full scale."
@@ -910,11 +949,11 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -930,7 +969,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -946,7 +985,7 @@
                         ]
                     },
                     {
-                        "label": "iii",
+                        "label": "(iii)",
                         "content": [
                             {
                                 "type": "text",
@@ -962,15 +1001,15 @@
                         ]
                     },
                     {
-                        "label": "iv",
+                        "label": "(iv)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     88.65989356555396,
                                     62.48768809849521,
-                                    546.6400580551524,
-                                    76.59781121751026
+                                    194.87905176584422,
+                                    89.84404924760602
                                 ],
                                 "page_number": 11,
                                 "text": "(iv) In Table 6.1, place a tick in the right-hand column next to all the terms that describe the image in (a)(iii)."
@@ -995,7 +1034,7 @@
                                 ],
                                 "page_number": 11,
                                 "table": {
-                                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>diminished</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>enlarged</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>inverted</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>real</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>same size</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>upright</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>virtual</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n</table>",
+                                    "html": "<table><tr><td >diminished</td><td ></td></tr><tr><td >enlarged</td><td ></td></tr><tr><td >inverted</td><td ></td></tr><tr><td >real</td><td ></td></tr><tr><td >same size</td><td ></td></tr><tr><td >upright</td><td ></td></tr><tr><td >virtual</td><td ></td></tr></table>",
                                     "caption": ""
                                 }
                             }
@@ -1004,15 +1043,15 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             351.8891928864569,
-                            546.6400580551524,
-                            365.99931600547194
+                            176.74407353652637,
+                            379.2455540355677
                         ],
                         "page_number": 11,
                         "text": "(b) The object moves closer to \\(L\\). The new distance between \\(L\\) and the object is less than the focal length of \\(L\\)."
@@ -1037,7 +1076,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1083,7 +1122,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1099,21 +1138,21 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     91.8263183357523,
                                     575.3474692202462,
-                                    546.6400580551524,
-                                    589.7455540355677
+                                    153.71552975326563,
+                                    602.9917920656635
                                 ],
                                 "page_number": 12,
                                 "text": "（ii）Using Fig．7．1，determine the wavelength of the light．Give your answer to two significant figures．"
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     279.2210933720368,
                                     687.3645690834473,
@@ -1126,7 +1165,7 @@
                         ]
                     },
                     {
-                        "label": "iii",
+                        "label": "(iii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1144,15 +1183,15 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             62.48768809849521,
-                            546.6400580551524,
-                            76.59781121751026
+                            364.13884857281084,
+                            89.84404924760602
                         ],
                         "page_number": 13,
                         "text": "(b) A foghorn emits a sound with frequency 380 Hz . The sound is heard by a ship 2.5 km away from the foghorn. The speed of sound in air is \\(330 \\mathrm{~m} / \\mathrm{s}\\)."
@@ -1160,7 +1199,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1171,12 +1210,23 @@
                                     116.0485636114911
                                 ],
                                 "page_number": 13,
-                                "text": "(i) Show that the wavelength of the sound is approximately 0.9 m . State any equation you use in words or symbols."
+                                "text": "(i) Show that the wavelength of the sound is approximately 0.9 m ."
+                            },
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    116.58200290275764,
+                                    114.89671682626539,
+                                    354.35171746492506,
+                                    127.56703146374828
+                                ],
+                                "page_number": 13,
+                                "text": "State any equation you use in words or symbols."
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1190,7 +1240,7 @@
                                 "text": "(ii) Calculate the time it takes for sound to travel to the ship from the foghorn."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     313.76390904692795,
                                     364.84746922024624,
@@ -1198,7 +1248,8 @@
                                     377.5177838577291
                                 ],
                                 "page_number": 13,
-                                "blockMath": "\\[time =\\]"
+                                "blockMath": "\\[time =\\]",
+                                "text": "\\(time =\\)"
                             }
                         ]
                     }
@@ -1214,8 +1265,8 @@
                 "bbox": [
                     47.49637155297533,
                     62.48768809849521,
-                    546.6400580551524,
-                    76.59781121751026
+                    484.1751330430576,
+                    89.84404924760602
                 ],
                 "page_number": 14,
                 "text": "8 Fig. 8.1 shows a metal rod suspended in the magnetic field produced by a pair of permanent magnets. The metal rod is connected to a cell and there is a current in the metal rod."
@@ -1253,7 +1304,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1302,7 +1353,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1329,7 +1380,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1426,6 +1477,17 @@
                         ],
                         "page_number": 15,
                         "text": "M"
+                    },
+                    {
+                        "type": "form_text",
+                        "bbox": [
+                            502.88582486695697,
+                            598.3844049247606,
+                            546.6400580551524,
+                            612.782489740082
+                        ],
+                        "page_number": 15,
+                        "text": ""
                     }
                 ]
             }
@@ -1448,11 +1510,11 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1468,7 +1530,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1501,7 +1563,7 @@
                                 ],
                                 "page_number": 16,
                                 "table": {
-                                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>particle</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>number in one atom</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>location</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>38</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>outside nucleus</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>neutron</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>38</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>inside nucleus</div></td>\n  </tr>\n</table>",
+                                    "html": "<table><tr><td >particle</td><td >number in one atom</td><td >location</td></tr><tr><td ></td><td >38</td><td >outside nucleus</td></tr><tr><td >neutron</td><td ></td><td ></td></tr><tr><td ></td><td >38</td><td >inside nucleus</td></tr></table>",
                                     "caption": ""
                                 }
                             },
@@ -1510,7 +1572,7 @@
                                 "bbox": [
                                     165.51765844218676,
                                     249.95075239398085,
-                                    202.65118529269475,
+                                    431.4973391388486,
                                     262.6210670314637
                                 ],
                                 "page_number": 16,
@@ -1521,7 +1583,7 @@
                                 "bbox": [
                                     289.8717948717949,
                                     275.0034199726402,
-                                    305.7039187227867,
+                                    438.11804547653605,
                                     288.24965800273594
                                 ],
                                 "page_number": 16,
@@ -1542,8 +1604,8 @@
                                 "bbox": [
                                     289.8717948717949,
                                     338.06703146374826,
-                                    305.7039187227867,
-                                    350.1614227086183
+                                    431.4973391388486,
+                                    350.7373461012312
                                 ],
                                 "page_number": 16,
                                 "text": " "
@@ -1553,7 +1615,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1564,31 +1626,31 @@
                             76.59781121751026
                         ],
                         "page_number": 17,
-                        "text": "(b) Strontium-90 is used to measure the thickness of metal sheets in industry. Strontium-90 decays by emitting beta ( \\(\\beta\\) ) particles which pass through a metal sheet to a"
+                        "text": "(b) Strontium-90 is used to measure the thickness of metal sheets in industry."
                     },
                     {
                         "type": "text",
                         "bbox": [
                             93.55345911949686,
-                            88.6922024623803,
+                            75.44596443228454,
                             139.03483309143687,
                             101.3625170998632
                         ],
                         "page_number": 17,
-                        "text": "detector."
+                        "text": "Strontium-90 decays by emitting beta ( \\(\\beta\\) ) particles which pass through a metal sheet to a detector."
                     }
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     95.28059990324142,
                                     114.0328317373461,
-                                    546.6400580551524,
-                                    128.43091655266758
+                                    375.65312046444126,
+                                    139.94938440492476
                                 ],
                                 "page_number": 17,
                                 "text": "(i) One metal sheet is 0.75 mm thick. Suggest why strontium-90 is a suitable radioactive source to measure the thickness of the metal sheets."
@@ -1596,15 +1658,15 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     91.8263183357523,
                                     231.80916552667577,
-                                    546.6400580551524,
-                                    245.9192886456908
+                                    181.06192549588778,
+                                    259.16552667578657
                                 ],
                                 "page_number": 17,
                                 "text": "(ii) The half-life of strontium-90 is approximately 27 years. Fig. 9.1 shows the shape of a decay curve."
@@ -1644,22 +1706,11 @@
                                 "bbox": [
                                     115.71843251088535,
                                     465.3461012311901,
-                                    546.6400580551524,
-                                    478.5923392612859
-                                ],
-                                "page_number": 17,
-                                "text": "The strontium-90 source is replaced with a new source after 15 years. Using Fig. 9.1, suggest why a strontium- 90 source that is more than 15 years old needs to be replaced"
-                            },
-                            {
-                                "type": "text",
-                                "bbox": [
-                                    115.71843251088535,
-                                    491.5506155950752,
                                     209.84760522496373,
                                     504.22093023255815
                                 ],
                                 "page_number": 17,
-                                "text": "with a new source."
+                                "text": "The strontium-90 source is replaced with a new source after 15 years. Using Fig. 9.1, suggest why a strontium- 90 source that is more than 15 years old needs to be replaced with a new source."
                             }
                         ]
                     }
@@ -1675,8 +1726,8 @@
                 "bbox": [
                     49.223512336719885,
                     62.48768809849521,
-                    546.6400580551524,
-                    76.59781121751026
+                    415.37735849056605,
+                    89.84404924760602
                 ],
                 "page_number": 18,
                 "text": "10 Fig. 10.1 shows the path of the Earth as it orbits the Sun. \\(X\\) is a position on the Earth where scientists observe the apparent motion of the Sun throughout the year."
@@ -1714,7 +1765,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1725,7 +1776,18 @@
                             389.0362517099863
                         ],
                         "page_number": 18,
-                        "text": "(a) Determine how many days it takes the Earth to move around its orbit from F to G . Explain your answer."
+                        "text": "(a) Determine how many days it takes the Earth to move around its orbit from F to G ."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            388.7482900136799,
+                            198.33333333333334,
+                            402.28248974008204
+                        ],
+                        "page_number": 18,
+                        "text": "Explain your answer."
                     },
                     {
                         "type": "text",
@@ -1752,7 +1814,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1768,7 +1830,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1784,7 +1846,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1802,7 +1864,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1827,7 +1889,7 @@
                         "text": "Calculate the average radius of the Earth's orbit."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             305.7039187227867,
                             239.87209302325581,
@@ -1840,15 +1902,15 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             266.36456908344735,
-                            547.5036284470248,
-                            280.4746922024624
+                            244.9661344944364,
+                            293.72093023255815
                         ],
                         "page_number": 19,
                         "text": "(d) Earth is a planet in the Solar System. State one other type of naturally occurring object that is present in the Solar System."

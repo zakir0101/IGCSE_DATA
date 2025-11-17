@@ -57,7 +57,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -84,7 +84,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -96,33 +96,23 @@
                         ],
                         "page_number": 3,
                         "text": "(b) Calculate the distance travelled by the car between time \\(=0\\) and time \\(=4.0 \\mathrm{~s}\\)."
-                    }
-                ]
-            },
-            {
-                "label": "c",
-                "content": [
-                    {
-                        "type": "blockMath",
-                        "bbox": [
-                            249.85970004837932,
-                            521.2106703146375,
-                            349.4581519109821,
-                            535.3207934336525
-                        ],
-                        "page_number": 3,
-                        "blockMath": "\\[distance travelled =\\]"
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
-                            530.8079342041607,
+                            249.85970004837932,
                             521.2106703146375,
                             547.5036284470248,
                             536.1846785225717
                         ],
-                        "page_number": 3
-                    },
+                        "page_number": 3,
+                        "text": "\\(distance travelled =\\) "
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
                     {
                         "type": "text",
                         "bbox": [
@@ -135,7 +125,7 @@
                         "text": "(c) Calculate the deceleration of the car between time \\(=0.5 \\mathrm{~s}\\) and time \\(=4.0 \\mathrm{~s}\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             276.05466860183844,
                             674.1183310533515,
@@ -143,7 +133,8 @@
                             686.7886456908344
                         ],
                         "page_number": 3,
-                        "blockMath": "\\[deceleration =\\]"
+                        "blockMath": "\\[deceleration =\\]",
+                        "text": "\\(deceleration =\\)"
                     }
                 ]
             }
@@ -207,7 +198,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -223,7 +214,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -271,8 +262,8 @@
                         "bbox": [
                             93.55345911949686,
                             614.798221614227,
-                            546.6400580551524,
-                            629.1963064295485
+                            193.43976777939045,
+                            642.4425444596443
                         ],
                         "page_number": 4,
                         "text": "Determine the velocity \\(v\\) of the capsule after the nose cone is ejected. Give your answer to 3 significant figures."
@@ -280,7 +271,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -291,7 +282,18 @@
                             76.59781121751026
                         ],
                         "page_number": 5,
-                        "text": "(c) A different space capsule returns to Earth. Fig. 2.3 shows this capsule just before it lands in the sea."
+                        "text": "(c) A different space capsule returns to Earth."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            75.44596443228454,
+                            374.21383647798746,
+                            89.84404924760602
+                        ],
+                        "page_number": 5,
+                        "text": "Fig. 2.3 shows this capsule just before it lands in the sea."
                     },
                     {
                         "type": "text",
@@ -355,6 +357,17 @@
                         ],
                         "page_number": 5,
                         "text": "Calculate the mass of the capsule."
+                    },
+                    {
+                        "type": "form_text",
+                        "bbox": [
+                            238.34542815674894,
+                            534.4569083447332,
+                            547.5036284470248,
+                            549.4309165526676
+                        ],
+                        "page_number": 5,
+                        "text": "\\(\n\\text { mass of the capsule }=\n\\) "
                     }
                 ]
             }
@@ -407,15 +420,15 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             292.5690834473324,
-                            546.6400580551524,
-                            306.9671682626539
+                            360.9724238026125,
+                            319.92544459644324
                         ],
                         "page_number": 6,
                         "text": "(a) The archer pulls back on the bow string, doing a total of 110 J of work. Her hand moves a distance of 0.45 m . The bow is bent and stores energy."
@@ -425,8 +438,8 @@
                         "bbox": [
                             93.55345911949686,
                             332.01983584131324,
-                            546.6400580551524,
-                            346.41792065663475
+                            127.5205611998065,
+                            358.5123119015048
                         ],
                         "page_number": 6,
                         "text": "Show that the average force applied by the archer in pulling the string back is approximately 240 N ."
@@ -434,7 +447,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -461,7 +474,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -475,7 +488,7 @@
                                 "text": "(i) Calculate the initial speed \\(v\\) of the arrow."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     267.7068214804064,
                                     674.1183310533515,
@@ -483,12 +496,13 @@
                                     689.9562243502052
                                 ],
                                 "page_number": 6,
-                                "blockMath": "\\[\n\\text { initial speed } v=\n\\]"
+                                "blockMath": "\\[\n\\text { initial speed } v=\n\\]",
+                                "text": "\\(\n\\text { initial speed } v=\n\\)"
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -554,7 +568,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -570,11 +584,11 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -590,29 +604,18 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     90.3870343492985,
                                     443.74897400820794,
-                                    546.6400580551524,
-                                    458.1470588235294
-                                ],
-                                "page_number": 7,
-                                "text": "（ii）A student heats a metal object to \\(100^{\\circ} \\mathrm{C}\\) ．The student places the metal object in an insulated cup containing water at \\(22^{\\circ} \\mathrm{C}\\) ．The final temperature of the water and the metal"
-                            },
-                            {
-                                "type": "text",
-                                "bbox": [
-                                    114.85486211901308,
-                                    470.24145006839944,
                                     191.71262699564588,
                                     484.3515731874145
                                 ],
                                 "page_number": 7,
-                                "text": "object is \\(31^{\\circ} \\mathrm{C}\\) ．"
+                                "text": "（ii）A student heats a metal object to \\(100^{\\circ} \\mathrm{C}\\) ．The student places the metal object in an insulated cup containing water at \\(22^{\\circ} \\mathrm{C}\\) ．The final temperature of the water and the metal object is \\(31^{\\circ} \\mathrm{C}\\) ．"
                             },
                             {
                                 "type": "text",
@@ -623,7 +626,18 @@
                                     510.844049247606
                                 ],
                                 "page_number": 7,
-                                "text": "The specific heat capacity of water is \\(4.2 \\mathrm{~J} /\\left(\\mathrm{g}^{\\circ} \\mathrm{C}\\right)\\) ． The mass of the water in the insulated cup is 50 g ．"
+                                "text": "The specific heat capacity of water is \\(4.2 \\mathrm{~J} /\\left(\\mathrm{g}^{\\circ} \\mathrm{C}\\right)\\) ．"
+                            },
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    114.85486211901308,
+                                    509.6922024623803,
+                                    362.6995645863571,
+                                    523.8023255813953
+                                ],
+                                "page_number": 7,
+                                "text": "The mass of the water in the insulated cup is 50 g ．"
                             },
                             {
                                 "type": "text",
@@ -710,7 +724,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -726,7 +740,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -742,7 +756,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -767,7 +781,7 @@
                         "text": "Calculate the refractive index of the water."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             261.3739719400097,
                             514.5875512995896,
@@ -775,12 +789,13 @@
                             528.985636114911
                         ],
                         "page_number": 8,
-                        "blockMath": "\\[refractive index =\\]"
+                        "blockMath": "\\[refractive index =\\]",
+                        "text": "\\(refractive index =\\)"
                     }
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -814,7 +829,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -830,7 +845,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -846,7 +861,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -862,7 +877,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -889,7 +904,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -955,7 +970,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -992,7 +1007,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1006,7 +1021,7 @@
                         "text": "(b) Calculate the potential difference (p.d.) across the \\(6.0 \\Omega\\) resistor."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             317.21819061441704,
                             455.2674418604651,
@@ -1014,12 +1029,13 @@
                             469.66552667578657
                         ],
                         "page_number": 10,
-                        "blockMath": "\\[p.d. =\\]"
+                        "blockMath": "\\[p.d. =\\]",
+                        "text": "\\(p.d. =\\)"
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1035,7 +1051,7 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -1049,7 +1065,7 @@
                         "text": "(d) Calculate the resistance of resistor \\(R\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             285.8417997097243,
                             728.2551299589603,
@@ -1057,7 +1073,8 @@
                             740.9254445964432
                         ],
                         "page_number": 10,
-                        "blockMath": "\\[resistance =\\]"
+                        "blockMath": "\\[resistance =\\]",
+                        "text": "\\(resistance =\\)"
                     }
                 ]
             }
@@ -1068,11 +1085,11 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1088,7 +1105,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1126,10 +1143,10 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
-                        "type": "text",
+                        "type": "pre_text",
                         "bbox": [
                             277.781809385583,
                             295.73666210670314,
@@ -1139,12 +1156,12 @@
                         "page_number": 11
                     },
                     {
-                        "type": "text",
+                        "type": "pre_text",
                         "bbox": [
-                            116.58200290275764,
+                            115.71843251088535,
                             322.22913816689464,
-                            546.6400580551524,
-                            336.3392612859097
+                            278.93323657474605,
+                            349.58549931600544
                         ],
                         "page_number": 11,
                         "text": "On Fig. 8.1, draw four field lines to show the pattern and the direction of the electric field due to the negative point charge."
@@ -1154,8 +1171,8 @@
                         "bbox": [
                             70.52491533623609,
                             359.9521203830369,
-                            546.6400580551524,
-                            375.79001367989054
+                            244.3904208998549,
+                            389.0362517099863
                         ],
                         "page_number": 11,
                         "text": "(b) The potential difference (p.d.) of a lightning strike is \\(2.9 \\times 10^{8} \\mathrm{~V}\\). The energy transferred by the lightning strike is \\(4.5 \\times 10^{5} \\mathrm{MJ}\\)."
@@ -1172,7 +1189,7 @@
                         "text": "Calculate the charge that flows."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             300.8103531688438,
                             496.44596443228454,
@@ -1180,12 +1197,13 @@
                             512.2838577291382
                         ],
                         "page_number": 11,
-                        "blockMath": "\\[charge =\\]"
+                        "blockMath": "\\[charge =\\]",
+                        "text": "\\(charge =\\)"
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1210,7 +1228,7 @@
                         "text": "Calculate the charge that flows."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             302.24963715529753,
                             647.9138166894664,
@@ -1218,7 +1236,8 @@
                             662.0239398084815
                         ],
                         "page_number": 11,
-                        "blockMath": "\\[charge =\\]"
+                        "blockMath": "\\[charge =\\]",
+                        "text": "\\(charge =\\)"
                     }
                 ]
             }
@@ -1229,7 +1248,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1275,7 +1294,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1302,15 +1321,15 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     91.8263183357523,
                                     427.33515731874144,
-                                    546.6400580551524,
-                                    441.7332421340629
+                                    153.71552975326563,
+                                    454.97948016415864
                                 ],
                                 "page_number": 12,
                                 "text": "(ii) A step-up transformer has a turns ratio of \\(1: 20\\). The voltage across the primary coil is 12 V ."
@@ -1327,7 +1346,7 @@
                                 "text": "Calculate the voltage across the secondary coil."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     191.42477019835513,
                                     593.4890560875513,
@@ -1335,14 +1354,15 @@
                                     607.8871409028727
                                 ],
                                 "page_number": 12,
-                                "blockMath": "\\[voltage across secondary coil =\\]"
+                                "blockMath": "\\[voltage across secondary coil =\\]",
+                                "text": "\\(voltage across secondary coil =\\)"
                             }
                         ]
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1369,7 +1389,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1413,7 +1433,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1429,7 +1449,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1454,7 +1474,7 @@
                         "text": "Calculate the distance from the Sun to the Earth."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             293.326076439284,
                             264.63679890560877,
@@ -1462,20 +1482,21 @@
                             280.4746922024624
                         ],
                         "page_number": 14,
-                        "blockMath": "\\[distance =\\]"
+                        "blockMath": "\\[distance =\\]",
+                        "text": "\\(distance =\\)"
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             291.7051983584131,
-                            546.6400580551524,
-                            307.5430916552667
+                            298.5074987905177,
+                            319.92544459644324
                         ],
                         "page_number": 14,
                         "text": "(c) Fig. 10.1 is a scatter graph showing how the speed of galaxies moving away from the Earth varies with their distances from the Earth."
@@ -1533,7 +1554,7 @@
                         "text": "Use this best-fit line to determine a value for the Hubble constant."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             254.75326560232222,
                             765.4021887824897,
@@ -1541,12 +1562,13 @@
                             782.1039671682627
                         ],
                         "page_number": 14,
-                        "blockMath": "\\[Hubble constant =\\]"
+                        "blockMath": "\\[Hubble constant =\\]",
+                        "text": "\\(Hubble constant =\\)"
                     }
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -1579,7 +1601,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1595,15 +1617,15 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             139.66142270861832,
-                            546.6400580551524,
-                            154.63543091655265
+                            189.98548621190133,
+                            168.74555403556772
                         ],
                         "page_number": 16,
                         "text": "(b) A protactinium (Pa) nucleus decays into a uranium (U) nucleus by the emission of a beta particle ( \\(\\beta\\)-particle)."
@@ -1611,7 +1633,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1638,7 +1660,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1656,7 +1678,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1703,7 +1725,7 @@
                         "text": "2"
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             502.88582486695697,
                             480.03214774281804,
@@ -1711,7 +1733,7 @@
                             495.0061559507524
                         ],
                         "page_number": 16,
-                        "text": "[Total: 7]"
+                        "text": ""
                     }
                 ]
             }

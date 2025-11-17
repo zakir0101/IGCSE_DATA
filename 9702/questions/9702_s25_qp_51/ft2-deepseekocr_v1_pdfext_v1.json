@@ -1,0 +1,553 @@
+[
+    {
+        "label": "1",
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "1 Fig. 1.1 shows a thin coil of cross-sectional area \\(A\\) and length \\(l\\) connected to a resistor of resistance \\(S\\) and two terminals.",
+                "bbox": [
+                    48,
+                    62,
+                    173,
+                    88
+                ],
+                "page_number": "2"
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    217,
+                    99,
+                    378,
+                    198
+                ],
+                "page_number": "2",
+                "image": {
+                    "caption": "",
+                    "page": "2"
+                }
+            },
+            {
+                "type": "text",
+                "text": "An alternating voltage is applied to the terminals. The peak value of the alternating voltage is \\(E\\) and the frequency is \\(f\\). The peak value of the potential difference \\(V\\) across the resistor is determined using an oscilloscope.",
+                "bbox": [
+                    70,
+                    237,
+                    180,
+                    277
+                ],
+                "page_number": "2"
+            },
+            {
+                "type": "text",
+                "text": "It is suggested that \\(V\\) is related to \\(f\\) by the relationship",
+                "bbox": [
+                    70,
+                    289,
+                    335,
+                    303
+                ],
+                "page_number": "2"
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\frac{E S}{V}=\\frac{K A N^{2} f}{l}\n\\]",
+                "bbox": [
+                    264,
+                    318,
+                    331,
+                    348
+                ],
+                "page_number": "2"
+            },
+            {
+                "type": "text",
+                "text": "where \\(N\\) is the number of turns on the coil and \\(K\\) is a constant.",
+                "bbox": [
+                    70,
+                    367,
+                    376,
+                    379
+                ],
+                "page_number": "2"
+            },
+            {
+                "type": "text",
+                "text": "Plan a laboratory experiment to test the relationship between \\(V\\) and \\(f\\).",
+                "bbox": [
+                    70,
+                    393,
+                    410,
+                    407
+                ],
+                "page_number": "2"
+            },
+            {
+                "type": "text",
+                "text": "Draw a diagram showing the arrangement of your equipment.",
+                "bbox": [
+                    70,
+                    419,
+                    372,
+                    433
+                ],
+                "page_number": "2"
+            },
+            {
+                "type": "text",
+                "text": "Explain how the results could be used to determine a value for \\(K\\).",
+                "bbox": [
+                    70,
+                    446,
+                    390,
+                    459
+                ],
+                "page_number": "2"
+            },
+            {
+                "type": "text",
+                "text": "In your plan you should include:",
+                "bbox": [
+                    70,
+                    472,
+                    228,
+                    485
+                ],
+                "page_number": "2"
+            },
+            {
+                "type": "text",
+                "text": "- the procedure to be followed",
+                "bbox": [
+                    70,
+                    496,
+                    234,
+                    511
+                ],
+                "page_number": "2"
+            },
+            {
+                "type": "text",
+                "text": "- the measurements to be taken",
+                "bbox": [
+                    70,
+                    523,
+                    244,
+                    535
+                ],
+                "page_number": "2"
+            },
+            {
+                "type": "text",
+                "text": "- the control of variables",
+                "bbox": [
+                    70,
+                    550,
+                    207,
+                    562
+                ],
+                "page_number": "2"
+            },
+            {
+                "type": "text",
+                "text": "- the analysis of the data",
+                "bbox": [
+                    70,
+                    576,
+                    210,
+                    590
+                ],
+                "page_number": "2"
+            },
+            {
+                "type": "text",
+                "text": "- any safety precautions to be taken.",
+                "bbox": [
+                    70,
+                    602,
+                    266,
+                    615
+                ],
+                "page_number": "2"
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "parts": [
+            {
+                "label": "(a)",
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) A graph is plotted of \\(\\frac{1}{I}\\) on the \\(y\\)-axis against \\(\\frac{1}{n}\\) on the \\(x\\)-axis.",
+                        "bbox": [
+                            70,
+                            512,
+                            389,
+                            537
+                        ],
+                        "page_number": "5"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Determine expressions for the gradient and \\(y\\)-intercept.",
+                        "bbox": [
+                            94,
+                            544,
+                            364,
+                            558
+                        ],
+                        "page_number": "5"
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "\\(\n\\begin{array}{r}\n\\text { gradient }= \\\\\ny \\text {-intercept }=\n\\end{array}\n\\)",
+                        "bbox": [
+                            283,
+                            673,
+                            351,
+                            715
+                        ],
+                        "page_number": "5"
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Values of \\(n, \\frac{1}{n}\\) and \\(I\\) are given in Table 2.1.",
+                        "bbox": [
+                            70,
+                            62,
+                            305,
+                            86
+                        ],
+                        "page_number": "6"
+                    },
+                    {
+                        "type": "table",
+                        "bbox": [
+                            112,
+                            121,
+                            484,
+                            401
+                        ],
+                        "page_number": "6",
+                        "table": {
+                            "caption": "",
+                            "html": "\n<table><tr><td >\\(n\\)</td><td >\\(\\frac{1}{n}\\)</td><td >\\(I / \\mu \\mathrm{A}\\)</td><td >\\(\\frac{1}{I} / 10^{3} \\mathrm{~A}^{-1}\\)</td></tr><tr><td >5</td><td >0.200</td><td >\\(455 \\pm 5\\)</td><td ></td></tr><tr><td >6</td><td >0.167</td><td >\\(525 \\pm 5\\)</td><td ></td></tr><tr><td >7</td><td >0.143</td><td >\\(580 \\pm 5\\)</td><td ></td></tr><tr><td >8</td><td >0.125</td><td >\\(635 \\pm 5\\)</td><td ></td></tr><tr><td >9</td><td >0.111</td><td >\\(685 \\pm 5\\)</td><td ></td></tr><tr><td >11</td><td >0.0909</td><td >\\(765 \\pm 5\\)</td><td ></td></tr></table>\n\n"
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "Calculate and record values of \\(\\frac{1}{I} / 10^{3} \\mathrm{~A}^{-1}\\) in Table 2.1. Include the absolute uncertainties in \\(\\frac{1}{I}\\).",
+                        "bbox": [
+                            94,
+                            419,
+                            547,
+                            443
+                        ],
+                        "page_number": "6"
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(c) (i) Plot a graph of \\(\\frac{1}{I} / 10^{3} \\mathrm{~A}^{-1}\\) against \\(\\frac{1}{n}\\). Include error bars for \\(\\frac{1}{I}\\).",
+                                "bbox": [
+                                    70,
+                                    463,
+                                    413,
+                                    488
+                                ],
+                                "page_number": "6"
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(ii)",
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Draw the straight line of best fit and a worst acceptable straight line on your graph. Label both lines.",
+                                "bbox": [
+                                    92,
+                                    495,
+                                    169,
+                                    521
+                                ],
+                                "page_number": "6"
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(iii)",
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(iii) Determine the gradient of the line of best fit. Include the absolute uncertainty in your answer.",
+                                "bbox": [
+                                    89,
+                                    534,
+                                    155,
+                                    558
+                                ],
+                                "page_number": "6"
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(iv)",
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(iv) Determine the \\(y\\)-intercept of the line of best fit. Include the absolute uncertainty in your answer.",
+                                "bbox": [
+                                    89,
+                                    62,
+                                    155,
+                                    88
+                                ],
+                                "page_number": "8"
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "\\(\ny \\text {-intercept = }\n\\)",
+                                "bbox": [
+                                    284,
+                                    180,
+                                    350,
+                                    194
+                                ],
+                                "page_number": "8"
+                            }
+                        ]
+                    }
+                ],
+                "content": []
+            },
+            {
+                "label": "(d)",
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) Using your answers to (a), (c)(iii) and (c)(iv), determine the values of \\(R\\) and \\(Z\\). Include appropriate units.",
+                                "bbox": [
+                                    95,
+                                    244,
+                                    203,
+                                    272
+                                ],
+                                "page_number": "8"
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "\\(\n\\begin{aligned}\n& R= . . . \\\\\n& Z= . . . \n\\end{aligned}\n\\)",
+                                "bbox": [
+                                    325,
+                                    383,
+                                    553,
+                                    429
+                                ],
+                                "page_number": "8"
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(ii)",
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Determine the percentage uncertainty in your value of \\(R\\).",
+                                "bbox": [
+                                    91,
+                                    452,
+                                    395,
+                                    468
+                                ],
+                                "page_number": "8"
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "percentage uncertainty = \\(\\%\\)",
+                                "bbox": [
+                                    223,
+                                    555,
+                                    547,
+                                    571
+                                ],
+                                "page_number": "8"
+                            }
+                        ]
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(d) The e.m.f. \\(E\\) of the battery is determined twice during the experiment. The values obtained are 5.6 V and 6.0 V .",
+                        "bbox": [
+                            70,
+                            206,
+                            190,
+                            231
+                        ],
+                        "page_number": "8"
+                    }
+                ]
+            },
+            {
+                "label": "(e)",
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(e) The experiment is repeated with 20 resistors, each of resistance \\(R\\), connected in parallel between P and Q . Determine the total current \\(I\\) in the circuit.",
+                        "bbox": [
+                            70,
+                            581,
+                            391,
+                            609
+                        ],
+                        "page_number": "8"
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "\\(\nI=\n\\)",
+                        "bbox": [
+                            329,
+                            711,
+                            352,
+                            727
+                        ],
+                        "page_number": "8"
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "2 A student investigates an electrical circuit.",
+                "bbox": [
+                    48,
+                    62,
+                    277,
+                    77
+                ],
+                "page_number": "5"
+            },
+            {
+                "type": "text",
+                "text": "The circuit is set up as shown in Fig. 2.1.",
+                "bbox": [
+                    70,
+                    88,
+                    272,
+                    103
+                ],
+                "page_number": "5"
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    184,
+                    113,
+                    411,
+                    296
+                ],
+                "page_number": "5",
+                "image": {
+                    "caption": "",
+                    "page": "5"
+                }
+            },
+            {
+                "type": "text",
+                "text": "A battery of negligible internal resistance is connected to a resistor of resistance \\(Z\\). Five resistors, each of resistance \\(R\\), are connected in parallel between P and Q .",
+                "bbox": [
+                    70,
+                    335,
+                    391,
+                    362
+                ],
+                "page_number": "5"
+            },
+            {
+                "type": "text",
+                "text": "The switch is closed. The total current \\(I\\) in the circuit is measured using the ammeter.",
+                "bbox": [
+                    70,
+                    375,
+                    488,
+                    389
+                ],
+                "page_number": "5"
+            },
+            {
+                "type": "text",
+                "text": "The experiment is then repeated by changing the number \\(n\\) of resistors, each of resistance \\(R\\), connected in parallel between P and Q .",
+                "bbox": [
+                    70,
+                    401,
+                    266,
+                    428
+                ],
+                "page_number": "5"
+            },
+            {
+                "type": "text",
+                "text": "It is suggested that \\(I\\) and \\(n\\) are related by the equation",
+                "bbox": [
+                    70,
+                    439,
+                    338,
+                    453
+                ],
+                "page_number": "5"
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\nE=I\\left(\\frac{R}{n}+Z\\right)\n\\]",
+                "bbox": [
+                    264,
+                    459,
+                    330,
+                    485
+                ],
+                "page_number": "5"
+            },
+            {
+                "type": "text",
+                "text": "where \\(E\\) is the electromotive force (e.m.f.) of the battery.",
+                "bbox": [
+                    70,
+                    491,
+                    346,
+                    506
+                ],
+                "page_number": "5"
+            }
+        ]
+    }
+]

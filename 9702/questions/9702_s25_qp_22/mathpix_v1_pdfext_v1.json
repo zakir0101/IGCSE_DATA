@@ -4,15 +4,15 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             47.49637155297533,
                             62.48768809849521,
-                            546.6400580551524,
-                            76.59781121751026
+                            205.52975326560235,
+                            88.11627906976744
                         ],
                         "page_number": 4,
                         "text": "1 (a) Table 1.1 lists some physical quantities. Identify with ticks \\((\\checkmark)\\) which quantities are vectors and which are scalars."
@@ -37,7 +37,7 @@
                         ],
                         "page_number": 4,
                         "table": {
-                            "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>quantity</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>scalar</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>vector</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>acceleration</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>displacement</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>gravitational potential energy</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>speed</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>temperature</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n</table>",
+                            "html": "<table><tr><td >quantity</td><td >scalar</td><td >vector</td></tr><tr><td >acceleration</td><td ></td><td ></td></tr><tr><td >displacement</td><td ></td><td ></td></tr><tr><td >gravitational potential energy</td><td ></td><td ></td></tr><tr><td >speed</td><td ></td><td ></td></tr><tr><td >temperature</td><td ></td><td ></td></tr></table>",
                             "caption": ""
                         }
                     },
@@ -46,7 +46,7 @@
                         "bbox": [
                             212.43831640058056,
                             133.6142270861833,
-                            252.7382680212869,
+                            422.57377842283506,
                             146.2845417236662
                         ],
                         "page_number": 4,
@@ -105,42 +105,31 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             277.8830369357045,
-                            546.6400580551524,
-                            292.85704514363886
-                        ],
-                        "page_number": 4,
-                        "text": "(b) A constant resultant force \\(F\\) acts on a car of mass \\(m\\). The car moves from rest with constant acceleration a along horizontal ground. When the car has displacement \\(s\\), the speed of the"
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            93.55345911949686,
-                            304.95143638850885,
                             134.14126753749397,
                             318.4856361149111
                         ],
                         "page_number": 4,
-                        "text": "car is \\(v\\)."
+                        "text": "(b) A constant resultant force \\(F\\) acts on a car of mass \\(m\\). The car moves from rest with constant acceleration a along horizontal ground. When the car has displacement \\(s\\), the speed of the car is \\(v\\)."
                     }
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     94.41702951136914,
                                     330.29206566347466,
-                                    546.6400580551524,
-                                    346.41792065663475
+                                    224.52830188679246,
+                                    358.5123119015048
                                 ],
                                 "page_number": 4,
                                 "text": "(i) Using the concept of work done on the car, show that the kinetic energy \\(E_{\\mathrm{K}}\\) of the car is given by the equation"
@@ -159,15 +148,15 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     90.3870343492985,
                                     537.6244870041039,
-                                    546.6400580551524,
-                                    553.4623803009575
+                                    171.85050798258348,
+                                    564.9808481532148
                                 ],
                                 "page_number": 4,
                                 "text": "(ii) The mass of the car is 920 kg . At time \\(t=0\\), the car is at rest. At time \\(t=5.8 \\mathrm{~s}\\), its velocity is \\(17 \\mathrm{~ms}^{-1}\\)."
@@ -184,7 +173,7 @@
                                 "text": "Calculate the kinetic energy of the car at time \\(t=5.8 \\mathrm{~s}\\)."
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     269.433962264151,
                                     682.469220246238,
@@ -197,15 +186,15 @@
                         ]
                     },
                     {
-                        "label": "iii",
+                        "label": "(iii)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
                                     88.65989356555396,
                                     62.48768809849521,
-                                    546.6400580551524,
-                                    76.59781121751026
+                                    173.57764876632802,
+                                    88.11627906976744
                                 ],
                                 "page_number": 5,
                                 "text": "（iii）Between time \\(t=0\\) and time \\(t=5.8 \\mathrm{~s}\\) ，the work done against resistive forces is \\(4.7 \\times 10^{4} \\mathrm{~J}\\) ．"
@@ -222,20 +211,20 @@
                                 "text": "Determine the average output power of the car during this time．"
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     305.7039187227867,
                                     231.80916552667577,
-                                    349.4581519109821,
+                                    546.6400580551524,
                                     245.9192886456908
                                 ],
                                 "page_number": 5,
-                                "text": "power＝ W［3］"
+                                "text": "power＝ W"
                             }
                         ]
                     },
                     {
-                        "label": "iv",
+                        "label": "(iv)",
                         "content": [
                             {
                                 "type": "text",
@@ -253,8 +242,8 @@
                                 "bbox": [
                                     115.71843251088535,
                                     282.7783857729138,
-                                    546.6400580551524,
-                                    297.7523939808481
+                                    343.70101596516696,
+                                    310.1347469220246
                                 ],
                                 "page_number": 5,
                                 "text": "State and explain whether the output power of the car is greater than，less than or the same as the output power just before \\(t=5.8 \\mathrm{~s}\\) ．"
@@ -270,7 +259,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -286,15 +275,15 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             152.90766073871407,
-                            546.6400580551524,
-                            167.88166894664843
+                            135.86840832123852,
+                            180.2640218878249
                         ],
                         "page_number": 6,
                         "text": "(b) A tree of mass 270 kg grows out of sloping ground and is supported by a post, as shown in Fig. 2.1."
@@ -338,34 +327,34 @@
                             518.9069767441861
                         ],
                         "page_number": 6,
-                        "text": "The ground applies a total force \\(R\\) on the tree at point \\(Q\\). The centre of gravity of the tree is a horizontal distance of 1.2 m from Q ."
+                        "text": "The ground applies a total force \\(R\\) on the tree at point \\(Q\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            517.7551299589603,
+                            444.7387518142236,
+                            532.1532147742818
+                        ],
+                        "page_number": 6,
+                        "text": "The centre of gravity of the tree is a horizontal distance of 1.2 m from Q ."
                     },
                     {
                         "type": "text",
                         "bbox": [
                             93.55345911949686,
                             531.0013679890561,
-                            548.367198838897,
-                            545.3994528043776
-                        ],
-                        "page_number": 6,
-                        "text": "The post applies a force \\(F\\) of 1800 N perpendicular to the line PQ . The line of action of \\(F\\) passes through point P at an angle \\(\\theta\\) to the vertical. P is a horizontal distance of 1.6 m from Q ."
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            93.55345911949686,
-                            557.4938440492476,
                             450.4958877600387,
                             571.6039671682627
                         ],
                         "page_number": 6,
-                        "text": "The tree is in equilibrium and all forces act on the tree in the same plane."
+                        "text": "The post applies a force \\(F\\) of 1800 N perpendicular to the line PQ . The line of action of \\(F\\) passes through point P at an angle \\(\\theta\\) to the vertical. P is a horizontal distance of 1.6 m from Q . The tree is in equilibrium and all forces act on the tree in the same plane."
                     }
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -377,60 +366,6 @@
                                 ],
                                 "page_number": 6,
                                 "text": "(i) By taking moments about point Q , show that \\(\\theta\\) is \\(25^{\\circ}\\)."
-                            }
-                        ]
-                    },
-                    {
-                        "label": "ii",
-                        "content": [
-                            {
-                                "type": "text",
-                                "bbox": [
-                                    91.8263183357523,
-                                    62.48768809849521,
-                                    546.6400580551524,
-                                    76.59781121751026
-                                ],
-                                "page_number": 7,
-                                "text": "(ii) On Fig. 2.2, draw a labelled scale vector triangle to represent the forces acting on the tree. The weight of the tree has been drawn to scale."
-                            },
-                            {
-                                "type": "title",
-                                "bbox": [
-                                    22.740686985970008,
-                                    106.83378932968536,
-                                    305.12820512820514,
-                                    482.9117647058823
-                                ],
-                                "page_number": 7,
-                                "text": "\\(\\longrightarrow\\) creas"
-                            },
-                            {
-                                "type": "text",
-                                "bbox": [
-                                    307.1432027092405,
-                                    281.0506155950752,
-                                    342.83744557329464,
-                                    295.4487004103967
-                                ],
-                                "page_number": 7,
-                                "text": "weight"
-                            }
-                        ]
-                    },
-                    {
-                        "label": "iii",
-                        "content": [
-                            {
-                                "type": "text",
-                                "bbox": [
-                                    512.6729559748428,
-                                    669.2229822161422,
-                                    546.6400580551524,
-                                    685.0608755129958
-                                ],
-                                "page_number": 7,
-                                "text": "\\(\\mathrm{m}^{2}\\) [2]"
                             }
                         ]
                     }
@@ -446,22 +381,11 @@
                 "bbox": [
                     47.49637155297533,
                     61.62380300957592,
-                    546.6400580551524,
-                    76.59781121751026
-                ],
-                "page_number": 8,
-                "text": "3 Two progressive water waves \\(X\\) and \\(Y\\) travel along a straight line from point \\(A\\) to point \\(B\\). The variation of displacement of the waves with distance from \\(A\\) at an instant in time is shown in"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    70.52491533623609,
-                    88.6922024623803,
                     112.83986453797776,
                     102.80232558139535
                 ],
                 "page_number": 8,
-                "text": "Fig. 3.1."
+                "text": "3 Two progressive water waves \\(X\\) and \\(Y\\) travel along a straight line from point \\(A\\) to point \\(B\\). The variation of displacement of the waves with distance from \\(A\\) at an instant in time is shown in Fig. 3.1."
             },
             {
                 "type": "image",
@@ -496,7 +420,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -510,20 +434,20 @@
                         "text": "(a) State the amplitude of wave X ."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             287.5689404934688,
                             470.24145006839944,
-                            349.4581519109821,
-                            484.3515731874145
+                            546.6400580551524,
+                            486.07934336525307
                         ],
                         "page_number": 8,
-                        "text": "amplitude \\(=\\) cm [1]"
+                        "text": "amplitude \\(=\\) cm "
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -539,7 +463,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -553,11 +477,11 @@
                                 "text": "(i) Determine the speed of wave X ."
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     305.7039187227867,
-                                    600.1121751025992,
-                                    349.4581519109821,
+                                    599.2482900136798,
+                                    530.2322206095791,
                                     615.9500683994528
                                 ],
                                 "page_number": 8,
@@ -566,7 +490,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -584,7 +508,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -602,8 +526,8 @@
                         "bbox": [
                             93.55345911949686,
                             88.6922024623803,
-                            548.367198838897,
-                            102.80232558139535
+                            272.3125302370586,
+                            116.0485636114911
                         ],
                         "page_number": 9,
                         "text": "On Fig. 3.2, sketch the variation of displacement of the resultant wave with distance from A at the instant of time shown in Fig. 3.1."
@@ -641,7 +565,7 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -652,10 +576,21 @@
                             487.80711354309165
                         ],
                         "page_number": 9,
-                        "text": "(d) The intensity of wave X is \\(I_{\\mathrm{X}}\\). The intensity of wave Y is \\(I_{\\mathrm{Y}}\\). Use Fig. 3.1 to determine the ratio \\(\\frac{I_{\\mathrm{X}}}{I_{\\mathrm{Y}}}\\)."
+                        "text": "(d) The intensity of wave X is \\(I_{\\mathrm{X}}\\). The intensity of wave Y is \\(I_{\\mathrm{Y}}\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            489.82284541723664,
+                            280.37252056119985,
+                            522.3625170998632
+                        ],
+                        "page_number": 9,
+                        "text": "Use Fig. 3.1 to determine the ratio \\(\\frac{I_{\\mathrm{X}}}{I_{\\mathrm{Y}}}\\)."
+                    },
+                    {
+                        "type": "form_text",
                         "bbox": [
                             313.76390904692795,
                             614.798221614227,
@@ -663,7 +598,8 @@
                             629.1963064295485
                         ],
                         "page_number": 9,
-                        "blockMath": "\\[ratio =\\]"
+                        "blockMath": "\\[ratio =\\]",
+                        "text": "\\(ratio =\\)"
                     }
                 ]
             }
@@ -677,22 +613,11 @@
                 "bbox": [
                     47.49637155297533,
                     62.48768809849521,
-                    546.6400580551524,
-                    77.46169630642954
-                ],
-                "page_number": 10,
-                "text": "4 A small ball is dropped from rest from height \\(h_{1}\\) above the ground and falls vertically downwards. The ball collides with the ground and bounces back vertically upwards, reaching a maximum"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    70.52491533623609,
-                    88.6922024623803,
                     444.7387518142236,
                     103.66621067031463
                 ],
                 "page_number": 10,
-                "text": "height \\(h_{2}\\). Fig. 4.1 shows the ball just before and just after hitting the ground."
+                "text": "4 A small ball is dropped from rest from height \\(h_{1}\\) above the ground and falls vertically downwards. The ball collides with the ground and bounces back vertically upwards, reaching a maximum height \\(h_{2}\\). Fig. 4.1 shows the ball just before and just after hitting the ground."
             },
             {
                 "type": "image",
@@ -733,23 +658,34 @@
                     291.99316005471957
                 ],
                 "page_number": 10,
-                "text": "The ball has mass 0.25 kg and is in contact with the ground for a time of 0.18 s . Just before the ball hits the ground, it has speed \\(5.2 \\mathrm{~ms}^{-1}\\). Just after it leaves the ground, it has"
+                "text": "The ball has mass 0.25 kg and is in contact with the ground for a time of 0.18 s ."
             },
             {
                 "type": "text",
                 "bbox": [
                     70.52491533623609,
-                    304.08755129958956,
+                    290.8413132694938,
                     152.27624576681183,
                     318.4856361149111
                 ],
                 "page_number": 10,
-                "text": "speed \\(3.6 \\mathrm{~ms}^{-1}\\). Air resistance acting on the ball is negligible."
+                "text": "Just before the ball hits the ground, it has speed \\(5.2 \\mathrm{~ms}^{-1}\\). Just after it leaves the ground, it has speed \\(3.6 \\mathrm{~ms}^{-1}\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    317.3337893296854,
+                    290.15965166908563,
+                    331.4439124487004
+                ],
+                "page_number": 10,
+                "text": "Air resistance acting on the ball is negligible."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -765,11 +701,11 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -781,34 +717,23 @@
                                 ],
                                 "page_number": 10,
                                 "text": "(b) (i) Calculate the change in momentum of the ball during the collision with the ground."
+                            },
+                            {
+                                "type": "form_text",
+                                "bbox": [
+                                    228.27044025157235,
+                                    547.4151846785226,
+                                    550.9579100145138,
+                                    568.4363885088919
+                                ],
+                                "page_number": 10,
+                                "text": "\\(\n\\text { change in momentum = .... } \\mathrm{kg} \\mathrm{~m} \\mathrm{~s}^{-1}\n\\) ]"
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
-                            {
-                                "type": "blockMath",
-                                "bbox": [
-                                    228.27044025157235,
-                                    547.4151846785226,
-                                    534.5500725689405,
-                                    568.4363885088919
-                                ],
-                                "page_number": 10,
-                                "blockMath": "\\[\n\\text { change in momentum = ........................................... } \\mathrm{kg} \\mathrm{~m} \\mathrm{~s}^{-1}\n\\]"
-                            },
-                            {
-                                "type": "text",
-                                "bbox": [
-                                    539.1557813255927,
-                                    550.0068399452804,
-                                    550.9579100145138,
-                                    565.844733242134
-                                ],
-                                "page_number": 10,
-                                "text": "]"
-                            },
                             {
                                 "type": "text",
                                 "bbox": [
@@ -821,43 +746,22 @@
                                 "text": "(ii) Determine the average force on the ball during the collision with the ground."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     310.5974842767296,
-                                    693.9876880984951,
-                                    349.4581519109821,
-                                    708.0978112175102
-                                ],
-                                "page_number": 10,
-                                "blockMath": "\\[force =\\]"
-                            },
-                            {
-                                "type": "blockMath",
-                                "bbox": [
-                                    517.5665215287858,
-                                    693.9876880984951,
-                                    531.0957910014514,
-                                    708.9616963064295
-                                ],
-                                "page_number": 10,
-                                "blockMath": "\\[\n\\mathrm{N}\n\\]"
-                            },
-                            {
-                                "type": "text",
-                                "bbox": [
-                                    532.5350749879052,
                                     693.9876880984951,
                                     547.5036284470248,
                                     708.9616963064295
                                 ],
-                                "page_number": 10
+                                "page_number": 10,
+                                "text": "\\(force =\\) \\(\n\\mathrm{N}\n\\) "
                             }
                         ]
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -871,7 +775,7 @@
                         "text": "(c) Calculate the ratio \\(\\frac{h_{2}}{h_{1}}\\)."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             313.76390904692795,
                             202.14911080711354,
@@ -879,10 +783,10 @@
                             214.81942544459645
                         ],
                         "page_number": 11,
-                        "text": "ratio = [3]"
+                        "text": "ratio ="
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             502.88582486695697,
                             228.3536251709986,
@@ -890,7 +794,7 @@
                             242.7517099863201
                         ],
                         "page_number": 11,
-                        "text": "[Total: 8]"
+                        "text": ""
                     }
                 ]
             }
@@ -901,7 +805,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -917,29 +821,18 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             139.66142270861832,
-                            546.6400580551524,
-                            154.63543091655265
-                        ],
-                        "page_number": 12,
-                        "text": "(b) A wire of unstretched length 0.81 m is made of a metal with Young modulus 95 GPa . The wire obeys Hooke's law and has a constant cross-sectional area. Fig. 5.1 shows the"
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            91.8263183357523,
-                            165.8659370725034,
                             265.6918238993711,
                             181.99179206566347
                         ],
                         "page_number": 12,
-                        "text": "force-extension graph for the wire."
+                        "text": "(b) A wire of unstretched length 0.81 m is made of a metal with Young modulus 95 GPa . The wire obeys Hooke's law and has a constant cross-sectional area. Fig. 5.1 shows the force-extension graph for the wire."
                     },
                     {
                         "type": "image",
@@ -974,7 +867,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -988,7 +881,7 @@
                                 "text": "(i) Determine the cross-sectional area of the wire."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     310.5974842767296,
                                     708.6737346101231,
@@ -996,12 +889,13 @@
                                     731.1347469220246
                                 ],
                                 "page_number": 12,
-                                "blockMath": "\\[area = ................................................... m² [3]\\]"
+                                "blockMath": "\\[area = ... m²\\]",
+                                "text": "\\(area = ... m²\\)"
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1026,7 +920,7 @@
                                 "text": "Determine the work done to increase the extension of the wire to \\(3.0 \\times 10^{-3} \\mathrm{~m}\\)."
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     284.1146589259797,
                                     231.80916552667577,
@@ -1034,10 +928,10 @@
                                     244.47948016415867
                                 ],
                                 "page_number": 13,
-                                "text": "work done = [3]"
+                                "text": "work done ="
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     502.88582486695697,
                                     257.1497948016416,
@@ -1045,7 +939,7 @@
                                     272.4117647058823
                                 ],
                                 "page_number": 13,
-                                "text": "[Total: 7]"
+                                "text": ""
                             }
                         ]
                     }
@@ -1058,7 +952,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1074,29 +968,18 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             139.66142270861832,
-                            546.6400580551524,
-                            154.63543091655265
-                        ],
-                        "page_number": 14,
-                        "text": "(b) A circuit contains four resistors and a battery of electromotive force (e.m.f.) 8.0 V with negligible internal resistance. When the variable resistor has resistance \\(R\\), the currents in the"
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            93.55345911949686,
-                            165.8659370725034,
                             338.807450411224,
                             181.99179206566347
                         ],
                         "page_number": 14,
-                        "text": "circuit are \\(0.030 \\mathrm{~A}, I_{1}\\) and \\(I_{2}\\), as shown in Fig. 6.1."
+                        "text": "(b) A circuit contains four resistors and a battery of electromotive force (e.m.f.) 8.0 V with negligible internal resistance. When the variable resistor has resistance \\(R\\), the currents in the circuit are \\(0.030 \\mathrm{~A}, I_{1}\\) and \\(I_{2}\\), as shown in Fig. 6.1."
                     },
                     {
                         "type": "image",
@@ -1131,7 +1014,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1145,20 +1028,20 @@
                                 "text": "(i) Determine the charge passing through the battery in a time of 4.0 minutes."
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     302.24963715529753,
                                     563.829001367989,
-                                    349.4581519109821,
-                                    578.2270861833105
+                                    546.6400580551524,
+                                    579.954856361149
                                 ],
                                 "page_number": 14,
-                                "text": "charge = C [2]"
+                                "text": "charge = C "
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1172,20 +1055,20 @@
                                 "text": "(ii) Calculate \\(I_{1}\\)."
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     325.2781809385583,
                                     693.9876880984951,
-                                    350.3217223028544,
+                                    547.5036284470248,
                                     710.6894664842681
                                 ],
                                 "page_number": 14,
-                                "text": "\\(I_{1}=\\) A [2]"
+                                "text": "\\(I_{1}=\\) A "
                             }
                         ]
                     },
                     {
-                        "label": "iii",
+                        "label": "(iii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1199,11 +1082,11 @@
                                 "text": "（iii）Calculate \\(I_{2}\\) ．"
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     326.1417513304306,
                                     140.5253077975376,
-                                    350.3217223028544,
+                                    547.5036284470248,
                                     158.0909712722298
                                 ],
                                 "page_number": 15,
@@ -1212,7 +1095,7 @@
                         ]
                     },
                     {
-                        "label": "iv",
+                        "label": "(iv)",
                         "content": [
                             {
                                 "type": "text",
@@ -1226,12 +1109,12 @@
                                 "text": "（iv）Determine \\(R\\) ．"
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     327.0053217223029,
                                     271.2599179206566,
-                                    350.3217223028544,
-                                    284.5061559507524
+                                    547.5036284470248,
+                                    286.23392612859095
                                 ],
                                 "page_number": 15,
                                 "text": "\\(R=\\) \\(\\Omega\\)［2］"
@@ -1241,15 +1124,15 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             62.48768809849521,
-                            546.6400580551524,
-                            76.59781121751026
+                            153.71552975326563,
+                            88.11627906976744
                         ],
                         "page_number": 16,
                         "text": "(c) The variable resistor in (b) is fitted with a scale so that its resistance can be accurately determined."
@@ -1259,8 +1142,8 @@
                         "bbox": [
                             93.55345911949686,
                             88.6922024623803,
-                            546.6400580551524,
-                            102.80232558139535
+                            341.39816158684084,
+                            116.0485636114911
                         ],
                         "page_number": 16,
                         "text": "The resistor of resistance \\(240 \\Omega\\) is now replaced by a new resistor X of unknown resistance. A galvanometer is connected as shown in Fig. 6.2."
@@ -1300,8 +1183,8 @@
                         "bbox": [
                             93.55345911949686,
                             394.5075239398085,
-                            546.6400580551524,
-                            408.90560875512995
+                            171.85050798258348,
+                            420.4240766073871
                         ],
                         "page_number": 16,
                         "text": "With reference to ratios of resistances, explain how this circuit can be used to determine the resistance of \\(X\\)."
@@ -1315,7 +1198,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1331,15 +1214,15 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             139.66142270861832,
-                            546.6400580551524,
-                            154.63543091655265
+                            175.3047895500726,
+                            167.01778385772914
                         ],
                         "page_number": 17,
                         "text": "(b) A nucleus \\(X\\) has 14 nucleons and \\(p\\) protons. The ratio of charge to mass for nucleus \\(X\\) is \\(4.1 \\times 10^{7} \\mathrm{Ckg}^{-1}\\)."
@@ -1347,7 +1230,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1361,7 +1244,7 @@
                                 "text": "(i) Determine \\(p\\)."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     328.73246250604745,
                                     325.3967168262654,
@@ -1369,12 +1252,13 @@
                                     340.65868673050613
                                 ],
                                 "page_number": 17,
-                                "blockMath": "\\[\np=\n\\]"
+                                "blockMath": "\\[\np=\n\\]",
+                                "text": "\\(\np=\n\\)"
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1414,15 +1298,15 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             480.03214774281804,
-                            546.6400580551524,
-                            495.0061559507524
+                            274.61538461538464,
+                            507.38850889192884
                         ],
                         "page_number": 17,
                         "text": "(c) A sample of a radioactive substance emits particles that are positively charged and have a continuous range of kinetic energies."
@@ -1432,8 +1316,8 @@
                         "bbox": [
                             93.55345911949686,
                             519.4829001367989,
-                            547.5036284470248,
-                            533.8809849521203
+                            140.76197387518144,
+                            546.8392612859097
                         ],
                         "page_number": 17,
                         "text": "State and explain whether the nuclei in the sample are undergoing \\(\\alpha\\)-decay, \\(\\beta^{+}\\)decay or \\(\\beta^{-}\\)decay."

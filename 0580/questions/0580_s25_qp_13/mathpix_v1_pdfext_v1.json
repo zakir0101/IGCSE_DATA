@@ -4,7 +4,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -20,11 +20,11 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -35,12 +35,23 @@
                                     153.77154582763336
                                 ],
                                 "page_number": 3,
-                                "text": "（b）（i）Write down the value of the 5 in the number 0.25 ． Give your answer as a fraction．"
+                                "text": "（b）（i）Write down the value of the 5 in the number 0.25 ．"
+                            },
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    115.71843251088535,
+                                    153.48358413132695,
+                                    262.23754233188197,
+                                    167.88166894664843
+                                ],
+                                "page_number": 3,
+                                "text": "Give your answer as a fraction．"
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -64,7 +75,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -80,7 +91,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -102,7 +113,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -118,7 +129,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -134,7 +145,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -150,7 +161,7 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -166,7 +177,7 @@
                 ]
             },
             {
-                "label": "e",
+                "label": "(e)",
                 "content": [
                     {
                         "type": "text",
@@ -216,22 +227,11 @@
                     ],
                     "page": 5
                 }
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    382.84954039671027,
-                    129.87072503419972,
-                    423.4373488147073,
-                    143.98084815321477
-                ],
-                "page_number": 5,
-                "text": "SCALE"
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -247,7 +247,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -261,7 +261,7 @@
                         "text": "(b) Work out the value of \\(a\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             361.548137397194,
                             430.7906976744186,
@@ -269,7 +269,8 @@
                             443.46101231190147
                         ],
                         "page_number": 5,
-                        "blockMath": "\\[\na=\n\\]"
+                        "blockMath": "\\[\na=\n\\]",
+                        "text": "\\(\na=\n\\)"
                     }
                 ]
             }
@@ -292,7 +293,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -308,7 +309,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -343,8 +344,8 @@
                 "type": "text",
                 "bbox": [
                     160.9119496855346,
-                    86.96443228454172,
-                    434.95162070633774,
+                    86.10054719562243,
+                    434.0880503144654,
                     102.80232558139535
                 ],
                 "page_number": 6,
@@ -353,11 +354,11 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -371,7 +372,7 @@
                                 "text": "(a) (i) Find the median."
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     506.9158200290276,
                                     258.01367989056087,
@@ -379,12 +380,12 @@
                                     272.4117647058823
                                 ],
                                 "page_number": 6,
-                                "text": "\\(\\min\\) [2]"
+                                "text": "\\(\\min\\) "
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -398,7 +399,7 @@
                                 "text": "(ii) Find the range."
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     506.9158200290276,
                                     361.6798905608755,
@@ -406,14 +407,14 @@
                                     375.79001367989054
                                 ],
                                 "page_number": 6,
-                                "text": "min [1]"
+                                "text": "min "
                             }
                         ]
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -438,7 +439,7 @@
                         "text": "Write 75 minutes in hours."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             517.5665215287858,
                             491.5506155950752,
@@ -446,7 +447,7 @@
                             506.52462380300955
                         ],
                         "page_number": 6,
-                        "text": "h [1]"
+                        "text": "h "
                     }
                 ]
             }
@@ -475,7 +476,18 @@
                     569.8761969904241
                 ],
                 "page_number": 6,
-                "text": "The ratio number who study French : number who study Spanish \\(=3: 7\\). 15 students study French."
+                "text": "The ratio number who study French : number who study Spanish \\(=3: 7\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    569.5882352941177,
+                    191.71262699564588,
+                    583.1224350205198
+                ],
+                "page_number": 6,
+                "text": "15 students study French."
             },
             {
                 "type": "text",
@@ -514,14 +526,14 @@
                 ],
                 "page_number": 7,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td><td ></td></tr></table>",
                     "caption": ""
                 }
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -535,12 +547,12 @@
                         "text": "(a) Complete the statement."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             93.55345911949686,
                             531.0013679890561,
-                            250.72327044025158,
-                            543.671682626539
+                            422.57377842283506,
+                            544.5355677154582
                         ],
                         "page_number": 7,
                         "text": "The dimensions of the cuboid are cm by cm by cm."
@@ -548,7 +560,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -564,7 +576,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -578,7 +590,7 @@
                         "text": "(c) Work out the volume of the cuboid."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             504.61296565070154,
                             683.9090287277702,
@@ -629,29 +641,29 @@
             {
                 "type": "text",
                 "bbox": [
-                    405.0145137880987,
-                    123.24760601915185,
-                    449.63231736816647,
-                    134.19015047879617
-                ],
-                "page_number": 8,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     70.52491533623609,
                     284.21819425444596,
                     300.23463957426225,
                     298.6162790697674
                 ],
                 "page_number": 8,
-                "text": "The perpendicular height of each triangle is 4 cm . The base has side length 5 cm ."
+                "text": "The perpendicular height of each triangle is 4 cm ."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    297.4644322845417,
+                    213.01402999516208,
+                    311.86251709986317
+                ],
+                "page_number": 8,
+                "text": "The base has side length 5 cm ."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -665,7 +677,7 @@
                         "text": "(a) Calculate the surface area of the pyramid."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             504.61296565070154,
                             529.2735978112175,
@@ -678,7 +690,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -700,7 +712,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -711,7 +723,18 @@
                             77.46169630642954
                         ],
                         "page_number": 9,
-                        "text": "10 (a) Line \\(A\\) has equation \\(y=3 x+1\\). Line \\(B\\) has equation \\(\\quad y=3 x-1\\)."
+                        "text": "10 (a) Line \\(A\\) has equation \\(y=3 x+1\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            77.17373461012312,
+                            247.55684567005324,
+                            90.7079343365253
+                        ],
+                        "page_number": 9,
+                        "text": "Line \\(B\\) has equation \\(\\quad y=3 x-1\\)."
                     },
                     {
                         "type": "text",
@@ -729,41 +752,58 @@
                         "bbox": [
                             93.55345911949686,
                             137.93365253077974,
-                            175.3047895500726,
+                            484.1751330430576,
                             150.60396716826264
                         ],
                         "page_number": 9,
-                        "text": "Line \\(A\\) intersects Line \\(A\\) has a Line \\(A\\) is line \\(B\\) steeper gradient perpendicular to"
+                        "text": "Line \\(A\\) intersects Line \\(A\\) has a Line \\(A\\) is"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            119.74842767295598,
+                            151.17989056087552,
+                            500.5829704886309,
+                            165.29001367989056
+                        ],
+                        "page_number": 9,
+                        "text": "line \\(B\\) steeper gradient perpendicular to"
                     },
                     {
                         "type": "text",
                         "bbox": [
                             271.16110304789555,
                             164.42612859097127,
-                            324.1267537493953,
-                            176.80848153214774
+                            478.41799709724245,
+                            177.67236662106703
                         ],
                         "page_number": 9,
                         "text": "than line \\(B\\) line \\(B\\)"
-                    }
-                ]
-            },
-            {
-                "label": "b",
-                "content": [
+                    },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             175.8805031446541,
                             223.4582763337893,
-                            257.3439767779391,
+                            421.7102080309628,
                             237.8563611491108
                         ],
                         "page_number": 9,
-                        "text": "Line \\(A\\) is parallel Line \\(A\\) and Line \\(B\\) to line \\(B\\) intersect the \\(y\\)-axis"
+                        "text": "Line \\(A\\) is parallel Line \\(A\\) and Line \\(B\\)"
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
+                        "bbox": [
+                            195.45476536042577,
+                            236.70451436388507,
+                            423.4373488147073,
+                            250.81463748290014
+                        ],
+                        "page_number": 9,
+                        "text": "to line \\(B\\) intersect the \\(y\\)-axis"
+                    },
+                    {
+                        "type": "form_text",
                         "bbox": [
                             338.51959361393324,
                             249.95075239398085,
@@ -772,7 +812,12 @@
                         ],
                         "page_number": 9,
                         "text": "at the same point"
-                    },
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
                     {
                         "type": "text",
                         "bbox": [
@@ -831,7 +876,18 @@
                     76.59781121751026
                 ],
                 "page_number": 10,
-                "text": "11 Jo asks 90 people whether they prefer pop, rock, classical, jazz or folk music. The pie chart shows some of the results."
+                "text": "11 Jo asks 90 people whether they prefer pop, rock, classical, jazz or folk music."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    258.20754716981133,
+                    89.84404924760602
+                ],
+                "page_number": 10,
+                "text": "The pie chart shows some of the results."
             },
             {
                 "type": "image",
@@ -856,7 +912,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -872,7 +928,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -899,7 +955,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -915,7 +971,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -931,7 +987,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -973,7 +1029,18 @@
                     102.80232558139535
                 ],
                 "page_number": 11,
-                "text": "7 members play a flute \\((F)\\) and play a clarinet \\((C)\\). 12 members play a flute."
+                "text": "7 members play a flute \\((F)\\) and play a clarinet \\((C)\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    101.93844049247606,
+                    186.81906144170296,
+                    115.18467852257182
+                ],
+                "page_number": 11,
+                "text": "12 members play a flute."
             },
             {
                 "type": "text",
@@ -989,7 +1056,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1025,7 +1092,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1050,8 +1117,8 @@
                 "bbox": [
                     48.35994194484761,
                     478.30437756497946,
-                    546.6400580551524,
-                    494.4302325581395
+                    112.83986453797776,
+                    505.9487004103967
                 ],
                 "page_number": 11,
                 "text": "13 By writing each number in the calculation correct to 1 significant figure, find an estimate for the value of"
@@ -1106,24 +1173,24 @@
             {
                 "type": "text",
                 "bbox": [
-                    404.15094339622647,
-                    91.85978112175103,
-                    449.63231736816647,
-                    104.53009575923392
-                ],
-                "page_number": 12,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     70.52491533623609,
                     198.9815321477428,
                     222.80116110304792,
                     212.22777017783858
                 ],
                 "page_number": 12,
-                "text": "The diagram shows a trapezium. The area of the trapezium is \\(42 \\mathrm{~cm}^{2}\\)."
+                "text": "The diagram shows a trapezium."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    208.77222982216142,
+                    240.93613933236577,
+                    225.47400820793433
+                ],
+                "page_number": 12,
+                "text": "The area of the trapezium is \\(42 \\mathrm{~cm}^{2}\\)."
             },
             {
                 "type": "text",
@@ -1137,7 +1204,7 @@
                 "text": "Work out the value of \\(h\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     358.0938558297049,
                     394.5075239398085,
@@ -1145,7 +1212,8 @@
                     406.3139534883721
                 ],
                 "page_number": 12,
-                "blockMath": "\\[\nh=\n\\]"
+                "blockMath": "\\[\nh=\n\\]",
+                "text": "\\(\nh=\n\\)"
             }
         ]
     },
@@ -1154,7 +1222,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1190,7 +1258,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1213,23 +1281,24 @@
             {
                 "type": "text",
                 "bbox": [
-                    5.181422351233673,
-                    30.52393980848153,
-                    14.680696661828739,
-                    158.0909712722298
-                ],
-                "page_number": 13
-            },
-            {
-                "type": "text",
-                "bbox": [
                     48.35994194484761,
                     62.48768809849521,
                     279.50895016932753,
                     76.59781121751026
                 ],
                 "page_number": 13,
-                "text": "16 On Monday the cost of a concert ticket is \\(\\$ x\\) ． On Tuesday the cost of a ticket for the same concert is \\(20 \\%\\) more than the cost on Monday．"
+                "text": "16 On Monday the cost of a concert ticket is \\(\\$ x\\) ．"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    490.79583938074506,
+                    89.84404924760602
+                ],
+                "page_number": 13,
+                "text": "On Tuesday the cost of a ticket for the same concert is \\(20 \\%\\) more than the cost on Monday．"
             },
             {
                 "type": "text",
@@ -1240,7 +1309,18 @@
                     116.0485636114911
                 ],
                 "page_number": 13,
-                "text": "Jack buys 4 tickets on Monday and 5 tickets on Tuesday． Jack pays \\(\\$ 270\\) in total．"
+                "text": "Jack buys 4 tickets on Monday and 5 tickets on Tuesday．"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    114.89671682626539,
+                    181.92549588776006,
+                    129.29480164158687
+                ],
+                "page_number": 13,
+                "text": "Jack pays \\(\\$ 270\\) in total．"
             },
             {
                 "type": "text",
@@ -1254,17 +1334,7 @@
                 "text": "Work out the value of \\(x\\) ．"
             },
             {
-                "type": "text",
-                "bbox": [
-                    5.181422351233673,
-                    195.23803009575923,
-                    15.832123850991778,
-                    322.22913816689464
-                ],
-                "page_number": 13
-            },
-            {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     359.8209966134495,
                     284.21819425444596,
@@ -1272,7 +1342,8 @@
                     297.7523939808481
                 ],
                 "page_number": 13,
-                "blockMath": "\\[\nx=\n\\]"
+                "blockMath": "\\[\nx=\n\\]",
+                "text": "\\(\nx=\n\\)"
             }
         ]
     },
@@ -1293,7 +1364,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1309,7 +1380,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1325,18 +1396,8 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
-                    {
-                        "type": "text",
-                        "bbox": [
-                            5.181422351233673,
-                            523.2264021887825,
-                            14.680696661828739,
-                            649.641586867305
-                        ],
-                        "page_number": 13
-                    },
                     {
                         "type": "text",
                         "bbox": [
@@ -1347,16 +1408,6 @@
                         ],
                         "page_number": 13,
                         "text": "（c）\\(\\left(w^{4}\\right)^{3}\\)"
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            5.181422351233673,
-                            686.7886456908344,
-                            15.256410256410257,
-                            814.3556771545827
-                        ],
-                        "page_number": 13
                     }
                 ]
             }
@@ -1399,24 +1450,24 @@
             {
                 "type": "text",
                 "bbox": [
-                    455.1015965166909,
-                    88.6922024623803,
-                    500.5829704886309,
-                    101.3625170998632
-                ],
-                "page_number": 14,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     70.52491533623609,
                     285.94596443228454,
                     247.55684567005324,
                     300.344049247606
                 ],
                 "page_number": 14,
-                "text": "The diagram shows a circle, centre \\(O\\). \\(P\\) and \\(S\\) are points on the circle."
+                "text": "The diagram shows a circle, centre \\(O\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    299.1922024623803,
+                    219.63473633284957,
+                    313.30232558139534
+                ],
+                "page_number": 14,
+                "text": "\\(P\\) and \\(S\\) are points on the circle."
             },
             {
                 "type": "text",
@@ -1427,12 +1478,23 @@
                     325.6846785225718
                 ],
                 "page_number": 14,
-                "text": "\\(P O R\\) is a straight line. \\(Q R S T\\) is a tangent to the circle at \\(S\\)."
+                "text": "\\(P O R\\) is a straight line."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    325.3967168262654,
+                    236.04257377842285,
+                    339.79480164158684
+                ],
+                "page_number": 14,
+                "text": "\\(Q R S T\\) is a tangent to the circle at \\(S\\)."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1443,15 +1505,26 @@
                             364.27154582763336
                         ],
                         "page_number": 14,
-                        "text": "(a) Find the value of \\(x\\). Give a geometrical reason for your answer."
+                        "text": "(a) Find the value of \\(x\\)."
                     },
                     {
                         "type": "text",
                         "bbox": [
                             93.55345911949686,
-                            417.54445964432284,
-                            115.14271891630383,
-                            427.62311901504785
+                            363.40766073871407,
+                            293.6139332365748,
+                            377.5177838577291
+                        ],
+                        "page_number": 14,
+                        "text": "Give a geometrical reason for your answer."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            415.81668946648426,
+                            214.74117077890665,
+                            428.48700410396714
                         ],
                         "page_number": 14,
                         "text": "\\(x=\\) because"
@@ -1459,7 +1532,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1473,7 +1546,7 @@
                         "text": "(b) Find the value of \\(y\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             361.548137397194,
                             651.9452804377564,
@@ -1481,7 +1554,8 @@
                             666.0554035567715
                         ],
                         "page_number": 14,
-                        "blockMath": "\\[\ny=\n\\]"
+                        "blockMath": "\\[\ny=\n\\]",
+                        "text": "\\(\ny=\n\\)"
                     }
                 ]
             }
@@ -1524,17 +1598,6 @@
             {
                 "type": "text",
                 "bbox": [
-                    407.60522496371556,
-                    110.00136798905608,
-                    452.2230285437833,
-                    120.9439124487004
-                ],
-                "page_number": 15,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     70.52491533623609,
                     203.87688098495212,
                     428.33091436865027,
@@ -1552,7 +1615,18 @@
                     242.7517099863201
                 ],
                 "page_number": 15,
-                "text": "Calculate the area of the sector. Give your answer in terms of \\(\\pi\\) in its simplest form."
+                "text": "Calculate the area of the sector."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    243.32763337893297,
+                    311.7489114658926,
+                    257.437756497948
+                ],
+                "page_number": 15,
+                "text": "Give your answer in terms of \\(\\pi\\) in its simplest form."
             }
         ]
     },
@@ -1591,7 +1665,7 @@
                 "bbox": [
                     114.85486211901308,
                     86.10054719562243,
-                    214.74117077890665,
+                    481.0087082728593,
                     215.68331053351574
                 ],
                 "page_number": 16,
@@ -1611,8 +1685,8 @@
                 "bbox": [
                     114.85486211901308,
                     136.4938440492476,
-                    146.51910982099662,
-                    148.01231190150477
+                    213.87760038703436,
+                    153.1956224350205
                 ],
                 "page_number": 16,
                 "text": " "
@@ -1650,25 +1724,15 @@
                 "text": "Form an equation and solve it to find the value of \\(x\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     361.548137397194,
-                    521.2106703146375,
-                    381.41025641025647,
-                    531.2893296853625
-                ],
-                "page_number": 16,
-                "blockMath": "\\[\nx=\n\\]"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    530.8079342041607,
                     519.4829001367989,
                     547.5036284470248,
                     534.7448700410397
                 ],
-                "page_number": 16
+                "page_number": 16,
+                "text": "\\(\nx=\n\\) "
             }
         ]
     },
@@ -1698,25 +1762,15 @@
                 "text": "Rearrange the formula to make \\(h\\) the subject."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     359.8209966134495,
-                    713.5690834473324,
-                    383.137397194001,
-                    727.1032831737346
-                ],
-                "page_number": 16,
-                "blockMath": "\\[\nh=\n\\]"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    530.8079342041607,
                     713.5690834473324,
                     547.5036284470248,
                     728.5430916552667
                 ],
-                "page_number": 16
+                "page_number": 16,
+                "text": "\\(\nh=\n\\) "
             }
         ]
     },
@@ -1744,7 +1798,7 @@
                 ],
                 "page_number": 17,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>8 cm</div></td>\n    <td rowspan=\"4\" style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(x \\mathrm{~cm}\\)</div></td>\n    <td rowspan=\"4\" style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2 cm</div></td>\n    <td rowspan=\"5\" style=\"text-align:left; border:1px solid black; padding:4px;\"><div><table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>NOT TO SCALE</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1.5 cm</div></td>\n  </tr>\n</table></div></td>\n    <td style=\"border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Rectangle \\(A\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Rectangle \\(B\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >8 cm</td><td rowspan=\"4\">\\(x \\mathrm{~cm}\\)</td><td rowspan=\"4\">2 cm</td><td rowspan=\"5\"><table><tr><td >NOT TO SCALE</td></tr><tr><td >1.5 cm</td></tr></table></td><td></td><td></td><td></td></tr><tr><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td></tr><tr><td ></td><td ></td><td ></td><td ></td></tr><tr><td >Rectangle \\(A\\)</td><td ></td><td >Rectangle \\(B\\)</td><td ></td><td></td><td></td></tr></table>",
                     "caption": ""
                 }
             },
@@ -1756,26 +1810,34 @@
                     193.43976777939045,
                     86.96443228454172
                 ],
-                "page_number": 17,
-                "text": " "
+                "page_number": 17
             },
             {
                 "type": "text",
                 "bbox": [
-                    320.6724721819062,
-                    116.9124487004104,
-                    370.1838413159168,
-                    128.43091655266758
+                    398.1059506531205,
+                    91.85978112175103,
+                    489.9322689888728,
+                    158.6668946648427
                 ],
-                "page_number": 17,
-                "text": " "
+                "page_number": 17
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    256.19254958877605,
+                    127.56703146374828,
+                    280.0846637639091,
+                    136.4938440492476
+                ],
+                "page_number": 17
             },
             {
                 "type": "text",
                 "bbox": [
                     151.12481857764877,
                     185.44733242134063,
-                    209.2718916303822,
+                    387.4552491533624,
                     198.11764705882354
                 ],
                 "page_number": 17,
@@ -1804,7 +1866,7 @@
                 "text": "Work out the value of \\(x\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     359.8209966134495,
                     383.85294117647055,
@@ -1812,7 +1874,8 @@
                     396.5232558139535
                 ],
                 "page_number": 17,
-                "blockMath": "\\[\nx=\n\\]"
+                "blockMath": "\\[\nx=\n\\]",
+                "text": "\\(\nx=\n\\)"
             }
         ]
     },
@@ -1869,7 +1932,7 @@
                 "blockMath": "\\[\n\\begin{aligned}\n8 x+5 y & =4 \\\\\n2 x-y & =10\n\\end{aligned}\n\\]"
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     358.9574262215772,
                     491.5506155950752,
@@ -1877,10 +1940,11 @@
                     532.1532147742818
                 ],
                 "page_number": 18,
-                "blockMath": "\\[\n\\begin{aligned}\n& x= \\\\\n& y=\n\\end{aligned}\n\\]"
+                "blockMath": "\\[\n\\begin{aligned}\n& x= \\\\\n& y=\n\\end{aligned}\n\\]",
+                "text": "\\(\n\\begin{aligned}\n& x= \\\\\n& y=\n\\end{aligned}\n\\)"
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     530.8079342041607,
                     531.0013679890561,

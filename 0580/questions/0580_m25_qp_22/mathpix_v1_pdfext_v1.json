@@ -25,7 +25,7 @@
                 "text": "Work out the cost of 9 kg of these oranges."
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     494.537977745525,
                     241.5998632010944,
@@ -33,7 +33,7 @@
                     254.27017783857727
                 ],
                 "page_number": 3,
-                "text": "rupees [1]"
+                "text": "rupees "
             }
         ]
     },
@@ -49,7 +49,18 @@
                     293.72093023255815
                 ],
                 "page_number": 3,
-                "text": "2 Aryan goes on a journey. He leaves home at 1140 and arrives at 1418 ."
+                "text": "2 Aryan goes on a journey."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    292.5690834473324,
+                    278.93323657474605,
+                    305.2393980848153
+                ],
+                "page_number": 3,
+                "text": "He leaves home at 1140 and arrives at 1418 ."
             },
             {
                 "type": "text",
@@ -63,15 +74,15 @@
                 "text": "Find how many hours and minutes the journey took."
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     437.2544750846638,
                     430.7906976744186,
-                    451.35945815191104,
-                    444.03693570451435
+                    546.6400580551524,
+                    444.90082079343364
                 ],
                 "page_number": 3,
-                "text": "h. min [1]"
+                "text": "h. min "
             }
         ]
     },
@@ -87,7 +98,18 @@
                     484.3515731874145
                 ],
                 "page_number": 3,
-                "text": "3 A quadrilateral has one line of symmetry. The diagonals of the quadrilateral cross at right angles."
+                "text": "3 A quadrilateral has one line of symmetry."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    483.4876880984952,
+                    325.5660377358491,
+                    497.59781121751024
+                ],
+                "page_number": 3,
+                "text": "The diagonals of the quadrilateral cross at right angles."
             },
             {
                 "type": "text",
@@ -107,7 +129,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -121,7 +143,7 @@
                         "text": "(a) Find \\(V\\) when \\(m=10\\) and \\(p=-3\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             362.4117077890663,
                             159.24281805745554,
@@ -129,12 +151,13 @@
                             173.64090287277702
                         ],
                         "page_number": 4,
-                        "blockMath": "\\[\nV=\\text {............................................... }\n\\]"
+                        "blockMath": "\\[\nV=\\text {............................................... }\n\\]",
+                        "text": "\\(\nV=\\text {............................................... }\n\\)"
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -148,7 +171,7 @@
                         "text": "(b) Find the positive value of \\(p\\) when \\(V=3200\\) and \\(m=2\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             361.548137397194,
                             298.328317373461,
@@ -156,7 +179,8 @@
                             312.72640218878246
                         ],
                         "page_number": 4,
-                        "blockMath": "\\[\np=\n\\]"
+                        "blockMath": "\\[\np=\n\\]",
+                        "text": "\\(\np=\n\\)"
                     }
                 ]
             }
@@ -226,17 +250,6 @@
             {
                 "type": "text",
                 "bbox": [
-                    356.6545718432511,
-                    95.31532147742817,
-                    399.5452346395743,
-                    106.2578659370725
-                ],
-                "page_number": 5,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     72.25205611998065,
                     201.28522571819425,
                     236.04257377842285,
@@ -244,6 +257,17 @@
                 ],
                 "page_number": 5,
                 "text": "Work out the area of the trapezium."
+            },
+            {
+                "type": "form_text",
+                "bbox": [
+                    504.61296565070154,
+                    333.7476060191518,
+                    547.5036284470248,
+                    350.44938440492473
+                ],
+                "page_number": 5,
+                "text": "\\(\\mathrm{cm}^{2}\\) "
             }
         ]
     },
@@ -306,7 +330,18 @@
                     76.59781121751026
                 ],
                 "page_number": 6,
-                "text": "8 Pryanka plays a game in which she can win, lose or draw. The table shows the probability of her winning or losing a game."
+                "text": "8 Pryanka plays a game in which she can win, lose or draw."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    76.30984952120383,
+                    370.75955491049837,
+                    89.84404924760602
+                ],
+                "page_number": 6,
+                "text": "The table shows the probability of her winning or losing a game."
             },
             {
                 "type": "table",
@@ -318,14 +353,14 @@
                 ],
                 "page_number": 6,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Result of game</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>win</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>lose</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>draw</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Probability</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0.3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0.25</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >Result of game</td><td >win</td><td >lose</td><td >draw</td></tr><tr><td >Probability</td><td >0.3</td><td >0.25</td><td ></td></tr></table>",
                     "caption": ""
                 }
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -341,7 +376,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -406,7 +441,7 @@
                 "text": "By writing each number correct to 1 significant figure, work out an estimate for \\(D\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     359.8209966134495,
                     596.9445964432284,
@@ -414,7 +449,8 @@
                     611.9186046511628
                 ],
                 "page_number": 6,
-                "blockMath": "\\[\nD=\n\\]"
+                "blockMath": "\\[\nD=\n\\]",
+                "text": "\\(\nD=\n\\)"
             }
         ]
     },
@@ -455,24 +491,24 @@
             {
                 "type": "text",
                 "bbox": [
-                    386.30382196419936,
-                    77.17373461012312,
-                    430.0580551523948,
-                    88.11627906976744
-                ],
-                "page_number": 7,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     72.25205611998065,
                     198.9815321477428,
                     306.8553459119497,
                     211.3638850889193
                 ],
                 "page_number": 7,
-                "text": "Three regular polygons \\(A, B\\) and \\(C\\) meet at a point. The interior angles of the polygons are in the ratio \\(a: b: c=3: 4: 5\\)."
+                "text": "Three regular polygons \\(A, B\\) and \\(C\\) meet at a point."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    211.93980848153214,
+                    397.24238026124823,
+                    224.61012311901504
+                ],
+                "page_number": 7,
+                "text": "The interior angles of the polygons are in the ratio \\(a: b: c=3: 4: 5\\)."
             },
             {
                 "type": "text",
@@ -499,18 +535,18 @@
                     76.59781121751026
                 ],
                 "page_number": 8,
-                "text": "11 A company sells items either on a website or in shops. The composite bar chart shows the percentage of sales on the website and in shops for January, February"
+                "text": "11 A company sells items either on a website or in shops."
             },
             {
                 "type": "text",
                 "bbox": [
                     70.52491533623609,
-                    88.6922024623803,
+                    75.44596443228454,
                     125.79342041606193,
                     101.3625170998632
                 ],
                 "page_number": 8,
-                "text": "and March."
+                "text": "The composite bar chart shows the percentage of sales on the website and in shops for January, February and March."
             },
             {
                 "type": "image",
@@ -535,7 +571,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -562,7 +598,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -587,20 +623,20 @@
                         "text": "Work out the value of sales in shops in February."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             371.33526850507985,
                             675.8461012311901,
-                            384.86453797774556,
-                            689.0923392612859
+                            545.2007740686986,
+                            689.9562243502052
                         ],
                         "page_number": 8,
-                        "text": "\\$ million [3]"
+                        "text": "\\$ million "
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -611,7 +647,18 @@
                             76.59781121751026
                         ],
                         "page_number": 9,
-                        "text": "(c) In May, the company had sales of \\(\\$ 6\\) million. In June, the company had sales of \\(\\$ 7.5\\) million."
+                        "text": "(c) In May, the company had sales of \\(\\$ 6\\) million."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            75.44596443228454,
+                            313.1881954523464,
+                            89.84404924760602
+                        ],
+                        "page_number": 9,
+                        "text": "In June, the company had sales of \\(\\$ 7.5\\) million."
                     },
                     {
                         "type": "text",
@@ -627,7 +674,7 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -638,7 +685,18 @@
                             270.68399452804374
                         ],
                         "page_number": 9,
-                        "text": "(d) In 2024, the company had total sales of \\(\\$ 52\\) million. This was an increase of \\(30 \\%\\) on the total sales for 2023."
+                        "text": "(d) In 2024, the company had total sales of \\(\\$ 52\\) million."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            271.2599179206566,
+                            352.6245766811805,
+                            283.93023255813955
+                        ],
+                        "page_number": 9,
+                        "text": "This was an increase of \\(30 \\%\\) on the total sales for 2023."
                     },
                     {
                         "type": "text",
@@ -652,15 +710,15 @@
                         "text": "Work out the total sales in 2023."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             371.33526850507985,
                             397.9630642954856,
-                            384.86453797774556,
-                            412.93707250342
+                            545.2007740686986,
+                            413.8009575923393
                         ],
                         "page_number": 9,
-                        "text": "\\$ million [2]"
+                        "text": "\\$ million "
                     }
                 ]
             }
@@ -671,7 +729,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -698,7 +756,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -763,24 +821,24 @@
             {
                 "type": "text",
                 "bbox": [
-                    348.3067247218191,
-                    80.34131326949384,
-                    392.3488147073053,
-                    91.28385772913816
-                ],
-                "page_number": 10,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     72.25205611998065,
                     193.7982216142271,
                     372.4866956942429,
                     206.46853625171
                 ],
                 "page_number": 10,
-                "text": "The diagram shows a cylinder with radius \\(r \\mathrm{~cm}\\) and height 16 cm . A sphere has radius 3 cm ."
+                "text": "The diagram shows a cylinder with radius \\(r \\mathrm{~cm}\\) and height 16 cm ."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    207.04445964432284,
+                    189.12191582002905,
+                    219.71477428180575
+                ],
+                "page_number": 10,
+                "text": "A sphere has radius 3 cm ."
             },
             {
                 "type": "text",
@@ -805,7 +863,7 @@
                 "text": "Find the value of \\(r\\)."
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     364.7145621673924,
                     473.40902872777013,
@@ -820,16 +878,6 @@
     {
         "label": "14",
         "content": [
-            {
-                "type": "text",
-                "bbox": [
-                    5.469279148524432,
-                    31.09986320109439,
-                    14.968553459119498,
-                    158.0909712722298
-                ],
-                "page_number": 11
-            },
             {
                 "type": "text",
                 "bbox": [
@@ -864,23 +912,24 @@
             {
                 "type": "text",
                 "bbox": [
-                    5.469279148524432,
-                    195.23803009575923,
-                    14.968553459119498,
-                    321.36525307797535
-                ],
-                "page_number": 11
-            },
-            {
-                "type": "text",
-                "bbox": [
                     70.52491533623609,
                     358.22435020519833,
                     217.907595549105,
                     370.89466484268127
                 ],
                 "page_number": 11,
-                "text": "\\(A, B, C, D\\) and \\(E\\) lie on a circle． \\(F G\\) is a tangent to the circle at \\(C\\) ．"
+                "text": "\\(A, B, C, D\\) and \\(E\\) lie on a circle．"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    371.4705882352941,
+                    226.25544267053704,
+                    384.140902872777
+                ],
+                "page_number": 11,
+                "text": "\\(F G\\) is a tangent to the circle at \\(C\\) ．"
             },
             {
                 "type": "text",
@@ -896,32 +945,8 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
-                    {
-                        "type": "table",
-                        "bbox": [
-                            4.029995162070634,
-                            29.372093023255815,
-                            17.271407837445576,
-                            815.7954856361149
-                        ],
-                        "page_number": 11,
-                        "table": {
-                            "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>NISyVW SIHI NI ヨHYM ION OI</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>NISyVW SIHI NI ヨHYM ION OI</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>NISyVW SIHI NI ヨHYM ION OC</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>NISyVW SIHI NI ヨHYM ION OI</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>NISyVW SIHI NI ヨHYM ION OC</div></td>\n  </tr>\n</table>",
-                            "caption": ""
-                        }
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            5.469279148524432,
-                            359.9521203830369,
-                            14.968553459119498,
-                            485.5034199726402
-                        ],
-                        "page_number": 11
-                    },
                     {
                         "type": "text",
                         "bbox": [
@@ -931,14 +956,25 @@
                             423.59165526675787
                         ],
                         "page_number": 11,
-                        "text": "（a）Find angle \\(B C D\\) ． Give a geometrical reason for your answer．"
+                        "text": "（a）Find angle \\(B C D\\) ．"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            422.4398084815321,
+                            293.6139332365748,
+                            436.8378932968536
+                        ],
+                        "page_number": 11,
+                        "text": "Give a geometrical reason for your answer．"
                     },
                     {
                         "type": "text",
                         "bbox": [
                             93.55345911949686,
                             461.89056087551296,
-                            160.3362360909531,
+                            254.1775520077407,
                             476.28864569083447
                         ],
                         "page_number": 11,
@@ -947,25 +983,25 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
                                 "bbox": [
-                                    5.469279148524432,
-                                    523.2264021887825,
-                                    14.968553459119498,
-                                    649.641586867305
+                                    70.52491533623609,
+                                    526.1060191518468,
+                                    196.6061925495888,
+                                    540.5041039671682
                                 ],
                                 "page_number": 11,
-                                "text": " （b）（i）Find angle \\(D B C\\) ．"
+                                "text": "（b）（i）Find angle \\(D B C\\) ．"
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     313.76390904692795,
                                     605.0075239398085,
@@ -978,7 +1014,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -992,17 +1028,7 @@
                                 "text": "（ii）Find angle \\(D C G\\) ．"
                             },
                             {
-                                "type": "text",
-                                "bbox": [
-                                    5.469279148524432,
-                                    686.7886456908344,
-                                    14.968553459119498,
-                                    814.3556771545827
-                                ],
-                                "page_number": 11
-                            },
-                            {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     313.76390904692795,
                                     708.6737346101231,
@@ -1035,7 +1061,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1051,7 +1077,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1099,7 +1125,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1151,7 +1177,7 @@
                 ],
                 "page_number": 13,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>8</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>8</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>5</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >3</td><td >1</td><td >2</td><td >8</td><td ></td><td ></td><td ></td></tr><tr><td >4</td><td >0</td><td >1</td><td >2</td><td >3</td><td >3</td><td >8</td></tr><tr><td >5</td><td >1</td><td >2</td><td >3</td><td >4</td><td ></td><td ></td></tr></table>",
                     "caption": ""
                 }
             },
@@ -1169,7 +1195,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1183,7 +1209,7 @@
                         "text": "(a) Work out the interquartile range."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             530.8079342041607,
                             294.29685362517097,
@@ -1191,12 +1217,12 @@
                             309.2708618331053
                         ],
                         "page_number": 13,
-                        "text": "[3]"
+                        "text": ""
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1214,8 +1240,8 @@
                         "bbox": [
                             92.68988872762459,
                             345.266073871409,
-                            546.6400580551524,
-                            359.3761969904241
+                            198.33333333333334,
+                            372.62243502051984
                         ],
                         "page_number": 13,
                         "text": "Find the probability that the one packet has a mass of more than 50 g and the other packet has a mass of less than 50 g ."
@@ -1274,7 +1300,7 @@
                     74.87004103967168
                 ],
                 "page_number": 15,
-                "text": "18 NOT TO"
+                "text": "18"
             },
             {
                 "type": "image",
@@ -1299,29 +1325,29 @@
             {
                 "type": "text",
                 "bbox": [
-                    396.0909530720852,
-                    88.6922024623803,
-                    434.95162070633774,
-                    99.63474692202462
-                ],
-                "page_number": 15,
-                "text": "SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     70.52491533623609,
                     281.9145006839945,
                     439.8451862602806,
                     296.88850889192884
                 ],
                 "page_number": 15,
-                "text": "The quadrilateral \\(A C D E\\) is formed by two right-angled triangles \\(A B E\\) and \\(B C D\\). \\(A C=17 \\mathrm{~cm}, A E=18 \\mathrm{~cm}\\) and \\(B D=6 \\mathrm{~cm}\\)."
+                "text": "The quadrilateral \\(A C D E\\) is formed by two right-angled triangles \\(A B E\\) and \\(B C D\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    295.73666210670314,
+                    263.96468311562654,
+                    308.406976744186
+                ],
+                "page_number": 15,
+                "text": "\\(A C=17 \\mathrm{~cm}, A E=18 \\mathrm{~cm}\\) and \\(B D=6 \\mathrm{~cm}\\)."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1337,7 +1363,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1348,7 +1374,18 @@
                             581.3946648426812
                         ],
                         "page_number": 15,
-                        "text": "(b) Find the perimeter of the quadrilateral \\(A C D E\\). Give your answer in the form \\(p+k \\sqrt{q}\\)."
+                        "text": "(b) Find the perimeter of the quadrilateral \\(A C D E\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            580.2428180574556,
+                            277.2060957910015,
+                            596.3686730506156
+                        ],
+                        "page_number": 15,
+                        "text": "Give your answer in the form \\(p+k \\sqrt{q}\\)."
                     }
                 ]
             }
@@ -1406,7 +1443,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1433,7 +1470,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1466,7 +1503,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1480,7 +1517,7 @@
                         "text": "21 (a) Write down the coordinates of the point where the graph of \\(y=5 x-3\\) crosses the \\(y\\)-axis."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             530.8079342041607,
                             114.89671682626539,
@@ -1488,12 +1525,12 @@
                             130.15868673050616
                         ],
                         "page_number": 17,
-                        "text": "[1]"
+                        "text": ""
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1515,7 +1552,18 @@
                             181.99179206566347
                         ],
                         "page_number": 17,
-                        "text": "Find the equation of the perpendicular bisector of the line \\(A B\\). Give your answer in the form \\(y=m x+c\\)."
+                        "text": "Find the equation of the perpendicular bisector of the line \\(A B\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            180.83994528043775,
+                            288.72036768263183,
+                            194.9500683994528
+                        ],
+                        "page_number": 17,
+                        "text": "Give your answer in the form \\(y=m x+c\\)."
                     }
                 ]
             }
@@ -1533,12 +1581,23 @@
                     80.62927496580028
                 ],
                 "page_number": 18,
-                "text": "22 A curve has equation \\(y=x^{3}+x^{2}-x\\). The curve has a stationary point at \\(\\left(\\frac{1}{3},-\\frac{5}{27}\\right)\\)."
+                "text": "22 A curve has equation \\(y=x^{3}+x^{2}-x\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    81.20519835841313,
+                    280.37252056119985,
+                    112.88098495212037
+                ],
+                "page_number": 18,
+                "text": "The curve has a stationary point at \\(\\left(\\frac{1}{3},-\\frac{5}{27}\\right)\\)."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1550,23 +1609,23 @@
                         ],
                         "page_number": 18,
                         "text": "(a) Find the coordinates of the other stationary point."
+                    },
+                    {
+                        "type": "form_text",
+                        "bbox": [
+                            376.22883405902274,
+                            532.7291381668947,
+                            547.5036284470248,
+                            547.703146374829
+                        ],
+                        "page_number": 18,
+                        "text": "(......................., .......................) "
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
-                    {
-                        "type": "text",
-                        "bbox": [
-                            376.22883405902274,
-                            532.7291381668947,
-                            524.4750846637639,
-                            545.3994528043776
-                        ],
-                        "page_number": 18,
-                        "text": "(......................., .......................) "
-                    },
                     {
                         "type": "text",
                         "bbox": [
@@ -1576,7 +1635,18 @@
                             81.49316005471955
                         ],
                         "page_number": 19,
-                        "text": "(b) By sketching the graph of \\(y=x^{3}+x^{2}-x\\), determine whether the stationary point \\(\\left(\\frac{1}{3},-\\frac{5}{27}\\right)\\) is a maximum or a minimum."
+                        "text": "(b) By sketching the graph of \\(y=x^{3}+x^{2}-x\\), determine whether the stationary point"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            80.34131326949384,
+                            278.93323657474605,
+                            111.1532147742818
+                        ],
+                        "page_number": 19,
+                        "text": "\\(\\left(\\frac{1}{3},-\\frac{5}{27}\\right)\\) is a maximum or a minimum."
                     },
                     {
                         "type": "image",
@@ -1612,7 +1682,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1645,7 +1715,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1661,7 +1731,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1686,7 +1756,7 @@
                         "text": "Find the value of \\(x\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             363.2752781809386,
                             559.797537619699,
@@ -1694,7 +1764,8 @@
                             570.7400820793433
                         ],
                         "page_number": 20,
-                        "blockMath": "\\[\nx=\n\\]"
+                        "blockMath": "\\[\nx=\n\\]",
+                        "text": "\\(\nx=\n\\)"
                     }
                 ]
             }

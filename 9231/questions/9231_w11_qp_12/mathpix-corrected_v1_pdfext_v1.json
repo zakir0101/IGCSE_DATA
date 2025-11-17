@@ -1,0 +1,774 @@
+[
+    {
+        "label": "1",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    62.48768809849521,
+                    430.26621490803484,
+                    79.76538987688099
+                ],
+                "page_number": 2,
+                "text": "1 The equation \\(x^{3}+p x+q=0\\) has a repeated root. Prove that \\(4 p^{3}+27 q^{2}=0\\)."
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    103.3782489740082,
+                    453.30590513068734,
+                    117.77633378932968
+                ],
+                "page_number": 2,
+                "text": "2 The position vectors of points \\(A, B, C\\), relative to the origin \\(O\\), are \\(\\mathbf{a}, \\mathbf{b}, \\mathbf{c}\\), where"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    162.71781219748306,
+                    123.24760601915185,
+                    430.26621490803484,
+                    142.2530779753762
+                ],
+                "page_number": 2,
+                "blockMath": "\\[\n\\mathbf{a}=3 \\mathbf{i}+2 \\mathbf{j}-\\mathbf{k}, \\quad \\mathbf{b}=4 \\mathbf{i}-3 \\mathbf{j}+2 \\mathbf{k}, \\quad \\mathbf{c}=3 \\mathbf{i}-\\mathbf{j}-\\mathbf{k}\n\\]"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    147.72435020519836,
+                    317.6597289448209,
+                    162.12243502051982
+                ],
+                "page_number": 2,
+                "text": "Find \\(\\mathbf{a} \\times \\mathbf{b}\\) and deduce the area of the triangle \\(O A B\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    174.21682626538987,
+                    259.19651500484025,
+                    203.30095759233924
+                ],
+                "page_number": 2,
+                "text": "Hence find the volume of the tetrahedron \\(O A B C\\), given that the volume of a tetrahedron is \\(\\frac{1}{3} \\times\\) area of base \\(\\times\\) perpendicular height."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    531.0648596321394,
+                    187.46306429548562,
+                    547.7686350435624,
+                    202.43707250341996
+                ],
+                "page_number": 2
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    226.04993160054718,
+                    375.83494675701843,
+                    239.29616963064294
+                ],
+                "page_number": 2,
+                "text": "3 Prove by mathematical induction that, for all positive integers \\(n\\),"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    213.69312681510166,
+                    244.7674418604651,
+                    380.15488867376575,
+                    275.57934336525307
+                ],
+                "page_number": 2,
+                "blockMath": "\\[\n\\frac{\\mathrm{d}^{n}}{\\mathrm{~d} x^{n}}\\left(\\mathrm{e}^{x} \\sin x\\right)=2^{\\frac{1}{2} n} \\mathrm{e}^{x} \\sin \\left(x+\\frac{1}{4} n \\pi\\right)\n\\]"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    531.0648596321394,
+                    254.84610123119015,
+                    547.7686350435624,
+                    268.0923392612859
+                ],
+                "page_number": 2
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    305.81532147742814,
+                    436.89012584704744,
+                    321.6532147742818
+                ],
+                "page_number": 2,
+                "text": "4 The linear transformation T: \\(\\mathbb{R}^{4} \\rightarrow \\mathbb{R}^{4}\\) is represented by the matrix \\(\\mathbf{M}\\), where"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    227.51694094869313,
+                    325.3967168262654,
+                    366.0430784123911,
+                    385.8686730506156
+                ],
+                "page_number": 2,
+                "blockMath": "\\[\n\\mathbf{M}=\\left(\\begin{array}{rrrr}\n3 & 4 & 2 & 5 \\\\\n6 & 7 & 5 & 8 \\\\\n9 & 9 & 9 & 9 \\\\\n15 & 16 & 14 & 17\n\\end{array}\\right) .\n\\]"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    391.33994528043775,
+                    97.05469506292353,
+                    403.14637482900133
+                ],
+                "page_number": 2,
+                "text": "Find"
+            }
+        ],
+        "parts": [
+            {
+                "label": "i",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            412.6491108071135,
+                            334.0755082284608,
+                            426.18331053351574
+                        ],
+                        "page_number": 2,
+                        "text": "(i) the rank of \\(\\mathbf{M}\\) and a basis for the range space of T ,"
+                    }
+                ]
+            },
+            {
+                "label": "ii",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            74.59099709583737,
+                            432.23050615595076,
+                            237.88480154888674,
+                            446.6285909712722
+                        ],
+                        "page_number": 2,
+                        "text": "(ii) a basis for the null space of T ."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    471.969220246238,
+                    307.0038722168442,
+                    486.07934336525307
+                ],
+                "page_number": 2,
+                "text": "5 The point \\(P(2,1)\\) lies on the curve with equation"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    258.04453049370767,
+                    489.82284541723664,
+                    334.9394966118103,
+                    509.1162790697674
+                ],
+                "page_number": 2,
+                "blockMath": "\\[\nx^{3}-2 y^{3}=3 x y .\n\\]"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    516.3153214774281,
+                    97.05469506292353,
+                    529.561559507524
+                ],
+                "page_number": 2,
+                "text": "Find"
+            }
+        ],
+        "parts": [
+            {
+                "label": "i",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            533.5930232558139,
+                            194.97337850919652,
+                            560.0854993160054
+                        ],
+                        "page_number": 2,
+                        "text": "(i) the value of \\(\\frac{\\mathrm{d} y}{\\mathrm{~d} x}\\) at \\(P\\),"
+                    }
+                ]
+            },
+            {
+                "label": "ii",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            73.7270087124879,
+                            563.829001367989,
+                            199.29332042594385,
+                            594.640902872777
+                        ],
+                        "page_number": 2,
+                        "text": "(ii) the value of \\(\\frac{\\mathrm{d}^{2} y}{\\mathrm{~d} x^{2}}\\) at \\(P\\)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    616.5259917920656,
+                    341.56340755082283,
+                    648.7777017783858
+                ],
+                "page_number": 2,
+                "text": "6 Let \\(I_{n}=\\int_{0}^{1} x^{n}(1-x)^{\\frac{1}{2}} \\mathrm{~d} x\\), for \\(n \\geqslant 0\\). Show that, for \\(n \\geqslant 1\\),"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    248.25266214908035,
+                    652.8091655266758,
+                    346.4593417231365,
+                    671.8146374829001
+                ],
+                "page_number": 2,
+                "blockMath": "\\[\n(3+2 n) I_{n}=2 n I_{n-1} .\n\\]"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    531.0648596321394,
+                    654.2489740082079,
+                    547.7686350435624,
+                    669.5109439124486
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    688.8043775649794,
+                    226.36495643756052,
+                    704.9302325581396
+                ],
+                "page_number": 2,
+                "text": "Hence find the exact value of \\(I_{3}\\)."
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    60.75991792065663,
+                    244.50871248789932,
+                    102.80232558139535
+                ],
+                "page_number": 3,
+                "text": "7 The curve \\(C\\) has equation \\(y=\\frac{x^{2}+p x+1}{x-2}\\), where \\(p\\) is a constant. Given that \\(C\\) has two asymptotes, find the equation of each asymptote."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    113.45690834473324,
+                    404.05856727976766,
+                    127.56703146374828
+                ],
+                "page_number": 3,
+                "text": "Find the set of values of \\(p\\) for which \\(C\\) has two distinct turning points."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    139.66142270861832,
+                    364.31510164569215,
+                    167.01778385772914
+                ],
+                "page_number": 3,
+                "text": "Sketch \\(C\\) in the case \\(p=-1\\). Your sketch should indicate the coordinates of any intersections with the axes, but need not show the coordinates of any turning points."
+            }
+        ]
+    },
+    {
+        "label": "8",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    191.49452804377563,
+                    290.3000968054211,
+                    231.23324213406292
+                ],
+                "page_number": 3,
+                "text": "8 The vector \\(\\mathbf{e}\\) is an eigenvector of the matrix \\(\\mathbf{A}\\), with corresponding eigenvalue \\(\\lambda\\), and is also an eigenvector of the matrix \\(\\mathbf{B}\\), with corresponding eigenvalue \\(\\mu\\). Show that \\(\\mathbf{e}\\) is an eigenvector of the matrix \\(\\mathbf{A B}\\) with corresponding eigenvalue \\(\\lambda \\mu\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    243.32763337893297,
+                    282.23620522749275,
+                    257.437756497948
+                ],
+                "page_number": 3,
+                "text": "State the eigenvalues of the matrix \\(\\mathbf{C}\\), where"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    239.90077444336885,
+                    262.9090287277702,
+                    354.52323330106486,
+                    307.5430916552667
+                ],
+                "page_number": 3,
+                "blockMath": "\\[\n\\mathbf{C}=\\left(\\begin{array}{rrr}\n-1 & -1 & 3 \\\\\n0 & 1 & 2 \\\\\n0 & 0 & 2\n\\end{array}\\right),\n\\]"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    312.43844049247605,
+                    246.81268151016457,
+                    326.5485636114911
+                ],
+                "page_number": 3,
+                "text": "and find corresponding eigenvectors."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    337.77906976744185,
+                    343.00338818973864,
+                    375.79001367989054
+                ],
+                "page_number": 3,
+                "text": "Show that \\(\\left(\\begin{array}{l}1 \\\\ 6 \\\\ 3\\end{array}\\right)\\) is an eigenvector of the matrix \\(\\mathbf{D}\\), where"
+            },
+            {
+                "type": "blockMath",
+                "bbox": [
+                    239.90077444336885,
+                    374.92612859097125,
+                    354.52323330106486,
+                    419.56019151846783
+                ],
+                "page_number": 3,
+                "blockMath": "\\[\n\\mathbf{D}=\\left(\\begin{array}{rrr}\n1 & -1 & 1 \\\\\n-6 & -3 & 4 \\\\\n-9 & -3 & 7\n\\end{array}\\right),\n\\]"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    424.1675786593707,
+                    259.19651500484025,
+                    438.27770177838573
+                ],
+                "page_number": 3,
+                "text": "and state the corresponding eigenvalue."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    450.3720930232558,
+                    469.7216844143272,
+                    464.7701778385773
+                ],
+                "page_number": 3,
+                "text": "Hence state an eigenvector of the matrix \\(\\mathbf{C D}\\) and give the corresponding eigenvalue."
+            }
+        ]
+    },
+    {
+        "label": "9",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    488.38303693570447,
+                    369.499031945789,
+                    505.9487004103967
+                ],
+                "page_number": 3,
+                "text": "9 The curve \\(C\\) has equation \\(y=\\frac{1}{2}\\left(\\mathrm{e}^{x}+\\mathrm{e}^{-x}\\right)\\) for \\(0 \\leqslant x \\leqslant \\ln 5\\). Find"
+            }
+        ],
+        "parts": [
+            {
+                "label": "i",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            77.18296224588578,
+                            511.4199726402189,
+                            409.8184898354308,
+                            525.5300957592339
+                        ],
+                        "page_number": 3,
+                        "text": "(i) the mean value of \\(y\\) with respect to \\(x\\) over the interval \\(0 \\leqslant x \\leqslant \\ln 5\\),"
+                    }
+                ]
+            },
+            {
+                "label": "ii",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            73.7270087124879,
+                            531.0013679890561,
+                            188.34946757018395,
+                            546.8392612859097
+                        ],
+                        "page_number": 3,
+                        "text": "(ii) the arc length of \\(C\\),"
+                    }
+                ]
+            },
+            {
+                "label": "iii",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            553.1744186046511,
+                            478.07357212003876,
+                            566.7086183310533
+                        ],
+                        "page_number": 3,
+                        "text": "(iii) the surface area generated when \\(C\\) is rotated through \\(2 \\pi\\) radians about the \\(x\\)-axis."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "10",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    591.7612859097127,
+                    323.419651500484,
+                    619.40560875513
+                ],
+                "page_number": 3,
+                "text": "10 The curve \\(C\\) has polar equation \\(r=3+2 \\cos \\theta\\), for \\(-\\pi<\\theta \\leqslant \\pi\\). The straight line \\(l\\) has polar equation \\(r \\cos \\theta=2\\). Sketch both \\(C\\) and \\(l\\) on a single diagram."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    631.2120383036936,
+                    382.458857696031,
+                    645.610123119015
+                ],
+                "page_number": 3,
+                "text": "Find the polar coordinates of the points of intersection of \\(C\\) and \\(l\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.55905130687319,
+                    657.7045143638851,
+                    443.51403678606005,
+                    671.8146374829001
+                ],
+                "page_number": 3,
+                "text": "The region \\(R\\) is enclosed by \\(C\\) and \\(l\\), and contains the pole. Find the area of \\(R\\)."
+            }
+        ]
+    },
+    {
+        "label": "11",
+        "content": [
+            {
+                "type": "text",
+                "bbox": [
+                    47.51936108422072,
+                    63.92749658002736,
+                    313.3397870280736,
+                    79.76538987688099
+                ],
+                "page_number": 4,
+                "text": "11 Answer only one of the following two alternatives."
+            }
+        ],
+        "parts": [
+            {
+                "label": "EITHER",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            90.41997264021887,
+                            119.51839303000969,
+                            102.80232558139535
+                        ],
+                        "page_number": 4,
+                        "text": "EITHER"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            114.89671682626539,
+                            371.8030009680542,
+                            132.4623803009576
+                        ],
+                        "page_number": 4,
+                        "text": "Let \\(\\omega=\\cos \\frac{1}{5} \\pi+\\mathrm{i} \\sin \\frac{1}{5} \\pi\\). Show that \\(\\omega^{5}+1=0\\) and deduce that"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            239.90077444336885,
+                            137.93365253077974,
+                            353.6592449177154,
+                            154.63543091655265
+                        ],
+                        "page_number": 4,
+                        "blockMath": "\\[\n\\omega^{4}-\\omega^{3}+\\omega^{2}-\\omega=-1\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            531.0648596321394,
+                            141.3891928864569,
+                            546.3286544046467,
+                            154.63543091655265
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            175.94459644322845,
+                            155.51790900290416,
+                            188.3269493844049
+                        ],
+                        "page_number": 4,
+                        "text": "Show further that"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            188.06147144240077,
+                            188.90287277701776,
+                            406.36253630203294,
+                            209.92407660738712
+                        ],
+                        "page_number": 4,
+                        "blockMath": "\\[\n\\omega-\\omega^{4}=2 \\cos \\frac{1}{5} \\pi \\quad \\text { and } \\quad \\omega^{3}-\\omega^{2}=2 \\cos \\frac{3}{5} \\pi\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            531.0648596321394,
+                            193.2222982216142,
+                            546.3286544046467,
+                            207.33242134062925
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            226.91381668946647,
+                            189.2134559535334,
+                            237.8563611491108
+                        ],
+                        "page_number": 4,
+                        "text": "Hence find the values of"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            205.34123910939013,
+                            244.19151846785223,
+                            389.0827686350436,
+                            265.78864569083447
+                        ],
+                        "page_number": 4,
+                        "blockMath": "\\[\n\\cos \\frac{1}{5} \\pi+\\cos \\frac{3}{5} \\pi \\quad \\text { and } \\quad \\cos \\frac{1}{5} \\pi \\cos \\frac{3}{5} \\pi\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            531.0648596321394,
+                            248.22298221614227,
+                            546.3286544046467,
+                            263.1969904240766
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            283.6422708618331,
+                            518.1050338818974,
+                            301.2079343365253
+                        ],
+                        "page_number": 4,
+                        "text": "Find a quadratic equation having roots \\(\\cos \\frac{1}{5} \\pi\\) and \\(\\cos \\frac{3}{5} \\pi\\) and deduce the exact value of \\(\\cos \\frac{1}{5} \\pi\\)."
+                    }
+                ]
+            },
+            {
+                "label": "OR",
+                "content": [
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            312.43844049247605,
+                            92.15876089060987,
+                            324.24487004103963
+                        ],
+                        "page_number": 4,
+                        "text": "OR"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            338.64295485636114,
+                            122.6863504356244,
+                            349.58549931600544
+                        ],
+                        "page_number": 4,
+                        "text": "Given that"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            185.75750242013552,
+                            349.297537619699,
+                            407.2265246853824,
+                            380.9733242134063
+                        ],
+                        "page_number": 4,
+                        "blockMath": "\\[\nx^{2} \\frac{\\mathrm{~d}^{2} y}{\\mathrm{~d} x^{2}}+4 x(1+x) \\frac{\\mathrm{d} y}{\\mathrm{~d} x}+2\\left(1+4 x+2 x^{2}\\right) y=8 x^{2}\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            384.71682626538984,
+                            199.86931268151017,
+                            398.8269493844049
+                        ],
+                        "page_number": 4,
+                        "text": "and that \\(x^{2} y=z\\), show that"
+                    },
+                    {
+                        "type": "blockMath",
+                        "bbox": [
+                            243.3567279767667,
+                            401.13064295485634,
+                            352.79525653436593,
+                            431.9425444596443
+                        ],
+                        "page_number": 4,
+                        "blockMath": "\\[\n\\frac{\\mathrm{d}^{2} z}{\\mathrm{~d} x^{2}}+4 \\frac{\\mathrm{~d} z}{\\mathrm{~d} x}+4 z=8 x^{2}\n\\]"
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            531.0648596321394,
+                            410.92134062927494,
+                            546.3286544046467,
+                            424.45554035567716
+                        ],
+                        "page_number": 4
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            448.9322845417237,
+                            280.5082284607938,
+                            461.31463748290014
+                        ],
+                        "page_number": 4,
+                        "text": "Find the general solution for \\(y\\) in terms of \\(x\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            70.55905130687319,
+                            473.40902872777013,
+                            256.02855759922556,
+                            487.80711354309165
+                        ],
+                        "page_number": 4,
+                        "text": "Describe the behaviour of \\(y\\) as \\(x \\rightarrow \\infty\\)."
+                    }
+                ]
+            }
+        ]
+    }
+]

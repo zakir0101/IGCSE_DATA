@@ -33,7 +33,7 @@
                     148.01231190150477
                 ],
                 "page_number": 3,
-                "text": "months [1]"
+                "text": "months "
             }
         ]
     },
@@ -63,7 +63,7 @@
                 "text": "Calculate the maximum number of cups he can buy and the change he receives."
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     305.7039187227867,
                     316.4699042407661,
@@ -74,7 +74,7 @@
                 "text": "Number of cups"
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     336.7924528301887,
                     342.6744186046511,
@@ -123,7 +123,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -139,7 +139,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -169,7 +169,7 @@
                 ],
                 "page_number": 4,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td colspan=\"7\" style=\"text-align:left; border:1px solid black; padding:4px;\"><div>4</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>30</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>31</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>32</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>33</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>34</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>35</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>36</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>37</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>38</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>39</div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td ></td><td ></td><td ></td><td colspan=\"7\">4</td></tr><tr><td >30</td><td >31</td><td >32</td><td >33</td><td >34</td><td >35</td><td >36</td><td >37</td><td >38</td><td >39</td></tr></table>",
                     "caption": ""
                 }
             },
@@ -178,7 +178,7 @@
                 "bbox": [
                     160.3362360909531,
                     85.52462380300958,
-                    177.03193033381714,
+                    437.2544750846638,
                     99.63474692202462
                 ],
                 "page_number": 4,
@@ -198,7 +198,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -214,7 +214,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -230,7 +230,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -246,7 +246,7 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -262,7 +262,7 @@
                 ]
             },
             {
-                "label": "e",
+                "label": "(e)",
                 "content": [
                     {
                         "type": "text",
@@ -284,7 +284,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -311,7 +311,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -322,7 +322,18 @@
                             581.3946648426812
                         ],
                         "page_number": 4,
-                        "text": "(b) A train has \\(p\\) passengers. \\(x\\) passengers get off the train and \\(y\\) passengers get on the train."
+                        "text": "(b) A train has \\(p\\) passengers."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            91.8263183357523,
+                            579.6668946648426,
+                            384.0009675858733,
+                            594.640902872777
+                        ],
+                        "page_number": 4,
+                        "text": "\\(x\\) passengers get off the train and \\(y\\) passengers get on the train."
                     },
                     {
                         "type": "text",
@@ -351,7 +362,18 @@
                     76.59781121751026
                 ],
                 "page_number": 5,
-                "text": "6 Raj thinks of a negative number, \\(n\\). He adds 10 to \\(n\\) and then multiplies by 5 ."
+                "text": "6 Raj thinks of a negative number, \\(n\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    262.23754233188197,
+                    89.84404924760602
+                ],
+                "page_number": 5,
+                "text": "He adds 10 to \\(n\\) and then multiplies by 5 ."
             },
             {
                 "type": "text",
@@ -376,7 +398,7 @@
                 "text": "Work out the value of \\(n\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     362.4117077890663,
                     218.56292749658002,
@@ -384,7 +406,8 @@
                     230.36935704514363
                 ],
                 "page_number": 5,
-                "blockMath": "\\[\nn=\n\\]"
+                "blockMath": "\\[\nn=\n\\]",
+                "text": "\\(\nn=\n\\)"
             }
         ]
     },
@@ -436,15 +459,15 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             476.8645690834473,
-                            181.92549588776006,
-                            490.97469220246234
+                            353.48814707305274,
+                            491.8385772913816
                         ],
                         "page_number": 5,
                         "text": "(a) Angle \\(A\\) and angle are corresponding angles."
@@ -452,14 +475,14 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
                         "bbox": [
                             70.52491533623609,
                             503.0690834473324,
-                            206.3933236574746,
+                            405.3023705853895,
                             517.4671682626539
                         ],
                         "page_number": 5,
@@ -487,8 +510,8 @@
                 "type": "text",
                 "bbox": [
                     103.34059022738269,
-                    86.96443228454172,
-                    259.07111756168365,
+                    86.10054719562243,
+                    258.20754716981133,
                     101.3625170998632
                 ],
                 "page_number": 6,
@@ -497,7 +520,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -513,7 +536,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -529,7 +552,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -572,7 +595,7 @@
                 "text": "Calculate the surface area of the cuboid."
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     506.05224963715534,
                     514.5875512995896,
@@ -580,7 +603,7 @@
                     532.1532147742818
                 ],
                 "page_number": 6,
-                "text": "\\(\\mathrm{cm}^{2}\\) [3]"
+                "text": "\\(\\mathrm{cm}^{2}\\) "
             }
         ]
     },
@@ -596,7 +619,18 @@
                     76.59781121751026
                 ],
                 "page_number": 7,
-                "text": "10 The table shows an ordered stem-and-leaf diagram. \\(A, B\\) and \\(C\\) are missing numbers."
+                "text": "10 The table shows an ordered stem-and-leaf diagram."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    224.52830188679246,
+                    89.84404924760602
+                ],
+                "page_number": 7,
+                "text": "\\(A, B\\) and \\(C\\) are missing numbers."
             },
             {
                 "type": "table",
@@ -608,7 +642,7 @@
                 ],
                 "page_number": 7,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(A\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(B\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>7</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>6</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(C\\)</div></td>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >0</td><td >2</td><td >\\(A\\)</td><td ></td><td ></td><td ></td></tr><tr><td >1</td><td >1</td><td >3</td><td >\\(B\\)</td><td >7</td><td ></td></tr><tr><td >2</td><td >0</td><td >4</td><td >6</td><td >\\(C\\)</td><td ></td></tr></table>",
                     "caption": ""
                 }
             },
@@ -632,7 +666,18 @@
                     229.50547195622434
                 ],
                 "page_number": 7,
-                "text": "For the ten numbers - the range is 27"
+                "text": "For the ten numbers"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    230.94528043775648,
+                    163.7905176584422,
+                    244.47948016415867
+                ],
+                "page_number": 7,
+                "text": "- the range is 27"
             },
             {
                 "type": "text",
@@ -643,12 +688,23 @@
                     255.99794801641585
                 ],
                 "page_number": 7,
-                "text": "- the median is 16 - the mean is 16.5 ."
+                "text": "- the median is 16"
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    256.2859097127223,
+                    176.74407353652637,
+                    268.0923392612859
+                ],
+                "page_number": 7,
+                "text": "- the mean is 16.5 ."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -662,7 +718,7 @@
                         "text": "(a) Work out the values of \\(A, B\\) and \\(C\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             358.9574262215772,
                             528.6976744186046,
@@ -670,12 +726,13 @@
                             591.4733242134063
                         ],
                         "page_number": 7,
-                        "blockMath": "\\[\n\\begin{aligned}\n& A= \\\\\n& B= \\\\\n& C=\n\\end{aligned}\n\\]"
+                        "blockMath": "\\[\n\\begin{aligned}\n& A= \\\\\n& B= \\\\\n& C=\n\\end{aligned}\n\\]",
+                        "text": "\\(\n\\begin{aligned}\n& A= \\\\\n& B= \\\\\n& C=\n\\end{aligned}\n\\)"
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -715,7 +772,18 @@
                     76.59781121751026
                 ],
                 "page_number": 8,
-                "text": "11 The scale drawing shows the positions of two lighthouses, \\(P\\) and \\(Q\\). The scale is 1 centimetre represents 0.8 kilometres."
+                "text": "11 The scale drawing shows the positions of two lighthouses, \\(P\\) and \\(Q\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    308.2946298984035,
+                    89.84404924760602
+                ],
+                "page_number": 8,
+                "text": "The scale is 1 centimetre represents 0.8 kilometres."
             },
             {
                 "type": "image",
@@ -751,11 +819,11 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -771,7 +839,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -789,7 +857,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -829,7 +897,18 @@
                     76.59781121751026
                 ],
                 "page_number": 9,
-                "text": "12 Mo asks some people if they prefer sun, rain or wind. The pie chart shows the results."
+                "text": "12 Mo asks some people if they prefer sun, rain or wind."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    217.907595549105,
+                    89.84404924760602
+                ],
+                "page_number": 9,
+                "text": "The pie chart shows the results."
             },
             {
                 "type": "image",
@@ -909,10 +988,21 @@
                     560.0854993160054
                 ],
                 "page_number": 9,
-                "text": "Use the exchange rates to calculate how many krona she receives. Give your answer correct to the nearest krona."
+                "text": "Use the exchange rates to calculate how many krona she receives."
             },
             {
                 "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    559.797537619699,
+                    285.26608611514274,
+                    573.3317373461012
+                ],
+                "page_number": 9,
+                "text": "Give your answer correct to the nearest krona."
+            },
+            {
+                "type": "form_text",
                 "bbox": [
                     497.9922593130141,
                     690.532147742818,
@@ -920,7 +1010,7 @@
                     703.202462380301
                 ],
                 "page_number": 9,
-                "text": "krona [3]"
+                "text": "krona "
             }
         ]
     },
@@ -929,7 +1019,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -956,7 +1046,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -989,7 +1079,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1014,7 +1104,7 @@
                         "text": "Calculate the average speed of the car in \\(\\mathrm{km} / \\mathrm{h}\\) ．"
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             501.15868408321245,
                             399.40287277701776,
@@ -1027,7 +1117,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1041,7 +1131,7 @@
                         "text": "（b）Convert \\(8 \\mathrm{~m} / \\mathrm{s}\\) into \\(\\mathrm{km} / \\mathrm{h}\\) ．"
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             501.15868408321245,
                             529.2735978112175,
@@ -1060,7 +1150,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1087,7 +1177,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1103,7 +1193,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1117,7 +1207,7 @@
                                 "text": "(i) 98 : 147"
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     453.6623125302371,
                                     323.9569083447332,
@@ -1130,7 +1220,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1144,7 +1234,7 @@
                                 "text": "(ii) \\(2^{450}: 2^{452}\\)"
                             },
                             {
-                                "type": "text",
+                                "type": "form_text",
                                 "bbox": [
                                     453.6623125302371,
                                     414.3768809849521,
@@ -1165,7 +1255,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1203,7 +1293,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1241,7 +1331,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1274,7 +1364,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1296,15 +1386,21 @@
                             102.80232558139535
                         ],
                         "page_number": 12,
-                        "text": "Calculate the value of her investment at the end of the 3 years. Give your answer correct to the nearest \\(\\$ 10\\)."
-                    }
-                ]
-            },
-            {
-                "label": "b",
-                "content": [
+                        "text": "Calculate the value of her investment at the end of the 3 years."
+                    },
                     {
                         "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            101.93844049247606,
+                            300.23463957426225,
+                            116.0485636114911
+                        ],
+                        "page_number": 12,
+                        "text": "Give your answer correct to the nearest \\(\\$ 10\\)."
+                    },
+                    {
+                        "type": "form_text",
                         "bbox": [
                             371.33526850507985,
                             204.7407660738714,
@@ -1313,7 +1409,12 @@
                         ],
                         "page_number": 12,
                         "text": "\\$"
-                    },
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
                     {
                         "type": "text",
                         "bbox": [
@@ -1323,7 +1424,18 @@
                             245.9192886456908
                         ],
                         "page_number": 12,
-                        "text": "(b) Zak invests \\(\\$ 560\\) for one year. After one year his investment is worth \\(\\$ 630\\)."
+                        "text": "(b) Zak invests \\(\\$ 560\\) for one year."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            244.7674418604651,
+                            300.23463957426225,
+                            259.16552667578657
+                        ],
+                        "page_number": 12,
+                        "text": "After one year his investment is worth \\(\\$ 630\\)."
                     },
                     {
                         "type": "text",
@@ -1345,7 +1457,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1361,7 +1473,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1415,7 +1527,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1431,7 +1543,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1447,7 +1559,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1463,7 +1575,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1481,7 +1593,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1503,7 +1615,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1519,7 +1631,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1566,7 +1678,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -1577,12 +1689,23 @@
                                     428.48700410396714
                                 ],
                                 "page_number": 14,
-                                "text": "(i) Write down an expression, in terms of \\(x\\), for the sum of the interior angles of the pentagon. Give your answer in its simplest form."
+                                "text": "(i) Write down an expression, in terms of \\(x\\), for the sum of the interior angles of the pentagon."
+                            },
+                            {
+                                "type": "text",
+                                "bbox": [
+                                    116.58200290275764,
+                                    426.47127222982215,
+                                    295.34107402031935,
+                                    441.7332421340629
+                                ],
+                                "page_number": 14,
+                                "text": "Give your answer in its simplest form."
                             }
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -1596,25 +1719,15 @@
                                 "text": "(ii) Work out the value of \\(x\\)."
                             },
                             {
-                                "type": "blockMath",
+                                "type": "form_text",
                                 "bbox": [
                                     363.2752781809386,
-                                    674.1183310533515,
-                                    384.86453797774556,
+                                    673.2544459644323,
+                                    547.5036284470248,
                                     689.0923392612859
                                 ],
                                 "page_number": 14,
-                                "blockMath": "\\[\nx=\n\\]"
-                            },
-                            {
-                                "type": "text",
-                                "bbox": [
-                                    530.8079342041607,
-                                    673.2544459644323,
-                                    547.5036284470248,
-                                    687.6525307797538
-                                ],
-                                "page_number": 14
+                                "text": "\\(\nx=\n\\) "
                             }
                         ]
                     }

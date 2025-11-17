@@ -25,7 +25,7 @@
                 "blockMath": "\\[\n4 c-9=13\n\\]"
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     363.2752781809386,
                     158.6668946648427,
@@ -33,7 +33,8 @@
                     170.47332421340627
                 ],
                 "page_number": 3,
-                "blockMath": "\\[\nc=\n\\]"
+                "blockMath": "\\[\nc=\n\\]",
+                "text": "\\(\nc=\n\\)"
             }
         ]
     },
@@ -87,7 +88,18 @@
                     416.96853625170996
                 ],
                 "page_number": 3,
-                "text": "3 In the USA, one gallon of fuel costs \\(\\$ 4.83\\). In the UK, one litre of fuel costs \\(£ 1.62\\)."
+                "text": "3 In the USA, one gallon of fuel costs \\(\\$ 4.83\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    415.81668946648426,
+                    257.3439767779391,
+                    430.2147742818057
+                ],
+                "page_number": 3,
+                "text": "In the UK, one litre of fuel costs \\(£ 1.62\\)."
             },
             {
                 "type": "text",
@@ -98,7 +110,18 @@
                     456.4192886456908
                 ],
                 "page_number": 3,
-                "text": "The exchange rate is \\(£ 1=\\$ 1.215\\). 1 gallon = 3.785 litres"
+                "text": "The exchange rate is \\(£ 1=\\$ 1.215\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    93.55345911949686,
+                    455.2674418604651,
+                    199.77261731978714,
+                    469.66552667578657
+                ],
+                "page_number": 3,
+                "text": "1 gallon = 3.785 litres"
             },
             {
                 "type": "text",
@@ -109,10 +132,21 @@
                     495.87004103967166
                 ],
                 "page_number": 3,
-                "text": "In which country does 1 litre of fuel cost more and by how much? Give your answer in dollars."
+                "text": "In which country does 1 litre of fuel cost more and by how much?"
             },
             {
                 "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    494.71819425444596,
+                    204.9540396710208,
+                    509.1162790697674
+                ],
+                "page_number": 3,
+                "text": "Give your answer in dollars."
+            },
+            {
+                "type": "form_text",
                 "bbox": [
                     358.9574262215772,
                     734.8782489740082,
@@ -161,7 +195,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -177,7 +211,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -193,7 +227,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -211,7 +245,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -233,7 +267,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -271,7 +305,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -309,7 +343,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -325,7 +359,7 @@
                 ],
                 "parts": [
                     {
-                        "label": "i",
+                        "label": "(i)",
                         "content": [
                             {
                                 "type": "text",
@@ -341,7 +375,7 @@
                         ]
                     },
                     {
-                        "label": "ii",
+                        "label": "(ii)",
                         "content": [
                             {
                                 "type": "text",
@@ -446,7 +480,18 @@
                     216.2592339261286
                 ],
                 "page_number": 6,
-                "text": "8 Hadi buys a dishwasher. He can either pay a single payment of \\(\\$ 980\\) or he can pay using a monthly plan."
+                "text": "8 Hadi buys a dishwasher."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    215.3953488372093,
+                    439.8451862602806,
+                    229.50547195622434
+                ],
+                "page_number": 6,
+                "text": "He can either pay a single payment of \\(\\$ 980\\) or he can pay using a monthly plan."
             },
             {
                 "type": "text",
@@ -462,7 +507,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -485,14 +530,9 @@
                         ],
                         "page_number": 6,
                         "text": "Calculate the total amount Hadi pays."
-                    }
-                ]
-            },
-            {
-                "label": "b",
-                "content": [
+                    },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             371.33526850507985,
                             417.54445964432284,
@@ -501,7 +541,12 @@
                         ],
                         "page_number": 6,
                         "text": "\\$"
-                    },
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
                     {
                         "type": "text",
                         "bbox": [
@@ -514,7 +559,7 @@
                         "text": "(b) Find the percentage increase in the cost using the monthly plan compared to a single payment."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             514.4000967585873,
                             534.4569083447332,
@@ -522,7 +567,7 @@
                             548.5670314637483
                         ],
                         "page_number": 6,
-                        "text": "\\% [2]"
+                        "text": "\\% "
                     }
                 ]
             }
@@ -540,7 +585,18 @@
                     588.0177838577291
                 ],
                 "page_number": 6,
-                "text": "9 In a sale, the original price of a sewing machine is reduced by \\(\\$ 38\\). This is an \\(8 \\%\\) reduction in the original price."
+                "text": "9 In a sale, the original price of a sewing machine is reduced by \\(\\$ 38\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    586.8659370725034,
+                    278.93323657474605,
+                    601.2640218878249
+                ],
+                "page_number": 6,
+                "text": "This is an \\(8 \\%\\) reduction in the original price."
             },
             {
                 "type": "text",
@@ -554,7 +610,7 @@
                 "text": "Work out the original price of the sewing machine."
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     371.33526850507985,
                     708.6737346101231,
@@ -571,7 +627,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -587,7 +643,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -614,7 +670,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -643,14 +699,14 @@
                         "bbox": [
                             93.55345911949686,
                             355.92065663474693,
-                            547.5036284470248,
-                            370.89466484268127
+                            145.65553942912436,
+                            384.140902872777
                         ],
                         "page_number": 7,
                         "text": "Using your answers to part (a) and part (b), find one possible value of \\(x\\) and the corresponding value of \\(y\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             345.14029995162076,
                             557.4938440492476,
@@ -658,7 +714,8 @@
                             574.1956224350205
                         ],
                         "page_number": 7,
-                        "blockMath": "\\[\nx=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . ., y=\n\\]"
+                        "blockMath": "\\[\nx=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . ., y=\n\\]",
+                        "text": "\\(\nx=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . ., y=\n\\)"
                     }
                 ]
             }
@@ -676,7 +733,18 @@
                     611.0547195622435
                 ],
                 "page_number": 7,
-                "text": "11 A warehouse has a floor area of \\(800 \\mathrm{~m}^{2}\\). The plan of the warehouse is drawn to a scale of \\(1: 50\\)."
+                "text": "11 A warehouse has a floor area of \\(800 \\mathrm{~m}^{2}\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    609.9028727770177,
+                    328.1567489114659,
+                    626.0287277701779
+                ],
+                "page_number": 7,
+                "text": "The plan of the warehouse is drawn to a scale of \\(1: 50\\)."
             },
             {
                 "type": "text",
@@ -687,7 +755,18 @@
                     650.5054719562244
                 ],
                 "page_number": 7,
-                "text": "Calculate the floor area on the plan. Give your answer in square centimetres."
+                "text": "Calculate the floor area on the plan."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    649.3536251709986,
+                    259.07111756168365,
+                    665.4794801641586
+                ],
+                "page_number": 7,
+                "text": "Give your answer in square centimetres."
             }
         ]
     },
@@ -738,34 +817,24 @@
             {
                 "type": "text",
                 "bbox": [
-                    419.119496855346,
-                    151.17989056087552,
-                    464.600870827286,
-                    162.12243502051982
-                ],
-                "page_number": 8,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    239.78471214320274,
+                    162.63909046927915,
                     182.27975376196989,
-                    263.1011127237543,
-                    194.9500683994528
+                    181.06192549588778,
+                    197.54172366621066
                 ],
                 "page_number": 8,
-                "text": "   "
+                "text": " "
             },
             {
                 "type": "text",
                 "bbox": [
-                    182.2133526850508,
-                    200.42134062927497,
+                    131.26269956458637,
+                    197.25376196990425,
                     220.49830672472183,
                     212.22777017783858
                 ],
-                "page_number": 8
+                "page_number": 8,
+                "text": "  "
             },
             {
                 "type": "text",
@@ -788,6 +857,17 @@
                 ],
                 "page_number": 8,
                 "text": "Calculate the shortest distance from \\(Q\\) to \\(P R\\)."
+            },
+            {
+                "type": "form_text",
+                "bbox": [
+                    511.233671988389,
+                    407.75376196990425,
+                    546.6400580551524,
+                    421.8638850889193
+                ],
+                "page_number": 8,
+                "text": "cm "
             }
         ]
     },
@@ -817,7 +897,7 @@
                 "blockMath": "\\[\nA=w^{2}+5 x^{2}\n\\]"
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     363.2752781809386,
                     613.3584131326949,
@@ -825,7 +905,8 @@
                     625.1648426812585
                 ],
                 "page_number": 8,
-                "blockMath": "\\[\nx=\n\\]"
+                "blockMath": "\\[\nx=\n\\]",
+                "text": "\\(\nx=\n\\)"
             }
         ]
     },
@@ -853,14 +934,14 @@
                 ],
                 "page_number": 9,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(x\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>0</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>5</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(y\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>24</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>8</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>14</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-4</div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >\\(x\\)</td><td >-2</td><td >-1</td><td >0</td><td >1</td><td >2</td><td >3</td><td >4</td><td >5</td></tr><tr><td >\\(y\\)</td><td >24</td><td ></td><td >-4</td><td ></td><td >8</td><td >14</td><td ></td><td >-4</td></tr></table>",
                     "caption": ""
                 }
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -876,7 +957,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -912,7 +993,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -941,7 +1022,18 @@
                     76.59781121751026
                 ],
                 "page_number": 10,
-                "text": "15 The height of each of 140 basketball players is recorded. The table shows the results."
+                "text": "15 The height of each of 140 basketball players is recorded."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    200.63618771165943,
+                    88.11627906976744
+                ],
+                "page_number": 10,
+                "text": "The table shows the results."
             },
             {
                 "type": "table",
@@ -953,14 +1045,14 @@
                 ],
                 "page_number": 10,
                 "table": {
-                    "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Height \\((h \\mathrm{~cm})\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(160&lt;h \\leqslant 180\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(180&lt;h \\leqslant 185\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(185&lt;h \\leqslant 190\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(190&lt;h \\leqslant 200\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(200&lt;h \\leqslant 210\\)</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>Frequency</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>7</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>12</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>31</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>70</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>20</div></td>\n  </tr>\n</table>",
+                    "html": "<table><tr><td >Height \\((h \\mathrm{~cm})\\)</td><td >\\(160&lt;h \\leqslant 180\\)</td><td >\\(180&lt;h \\leqslant 185\\)</td><td >\\(185&lt;h \\leqslant 190\\)</td><td >\\(190&lt;h \\leqslant 200\\)</td><td >\\(200&lt;h \\leqslant 210\\)</td></tr><tr><td >Frequency</td><td >7</td><td >12</td><td >31</td><td >70</td><td >20</td></tr></table>",
                     "caption": ""
                 }
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -974,7 +1066,7 @@
                         "text": "(a) Calculate an estimate of the mean height."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             511.233671988389,
                             401.99452804377563,
@@ -982,12 +1074,12 @@
                             416.96853625170996
                         ],
                         "page_number": 10,
-                        "text": "cm [4]"
+                        "text": "cm "
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1014,7 +1106,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1063,7 +1155,18 @@
                     433.38235294117646
                 ],
                 "page_number": 11,
-                "text": "16 Mateo invests \\(\\$ 1250\\) at a rate of \\(r \\%\\) per year compound interest. At the end of 6 years the total value of his investment is \\(\\$ 1484\\)."
+                "text": "16 Mateo invests \\(\\$ 1250\\) at a rate of \\(r \\%\\) per year compound interest."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    432.23050615595076,
+                    364.13884857281084,
+                    446.6285909712722
+                ],
+                "page_number": 11,
+                "text": "At the end of 6 years the total value of his investment is \\(\\$ 1484\\)."
             },
             {
                 "type": "text",
@@ -1077,7 +1180,7 @@
                 "text": "Calculate the value of \\(r\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     363.2752781809386,
                     629.7722298221614,
@@ -1085,7 +1188,8 @@
                     644.7462380300957
                 ],
                 "page_number": 11,
-                "blockMath": "\\[\nr=\n\\]"
+                "blockMath": "\\[\nr=\n\\]",
+                "text": "\\(\nr=\n\\)"
             }
         ]
     },
@@ -1137,7 +1241,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1151,7 +1255,7 @@
                         "text": "(a) Calculate \\(A D\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             353.20029027576203,
                             425.89534883720927,
@@ -1159,12 +1263,13 @@
                             439.141586867305
                         ],
                         "page_number": 12,
-                        "blockMath": "\\[\nA D=\n\\]"
+                        "blockMath": "\\[\nA D=\n\\]",
+                        "text": "\\(\nA D=\n\\)"
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1178,7 +1283,7 @@
                         "text": "(b) Calculate the obtuse angle \\(B D C\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             313.76390904692795,
                             595.2168262653898,
@@ -1186,12 +1291,13 @@
                             609.3269493844049
                         ],
                         "page_number": 12,
-                        "blockMath": "\\[\n\\text { Angle } B D C=\n\\]"
+                        "blockMath": "\\[\n\\text { Angle } B D C=\n\\]",
+                        "text": "\\(\n\\text { Angle } B D C=\n\\)"
                     }
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1205,7 +1311,7 @@
                         "text": "(c) Calculate the area of the quadrilateral."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             504.61296565070154,
                             748.1244870041039,
@@ -1283,17 +1389,6 @@
             {
                 "type": "text",
                 "bbox": [
-                    377.9559748427673,
-                    384.71682626538984,
-                    423.4373488147073,
-                    397.3871409028728
-                ],
-                "page_number": 13,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     70.52491533623609,
                     464.48221614227083,
                     370.75955491049837,
@@ -1352,24 +1447,24 @@
             {
                 "type": "text",
                 "bbox": [
-                    422.2859216255443,
-                    146.2845417236662,
-                    466.32801161103055,
-                    158.9548563611491
-                ],
-                "page_number": 14,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     69.66134494436382,
                     258.01367989056087,
                     257.3439767779391,
                     272.4117647058823
                 ],
                 "page_number": 14,
-                "text": "The diagram shows a pyramid \\(O A B C D\\). The pyramid has a square base, \\(A B C D\\), with sides 10.5 cm ."
+                "text": "The diagram shows a pyramid \\(O A B C D\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    69.66134494436382,
+                    271.2599179206566,
+                    344.5645863570392,
+                    286.23392612859095
+                ],
+                "page_number": 14,
+                "text": "The pyramid has a square base, \\(A B C D\\), with sides 10.5 cm ."
             },
             {
                 "type": "text",
@@ -1380,12 +1475,23 @@
                     298.6162790697674
                 ],
                 "page_number": 14,
-                "text": "The vertex \\(O\\) is vertically above the centre of the base, \\(M\\). The height of the pyramid is 24 cm ."
+                "text": "The vertex \\(O\\) is vertically above the centre of the base, \\(M\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    69.66134494436382,
+                    297.4644322845417,
+                    237.76971456216742,
+                    311.86251709986317
+                ],
+                "page_number": 14,
+                "text": "The height of the pyramid is 24 cm ."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1401,7 +1507,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1437,24 +1543,24 @@
                     {
                         "type": "text",
                         "bbox": [
-                            420.8466376390905,
-                            133.90218878248973,
-                            467.7672955974843,
-                            147.43638850889192
-                        ],
-                        "page_number": 15,
-                        "text": "NOT TO SCALE"
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
                             93.55345911949686,
                             246.4952120383037,
                             347.7310111272376,
                             260.89329685362515
                         ],
                         "page_number": 15,
-                        "text": "The diagram shows a frustum of the pyramid \\(O A B C D\\). The height of the frustum is 16 cm ."
+                        "text": "The diagram shows a frustum of the pyramid \\(O A B C D\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            259.74145006839944,
+                            257.3439767779391,
+                            273.8515731874145
+                        ],
+                        "page_number": 15,
+                        "text": "The height of the frustum is 16 cm ."
                     },
                     {
                         "type": "text",
@@ -1466,6 +1572,28 @@
                         ],
                         "page_number": 15,
                         "text": "Calculate the volume of the frustum."
+                    },
+                    {
+                        "type": "form_text",
+                        "bbox": [
+                            504.61296565070154,
+                            522.938440492476,
+                            527.9293662312531,
+                            539.6402188782489
+                        ],
+                        "page_number": 15,
+                        "text": "\\(\\mathrm{cm}^{3}\\)"
+                    },
+                    {
+                        "type": "form_text",
+                        "bbox": [
+                            231.72472181906147,
+                            655.9767441860465,
+                            363.56313497822936,
+                            673.5424076607387
+                        ],
+                        "page_number": 15,
+                        "text": "Question 21 is on page 16."
                     }
                 ]
             }
@@ -1497,7 +1625,7 @@
                 "text": "Find \\(m\\) in terms of \\(n\\)."
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     359.8209966134495,
                     272.9876880984952,
@@ -1505,7 +1633,8 @@
                     287.09781121751024
                 ],
                 "page_number": 16,
-                "blockMath": "\\[\nm=\\text {................................................ }\n\\]"
+                "blockMath": "\\[\nm=\\text {................................................ }\n\\]",
+                "text": "\\(\nm=\\text {................................................ }\n\\)"
             }
         ]
     },
@@ -1543,7 +1672,18 @@
                     351.313269493844
                 ],
                 "page_number": 16,
-                "text": "\\(V\\) is 50 , correct to the nearest 10 . \\(R\\) is 13, correct to the nearest integer."
+                "text": "\\(V\\) is 50 , correct to the nearest 10 ."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    351.8891928864569,
+                    244.3904208998549,
+                    364.27154582763336
+                ],
+                "page_number": 16,
+                "text": "\\(R\\) is 13, correct to the nearest integer."
             },
             {
                 "type": "text",

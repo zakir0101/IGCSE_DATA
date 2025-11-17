@@ -32,7 +32,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -46,7 +46,7 @@
                         "text": "(a) as a percentage"
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             515.2636671504597,
                             205.31668946648426,
@@ -54,12 +54,12 @@
                             219.71477428180575
                         ],
                         "page_number": 3,
-                        "text": "\\% [1]"
+                        "text": "\\% "
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -75,7 +75,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -125,7 +125,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -141,7 +141,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -157,7 +157,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -179,7 +179,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -215,7 +215,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -310,15 +310,26 @@
                 "blockMath": "\\[\n34 \\% \\quad \\pi \\quad \\frac{1}{3} \\quad 3 \\quad \\frac{3}{10}\n\\]"
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     232.58829221093373,
                     291.7051983584131,
-                    246.69327527818095,
+                    465.46444121915823,
                     306.1032831737346
                 ],
                 "page_number": 5,
-                "text": "\\(<\\) \\(<\\) \\(<\\) \\(<\\) smallest"
+                "text": "\\(<\\) \\(<\\) \\(<\\) \\(<\\)"
+            },
+            {
+                "type": "form_text",
+                "bbox": [
+                    170.69908079342042,
+                    308.9829001367989,
+                    204.09046927914855,
+                    319.06155950752395
+                ],
+                "page_number": 5,
+                "text": "smallest"
             }
         ]
     },
@@ -334,7 +345,18 @@
                     357.07250341997263
                 ],
                 "page_number": 5,
-                "text": "9 A film starts at 1935. The film lasts for 70 minutes."
+                "text": "9 A film starts at 1935."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    358.22435020519833,
+                    208.12046444121918,
+                    370.89466484268127
+                ],
+                "page_number": 5,
+                "text": "The film lasts for 70 minutes."
             },
             {
                 "type": "text",
@@ -386,7 +408,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -400,7 +422,7 @@
                         "text": "(a) Find the area of the shape."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             506.05224963715534,
                             285.94596443228454,
@@ -413,7 +435,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -469,7 +491,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -485,7 +507,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -507,7 +529,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -518,7 +540,18 @@
                             79.76538987688099
                         ],
                         "page_number": 7,
-                        "text": "12 (a) Kat has a method for finding the difference between two square numbers, \\(a^{2}-b^{2}\\). Her method is"
+                        "text": "12 (a) Kat has a method for finding the difference between two square numbers, \\(a^{2}-b^{2}\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            79.47742818057455,
+                            162.06337687469764,
+                            91.28385772913816
+                        ],
+                        "page_number": 7,
+                        "text": "Her method is"
                     },
                     {
                         "type": "text",
@@ -552,7 +585,7 @@
                         ],
                         "page_number": 7,
                         "table": {
-                            "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(17^{2}-13^{2}\\)</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(=(17+13) \\times(17-13)\\)</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(=30 \\times 4\\)</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:left; border:1px solid black; padding:4px;\"><div>\\(=120\\)</div></td>\n  </tr>\n</table>",
+                            "html": "<table><tr><td >\\(17^{2}-13^{2}\\)</td></tr><tr><td >\\(=(17+13) \\times(17-13)\\)</td></tr><tr><td >\\(=30 \\times 4\\)</td></tr><tr><td >\\(=120\\)</td></tr></table>",
                             "caption": ""
                         }
                     },
@@ -570,7 +603,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -626,7 +659,7 @@
                         "text": "Work out the volume of the prism."
                     },
                     {
-                        "type": "text",
+                        "type": "form_text",
                         "bbox": [
                             506.05224963715534,
                             716.7366621067031,
@@ -704,24 +737,24 @@
             {
                 "type": "text",
                 "bbox": [
-                    455.1015965166909,
-                    182.27975376196989,
-                    498.28011611030485,
-                    193.51025991792065
-                ],
-                "page_number": 8,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     70.52491533623609,
                     328.85225718194255,
                     250.72327044025158,
                     342.9623803009576
                 ],
                 "page_number": 8,
-                "text": "The diagram shows a triangular prism. \\(A B C\\) is an isosceles triangle with \\(A C=B C\\)."
+                "text": "The diagram shows a triangular prism."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    341.81053351573183,
+                    273.17610062893084,
+                    356.20861833105334
+                ],
+                "page_number": 8,
+                "text": "\\(A B C\\) is an isosceles triangle with \\(A C=B C\\)."
             },
             {
                 "type": "text",
@@ -732,12 +765,23 @@
                     368.5909712722298
                 ],
                 "page_number": 8,
-                "text": "The perpendicular height of triangle \\(A B C\\) is 4 cm . \\(A B=6 \\mathrm{~cm}\\) and \\(B D=6 \\mathrm{~cm}\\)."
+                "text": "The perpendicular height of triangle \\(A B C\\) is 4 cm ."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    368.3030095759234,
+                    198.33333333333334,
+                    379.2455540355677
+                ],
+                "page_number": 8,
+                "text": "\\(A B=6 \\mathrm{~cm}\\) and \\(B D=6 \\mathrm{~cm}\\)."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -755,7 +799,7 @@
                         "bbox": [
                             93.55345911949686,
                             419.2722298221614,
-                            162.06337687469764,
+                            388.8945331398162,
                             433.38235294117646
                         ],
                         "page_number": 8,
@@ -764,7 +808,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -780,7 +824,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -791,7 +835,18 @@
                             80.62927496580028
                         ],
                         "page_number": 9,
-                        "text": "(c) Complete the net of the prism on the \\(1 \\mathrm{~cm}^{2}\\) grid. The base has been drawn for you."
+                        "text": "(c) Complete the net of the prism on the \\(1 \\mathrm{~cm}^{2}\\) grid."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            79.47742818057455,
+                            250.72327044025158,
+                            93.01162790697674
+                        ],
+                        "page_number": 9,
+                        "text": "The base has been drawn for you."
                     },
                     {
                         "type": "image",
@@ -854,29 +909,29 @@
             {
                 "type": "text",
                 "bbox": [
-                    415.6652152878568,
-                    108.27359781121751,
-                    459.707305273343,
-                    120.9439124487004
-                ],
-                "page_number": 10,
-                "text": "NOT TO SCALE"
-            },
-            {
-                "type": "text",
-                "bbox": [
                     70.52491533623609,
                     231.80916552667577,
                     347.7310111272376,
                     245.9192886456908
                 ],
                 "page_number": 10,
-                "text": "The diagram shows a triangle \\(B C D\\) and a straight line \\(A B C\\). \\(D B=D C=B C\\)."
+                "text": "The diagram shows a triangle \\(B C D\\) and a straight line \\(A B C\\)."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    246.4952120383037,
+                    137.30769230769232,
+                    257.437756497948
+                ],
+                "page_number": 10,
+                "text": "\\(D B=D C=B C\\)."
             }
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -892,7 +947,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -903,7 +958,18 @@
                             338.06703146374826
                         ],
                         "page_number": 10,
-                        "text": "(b) Work out the value of \\(y\\). Give two geometrical reasons for your answer."
+                        "text": "(b) Work out the value of \\(y\\)."
+                    },
+                    {
+                        "type": "text",
+                        "bbox": [
+                            93.55345911949686,
+                            336.91518467852256,
+                            310.88534107402035,
+                            351.313269493844
+                        ],
+                        "page_number": 10,
+                        "text": "Give two geometrical reasons for your answer."
                     }
                 ]
             }
@@ -921,7 +987,18 @@
                     76.59781121751026
                 ],
                 "page_number": 11,
-                "text": "16 Jill records the temperature and the number of people on a beach for each of ten days. The results are shown in the scatter diagram."
+                "text": "16 Jill records the temperature and the number of people on a beach for each of ten days."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    278.93323657474605,
+                    89.84404924760602
+                ],
+                "page_number": 11,
+                "text": "The results are shown in the scatter diagram."
             },
             {
                 "type": "image",
@@ -946,7 +1023,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -962,7 +1039,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1016,7 +1093,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1030,7 +1107,7 @@
                         "text": "(a) Find the equation of line \\(L\\) in the form \\(y=m x+c\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             362.4117077890663,
                             507.9644322845417,
@@ -1038,12 +1115,13 @@
                             521.4986320109439
                         ],
                         "page_number": 12,
-                        "blockMath": "\\[\ny=\n\\]"
+                        "blockMath": "\\[\ny=\n\\]",
+                        "text": "\\(\ny=\n\\)"
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1076,7 +1154,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1099,14 +1177,14 @@
                         ],
                         "page_number": 13,
                         "table": {
-                            "html": "<table style=\"border-collapse: collapse;\">\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(x\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-6</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>1</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>2</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>4</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>6</div></td>\n  </tr>\n  <tr>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>\\(y\\)</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>-6</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>6</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div>3</div></td>\n    <td style=\"text-align:center; border:1px solid black; padding:4px;\"><div></div></td>\n  </tr>\n</table>",
+                            "html": "<table><tr><td >\\(x\\)</td><td >-6</td><td >-4</td><td >-3</td><td >-2</td><td >-1</td><td ></td><td >1</td><td >2</td><td >3</td><td >4</td><td >6</td></tr><tr><td >\\(y\\)</td><td ></td><td >-3</td><td ></td><td >-6</td><td ></td><td ></td><td ></td><td >6</td><td ></td><td >3</td><td ></td></tr></table>",
                             "caption": ""
                         }
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1142,7 +1220,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1158,7 +1236,7 @@
                 ]
             },
             {
-                "label": "d",
+                "label": "(d)",
                 "content": [
                     {
                         "type": "text",
@@ -1191,7 +1269,7 @@
         "content": [],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1218,7 +1296,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1314,7 +1392,7 @@
                 "text": "Complete this statement about the value of \\(h\\)."
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     412.4987905176585,
                     483.4876880984952,
@@ -1354,7 +1432,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1368,7 +1446,7 @@
                         "text": "(a) Find the value of \\(X\\) when \\(w=5\\) and \\(p=6\\)."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             359.8209966134495,
                             169.32147742818057,
@@ -1376,12 +1454,13 @@
                             184.2954856361149
                         ],
                         "page_number": 15,
-                        "blockMath": "\\[\nX=\n\\]"
+                        "blockMath": "\\[\nX=\n\\]",
+                        "text": "\\(\nX=\n\\)"
                     }
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1395,7 +1474,7 @@
                         "text": "(b) Make \\(p\\) the subject of the formula."
                     },
                     {
-                        "type": "blockMath",
+                        "type": "form_text",
                         "bbox": [
                             361.548137397194,
                             289.4015047879617,
@@ -1403,7 +1482,8 @@
                             302.64774281805745
                         ],
                         "page_number": 15,
-                        "blockMath": "\\[\np=\n\\]"
+                        "blockMath": "\\[\np=\n\\]",
+                        "text": "\\(\np=\n\\)"
                     }
                 ]
             }
@@ -1448,7 +1528,18 @@
                     76.59781121751026
                 ],
                 "page_number": 16,
-                "text": "23 Mai buys two batteries. The probability that a battery is faulty is \\(\\frac{1}{10}\\)."
+                "text": "23 Mai buys two batteries."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    73.1422708618331,
+                    278.93323657474605,
+                    91.28385772913816
+                ],
+                "page_number": 16,
+                "text": "The probability that a battery is faulty is \\(\\frac{1}{10}\\)."
             },
             {
                 "type": "image",
@@ -1473,7 +1564,7 @@
         ],
         "parts": [
             {
-                "label": "a",
+                "label": "(a)",
                 "content": [
                     {
                         "type": "text",
@@ -1489,7 +1580,7 @@
                 ]
             },
             {
-                "label": "b",
+                "label": "(b)",
                 "content": [
                     {
                         "type": "text",
@@ -1505,7 +1596,7 @@
                 ]
             },
             {
-                "label": "c",
+                "label": "(c)",
                 "content": [
                     {
                         "type": "text",
@@ -1545,7 +1636,18 @@
                     74.87004103967168
                 ],
                 "page_number": 17,
-                "text": "24 A circle has radius 7 cm . A square has side \\(x \\mathrm{~cm}\\)."
+                "text": "24 A circle has radius 7 cm ."
+            },
+            {
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    75.44596443228454,
+                    178.47121432027095,
+                    89.84404924760602
+                ],
+                "page_number": 17,
+                "text": "A square has side \\(x \\mathrm{~cm}\\)."
             },
             {
                 "type": "text",
@@ -1567,10 +1669,21 @@
                     126.703146374829
                 ],
                 "page_number": 17,
-                "text": "Find the value of \\(x\\). Give your answer in terms of \\(\\pi\\)."
+                "text": "Find the value of \\(x\\)."
             },
             {
-                "type": "blockMath",
+                "type": "text",
+                "bbox": [
+                    70.52491533623609,
+                    128.14295485636114,
+                    219.63473633284957,
+                    140.81326949384405
+                ],
+                "page_number": 17,
+                "text": "Give your answer in terms of \\(\\pi\\)."
+            },
+            {
+                "type": "form_text",
                 "bbox": [
                     363.2752781809386,
                     249.95075239398085,
@@ -1578,7 +1691,8 @@
                     260.02941176470586
                 ],
                 "page_number": 17,
-                "blockMath": "\\[\nx=\n\\]"
+                "blockMath": "\\[\nx=\n\\]",
+                "text": "\\(\nx=\n\\)"
             }
         ]
     },
@@ -1666,7 +1780,7 @@
                 "blockMath": "\\[\n\\begin{aligned}\n& 4 t-3 w=11 \\\\\n& 6 t+2 w=-3\n\\end{aligned}\n\\]"
             },
             {
-                "type": "blockMath",
+                "type": "form_text",
                 "bbox": [
                     362.4117077890663,
                     331.15595075239395,
@@ -1674,10 +1788,11 @@
                     368.5909712722298
                 ],
                 "page_number": 18,
-                "blockMath": "\\[\n\\begin{aligned}\n& t= \\\\\n& w=\n\\end{aligned}\n\\]"
+                "blockMath": "\\[\n\\begin{aligned}\n& t= \\\\\n& w=\n\\end{aligned}\n\\]",
+                "text": "\\(\n\\begin{aligned}\n& t= \\\\\n& w=\n\\end{aligned}\n\\)"
             },
             {
-                "type": "text",
+                "type": "form_text",
                 "bbox": [
                     530.8079342041607,
                     356.7845417236662,
