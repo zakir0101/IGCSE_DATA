@@ -154,22 +154,11 @@
                 "bbox": [
                     70.52491533623609,
                     267.80437756497946,
-                    520.4450895016934,
-                    287.09781121751024
-                ],
-                "page_number": 6,
-                "text": "The diagram shows the curve with equation \\(y=5 x^{\\frac{3}{2}}-20 x\\) and the line with equation \\(y=x-16\\)."
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    70.52491533623609,
-                    285.94596443228454,
                     444.7387518142236,
                     300.344049247606
                 ],
                 "page_number": 6,
-                "text": "The \\(x\\)-coordinates of the points of intersection of the curve and line are 1 and 16 ."
+                "text": "The diagram shows the curve with equation \\(y=5 x^{\\frac{3}{2}}-20 x\\) and the line with equation \\(y=x-16\\). The \\(x\\)-coordinates of the points of intersection of the curve and line are 1 and 16 ."
             },
             {
                 "type": "text",
@@ -657,14 +646,9 @@
                         ],
                         "page_number": 17,
                         "text": "(d) State the range of \\(\\mathrm{g}^{-1}\\)."
-                    }
-                ]
-            },
-            {
-                "label": "(e)",
-                "content": [
+                    },
                     {
-                        "type": "pre_text",
+                        "type": "form_text",
                         "bbox": [
                             70.52491533623609,
                             378.093707250342,
@@ -675,7 +659,7 @@
                         "text": "The function h is defined by"
                     },
                     {
-                        "type": "pre_blockMath",
+                        "type": "form_text",
                         "bbox": [
                             234.89114658925982,
                             402.8584131326949,
@@ -683,8 +667,14 @@
                             418.69630642954854
                         ],
                         "page_number": 17,
-                        "blockMath": "\\[\n\\mathrm{h}(x)=x-2 \\quad \\text { for } x \\geqslant 0 .\n\\]"
-                    },
+                        "blockMath": "\\[\n\\mathrm{h}(x)=x-2 \\quad \\text { for } x \\geqslant 0 .\n\\]",
+                        "text": "\\(\n\\mathrm{h}(x)=x-2 \\quad \\text { for } x \\geqslant 0 .\n\\)"
+                    }
+                ]
+            },
+            {
+                "label": "(e)",
+                "content": [
                     {
                         "type": "text",
                         "bbox": [

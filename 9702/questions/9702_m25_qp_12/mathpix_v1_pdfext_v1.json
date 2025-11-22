@@ -1360,6 +1360,7 @@
                 ],
                 "page_number": 7,
                 "table": {
+                    "latex": "\\begin{tabular}{|c|c|c|}\n\\hline & \\begin{tabular}{c}\n\\(F / \\mathrm{N}\\) when \\\\\nchild is at X\n\\end{tabular} & \\begin{tabular}{c}\n\\(F / \\mathrm{N}\\) when \\\\\nchild is at Y\n\\end{tabular} \\\\\n\\hline A & 600 & 0 \\\\\nB & 600 & 150 \\\\\nC & 750 & 0 \\\\\nD & 750 & 150 \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td ></td><td ><table><tr><td >\\(F / \\mathrm{N}\\) when</td></tr><tr><td >child is at X</td></tr></table></td><td ><table><tr><td >\\(F / \\mathrm{N}\\) when</td></tr><tr><td >child is at Y</td></tr></table></td></tr><tr><td >A</td><td >600</td><td >0</td></tr><tr><td >B</td><td >600</td><td >150</td></tr><tr><td >C</td><td >750</td><td >0</td></tr><tr><td >D</td><td >750</td><td >150</td></tr></table>",
                     "caption": ""
                 }
@@ -2269,6 +2270,7 @@
                 ],
                 "page_number": 10,
                 "table": {
+                    "latex": "\\begin{tabular}{|l|l|l|l|l|}\n\\hline & transverse wave & longitudinal wave & can travel in free space & \\multirow{5}{*}{\\begin{tabular}{l}\nkey \\\\\n\\(\\checkmark=\\) property of an electromagnetic wave \\\\\n\\(\\boldsymbol{x}=\\) not a property of an electromagnetic wave\n\\end{tabular}} \\\\\n\\hline A & \\(\\checkmark\\) & \\(\\chi\\) & \\(\\checkmark\\) & \\\\\n\\hline B & \\(\\checkmark\\) & \\(\\chi\\) & \\(\\times\\) & \\\\\n\\hline C & \\(\\times\\) & \\(\\checkmark\\) & \\(\\checkmark\\) & \\\\\n\\hline D & \\(\\times\\) & \\(\\checkmark\\) & \\(\\times\\) & \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td ></td><td >transverse wave</td><td >longitudinal wave</td><td >can travel in free space</td><td rowspan=\"5\"><table><tr><td >key</td></tr><tr><td >\\(\\checkmark=\\) property of an electromagnetic wave</td></tr><tr><td >\\(\\boldsymbol{x}=\\) not a property of an electromagnetic wave</td></tr></table></td><td></td></tr><tr><td >A</td><td >\\(\\checkmark\\)</td><td >\\(\\chi\\)</td><td >\\(\\checkmark\\)</td><td ></td></tr><tr><td >B</td><td >\\(\\checkmark\\)</td><td >\\(\\chi\\)</td><td >\\(\\times\\)</td><td ></td></tr><tr><td >C</td><td >\\(\\times\\)</td><td >\\(\\checkmark\\)</td><td >\\(\\checkmark\\)</td><td ></td></tr><tr><td >D</td><td >\\(\\times\\)</td><td >\\(\\checkmark\\)</td><td >\\(\\times\\)</td><td ></td></tr></table>",
                     "caption": ""
                 }
@@ -2947,6 +2949,7 @@
                 ],
                 "page_number": 12,
                 "table": {
+                    "latex": "\\begin{tabular}{|c|c|c|}\n\\hline & wavelength & width of gap \\\\\n\\hline A & decreases & decreases \\\\\nB & decreases & increases \\\\\nC & increases & decreases \\\\\nD & increases & increases \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td ></td><td >wavelength</td><td >width of gap</td></tr><tr><td >A</td><td >decreases</td><td >decreases</td></tr><tr><td >B</td><td >decreases</td><td >increases</td></tr><tr><td >C</td><td >increases</td><td >decreases</td></tr><tr><td >D</td><td >increases</td><td >increases</td></tr></table>",
                     "caption": ""
                 }
@@ -3092,6 +3095,7 @@
                 ],
                 "page_number": 13,
                 "table": {
+                    "latex": "\\begin{tabular}{|l|l|l|}\n\\hline & number of charge carriers per unit time & average drift speed of charge carriers \\\\\n\\hline A & Y greater than X & Y greater than X \\\\\n\\hline B & Y same as X & Y same as X \\\\\n\\hline C & Y greater than X & Y same as X \\\\\n\\hline D & Y same as X & Y greater than X \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td ></td><td >number of charge carriers per unit time</td><td >average drift speed of charge carriers</td></tr><tr><td >A</td><td >Y greater than X</td><td >Y greater than X</td></tr><tr><td >B</td><td >Y same as X</td><td >Y same as X</td></tr><tr><td >C</td><td >Y greater than X</td><td >Y same as X</td></tr><tr><td >D</td><td >Y same as X</td><td >Y greater than X</td></tr></table>",
                     "caption": ""
                 }

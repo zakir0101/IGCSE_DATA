@@ -325,22 +325,11 @@
                 "bbox": [
                     70.52491533623609,
                     511.4199726402189,
-                    546.6400580551524,
-                    537.9124487004103
-                ],
-                "page_number": 10,
-                "text": "The diagram shows the curve with equation \\(y=\\frac{1}{x^{2}+1}\\) for \\(0 \\leqslant x \\leqslant 1\\), together with a set of \\(n\\) rectangles"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    70.52491533623609,
-                    529.2735978112175,
                     127.5205611998065,
                     553.4623803009575
                 ],
                 "page_number": 10,
-                "text": "of width \\(\\frac{1}{n}\\)."
+                "text": "The diagram shows the curve with equation \\(y=\\frac{1}{x^{2}+1}\\) for \\(0 \\leqslant x \\leqslant 1\\), together with a set of \\(n\\) rectangles of width \\(\\frac{1}{n}\\)."
             }
         ],
         "parts": [
@@ -492,14 +481,9 @@
                         ],
                         "page_number": 14,
                         "text": "does not have a unique solution."
-                    }
-                ]
-            },
-            {
-                "label": "(b)",
-                "content": [
+                    },
                     {
-                        "type": "pre_text",
+                        "type": "form_text",
                         "bbox": [
                             70.52491533623609,
                             374.92612859097125,
@@ -510,7 +494,7 @@
                         "text": "The matrix \\(\\mathbf{A}\\) is given by"
                     },
                     {
-                        "type": "pre_blockMath",
+                        "type": "form_text",
                         "bbox": [
                             256.19254958877605,
                             394.5075239398085,
@@ -518,8 +502,14 @@
                             442.5971272229822
                         ],
                         "page_number": 14,
-                        "blockMath": "\\[\n\\mathbf{A}=\\left(\\begin{array}{rrr}\n\\frac{3}{2} & 3 & 8 \\\\\n0 & 3 & 4 \\\\\n0 & 0 & -1\n\\end{array}\\right) .\n\\]"
-                    },
+                        "blockMath": "\\[\n\\mathbf{A}=\\left(\\begin{array}{rrr}\n\\frac{3}{2} & 3 & 8 \\\\\n0 & 3 & 4 \\\\\n0 & 0 & -1\n\\end{array}\\right) .\n\\]",
+                        "text": "\\(\n\\mathbf{A}=\\left(\\begin{array}{rrr}\n\\frac{3}{2} & 3 & 8 \\\\\n0 & 3 & 4 \\\\\n0 & 0 & -1\n\\end{array}\\right) .\n\\)"
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "content": [
                     {
                         "type": "text",
                         "bbox": [

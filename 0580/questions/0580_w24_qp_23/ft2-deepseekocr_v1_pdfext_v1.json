@@ -1,0 +1,512 @@
+[
+    {
+        "label": "1",
+        "parts": [
+            {
+                "label": "(a)",
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) a cube number",
+                        "bbox": [
+                            70,
+                            130,
+                            163,
+                            143
+                        ],
+                        "page_number": 2
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) a prime number.",
+                        "bbox": [
+                            70,
+                            183,
+                            170,
+                            196
+                        ],
+                        "page_number": 2
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "1",
+                "bbox": [
+                    48,
+                    73,
+                    58,
+                    86
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    166,
+                    73,
+                    183,
+                    88
+                ],
+                "page_number": 2,
+                "image": {
+                    "caption": "",
+                    "page": 2
+                }
+            },
+            {
+                "type": "text",
+                "text": "61 62 63 64 65 66 67 68 69",
+                "bbox": [
+                    184,
+                    73,
+                    319,
+                    88
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "From the list of numbers, write down",
+                "bbox": [
+                    70,
+                    105,
+                    246,
+                    118
+                ],
+                "page_number": 2
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "2 A train journey starts at 23 30 and finishes at 07 15 the next day.",
+                "bbox": [
+                    48,
+                    246,
+                    366,
+                    261
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "text",
+                "text": "Find the time taken for this journey.",
+                "bbox": [
+                    70,
+                    274,
+                    238,
+                    287
+                ],
+                "page_number": 2
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "3 Simplify.",
+                "bbox": [
+                    48,
+                    352,
+                    116,
+                    366
+                ],
+                "page_number": 2
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n3 p-t-p-4 t\n\\]",
+                "bbox": [
+                    116,
+                    365,
+                    188,
+                    381
+                ],
+                "page_number": 2
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "parts": [
+            {
+                "label": "(a)",
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the actual distance between town \\(K\\) and town \\(L\\).",
+                        "bbox": [
+                            69,
+                            357,
+                            339,
+                            372
+                        ],
+                        "page_number": 3
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Measure the bearing of town \\(L\\) from town \\(K\\).",
+                        "bbox": [
+                            70,
+                            424,
+                            302,
+                            438
+                        ],
+                        "page_number": 3
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "4 The scale drawing shows the positions of town \\(K\\) and town \\(L\\). The scale is 1 cm represents 10 km.",
+                "bbox": [
+                    48,
+                    62,
+                    356,
+                    90
+                ],
+                "page_number": 3
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    148,
+                    125,
+                    394,
+                    317
+                ],
+                "page_number": 3,
+                "image": {
+                    "caption": "",
+                    "page": 3
+                }
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "parts": [
+            {
+                "label": "(a)",
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the median.",
+                        "bbox": [
+                            70,
+                            174,
+                            173,
+                            185
+                        ],
+                        "page_number": 4
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Calculate the mean.",
+                        "bbox": [
+                            70,
+                            223,
+                            187,
+                            238
+                        ],
+                        "page_number": 4
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "5 Each student in a class of 20 students records the number of coins in their pockets.",
+                "bbox": [
+                    48,
+                    62,
+                    453,
+                    76
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "text",
+                "text": "The table shows the results.",
+                "bbox": [
+                    70,
+                    78,
+                    200,
+                    89
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    100,
+                    102,
+                    496,
+                    163
+                ],
+                "page_number": 4,
+                "table": {
+                    "caption": "",
+                    "html": "\n<table><tr><td >Number of coins</td><td >0</td><td >1</td><td >2</td><td >3</td><td >4</td><td >5</td><td >6</td></tr><tr><td >Frequency</td><td >3</td><td >1</td><td >7</td><td >8</td><td >0</td><td >0</td><td >1</td></tr></table>\n\n"
+                }
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "6",
+                "bbox": [
+                    46,
+                    352,
+                    58,
+                    367
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    149,
+                    368,
+                    359,
+                    501
+                ],
+                "page_number": 4,
+                "image": {
+                    "caption": "",
+                    "page": 4
+                }
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows three lines meeting at a point.",
+                "bbox": [
+                    70,
+                    518,
+                    301,
+                    531
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "text",
+                "text": "Find the value of \\(w\\).",
+                "bbox": [
+                    70,
+                    544,
+                    165,
+                    557
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "form_text",
+                "text": "\\(w=\\)",
+                "bbox": [
+                    359,
+                    631,
+                    550,
+                    648
+                ],
+                "page_number": 4
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "7 Solve the equation.",
+                "bbox": [
+                    48,
+                    673,
+                    162,
+                    687
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n7-h=3-5 h\n\\]",
+                "bbox": [
+                    154,
+                    685,
+                    225,
+                    701
+                ],
+                "page_number": 4
+            },
+            {
+                "type": "form_text",
+                "text": "\\(h=\\)",
+                "bbox": [
+                    360,
+                    761,
+                    491,
+                    777
+                ],
+                "page_number": 4
+            }
+        ]
+    },
+    {
+        "label": "8",
+        "parts": [
+            {
+                "label": "(a)",
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) 21, 13, 5, -3, -11, ...",
+                        "bbox": [
+                            70,
+                            491,
+                            341,
+                            506
+                        ],
+                        "page_number": 6
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) Find the value of \\(x\\).",
+                                "bbox": [
+                                    94,
+                                    294,
+                                    208,
+                                    307
+                                ],
+                                "page_number": 7
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(ii)",
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Find the value of \\(y\\).",
+                                "bbox": [
+                                    91,
+                                    353,
+                                    208,
+                                    366
+                                ],
+                                "page_number": 7
+                            }
+                        ]
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) 2.5, 5, 10, 20, 40, ...",
+                        "bbox": [
+                            70,
+                            610,
+                            338,
+                            624
+                        ],
+                        "page_number": 6
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "8 Sacha buys \\(b\\) books and \\(m\\) magazines.",
+                "bbox": [
+                    48,
+                    62,
+                    248,
+                    76
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "text",
+                "text": "The cost of each book is \\(\\$ 12\\) and the cost of each magazine is \\(\\$ 5\\).",
+                "bbox": [
+                    70,
+                    76,
+                    374,
+                    89
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "text",
+                "text": "Write an expression, in terms of \\(b\\) and \\(m\\), for the total cost of the books and the magazines.",
+                "bbox": [
+                    70,
+                    102,
+                    491,
+                    116
+                ],
+                "page_number": 5
+            },
+            {
+                "type": "form_text",
+                "text": "\\(\\)",
+                "bbox": [
+                    372,
+                    192,
+                    547,
+                    207
+                ],
+                "page_number": 5
+            }
+        ]
+    }
+]

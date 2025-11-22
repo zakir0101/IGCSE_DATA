@@ -34,6 +34,7 @@
                 ],
                 "page_number": 4,
                 "table": {
+                    "latex": "\\begin{tabular}{|c|c|c|}\n\\hline & pico \\((\\mathrm{p})\\) & giga \\((\\mathrm{G})\\) \\\\\n\\hline A & \\(10^{-9}\\) & \\(10^{9}\\) \\\\\nB & \\(10^{-9}\\) & \\(10^{12}\\) \\\\\nC & \\(10^{-12}\\) & \\(10^{9}\\) \\\\\nD & \\(10^{-12}\\) & \\(10^{12}\\) \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td ></td><td >pico \\((\\mathrm{p})\\)</td><td >giga \\((\\mathrm{G})\\)</td></tr><tr><td >A</td><td >\\(10^{-9}\\)</td><td >\\(10^{9}\\)</td></tr><tr><td >B</td><td >\\(10^{-9}\\)</td><td >\\(10^{12}\\)</td></tr><tr><td >C</td><td >\\(10^{-12}\\)</td><td >\\(10^{9}\\)</td></tr><tr><td >D</td><td >\\(10^{-12}\\)</td><td >\\(10^{12}\\)</td></tr></table>",
                     "caption": ""
                 }
@@ -301,6 +302,7 @@
                 ],
                 "page_number": 5,
                 "table": {
+                    "latex": "\\begin{tabular}{|c|c|c|}\n\\hline & amplitude \\(/ \\mathrm{V}\\) & period \\(/ \\mathrm{ms}\\) \\\\\n\\hline A & 1.5 & 4 \\\\\nB & 5.0 & 10 \\\\\nC & 6.0 & 20 \\\\\nD & 12.0 & 20 \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td ></td><td >amplitude \\(/ \\mathrm{V}\\)</td><td >period \\(/ \\mathrm{ms}\\)</td></tr><tr><td >A</td><td >1.5</td><td >4</td></tr><tr><td >B</td><td >5.0</td><td >10</td></tr><tr><td >C</td><td >6.0</td><td >20</td></tr><tr><td >D</td><td >12.0</td><td >20</td></tr></table>",
                     "caption": ""
                 }
@@ -783,6 +785,7 @@
                 ],
                 "page_number": 9,
                 "table": {
+                    "latex": "\\begin{tabular}{|c|c|c|}\n\\hline & weight/N & mass/kg \\\\\n\\hline A & 9.85 & 1.00 \\\\\nB & 9.85 & 6.00 \\\\\nC & 58.9 & 1.00 \\\\\nD & 58.9 & 6.00 \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td ></td><td >weight/N</td><td >mass/kg</td></tr><tr><td >A</td><td >9.85</td><td >1.00</td></tr><tr><td >B</td><td >9.85</td><td >6.00</td></tr><tr><td >C</td><td >58.9</td><td >1.00</td></tr><tr><td >D</td><td >58.9</td><td >6.00</td></tr></table>",
                     "caption": ""
                 }
@@ -824,6 +827,7 @@
                 ],
                 "page_number": 9,
                 "table": {
+                    "latex": "\\begin{tabular}{|c|c|c|}\n\\hline & momentum & kinetic energy \\\\\n\\hline A & \\(m v\\) & \\(\\frac{1}{4} m v^{2}\\) \\\\\nB & \\(m v\\) & \\(\\frac{1}{8} m v^{2}\\) \\\\\nC & \\(2 m v\\) & \\(\\frac{1}{2} m v^{2}\\) \\\\\nD & \\(2 m v\\) & \\(m v^{2}\\) \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td ></td><td >momentum</td><td >kinetic energy</td></tr><tr><td >A</td><td >\\(m v\\)</td><td >\\(\\frac{1}{4} m v^{2}\\)</td></tr><tr><td >B</td><td >\\(m v\\)</td><td >\\(\\frac{1}{8} m v^{2}\\)</td></tr><tr><td >C</td><td >\\(2 m v\\)</td><td >\\(\\frac{1}{2} m v^{2}\\)</td></tr><tr><td >D</td><td >\\(2 m v\\)</td><td >\\(m v^{2}\\)</td></tr></table>",
                     "caption": ""
                 }
@@ -1182,6 +1186,7 @@
                 ],
                 "page_number": 11,
                 "table": {
+                    "latex": "\\begin{tabular}{|c|c|c|}\n\\hline & resultant force & resultant torque \\\\\n\\hline A & zero & zero \\\\\nB & zero & non-zero \\\\\nC & non-zero & zero \\\\\nD & non-zero & non-zero \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td ></td><td >resultant force</td><td >resultant torque</td></tr><tr><td >A</td><td >zero</td><td >zero</td></tr><tr><td >B</td><td >zero</td><td >non-zero</td></tr><tr><td >C</td><td >non-zero</td><td >zero</td></tr><tr><td >D</td><td >non-zero</td><td >non-zero</td></tr></table>",
                     "caption": ""
                 }
@@ -2038,6 +2043,7 @@
                 ],
                 "page_number": 16,
                 "table": {
+                    "latex": "\\begin{tabular}{|l|l|l|l|l|}\n\\hline A & mass of stretching load & original length of wire & diameter of wire & extension of wire \\\\\n\\hline B & mass of stretching load & new length of wire & cross-sectional area of wire & diameter of wire \\\\\n\\hline C & mass of wire & original length of wire & cross-sectional area of wire & new length of wire \\\\\n\\hline D & mass of wire & new length of wire & diameter of wire & extension of wire \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td >A</td><td >mass of stretching load</td><td >original length of wire</td><td >diameter of wire</td><td >extension of wire</td></tr><tr><td >B</td><td >mass of stretching load</td><td >new length of wire</td><td >cross-sectional area of wire</td><td >diameter of wire</td></tr><tr><td >C</td><td >mass of wire</td><td >original length of wire</td><td >cross-sectional area of wire</td><td >new length of wire</td></tr><tr><td >D</td><td >mass of wire</td><td >new length of wire</td><td >diameter of wire</td><td >extension of wire</td></tr></table>",
                     "caption": ""
                 }
@@ -2524,6 +2530,7 @@
                 ],
                 "page_number": 19,
                 "table": {
+                    "latex": "\\begin{tabular}{|l|c|c|}\n\\hline & \\begin{tabular}{c} \nfirst higher note \\\\\n\\(/ \\mathrm{Hz}\\)\n\\end{tabular} & \\begin{tabular}{c} \nsecond higher note \\\\\n\\(/ \\mathrm{Hz}\\)\n\\end{tabular} \\\\\n\\hline A & 113 & 150 \\\\\nB & 150 & 225 \\\\\nC & 150 & 300 \\\\\nD & 225 & 375 \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td ></td><td ><table><tr><td >first higher note</td></tr><tr><td >\\(/ \\mathrm{Hz}\\)</td></tr></table></td><td ><table><tr><td >second higher note</td></tr><tr><td >\\(/ \\mathrm{Hz}\\)</td></tr></table></td></tr><tr><td >A</td><td >113</td><td >150</td></tr><tr><td >B</td><td >150</td><td >225</td></tr><tr><td >C</td><td >150</td><td >300</td></tr><tr><td >D</td><td >225</td><td >375</td></tr></table>",
                     "caption": ""
                 }
@@ -2909,6 +2916,7 @@
                 ],
                 "page_number": 22,
                 "table": {
+                    "latex": "\\begin{tabular}{|c|c|c|}\n\\hline & horizontal component & vertical component \\\\\n\\hline A & constant acceleration & constant acceleration \\\\\nB & constant acceleration & constant velocity \\\\\nC & constant velocity & constant acceleration \\\\\nD & constant velocity & constant velocity \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td ></td><td >horizontal component</td><td >vertical component</td></tr><tr><td >A</td><td >constant acceleration</td><td >constant acceleration</td></tr><tr><td >B</td><td >constant acceleration</td><td >constant velocity</td></tr><tr><td >C</td><td >constant velocity</td><td >constant acceleration</td></tr><tr><td >D</td><td >constant velocity</td><td >constant velocity</td></tr></table>",
                     "caption": ""
                 }
@@ -3353,6 +3361,7 @@
                 ],
                 "page_number": 24,
                 "table": {
+                    "latex": "\\begin{tabular}{|c|c|c|}\n\\hline & filament lamp & \\begin{tabular}{c} \nsemiconductor \\\\\ndiode\n\\end{tabular} \\\\\n\\hline A & P & R \\\\\nB & P & S \\\\\nC & Q & R \\\\\nD & Q & S \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td ></td><td >filament lamp</td><td ><table><tr><td >semiconductor</td></tr><tr><td >diode</td></tr></table></td></tr><tr><td >A</td><td >P</td><td >R</td></tr><tr><td >B</td><td >P</td><td >S</td></tr><tr><td >C</td><td >Q</td><td >R</td></tr><tr><td >D</td><td >Q</td><td >S</td></tr></table>",
                     "caption": ""
                 }
