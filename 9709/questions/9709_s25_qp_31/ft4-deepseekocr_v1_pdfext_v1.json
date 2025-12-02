@@ -4,9 +4,9 @@
         "page_number": 2,
         "bbox": [
             49,
-            64,
+            65,
             59,
-            78
+            79
         ],
         "level": 50,
         "parts": [
@@ -28,8 +28,8 @@
                         "bbox": [
                             88,
                             64,
-                            248,
-                            82
+                            247,
+                            80
                         ],
                         "page_number": 2,
                         "is_pre": false
@@ -41,9 +41,9 @@
                 "page_number": 2,
                 "bbox": [
                     71,
-                    430,
+                    431,
                     86,
-                    444
+                    445
                 ],
                 "level": 70,
                 "parts": [],
@@ -53,7 +53,7 @@
                         "text": "(b) Solve the inequality \\(3 x-1<|2 x-3|\\)",
                         "bbox": [
                             88,
-                            427,
+                            429,
                             272,
                             445
                         ],
@@ -96,7 +96,7 @@
                     70,
                     92,
                     167,
-                    106
+                    107
                 ],
                 "page_number": 3,
                 "is_pre": false
@@ -122,22 +122,25 @@
                     65,
                     64,
                     547,
-                    100
+                    101
                 ],
                 "page_number": 4,
                 "is_pre": false
             },
             {
-                "type": "form_text",
-                "text": "",
+                "type": "image",
                 "bbox": [
-                    580,
-                    688,
-                    590,
-                    813
+                    28,
+                    27,
+                    566,
+                    810
                 ],
-                "page_number": 4,
-                "is_pre": false
+                "page_number": 5,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 5
+                }
             }
         ]
     },
@@ -170,36 +173,39 @@
                 "blockMath": "\\[\nx=\\mathrm{e}^{\\tan t}, \\quad y=3 \\tan ^{2} t\n\\]",
                 "bbox": [
                     241,
-                    83,
+                    85,
                     354,
-                    105
+                    104
                 ],
                 "page_number": 6,
                 "is_pre": false
             },
             {
                 "type": "text",
-                "text": "Find the equation of the tangent to the curve at the point（e，3）．Give your answer in the form \\(y=m x+c\\) ， where \\(m\\) and \\(c\\) are exact．",
+                "text": "Find the equation of the tangent to the curve at the point (e, 3). Give your answer in the form \\(y=m x+c\\), where \\(m\\) and \\(c\\) are exact",
                 "bbox": [
                     70,
-                    115,
+                    114,
                     547,
-                    141
+                    143
                 ],
                 "page_number": 6,
                 "is_pre": false
             },
             {
-                "type": "form_text",
-                "text": "",
+                "type": "image",
                 "bbox": [
-                    580,
-                    688,
-                    590,
-                    813
+                    0,
+                    0,
+                    595,
+                    842
                 ],
-                "page_number": 6,
-                "is_pre": false
+                "page_number": 7,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 7
+                }
             }
         ]
     },
@@ -217,11 +223,11 @@
         "content": [
             {
                 "type": "text",
-                "text": "5 The polynomial \\(3 x^{3}+p a x^{2}+7 a^{2} x+q a^{3}\\) is denoted by \\(\\mathrm{f}(x)\\) ，where \\(p, q\\) and \\(a\\) are constants and \\(a \\neq 0\\) ．",
+                "text": "5 The polynomial \\(3 x^{3}+p a x^{2}+7 a^{2} x+q a^{3}\\) is denoted by \\(\\mathrm{f}(x)\\), where \\(p, q\\) and \\(a\\) are constants and \\(a \\neq 0\\)",
                 "bbox": [
                     65,
-                    63,
-                    542,
+                    64,
+                    543,
                     82
                 ],
                 "page_number": 8,
@@ -229,36 +235,24 @@
             },
             {
                 "type": "text",
-                "text": "When \\(\\mathrm{f}(x)\\) is divided by \\((x+2 a)\\) the remainder is \\(-22 a^{3}\\) ．When \\(\\mathrm{f}(x)\\) is divided by \\((3 x-a)\\) the remainder is \\(-a^{3}\\) ．",
+                "text": "When \\(\\mathrm{f}(x)\\) is divided by \\((x+2 a)\\) the remainder is \\(-22 a^{3}\\). When \\(\\mathrm{f}(x)\\) is divided by \\((3 x-a)\\) the remainder is \\(-a^{3}\\)",
                 "bbox": [
                     70,
-                    90,
+                    91,
                     547,
-                    118
+                    119
                 ],
                 "page_number": 8,
                 "is_pre": false
             },
             {
                 "type": "text",
-                "text": "Find the values of \\(p\\) and \\(q\\) ．",
+                "text": "Find the values of \\(p\\) and \\(q\\)",
                 "bbox": [
                     70,
                     131,
                     195,
                     146
-                ],
-                "page_number": 8,
-                "is_pre": false
-            },
-            {
-                "type": "form_text",
-                "text": "",
-                "bbox": [
-                    580,
-                    688,
-                    590,
-                    813
                 ],
                 "page_number": 8,
                 "is_pre": false
@@ -270,9 +264,9 @@
         "page_number": 9,
         "bbox": [
             49,
-            67,
+            68,
             59,
-            81
+            82
         ],
         "level": 50,
         "parts": [
@@ -281,31 +275,19 @@
                 "page_number": 9,
                 "bbox": [
                     71,
-                    95,
+                    96,
                     86,
-                    109
+                    110
                 ],
                 "level": 70,
                 "parts": [],
                 "content": [
                     {
                         "type": "text",
-                        "text": "（a）State the values of \\(\\omega z_{1}\\) and \\(\\omega z_{2}\\) ．Give your answers in the form \\(r \\mathrm{e}^{\\mathrm{i} \\theta}\\) ，where \\(r>0\\) and \\(-\\pi<\\theta \\leqslant \\pi\\) ．",
+                        "text": "(a) State the values of \\(\\omega z_{1}\\) and \\(\\omega z_{2}\\) ．Give your answers in the form \\(r \\mathrm{e}^{\\mathrm{i} \\theta}\\) ，where \\(r>0\\) and \\(-\\pi<\\theta \\leqslant \\pi\\) ．",
                         "bbox": [
                             88,
-                            92,
-                            547,
-                            121
-                        ],
-                        "page_number": 9,
-                        "is_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "",
-                        "bbox": [
-                            531,
-                            108,
+                            94,
                             547,
                             122
                         ],
@@ -319,7 +301,7 @@
                 "page_number": 9,
                 "bbox": [
                     71,
-                    264,
+                    265,
                     86,
                     278
                 ],
@@ -328,12 +310,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "（b）On a sketch of an Argand diagram with origin \\(O\\) ，show the points \\(A, B, C\\) and \\(D\\) representing the complex numbers \\(z_{1}, z_{2}, \\omega z_{1}\\) and \\(\\omega z_{2}\\) respectively．",
+                        "text": "(b) On a sketch of an Argand diagram with origin \\(O\\) ，show the points \\(A, B, C\\) and \\(D\\) representing the complex numbers \\(z_{1}, z_{2}, \\omega z_{1}\\) and \\(\\omega z_{2}\\) respectively．",
                         "bbox": [
                             88,
                             263,
-                            549,
-                            293
+                            547,
+                            292
                         ],
                         "page_number": 9,
                         "is_pre": false
@@ -345,7 +327,7 @@
                 "page_number": 9,
                 "bbox": [
                     71,
-                    589,
+                    590,
                     86,
                     603
                 ],
@@ -354,24 +336,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "（c）State the geometric effects of multiplying \\(z_{1}\\) and \\(z_{2}\\) by \\(\\omega\\) ．",
+                        "text": "(c) State the geometric effects of multiplying \\(z_{1}\\) and \\(z_{2}\\) by \\(\\omega\\) ．",
                         "bbox": [
                             88,
-                            587,
+                            588,
                             364,
-                            604
-                        ],
-                        "page_number": 9,
-                        "is_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "",
-                        "bbox": [
-                            5,
-                            686,
-                            17,
-                            815
+                            605
                         ],
                         "page_number": 9,
                         "is_pre": false
@@ -385,9 +355,9 @@
                 "text": "6 It is given that \\(z_{1}=3 \\mathrm{e}^{\\frac{1}{4} \\pi \\mathrm{i}}, z_{2}=\\frac{3}{2} \\mathrm{e}^{\\frac{1}{6} \\pi \\mathrm{i}}\\) and \\(\\omega=2 \\mathrm{e}^{\\frac{1}{2} \\pi \\mathrm{i}}\\) ．",
                 "bbox": [
                     65,
-                    63,
+                    66,
                     320,
-                    85
+                    84
                 ],
                 "page_number": 9,
                 "is_pre": false
@@ -410,9 +380,9 @@
                 "page_number": 10,
                 "bbox": [
                     71,
-                    70,
+                    69,
                     86,
-                    84
+                    83
                 ],
                 "level": 70,
                 "parts": [],
@@ -422,9 +392,9 @@
                         "text": "7 (a) Express \\(5 \\sin \\left(x+\\frac{1}{6} \\pi\\right)-4 \\cos x\\) in the form \\(R \\sin (x-\\alpha)\\), where \\(R>0\\) and \\(0<\\alpha<\\frac{1}{2} \\pi\\). State the exact value of \\(R\\) and give the value of \\(\\alpha\\) correct to 3 decimal places",
                         "bbox": [
                             88,
-                            64,
+                            66,
                             547,
-                            103
+                            102
                         ],
                         "page_number": 10,
                         "is_pre": false
@@ -436,7 +406,7 @@
                 "page_number": 11,
                 "bbox": [
                     71,
-                    70,
+                    71,
                     86,
                     84
                 ],
@@ -448,9 +418,9 @@
                         "text": "(b) Hence solve the equation \\(5 \\sin \\left(2 \\theta+\\frac{1}{6} \\pi\\right)-4 \\cos 2 \\theta=\\sqrt{7}\\) for \\(0 \\leqslant \\theta \\leqslant \\pi\\). Give your answers correct to 2 decimal places",
                         "bbox": [
                             88,
-                            64,
+                            66,
                             547,
-                            103
+                            102
                         ],
                         "page_number": 11,
                         "is_pre": false
@@ -465,9 +435,9 @@
         "page_number": 12,
         "bbox": [
             49,
-            62,
+            63,
             59,
-            76
+            77
         ],
         "level": 50,
         "parts": [
@@ -488,8 +458,8 @@
                         "text": "(a) Find a vector equation for the line \\(l_{1}\\)",
                         "bbox": [
                             88,
-                            102,
-                            267,
+                            103,
+                            268,
                             118
                         ],
                         "page_number": 12,
@@ -514,8 +484,8 @@
                         "text": "The line \\(l_{2}\\) has equation \\(\\mathbf{r}=2 \\mathbf{i}+\\mathbf{j}+5 \\mathbf{k}+\\mu(\\mathbf{i}+2 \\mathbf{j}+3 \\mathbf{k})\\)",
                         "bbox": [
                             70,
-                            427,
-                            331,
+                            428,
+                            332,
                             443
                         ],
                         "page_number": 12,
@@ -526,9 +496,9 @@
                         "text": "(b) Show that \\(l_{1}\\) and \\(l_{2}\\) do not intersect",
                         "bbox": [
                             88,
-                            453,
+                            455,
                             264,
-                            469
+                            470
                         ],
                         "page_number": 12,
                         "is_pre": false
@@ -540,9 +510,9 @@
                 "page_number": 13,
                 "bbox": [
                     71,
-                    426,
+                    428,
                     86,
-                    440
+                    442
                 ],
                 "level": 70,
                 "parts": [],
@@ -552,8 +522,8 @@
                         "text": "(c) Find the acute angle between the directions of \\(l_{1}\\) and \\(l_{2}\\)",
                         "bbox": [
                             88,
-                            424,
-                            354,
+                            426,
+                            355,
                             442
                         ],
                         "page_number": 13,
@@ -568,8 +538,8 @@
                 "text": "8 With respect to the origin \\(O\\), the points \\(A\\) and \\(B\\) have position vectors \\(2 \\mathbf{i}+4 \\mathbf{k}\\) and \\(5 \\mathbf{i}+\\mathbf{j}+6 \\mathbf{k}\\) respectively. The line \\(l_{1}\\) passes through the points \\(A\\) and \\(B\\)",
                 "bbox": [
                     65,
-                    62,
-                    547,
+                    64,
+                    546,
                     91
                 ],
                 "page_number": 12,
@@ -593,7 +563,7 @@
                 "page_number": 14,
                 "bbox": [
                     71,
-                    111,
+                    110,
                     86,
                     125
                 ],
@@ -602,12 +572,12 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "（a）Show that \\(a=\\exp \\left(\\frac{1}{6}\\left(\\frac{5}{a^{2}}+3\\right)\\right)\\) ，where \\(\\exp (x)\\) denotes \\(\\mathrm{e}^{x}\\) ．",
+                        "text": "(a) Show that \\(a=\\exp \\left(\\frac{1}{6}\\left(\\frac{5}{a^{2}}+3\\right)\\right)\\), where \\(\\exp (x)\\) denotes \\(\\mathrm{e}^{x}\\)",
                         "bbox": [
                             88,
-                            100,
-                            359,
-                            137
+                            101,
+                            358,
+                            133
                         ],
                         "page_number": 14,
                         "is_pre": false
@@ -657,9 +627,9 @@
                         "text": "(c) Use an iterative formula based on the equation in part (a) to determine \\(a\\) correct to 2 decimal places. Give the result of each iteration to 4 decimal places",
                         "bbox": [
                             88,
-                            373,
+                            374,
                             547,
-                            402
+                            401
                         ],
                         "page_number": 15,
                         "is_pre": false
@@ -670,12 +640,12 @@
         "content": [
             {
                 "type": "text",
-                "text": "9 The constant \\(a\\) is such that \\(\\int_{1}^{a} 6 x \\ln x \\mathrm{~d} x=4\\) ．",
+                "text": "9 The constant \\(a\\) is such that \\(\\int_{1}^{a} 6 x \\ln x \\mathrm{~d} x=4\\)",
                 "bbox": [
                     65,
                     64,
                     274,
-                    91
+                    90
                 ],
                 "page_number": 14,
                 "is_pre": false
@@ -687,9 +657,9 @@
         "page_number": 16,
         "bbox": [
             49,
-            65,
+            63,
             69,
-            79
+            77
         ],
         "level": 50,
         "parts": [
@@ -698,9 +668,9 @@
                 "page_number": 16,
                 "bbox": [
                     71,
-                    67,
+                    66,
                     86,
-                    81
+                    80
                 ],
                 "level": 70,
                 "parts": [],
@@ -712,7 +682,7 @@
                             88,
                             64,
                             455,
-                            82
+                            80
                         ],
                         "page_number": 16,
                         "is_pre": false
@@ -726,7 +696,7 @@
                     71,
                     431,
                     86,
-                    445
+                    444
                 ],
                 "level": 70,
                 "parts": [],
@@ -736,8 +706,8 @@
                         "text": "(b) The variables \\(x\\) and \\(y\\) satisfy the differential equation",
                         "bbox": [
                             88,
-                            430,
-                            339,
+                            429,
+                            340,
                             444
                         ],
                         "page_number": 16,
@@ -745,12 +715,12 @@
                     },
                     {
                         "type": "blockMath",
-                        "blockMath": "\\[\n\\frac{\\mathrm{d} y}{\\mathrm{~d} x}=\\frac{x^{3}+5 x^{2}-2 x-15}{6 y\\left(x^{2}-3\\right)} .\n\\]",
+                        "blockMath": "\\[\n\\frac{\\mathrm{d} y}{\\mathrm{~d} x}=\\frac{x^{3}+5 x^{2}-2 x-15}{6 y\\left(x^{2}-3\\right)}.\n\\]",
                         "bbox": [
-                            239,
-                            460,
+                            238,
+                            459,
                             356,
-                            495
+                            494
                         ],
                         "page_number": 16,
                         "is_pre": false
@@ -760,9 +730,9 @@
                         "text": "It is given that \\(y=2\\) when \\(x=2\\)",
                         "bbox": [
                             94,
-                            508,
+                            507,
                             253,
-                            523
+                            522
                         ],
                         "page_number": 16,
                         "is_pre": false
@@ -774,10 +744,25 @@
                             94,
                             533,
                             440,
-                            549
+                            548
                         ],
                         "page_number": 16,
                         "is_pre": false
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            28,
+                            29,
+                            562,
+                            818
+                        ],
+                        "page_number": 17,
+                        "is_pre": false,
+                        "image": {
+                            "caption": "",
+                            "page": 17
+                        }
                     }
                 ]
             }
@@ -790,7 +775,7 @@
         "bbox": [
             49,
             61,
-            69,
+            62,
             75
         ],
         "level": 50,
@@ -800,9 +785,9 @@
                 "page_number": 18,
                 "bbox": [
                     71,
-                    227,
+                    226,
                     86,
-                    241
+                    240
                 ],
                 "level": 70,
                 "parts": [],
@@ -812,9 +797,9 @@
                         "text": "(a) Find the exact value of \\(a\\)",
                         "bbox": [
                             88,
-                            227,
+                            226,
                             213,
-                            241
+                            240
                         ],
                         "page_number": 18,
                         "is_pre": false
@@ -826,35 +811,83 @@
                 "page_number": 19,
                 "bbox": [
                     71,
-                    64,
+                    65,
                     86,
-                    78
+                    79
                 ],
                 "level": 70,
                 "parts": [],
                 "content": [
                     {
                         "type": "text",
-                        "text": "（b）The region enclosed between the \\(x\\)－axis and the curve is rotated through \\(2 \\pi\\) radians about the \\(x\\)－axis．",
+                        "text": "(b) The region enclosed between the \\(x\\)-axis and the curve is rotated through \\(2 \\pi\\) radians about the \\(x\\)-axis",
                         "bbox": [
                             88,
-                            62,
+                            64,
                             547,
-                            89
+                            90
                         ],
                         "page_number": 19,
                         "is_pre": false
                     },
                     {
                         "type": "text",
-                        "text": "Find the exact volume of the solid generated．",
+                        "text": "Find the exact volume of the solid generated",
                         "bbox": [
                             94,
                             102,
-                            303,
+                            304,
                             116
                         ],
                         "page_number": 19,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "If you use the following page to complete the answer to any question, the question number must be clearly shown",
+                        "bbox": [
+                            48,
+                            86,
+                            547,
+                            114
+                        ],
+                        "page_number": 20,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Permission to reproduce items where third- party owned material protected by copyright is included has been sought and cleared where possible. Every reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the publisher will be pleased to make amends at the earliest possible opportunity",
+                        "bbox": [
+                            48,
+                            696,
+                            547,
+                            726
+                        ],
+                        "page_number": 20,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "To avoid the issue of disclosure of answer- related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series",
+                        "bbox": [
+                            48,
+                            733,
+                            547,
+                            763
+                        ],
+                        "page_number": 20,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge",
+                        "bbox": [
+                            48,
+                            770,
+                            547,
+                            790
+                        ],
+                        "page_number": 20,
                         "is_pre": false
                     }
                 ]
@@ -865,10 +898,10 @@
                 "type": "text",
                 "text": "11",
                 "bbox": [
-                    75,
+                    65,
+                    60,
                     62,
-                    63,
-                    76
+                    75
                 ],
                 "page_number": 18,
                 "is_pre": false
@@ -878,8 +911,8 @@
                 "bbox": [
                     217,
                     77,
-                    376,
-                    173
+                    375,
+                    171
                 ],
                 "page_number": 18,
                 "is_pre": false,
@@ -893,9 +926,9 @@
                 "text": "The diagram shows the curve \\(y=\\cos x \\sqrt{\\sin 2 x}\\) for \\(0 \\leqslant x \\leqslant \\frac{1}{2} \\pi\\). The curve has a maximum point at \\(M\\), where \\(x=a\\)",
                 "bbox": [
                     70,
-                    185,
+                    187,
                     547,
-                    213
+                    215
                 ],
                 "page_number": 18,
                 "is_pre": false

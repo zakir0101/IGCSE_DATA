@@ -15,21 +15,21 @@
                 "page_number": 2,
                 "bbox": [
                     71,
-                    102,
+                    101,
                     86,
-                    116
+                    115
                 ],
                 "level": 70,
                 "parts": [],
                 "content": [
                     {
                         "type": "text",
-                        "text": "(a) Show that \\(2 \\mathbf{M}=\\left(\\begin{array}{cc}14 & -\\sqrt{3} \\\\ 14 \\sqrt{3} & 1\\end{array}\\right)\\)",
+                        "text": "(a) Show that \\(2 \\mathbf{M}=\\left(\\begin{array}{ll}14 & -\\sqrt{ } 3 \\\\ 14 \\sqrt{ } 3 & 1\\end{array}\\right)\\)",
                         "bbox": [
                             88,
                             92,
-                            242,
-                            123
+                            245,
+                            121
                         ],
                         "page_number": 2,
                         "is_pre": false
@@ -55,7 +55,7 @@
                             88,
                             387,
                             547,
-                            416
+                            415
                         ],
                         "page_number": 2,
                         "is_pre": false
@@ -67,9 +67,9 @@
                 "page_number": 3,
                 "bbox": [
                     71,
-                    544,
+                    545,
                     86,
-                    558
+                    559
                 ],
                 "level": 70,
                 "parts": [],
@@ -78,10 +78,10 @@
                         "type": "pre_text",
                         "text": "The unit square \\(S\\) in the \\(x-y\\) plane is transformed by \\(\\mathbf{M}\\) onto the rectangle \\(P\\)",
                         "bbox": [
-                            70,
-                            515,
+                            71,
+                            519,
                             422,
-                            531
+                            533
                         ],
                         "page_number": 3,
                         "is_pre": true
@@ -91,8 +91,8 @@
                         "text": "(c) Find the matrix which transforms \\(P\\) onto \\(S\\)",
                         "bbox": [
                             88,
-                            542,
-                            295,
+                            543,
+                            296,
                             558
                         ],
                         "page_number": 3,
@@ -109,7 +109,7 @@
                     65,
                     62,
                     547,
-                    91
+                    90
                 ],
                 "page_number": 2,
                 "is_pre": false
@@ -138,6 +138,18 @@
                     80
                 ],
                 "page_number": 4,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "BLANK PAGE",
+                "bbox": [
+                    258,
+                    61,
+                    335,
+                    72
+                ],
+                "page_number": 5,
                 "is_pre": false
             }
         ]
@@ -170,9 +182,9 @@
                         "text": "(a) Find the value of \\(\\alpha^{2}+\\beta^{2}+\\gamma^{2}+\\delta^{2}\\)",
                         "bbox": [
                             88,
-                            90,
-                            261,
-                            106
+                            91,
+                            262,
+                            107
                         ],
                         "page_number": 6,
                         "is_pre": false
@@ -184,9 +196,9 @@
                 "page_number": 6,
                 "bbox": [
                     71,
-                    483,
+                    482,
                     86,
-                    497
+                    496
                 ],
                 "level": 70,
                 "parts": [],
@@ -197,7 +209,7 @@
                         "bbox": [
                             88,
                             480,
-                            261,
+                            262,
                             496
                         ],
                         "page_number": 6,
@@ -233,10 +245,10 @@
                         "type": "blockMath",
                         "blockMath": "\\[\n\\sum_{r=1}^{10}\\left(\\left(\\alpha^{2}+r\\right)^{2}+\\left(\\beta^{2}+r\\right)^{2}+\\left(\\gamma^{2}+r\\right)^{2}+\\left(\\delta^{2}+r\\right)^{2}\\right)\n\\]",
                         "bbox": [
-                            182,
-                            77,
-                            411,
-                            116
+                            185,
+                            80,
+                            410,
+                            114
                         ],
                         "page_number": 7,
                         "is_pre": false
@@ -251,8 +263,8 @@
                 "bbox": [
                     65,
                     64,
-                    367,
-                    81
+                    368,
+                    82
                 ],
                 "page_number": 6,
                 "is_pre": false
@@ -264,9 +276,9 @@
         "page_number": 8,
         "bbox": [
             49,
-            62,
+            61,
             59,
-            76
+            75
         ],
         "level": 50,
         "parts": [
@@ -275,7 +287,7 @@
                 "page_number": 8,
                 "bbox": [
                     71,
-                    90,
+                    89,
                     86,
                     104
                 ],
@@ -289,7 +301,7 @@
                             88,
                             89,
                             143,
-                            103
+                            104
                         ],
                         "page_number": 8,
                         "is_pre": false
@@ -298,22 +310,10 @@
                         "type": "blockMath",
                         "blockMath": "\\[\nw_{r+1}-w_{r}=10(r+1)(r+2) \\ldots(r+9)\n\\]",
                         "bbox": [
-                            207,
-                            114,
-                            389,
-                            133
-                        ],
-                        "page_number": 8,
-                        "is_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "",
-                        "bbox": [
-                            531,
-                            115,
-                            547,
-                            130
+                            206,
+                            113,
+                            388,
+                            132
                         ],
                         "page_number": 8,
                         "is_pre": false
@@ -325,7 +325,7 @@
                 "page_number": 8,
                 "bbox": [
                     71,
-                    402,
+                    401,
                     86,
                     416
                 ],
@@ -337,9 +337,9 @@
                         "text": "(b) Given that \\(u_{r}=(r+1)(r+2) \\ldots(r+9)\\), find \\(\\sum_{r=1}^{n} u_{r}\\) in terms of \\(n\\)",
                         "bbox": [
                             88,
-                            391,
+                            388,
                             393,
-                            426
+                            430
                         ],
                         "page_number": 8,
                         "is_pre": false
@@ -364,8 +364,8 @@
                         "bbox": [
                             88,
                             64,
-                            469,
-                            81
+                            470,
+                            80
                         ],
                         "page_number": 9,
                         "is_pre": false
@@ -374,10 +374,10 @@
                         "type": "blockMath",
                         "blockMath": "\\[\nv_{1}+v_{2}+v_{3}+\\ldots\n\\]",
                         "bbox": [
-                            258,
-                            90,
+                            257,
+                            89,
                             337,
-                            108
+                            107
                         ],
                         "page_number": 9,
                         "is_pre": false
@@ -388,8 +388,8 @@
                         "bbox": [
                             94,
                             116,
-                            366,
-                            131
+                            367,
+                            132
                         ],
                         "page_number": 9,
                         "is_pre": false
@@ -403,9 +403,9 @@
                 "text": "4 Let \\(w_{r}=r(r+1)(r+2) \\ldots(r+9)\\)",
                 "bbox": [
                     65,
-                    64,
-                    228,
-                    80
+                    62,
+                    229,
+                    78
                 ],
                 "page_number": 8,
                 "is_pre": false
@@ -417,9 +417,9 @@
         "page_number": 10,
         "bbox": [
             49,
-            62,
+            63,
             59,
-            76
+            77
         ],
         "level": 50,
         "parts": [
@@ -428,9 +428,9 @@
                 "page_number": 10,
                 "bbox": [
                     71,
-                    90,
+                    91,
                     86,
-                    104
+                    105
                 ],
                 "level": 70,
                 "parts": [],
@@ -454,9 +454,9 @@
                 "page_number": 10,
                 "bbox": [
                     71,
-                    454,
+                    455,
                     86,
-                    468
+                    469
                 ],
                 "level": 70,
                 "parts": [],
@@ -466,9 +466,9 @@
                         "text": "The point \\(P\\) has position vector \\(4 \\mathbf{i}+2 \\mathbf{j}+9 \\mathbf{k}\\)",
                         "bbox": [
                             70,
-                            427,
-                            277,
-                            442
+                            428,
+                            278,
+                            443
                         ],
                         "page_number": 10,
                         "is_pre": true
@@ -478,9 +478,9 @@
                         "text": "(b) Find the position vector of the foot of the perpendicular from \\(P\\) to \\(\\Pi\\)",
                         "bbox": [
                             88,
-                            453,
-                            414,
-                            468
+                            454,
+                            413,
+                            469
                         ],
                         "page_number": 10,
                         "is_pre": false
@@ -501,21 +501,21 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "（c）The line \\(l\\) is parallel to the vector \\(3 \\mathbf{i}+5 \\mathbf{j}-\\mathbf{k}\\) ．",
+                        "text": "(c) The line \\(l\\) is parallel to the vector \\(3 \\mathbf{i}+5 \\mathbf{j}-\\mathbf{k}\\)",
                         "bbox": [
                             88,
-                            360,
-                            302,
-                            377
+                            361,
+                            301,
+                            376
                         ],
                         "page_number": 11,
                         "is_pre": false
                     },
                     {
                         "type": "text",
-                        "text": "Find the acute angle between \\(l\\) and \\(\\Pi\\) ．",
+                        "text": "Find the acute angle between \\(l\\) and \\(\\Pi\\)",
                         "bbox": [
-                            92,
+                            94,
                             387,
                             270,
                             402
@@ -534,7 +534,7 @@
                     65,
                     64,
                     417,
-                    78
+                    80
                 ],
                 "page_number": 10,
                 "is_pre": false
@@ -571,7 +571,7 @@
                             88,
                             97,
                             291,
-                            113
+                            112
                         ],
                         "page_number": 12,
                         "is_pre": false
@@ -583,9 +583,9 @@
                 "page_number": 12,
                 "bbox": [
                     71,
-                    463,
+                    464,
                     86,
-                    477
+                    478
                 ],
                 "level": 70,
                 "parts": [],
@@ -596,8 +596,8 @@
                         "bbox": [
                             88,
                             462,
-                            402,
-                            477
+                            403,
+                            478
                         ],
                         "page_number": 12,
                         "is_pre": false
@@ -622,7 +622,7 @@
                         "bbox": [
                             88,
                             62,
-                            405,
+                            406,
                             77
                         ],
                         "page_number": 13,
@@ -635,9 +635,9 @@
                 "page_number": 13,
                 "bbox": [
                     71,
-                    427,
+                    428,
                     86,
-                    441
+                    442
                 ],
                 "level": 70,
                 "parts": [],
@@ -647,9 +647,9 @@
                         "text": "(d) Sketch the curve with equation \\(y=\\left|\\frac{x^{2}+a}{x+a}\\right|\\)",
                         "bbox": [
                             88,
-                            416,
-                            301,
-                            448
+                            417,
+                            300,
+                            447
                         ],
                         "page_number": 13,
                         "is_pre": false
@@ -661,23 +661,35 @@
                 "page_number": 14,
                 "bbox": [
                     71,
-                    73,
+                    72,
                     86,
-                    87
+                    86
                 ],
                 "level": 70,
                 "parts": [],
                 "content": [
                     {
                         "type": "text",
-                        "text": "（e）Find the set of values of \\(a\\) for which \\(\\left|\\frac{x^{2}+a}{x+a}\\right|=a\\) has two real solutions．",
+                        "text": "(e) Find the set of values of \\(a\\) for which \\(\\left|\\frac{x^{2}+a}{x+a}\\right|=a\\) has two real solutions",
                         "bbox": [
                             88,
-                            63,
-                            426,
-                            94
+                            62,
+                            427,
+                            90
                         ],
                         "page_number": 14,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "BLANK PAGE",
+                        "bbox": [
+                            258,
+                            61,
+                            335,
+                            72
+                        ],
+                        "page_number": 15,
                         "is_pre": false
                     }
                 ]
@@ -691,7 +703,7 @@
                     65,
                     64,
                     389,
-                    91
+                    90
                 ],
                 "page_number": 12,
                 "is_pre": false
@@ -726,9 +738,9 @@
                         "text": "(a) Find the polar coordinates of the point on \\(C\\) that is furthest from the pole, giving your answers correct to 3 decimal places",
                         "bbox": [
                             88,
-                            93,
+                            92,
                             547,
-                            120
+                            119
                         ],
                         "page_number": 16,
                         "is_pre": false
@@ -740,9 +752,9 @@
                 "page_number": 16,
                 "bbox": [
                     71,
-                    444,
+                    445,
                     86,
-                    458
+                    459
                 ],
                 "level": 70,
                 "parts": [],
@@ -754,7 +766,7 @@
                             88,
                             441,
                             547,
-                            471
+                            472
                         ],
                         "page_number": 16,
                         "is_pre": false
@@ -779,8 +791,8 @@
                         "bbox": [
                             88,
                             62,
-                            141,
-                            76
+                            140,
+                            77
                         ],
                         "page_number": 17,
                         "is_pre": false
@@ -792,9 +804,9 @@
                 "page_number": 17,
                 "bbox": [
                     71,
-                    427,
+                    428,
                     86,
-                    441
+                    442
                 ],
                 "level": 70,
                 "parts": [],
@@ -804,11 +816,47 @@
                         "text": "(d) Find the area of the region bounded by \\(C\\), giving your answer in exact form",
                         "bbox": [
                             88,
-                            426,
-                            447,
-                            440
+                            427,
+                            446,
+                            442
                         ],
                         "page_number": 17,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "If you use the following page to complete the answer to any question, the question number must be clearly shown",
+                        "bbox": [
+                            48,
+                            86,
+                            547,
+                            114
+                        ],
+                        "page_number": 18,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "BLANK PAGE",
+                        "bbox": [
+                            258,
+                            61,
+                            335,
+                            72
+                        ],
+                        "page_number": 19,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "BLANK PAGE",
+                        "bbox": [
+                            258,
+                            62,
+                            335,
+                            73
+                        ],
+                        "page_number": 20,
                         "is_pre": false
                     }
                 ]
