@@ -1,0 +1,991 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            48,
+            62,
+            60,
+            75
+        ],
+        "level": 50,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Fig. 1.1 shows two identical cylindrical conductors P and Q, each of length \\(L\\) and cross-sectional area \\(A\\).",
+                "bbox": [
+                    70,
+                    62,
+                    548,
+                    88
+                ],
+                "page_number": 2,
+                "is_pre": false
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    94,
+                    99,
+                    500,
+                    265
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 2
+                }
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\nB=\\frac{Y A V}{L p}+\\frac{Y Z A V}{L q}\n\\]",
+                "bbox": [
+                    254,
+                    440,
+                    343,
+                    467
+                ],
+                "page_number": 2,
+                "is_pre": false
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    36,
+                    0,
+                    247,
+                    61
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 3
+                }
+            },
+            {
+                "type": "text",
+                "text": "Diagram",
+                "bbox": [
+                    70,
+                    63,
+                    116,
+                    74
+                ],
+                "page_number": 3,
+                "is_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[15]",
+                "bbox": [
+                    506,
+                    776,
+                    522,
+                    790
+                ],
+                "page_number": 4,
+                "is_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "",
+                "bbox": [
+                    548,
+                    780,
+                    557,
+                    793
+                ],
+                "page_number": 4,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "page_number": 5,
+        "bbox": [
+            55,
+            61,
+            68,
+            74
+        ],
+        "level": 55,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 5,
+                "bbox": [
+                    72,
+                    528,
+                    421,
+                    542
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Determine expressions for the gradient and \\(y\\)-intercept.",
+                        "bbox": [
+                            92,
+                            554,
+                            364,
+                            567
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "gradient = ................................................................",
+                        "bbox": [
+                            296,
+                            710,
+                            527,
+                            723
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "y-intercept = ................................................................",
+                        "bbox": [
+                            281,
+                            736,
+                            527,
+                            749
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            533,
+                            753,
+                            548,
+                            766
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            169,
+                            794,
+                            188,
+                            813
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "image": {
+                            "caption": "",
+                            "page": 5
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "9702/52/F/M/25",
+                        "bbox": [
+                            258,
+                            796,
+                            328,
+                            805
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "[Turn over",
+                        "bbox": [
+                            491,
+                            796,
+                            539,
+                            805
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "page_number": 6,
+                "bbox": [
+                    71,
+                    62,
+                    81,
+                    75
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Values of \\(t\\) and \\(\\theta\\) are given in Table 2.1.",
+                        "bbox": [
+                            92,
+                            62,
+                            286,
+                            75
+                        ],
+                        "page_number": 6,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "table",
+                        "bbox": [
+                            86,
+                            114,
+                            508,
+                            378
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "table": {
+                            "html": "<table><tr><td>\\(t/\\min\\)</td><td>\\(\\theta/^{\\circ}\\mathrm{C}\\)</td><td>\\((\\theta-\\theta_{\\mathrm{R}})/^{\\circ}\\mathrm{C}\\)</td><td>\\(\\ln\\left((\\theta-\\theta_{\\mathrm{R}})/^{\\circ}\\mathrm{C}\\right)\\)</td></tr><tr><td>6.0</td><td>75.0 ± 0.5</td><td></td><td></td></tr><tr><td>12.0</td><td>64.5 ± 0.5</td><td></td><td></td></tr><tr><td>18.0</td><td>57.0 ± 0.5</td><td></td><td></td></tr><tr><td>24.0</td><td>50.0 ± 0.5</td><td></td><td></td></tr><tr><td>30.0</td><td>44.5 ± 0.5</td><td></td><td></td></tr><tr><td>36.0</td><td>41.0 ± 0.5</td><td></td><td></td></tr></table>"
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "The value of \\(\\theta_{\\mathrm{R}}\\) is \\((18.5 \\pm 0.5)^{\\circ} \\mathrm{C}\\).",
+                        "bbox": [
+                            94,
+                            387,
+                            258,
+                            400
+                        ],
+                        "page_number": 6,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Calculate and record values of \\((\\theta-\\theta_{\\mathrm{R}})/^{\\circ} \\mathrm{C}\\) and \\(\\ln\\left((\\theta-\\theta_{\\mathrm{R}})/^{\\circ}\\mathrm{C}\\right)\\) in Table 2.1. Include the absolute uncertainties in \\((\\theta-\\theta_{\\mathrm{R}})\\) and \\(\\ln\\left((\\theta-\\theta_{\\mathrm{R}})/^{\\circ}\\mathrm{C}\\right)\\).",
+                        "bbox": [
+                            94,
+                            412,
+                            460,
+                            439
+                        ],
+                        "page_number": 6,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            506,
+                            426,
+                            516,
+                            439
+                        ],
+                        "page_number": 6,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "page_number": 6,
+                "bbox": [
+                    71,
+                    451,
+                    81,
+                    464
+                ],
+                "level": 70,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 6,
+                        "bbox": [
+                            94,
+                            451,
+                            110,
+                            464
+                        ],
+                        "level": 95,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Plot a graph of \\(\\ln\\left((\\theta-\\theta_{\\mathrm{R}})/^{\\circ}\\mathrm{C}\\right)\\) against \\(t/\\min\\). Include error bars for \\(\\ln\\left((\\theta-\\theta_{\\mathrm{R}})/^{\\circ}\\mathrm{C}\\right)\\).",
+                                "bbox": [
+                                    115,
+                                    451,
+                                    518,
+                                    464
+                                ],
+                                "page_number": 6,
+                                "is_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    506,
+                                    451,
+                                    516,
+                                    464
+                                ],
+                                "page_number": 6,
+                                "is_pre": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 6,
+                        "bbox": [
+                            90,
+                            476,
+                            110,
+                            490
+                        ],
+                        "level": 90,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Draw the straight line of best fit and a worst acceptable straight line on your graph. Label both lines.",
+                                "bbox": [
+                                    115,
+                                    476,
+                                    547,
+                                    503
+                                ],
+                                "page_number": 6,
+                                "is_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    506,
+                                    500,
+                                    516,
+                                    513
+                                ],
+                                "page_number": 6,
+                                "is_pre": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(iii)",
+                        "page_number": 6,
+                        "bbox": [
+                            88,
+                            517,
+                            110,
+                            530
+                        ],
+                        "level": 90,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Determine the gradient of the line of best fit. Include the absolute uncertainty in your answer.",
+                                "bbox": [
+                                    115,
+                                    517,
+                                    547,
+                                    544
+                                ],
+                                "page_number": 6,
+                                "is_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "gradient = ............................................................ [2]",
+                                "bbox": [
+                                    297,
+                                    711,
+                                    310,
+                                    725
+                                ],
+                                "page_number": 6,
+                                "is_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    506,
+                                    711,
+                                    516,
+                                    725
+                                ],
+                                "page_number": 6,
+                                "is_pre": false
+                            },
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    169,
+                                    796,
+                                    188,
+                                    815
+                                ],
+                                "page_number": 6,
+                                "is_pre": false,
+                                "image": {
+                                    "caption": "",
+                                    "page": 6
+                                }
+                            },
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    110,
+                                    61,
+                                    527,
+                                    725
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "image": {
+                                    "caption": "",
+                                    "page": 7
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(iv)",
+                        "page_number": 8,
+                        "bbox": [
+                            88,
+                            61,
+                            110,
+                            74
+                        ],
+                        "level": 90,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Determine the \\(y\\)-intercept of the line of best fit. Include the absolute uncertainty in your answer.",
+                                "bbox": [
+                                    115,
+                                    61,
+                                    548,
+                                    88
+                                ],
+                                "page_number": 8,
+                                "is_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "\\(y\\)-intercept = ............................................................ [2]",
+                                "bbox": [
+                                    285,
+                                    192,
+                                    527,
+                                    206
+                                ],
+                                "page_number": 8,
+                                "is_pre": false
+                            }
+                        ]
+                    }
+                ],
+                "content": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 8,
+                "bbox": [
+                    70,
+                    218,
+                    81,
+                    232
+                ],
+                "level": 70,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 8,
+                        "bbox": [
+                            94,
+                            218,
+                            110,
+                            232
+                        ],
+                        "level": 95,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Using your answers to (a), (c)(iii) and (c)(iv), determine the values of \\(K\\) and \\(\\theta_{0}\\). Include appropriate units.",
+                                "bbox": [
+                                    115,
+                                    218,
+                                    548,
+                                    245
+                                ],
+                                "page_number": 8,
+                                "is_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "\\(K = ............................................................$",
+                                "bbox": [
+                                    329,
+                                    387,
+                                    527,
+                                    400
+                                ],
+                                "page_number": 8,
+                                "is_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "\\(\\theta_{0} = ............................................................$",
+                                "bbox": [
+                                    328,
+                                    413,
+                                    527,
+                                    426
+                                ],
+                                "page_number": 8,
+                                "is_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    533,
+                                    430,
+                                    548,
+                                    443
+                                ],
+                                "page_number": 8,
+                                "is_pre": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 8,
+                        "bbox": [
+                            90,
+                            455,
+                            110,
+                            469
+                        ],
+                        "level": 90,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Determine the absolute uncertainty in your value of \\(\\theta_{0}\\).",
+                                "bbox": [
+                                    115,
+                                    455,
+                                    384,
+                                    469
+                                ],
+                                "page_number": 8,
+                                "is_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "absolute uncertainty = ............................................................ [1]",
+                                "bbox": [
+                                    238,
+                                    584,
+                                    527,
+                                    598
+                                ],
+                                "page_number": 8,
+                                "is_pre": false
+                            }
+                        ]
+                    }
+                ],
+                "content": []
+            },
+            {
+                "label": "(e)",
+                "page_number": 8,
+                "bbox": [
+                    71,
+                    609,
+                    81,
+                    623
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Determine the time \\(t\\) for the temperature to reach \\(25.0^{\\circ} \\mathrm{C}\\).",
+                        "bbox": [
+                            92,
+                            609,
+                            376,
+                            623
+                        ],
+                        "page_number": 8,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "\\(t = ............................................................ min [1]",
+                        "bbox": [
+                            334,
+                            714,
+                            527,
+                            727
+                        ],
+                        "page_number": 8,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[Total: 15]",
+                        "bbox": [
+                            497,
+                            739,
+                            548,
+                            753
+                        ],
+                        "page_number": 8,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            168,
+                            796,
+                            188,
+                            816
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "image": {
+                            "caption": "",
+                            "page": 8
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "text": "9702/52/F/M/25",
+                        "bbox": [
+                            268,
+                            796,
+                            326,
+                            806
+                        ],
+                        "page_number": 8,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            563,
+                            796,
+                            593,
+                            816
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "image": {
+                            "caption": "",
+                            "page": 8
+                        }
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "pre_text",
+                "text": "The conductors are placed parallel to each other. The perpendicular distance from the midpoint of P to point X is \\(p\\). The perpendicular distance from the midpoint of Q to point X is \\(q\\).",
+                "bbox": [
+                    70,
+                    305,
+                    548,
+                    332
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "The two conductors are electrically connected in parallel. This parallel combination is connected in series to a power supply and a resistor. The potential difference \\(V\\) between the ends of P is the same as the potential difference between the ends of Q.",
+                "bbox": [
+                    70,
+                    344,
+                    547,
+                    384
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "The magnetic flux density at X due to the currents in the conductors is \\(B\\).",
+                "bbox": [
+                    70,
+                    397,
+                    426,
+                    410
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "It is suggested that \\(B\\) is related to \\(p\\) by the relationship",
+                "bbox": [
+                    70,
+                    422,
+                    345,
+                    436
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "where Y and Z are constants.",
+                "bbox": [
+                    70,
+                    475,
+                    216,
+                    489
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "Plan a laboratory experiment to test the relationship between \\(B\\) and \\(p\\).",
+                "bbox": [
+                    70,
+                    501,
+                    413,
+                    514
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "Draw a diagram showing the arrangement of your equipment.",
+                "bbox": [
+                    70,
+                    527,
+                    372,
+                    540
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "Explain how the results could be used to determine values for Y and Z.",
+                "bbox": [
+                    70,
+                    552,
+                    416,
+                    566
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "In your plan you should include:",
+                "bbox": [
+                    70,
+                    577,
+                    228,
+                    591
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "• the procedure to be followed",
+                "bbox": [
+                    70,
+                    603,
+                    234,
+                    617
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "• the measurements to be taken",
+                "bbox": [
+                    70,
+                    630,
+                    244,
+                    643
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "• the control of variables",
+                "bbox": [
+                    70,
+                    656,
+                    207,
+                    669
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "• the analysis of the data",
+                "bbox": [
+                    70,
+                    682,
+                    208,
+                    695
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "• any safety precautions to be taken.",
+                "bbox": [
+                    70,
+                    708,
+                    266,
+                    721
+                ],
+                "page_number": 2,
+                "is_pre": true
+            },
+            {
+                "type": "text",
+                "text": "A student investigates the cooling of a liquid in a beaker.",
+                "bbox": [
+                    79,
+                    61,
+                    347,
+                    74
+                ],
+                "page_number": 5,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The temperature \\(\\theta_{\\mathrm{R}}\\) of the laboratory is measured using a thermometer.",
+                "bbox": [
+                    72,
+                    87,
+                    421,
+                    101
+                ],
+                "page_number": 5,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Hot water is added to an insulated beaker, as shown in Fig. 2.1.",
+                "bbox": [
+                    72,
+                    113,
+                    383,
+                    126
+                ],
+                "page_number": 5,
+                "is_pre": false
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    142,
+                    136,
+                    453,
+                    342
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 5
+                }
+            },
+            {
+                "type": "text",
+                "text": "The thermometer measures the temperature of the water. At time \\(t\\) the temperature of the water is \\(\\theta\\).",
+                "bbox": [
+                    72,
+                    382,
+                    547,
+                    409
+                ],
+                "page_number": 5,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "A series of readings of \\(t\\) and \\(\\theta\\) are taken.",
+                "bbox": [
+                    72,
+                    421,
+                    270,
+                    435
+                ],
+                "page_number": 5,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "It is suggested that \\(\\theta\\) and \\(t\\) are related by the equation",
+                "bbox": [
+                    72,
+                    447,
+                    335,
+                    460
+                ],
+                "page_number": 5,
+                "is_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\theta=\\theta_{\\mathrm{R}}+(\\theta_{0}-\\theta_{\\mathrm{R}}) \\mathrm{e}^{-(\\frac{t}{k})}\n\\]",
+                "bbox": [
+                    241,
+                    470,
+                    353,
+                    490
+                ],
+                "page_number": 5,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "where \\(\\theta_{0}\\) is the temperature at \\(t=0\\) and \\(K\\) is a constant.",
+                "bbox": [
+                    72,
+                    502,
+                    344,
+                    516
+                ],
+                "page_number": 5,
+                "is_pre": false
+            }
+        ]
+    }
+]

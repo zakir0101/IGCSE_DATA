@@ -1,0 +1,529 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            49,
+            61,
+            59,
+            75
+        ],
+        "level": 50,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "1 A person's eye colour may be categorised as \"brown\", \"blue\" or \"other\". A scientist claims that these eye colours are uniformly distributed and hence are equally likely to occur in the population. A survey of 120 people from this population found that 38 people had brown eyes, 52 people had blue eyes and 30 people had eyes which were neither brown nor blue",
+                "bbox": [
+                    65,
+                    62,
+                    547,
+                    116
+                ],
+                "page_number": 2,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Use the data to carry out a goodness of fit test at the \\(5 \\%\\) significance level to test the scientist's claim",
+                "bbox": [
+                    70,
+                    126,
+                    547,
+                    142
+                ],
+                "page_number": 2,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "page_number": 3,
+        "bbox": [
+            49,
+            61,
+            59,
+            75
+        ],
+        "level": 50,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "2 A farmer is investigating whether using a new fertiliser will increase the yield of tomato plants. The farmer selects 40 tomato plants at random and gives them the new fertiliser. The crop mass, \\(x \\mathrm{~kg}\\), of each of these 40 plants is recorded. The farmer selects a further 60 tomato plants at random and gives them a standard fertiliser. The crop mass, \\(y \\mathrm{~kg}\\), of each of these 60 plants is recorded. The results are summarised as follows",
+                "bbox": [
+                    65,
+                    62,
+                    549,
+                    127
+                ],
+                "page_number": 3,
+                "is_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\sum x=168 \\quad \\sum x^{2}=720 \\quad \\sum y=228 \\quad \\sum y^{2}=900\n\\]",
+                "bbox": [
+                    178,
+                    139,
+                    416,
+                    158
+                ],
+                "page_number": 3,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find a \\(90 \\%\\) confidence interval for the difference in mean crop mass associated with each type of fertiliser",
+                "bbox": [
+                    70,
+                    166,
+                    549,
+                    192
+                ],
+                "page_number": 3,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "page_number": 4,
+        "bbox": [
+            49,
+            61,
+            59,
+            75
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    71,
+                    195,
+                    86,
+                    209
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Show that \\(k=\\frac{1}{25}\\)",
+                        "bbox": [
+                            88,
+                            192,
+                            179,
+                            212
+                        ],
+                        "page_number": 4,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "page_number": 4,
+                "bbox": [
+                    71,
+                    377,
+                    86,
+                    391
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) Find the median value of \\(X\\)",
+                        "bbox": [
+                            88,
+                            377,
+                            225,
+                            391
+                        ],
+                        "page_number": 4,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "page_number": 5,
+                "bbox": [
+                    71,
+                    93,
+                    86,
+                    107
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Y\\) is defined by \\(Y=\\sqrt[3]{X}\\) ．",
+                        "bbox": [
+                            70,
+                            64,
+                            284,
+                            82
+                        ],
+                        "page_number": 5,
+                        "is_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "（c）Find the probability density function of \\(Y\\) ．",
+                        "bbox": [
+                            88,
+                            92,
+                            290,
+                            107
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "3 A continuous random variable \\(X\\) has probability density function \\(f\\) given by",
+                "bbox": [
+                    65,
+                    62,
+                    422,
+                    77
+                ],
+                "page_number": 4,
+                "is_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\nf(x)= \\begin{cases}k x & 0 \\leqslant x<1 \\\\ k(8-x) & 1 \\leqslant x \\leqslant 8 \\\\ 0 & \\text { otherwise }\\end{cases}\n\\]",
+                "bbox": [
+                    224,
+                    86,
+                    369,
+                    153
+                ],
+                "page_number": 4,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "where \\(k\\) is a constant",
+                "bbox": [
+                    70,
+                    169,
+                    172,
+                    182
+                ],
+                "page_number": 4,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            49,
+            61,
+            59,
+            75
+        ],
+        "level": 50,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "4 A researcher claims that older people take longer to react to a sudden loud noise than younger people. To investigate this, the researcher randomly selects 6 people over 50 years old and 8 people under 25 years old and records their reaction times, in milliseconds, to a sudden loud noise. The reaction times are as follows",
+                "bbox": [
+                    65,
+                    62,
+                    547,
+                    115
+                ],
+                "page_number": 6,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "\\(\\begin{array}{lllllll}\\text { Over } 50 & 198 & 212 & 217 & 229 & 235 & 242\\end{array}\\)",
+                "bbox": [
+                    70,
+                    126,
+                    363,
+                    140
+                ],
+                "page_number": 6,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "\\(\\begin{array}{lllllllll}\\text { Under } 25 & 178 & 181 & 183 & 192 & 203 & 209 & 223 & 231\\end{array}\\)",
+                "bbox": [
+                    70,
+                    153,
+                    441,
+                    166
+                ],
+                "page_number": 6,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Carry out a Wilcoxon rank-sum test at the \\(5 \\%\\) significance level to test the researcher's claim",
+                "bbox": [
+                    70,
+                    180,
+                    504,
+                    194
+                ],
+                "page_number": 6,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "page_number": 8,
+        "bbox": [
+            49,
+            61,
+            59,
+            75
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    71,
+                    258,
+                    86,
+                    272
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "（a）Use a \\(t\\)－test at the \\(5 \\%\\) significance level to find the range of values of \\(k\\) for which the result of the test is to reject the null hypothesis．",
+                        "bbox": [
+                            88,
+                            258,
+                            547,
+                            286
+                        ],
+                        "page_number": 8,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "page_number": 9,
+                "bbox": [
+                    71,
+                    700,
+                    86,
+                    714
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(b) State an assumption necessary for the test in part (a) to be valid",
+                        "bbox": [
+                            88,
+                            697,
+                            391,
+                            714
+                        ],
+                        "page_number": 9,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "5 A doctor is investigating the concentration of blood glucose in patients at risk of developing type 2 diabetes，where blood glucose is measured in appropriate units．The doctor claims that a particular intervention reduces the concentration by more than \\(k\\) units on average．A group of 8 at risk patients is selected at random and each patient follows the intervention for six months．The blood glucose concentrations before and after the intervention are given in the following table．",
+                "bbox": [
+                    65,
+                    62,
+                    547,
+                    129
+                ],
+                "page_number": 8,
+                "is_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    87,
+                    140,
+                    531,
+                    205
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td >Patient</td><td >\\(A\\)</td><td >\\(B\\)</td><td >\\(C\\)</td><td >\\(D\\)</td><td >\\(E\\)</td><td >\\(F\\)</td><td >\\(G\\)</td><td >\\(H\\)</td></tr><tr><td >Before</td><td >183</td><td >165</td><td >172</td><td >165</td><td >143</td><td >176</td><td >161</td><td >153</td></tr><tr><td >After</td><td >164</td><td >148</td><td >164</td><td >149</td><td >134</td><td >153</td><td >155</td><td >148</td></tr></table>"
+                }
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "page_number": 10,
+        "bbox": [
+            49,
+            61,
+            59,
+            75
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    71,
+                    115,
+                    86,
+                    129
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(a) Find the probability generating functions, \\(\\mathrm{G}_{X}(t)\\) of \\(X\\) and \\(\\mathrm{G}_{Y}(t)\\) of \\(Y\\)",
+                        "bbox": [
+                            88,
+                            114,
+                            415,
+                            131
+                        ],
+                        "page_number": 10,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(b)",
+                "page_number": 10,
+                "bbox": [
+                    71,
+                    687,
+                    86,
+                    701
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Z\\) is the sum of the number of red balls and the number of different colours present in Kieran's selection. Kieran claims that the probability generating function of \\(Z\\) is equal to \\(\\mathrm{G}_{X}(t) \\times \\mathrm{G}_{Y}(t)\\)",
+                        "bbox": [
+                            70,
+                            635,
+                            547,
+                            677
+                        ],
+                        "page_number": 10,
+                        "is_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "(b) Explain why Kieran is incorrect",
+                        "bbox": [
+                            88,
+                            685,
+                            246,
+                            700
+                        ],
+                        "page_number": 10,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "page_number": 11,
+                "bbox": [
+                    71,
+                    63,
+                    86,
+                    77
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(c) Find the probability generating function of \\(Z\\), expressing your answer as a polynomial in \\(t\\)",
+                        "bbox": [
+                            88,
+                            62,
+                            512,
+                            77
+                        ],
+                        "page_number": 11,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(d)",
+                "page_number": 11,
+                "bbox": [
+                    71,
+                    531,
+                    86,
+                    545
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(d) Use the probability generating function of \\(Z\\) to find \\(\\mathrm{E}(Z)\\)",
+                        "bbox": [
+                            88,
+                            528,
+                            360,
+                            547
+                        ],
+                        "page_number": 11,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "6 A bag contains 7 red balls and 3 blue balls. Kieran selects 2 balls at random, without replacement. The number of red balls selected by Kieran is denoted by \\(X\\), and the number of different colours present in Kieran's selection is denoted by \\(Y\\)",
+                "bbox": [
+                    65,
+                    62,
+                    547,
+                    103
+                ],
+                "page_number": 10,
+                "is_pre": false
+            }
+        ]
+    }
+]

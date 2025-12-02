@@ -7,7 +7,7 @@
                 "bbox": [
                     47.49637155297533,
                     62.48768809849521,
-                    98.73488147073054,
+                    547.5036284470248,
                     88.98016415868673
                 ],
                 "page_number": 2,
@@ -95,7 +95,7 @@
                                 "bbox": [
                                     70.52491533623609,
                                     572.1798905608755,
-                                    280.37252056119985,
+                                    546.6400580551524,
                                     612.782489740082
                                 ],
                                 "page_number": 2,
@@ -245,32 +245,11 @@
                         "bbox": [
                             70.52491533623609,
                             60.75991792065663,
-                            435.81519109821,
-                            91.28385772913816
-                        ],
-                        "page_number": 4,
-                        "text": "(c) The student moves the 1.50 N load to distances \\(d=10.0 \\mathrm{~cm}, 30.0 \\mathrm{~cm}, 50.0 \\mathrm{~cm}, 70.0 \\mathrm{~cm}\\) and 90.0 cm . For each distance \\(d\\), he reads the value \\(F_{X}\\) on force meter \\(X\\)."
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            93.55345911949686,
-                            100.21067031463748,
-                            273.7518142235124,
-                            116.0485636114911
-                        ],
-                        "page_number": 4,
-                        "text": "His readings are shown in Table 1.1."
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            271.16110304789555,
-                            124.97537619699042,
-                            323.263183357523,
+                            546.6400580551524,
                             141.67715458276334
                         ],
-                        "page_number": 4
+                        "page_number": 4,
+                        "text": "(c) The student moves the 1.50 N load to distances \\(d=10.0 \\mathrm{~cm}, 30.0 \\mathrm{~cm}, 50.0 \\mathrm{~cm}, 70.0 \\mathrm{~cm}\\) and 90.0 cm . For each distance \\(d\\), he reads the value \\(F_{X}\\) on force meter \\(X\\). His readings are shown in Table 1.1. "
                     },
                     {
                         "type": "table",
@@ -282,6 +261,7 @@
                         ],
                         "page_number": 4,
                         "table": {
+                            "latex": "\\begin{tabular}{|c|c|}\n\\hline\\(d / \\mathrm{cm}\\) & \\(F_{\\mathrm{X}} / \\mathrm{N}\\) \\\\\n\\hline 10.0 & 1.17 \\\\\n\\hline 30.0 & 1.40 \\\\\n\\hline 50.0 & 1.82 \\\\\n\\hline 70.0 & 2.15 \\\\\n\\hline 90.0 & 2.35 \\\\\n\\hline\n\\end{tabular}",
                             "html": "<table><tr><td >\\(d / \\mathrm{cm}\\)</td><td >\\(F_{\\mathrm{X}} / \\mathrm{N}\\)</td></tr><tr><td >10.0</td><td >1.17</td></tr><tr><td >30.0</td><td >1.40</td></tr><tr><td >50.0</td><td >1.82</td></tr><tr><td >70.0</td><td >2.15</td></tr><tr><td >90.0</td><td >2.35</td></tr></table>",
                             "caption": ""
                         }
@@ -437,7 +417,7 @@
                         "bbox": [
                             70.52491533623609,
                             346.99384404924757,
-                            324.7024673439768,
+                            546.6400580551524,
                             375.79001367989054
                         ],
                         "page_number": 5,
@@ -550,7 +530,7 @@
                         "bbox": [
                             70.52491533623609,
                             465.3461012311901,
-                            495.689404934688,
+                            546.6400580551524,
                             492.7024623803009
                         ],
                         "page_number": 6,
@@ -561,19 +541,14 @@
                         "bbox": [
                             93.55345911949686,
                             504.79685362517097,
-                            290.15965166908563,
+                            548.367198838897,
                             532.1532147742818
                         ],
                         "page_number": 6,
                         "text": "Describe one technique that you use to ensure that temperature readings in this type of experiment are as accurate as possible."
-                    }
-                ]
-            },
-            {
-                "label": "(c)",
-                "content": [
+                    },
                     {
-                        "type": "pre_table",
+                        "type": "form_table",
                         "bbox": [
                             233.16400580551527,
                             87.828317373461,
@@ -582,10 +557,16 @@
                         ],
                         "page_number": 7,
                         "table": {
+                            "latex": "\\begin{tabular}{|r|l|}\n\\hline\\(t / \\mathrm{s}\\) & \\(\\theta /{ }^{\\circ} \\mathrm{C}\\) \\\\\n\\hline 0 & 93.0 \\\\\n\\hline 30 & 90.5 \\\\\n\\hline 60 & 88.5 \\\\\n\\hline 90 & 87.0 \\\\\n\\hline 120 & 85.5 \\\\\n\\hline 150 & 84.0 \\\\\n\\hline 180 & 83.0 \\\\\n\\hline 210 & 82.0 \\\\\n\\hline 240 & 81.5 \\\\\n\\hline 270 & 81.0 \\\\\n\\hline\n\\end{tabular}",
                             "html": "<table><tr><td >\\(t / \\mathrm{s}\\)</td><td >\\(\\theta /{ }^{\\circ} \\mathrm{C}\\)</td></tr><tr><td >0</td><td >93.0</td></tr><tr><td >30</td><td >90.5</td></tr><tr><td >60</td><td >88.5</td></tr><tr><td >90</td><td >87.0</td></tr><tr><td >120</td><td >85.5</td></tr><tr><td >150</td><td >84.0</td></tr><tr><td >180</td><td >83.0</td></tr><tr><td >210</td><td >82.0</td></tr><tr><td >240</td><td >81.5</td></tr><tr><td >270</td><td >81.0</td></tr></table>",
                             "caption": ""
                         }
-                    },
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "content": [
                     {
                         "type": "text",
                         "bbox": [
@@ -622,7 +603,7 @@
                                 "bbox": [
                                     70.52491533623609,
                                     381.2612859097127,
-                                    321.53604257377845,
+                                    546.6400580551524,
                                     409.76949384404924
                                 ],
                                 "page_number": 7,
@@ -692,7 +673,7 @@
                                 "bbox": [
                                     90.3870343492985,
                                     531.0013679890561,
-                                    321.53604257377845,
+                                    546.6400580551524,
                                     558.3577291381669
                                 ],
                                 "page_number": 7,
@@ -751,7 +732,7 @@
                                 "bbox": [
                                     88.65989356555396,
                                     665.767441860465,
-                                    321.53604257377845,
+                                    546.6400580551524,
                                     694.2756497948017
                                 ],
                                 "page_number": 7,
@@ -806,7 +787,7 @@
                                 "bbox": [
                                     70.52491533623609,
                                     62.48768809849521,
-                                    442.43589743589746,
+                                    546.6400580551524,
                                     89.84404924760602
                                 ],
                                 "page_number": 8,
@@ -855,7 +836,7 @@
                                 "bbox": [
                                     70.52491533623609,
                                     230.0813953488372,
-                                    209.84760522496373,
+                                    548.367198838897,
                                     259.16552667578657
                                 ],
                                 "page_number": 8,
@@ -864,24 +845,13 @@
                             {
                                 "type": "text",
                                 "bbox": [
-                                    115.71843251088535,
-                                    269.53214774281804,
-                                    219.63473633284957,
-                                    298.6162790697674
-                                ],
-                                "page_number": 8,
-                                "text": "Suggest how his cooling rates are likely to compare with those in (b). Use your results to explain your answer."
-                            },
-                            {
-                                "type": "text",
-                                "bbox": [
                                     114.85486211901308,
-                                    307.2551299589603,
-                                    173.57764876632802,
+                                    269.53214774281804,
+                                    547.5036284470248,
                                     324.24487004103963
                                 ],
                                 "page_number": 8,
-                                "text": "suggestion"
+                                "text": "Suggest how his cooling rates are likely to compare with those in (b). Use your results to explain your answer. suggestion"
                             },
                             {
                                 "type": "text",
@@ -904,7 +874,7 @@
                                 "bbox": [
                                     90.3870343492985,
                                     452.09986320109437,
-                                    155.44267053701017,
+                                    548.367198838897,
                                     478.5923392612859
                                 ],
                                 "page_number": 8,
@@ -981,7 +951,7 @@
                         "bbox": [
                             70.52491533623609,
                             396.2352941176471,
-                            320.6724721819062,
+                            546.6400580551524,
                             423.59165526675787
                         ],
                         "page_number": 10,
@@ -997,22 +967,11 @@
                         "bbox": [
                             70.52491533623609,
                             434.8221614227086,
-                            346.2917271407838,
-                            464.7701778385773
-                        ],
-                        "page_number": 10,
-                        "text": "(b) The student measures the potential difference \\(V\\) across the parallel combination of resistors \\(\\mathrm{R}_{1}\\) and \\(\\mathrm{R}_{2}\\) and measures the current \\(I\\) in the circuit."
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            93.55345911949686,
-                            473.40902872777013,
-                            326.42960812772134,
+                            546.6400580551524,
                             489.5348837209302
                         ],
                         "page_number": 10,
-                        "text": "His readings are shown in Fig. 3.2 and Fig. 3.3."
+                        "text": "(b) The student measures the potential difference \\(V\\) across the parallel combination of resistors \\(\\mathrm{R}_{1}\\) and \\(\\mathrm{R}_{2}\\) and measures the current \\(I\\) in the circuit. His readings are shown in Fig. 3.2 and Fig. 3.3."
                     },
                     {
                         "type": "image",
@@ -1050,7 +1009,7 @@
                         "bbox": [
                             94.41702951136914,
                             682.469220246238,
-                            231.14900822447996,
+                            546.6400580551524,
                             709.8255813953488
                         ],
                         "page_number": 10,
@@ -1066,6 +1025,7 @@
                         ],
                         "page_number": 11,
                         "table": {
+                            "latex": "\\begin{tabular}{|c|c|c|c|}\n\\cline { 2 - 4 } \\multicolumn{1}{c|}{} & \\(V / \\mathrm{V}\\) & \\(I / \\mathrm{A}\\) & \\(R / \\Omega\\) \\\\\n\\hline circuit A & & & \\\\\n\\hline circuit B & 1.4 & 0.46 & \\\\\n\\hline circuit C & 1.8 & 0.29 & \\\\\n\\hline\n\\end{tabular}",
                             "html": "<table><tr><td >\\cline { 2 - 4 } \\multicolumn{1}{c|}{}</td><td >\\(V / \\mathrm{V}\\)</td><td >\\(I / \\mathrm{A}\\)</td><td >\\(R / \\Omega\\)</td></tr><tr><td >circuit A</td><td ></td><td ></td><td ></td></tr><tr><td >circuit B</td><td >1.4</td><td >0.46</td><td ></td></tr><tr><td >circuit C</td><td >1.8</td><td >0.29</td><td ></td></tr></table>",
                             "caption": ""
                         }
@@ -1075,7 +1035,7 @@
                         "bbox": [
                             114.85486211901308,
                             225.1860465116279,
-                            497.41654571843253,
+                            546.6400580551524,
                             250.81463748290014
                         ],
                         "page_number": 11,
@@ -1127,33 +1087,11 @@
                         "bbox": [
                             91.8263183357523,
                             419.2722298221614,
-                            303.4010643444606,
-                            448.3563611491108
-                        ],
-                        "page_number": 11,
-                        "text": "(ii) For each circuit, calculate and record in Table 3.1 a resistance \\(R\\). Use the values of \\(V\\) and \\(I\\) in Table 3.1 and the equation:"
-                    },
-                    {
-                        "type": "form_text",
-                        "bbox": [
-                            278.6453797774553,
-                            452.09986320109437,
-                            316.64247701983555,
-                            478.01641586867305
-                        ],
-                        "page_number": 11,
-                        "blockMath": "\\[\nR=\\frac{V}{I} .\n\\]",
-                        "text": "\\(\nR=\\frac{V}{I} .\n\\)"
-                    },
-                    {
-                        "type": "form_text",
-                        "bbox": [
-                            530.8079342041607,
-                            471.969220246238,
-                            547.5036284470248,
+                            548.367198838897,
                             488.67099863201094
                         ],
-                        "page_number": 11
+                        "page_number": 11,
+                        "text": "(ii) For each circuit, calculate and record in Table 3.1 a resistance \\(R\\). Use the values of \\(V\\) and \\(I\\) in Table 3.1 and the equation: \\(\nR=\\frac{V}{I} .\n\\) "
                     }
                 ]
             },
@@ -1276,7 +1214,7 @@
                                 "bbox": [
                                     115.71843251088535,
                                     88.6922024623803,
-                                    250.72327044025158,
+                                    546.6400580551524,
                                     116.0485636114911
                                 ],
                                 "page_number": 12,
@@ -1327,7 +1265,7 @@
                         "bbox": [
                             93.55345911949686,
                             270.39603283173733,
-                            153.71552975326563,
+                            546.6400580551524,
                             296.88850889192884
                         ],
                         "page_number": 12,
@@ -1354,7 +1292,7 @@
                         "bbox": [
                             70.52491533623609,
                             412.6491108071135,
-                            314.915336236091,
+                            546.6400580551524,
                             441.7332421340629
                         ],
                         "page_number": 12,
@@ -1417,7 +1355,7 @@
                 "bbox": [
                     70.52491533623609,
                     88.6922024623803,
-                    173.57764876632802,
+                    546.6400580551524,
                     115.18467852257182
                 ],
                 "page_number": 14,
@@ -1428,7 +1366,7 @@
                 "bbox": [
                     70.52491533623609,
                     127.27906976744185,
-                    395.51523947750366,
+                    546.6400580551524,
                     154.63543091655265
                 ],
                 "page_number": 14,
@@ -1439,7 +1377,7 @@
                 "bbox": [
                     70.52491533623609,
                     165.8659370725034,
-                    425.1644895984519,
+                    546.6400580551524,
                     193.51025991792065
                 ],
                 "page_number": 14,
@@ -1473,21 +1411,10 @@
                     70.52491533623609,
                     258.01367989056087,
                     517.2786647314949,
-                    271.54787961696303
-                ],
-                "page_number": 14,
-                "text": "- samples of gel made at different concentrations and labelled with those concentrations"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    70.52491533623609,
-                    271.2599179206566,
-                    329.8838896952105,
                     283.93023255813955
                 ],
                 "page_number": 14,
-                "text": "- a ray-lamp which produces a narrow ray of light."
+                "text": "- samples of gel made at different concentrations and labelled with those concentrations - a ray-lamp which produces a narrow ray of light."
             },
             {
                 "type": "text",
@@ -1538,22 +1465,11 @@
                 "bbox": [
                     70.52491533623609,
                     361.6798905608755,
-                    323.263183357523,
-                    389.0362517099863
-                ],
-                "page_number": 14,
-                "text": "- draw a table, or tables, with column headings, to show how to display the readings (you are not required to enter any readings in the table)"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    70.52491533623609,
-                    387.8844049247606,
-                    360.1088534107402,
+                    546.6400580551524,
                     402.28248974008204
                 ],
                 "page_number": 14,
-                "text": "- explain how to use the readings to reach a conclusion."
+                "text": "- draw a table, or tables, with column headings, to show how to display the readings (you are not required to enter any readings in the table) - explain how to use the readings to reach a conclusion."
             },
             {
                 "type": "image",

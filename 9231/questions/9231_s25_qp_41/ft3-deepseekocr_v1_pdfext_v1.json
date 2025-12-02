@@ -1,0 +1,484 @@
+[
+    {
+        "label": "1",
+        "page_number": 3,
+        "bbox": [
+            48,
+            61,
+            60,
+            74
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "D",
+                "page_number": 3,
+                "bbox": [
+                    0,
+                    358,
+                    14,
+                    372
+                ],
+                "level": 0,
+                "parts": [
+                    {
+                        "label": "D",
+                        "page_number": 3,
+                        "bbox": [
+                            0,
+                            464,
+                            14,
+                            478
+                        ],
+                        "level": 0,
+                        "parts": [],
+                        "content": []
+                    }
+                ],
+                "content": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The manager of a hardware store is interested in whether there is a difference in the amount spent per customer on weekdays \\((\\$ x)\\) compared to weekends \\((\\$ y)\\). Random samples of 120 customers on weekdays and 80 customers on weekends are taken and the amount spent by each customer is recorded. The results are summarised as follows.",
+                "bbox": [
+                    71,
+                    61,
+                    547,
+                    115
+                ],
+                "page_number": 3,
+                "is_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\Sigma x=10 470 \\qquad \\Sigma(x-\\bar{x})^2=12 283 \\qquad \\Sigma y=6560 \\qquad \\Sigma(y-\\bar{y})^2=13 520\n\\]",
+                "bbox": [
+                    110,
+                    126,
+                    506,
+                    140
+                ],
+                "page_number": 3,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Test at the \\(1 \\%\\) significance level whether there is a difference in the mean amount spent per customer on weekdays compared to weekends. You should not assume that the population variances of the amounts spent on weekdays and weekends are equal. [7]",
+                "bbox": [
+                    71,
+                    152,
+                    546,
+                    193
+                ],
+                "page_number": 3,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "page_number": 4,
+        "bbox": [
+            48,
+            61,
+            55,
+            71
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    71,
+                    325,
+                    81,
+                    339
+                ],
+                "level": 70,
+                "parts": [
+                    {
+                        "label": "1",
+                        "page_number": 4,
+                        "bbox": [
+                            68,
+                            358,
+                            81,
+                            372
+                        ],
+                        "level": 70,
+                        "parts": [],
+                        "content": []
+                    },
+                    {
+                        "label": "2",
+                        "page_number": 4,
+                        "bbox": [
+                            68,
+                            405,
+                            81,
+                            418
+                        ],
+                        "level": 70,
+                        "parts": [],
+                        "content": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(a=\\frac{2}{13}\\) and find the values of \\(b\\) and \\(c\\).",
+                        "bbox": [
+                            92,
+                            324,
+                            319,
+                            339
+                        ],
+                        "page_number": 4,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            530,
+                            325,
+                            546,
+                            339
+                        ],
+                        "page_number": 4,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    168,
+                    76,
+                    428,
+                    211
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 4
+                }
+            },
+            {
+                "type": "text",
+                "text": "As shown in the diagram, the continuous random variable \\(X\\) has probability density function f given by",
+                "bbox": [
+                    71,
+                    223,
+                    547,
+                    236
+                ],
+                "page_number": 4,
+                "is_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\mathrm{f}(x)= \\begin{cases} a & 0 \\leqslant x \\leqslant 5, \\\\ b-c x & 5 \\leqslant x \\leqslant 8, \\\\ 0 & \\text { otherwise, }\\end{cases}\n\\]",
+                "bbox": [
+                    228,
+                    244,
+                    367,
+                    290
+                ],
+                "page_number": 4,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "where \\(a, b\\) and \\(c\\) are constants.",
+                "bbox": [
+                    71,
+                    300,
+                    214,
+                    314
+                ],
+                "page_number": 4,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "page_number": 4,
+        "bbox": [
+            68,
+            451,
+            81,
+            464
+        ],
+        "level": 70,
+        "parts": [],
+        "content": []
+    },
+    {
+        "label": "4",
+        "page_number": 4,
+        "bbox": [
+            68,
+            497,
+            81,
+            511
+        ],
+        "level": 70,
+        "parts": [],
+        "content": []
+    },
+    {
+        "label": "5",
+        "page_number": 4,
+        "bbox": [
+            68,
+            544,
+            81,
+            557
+        ],
+        "level": 70,
+        "parts": [],
+        "content": []
+    },
+    {
+        "label": "6",
+        "page_number": 4,
+        "bbox": [
+            68,
+            590,
+            81,
+            603
+        ],
+        "level": 70,
+        "parts": [],
+        "content": []
+    },
+    {
+        "label": "7",
+        "page_number": 4,
+        "bbox": [
+            68,
+            636,
+            81,
+            649
+        ],
+        "level": 70,
+        "parts": [],
+        "content": []
+    },
+    {
+        "label": "8",
+        "page_number": 4,
+        "bbox": [
+            68,
+            682,
+            81,
+            695
+        ],
+        "level": 70,
+        "parts": [],
+        "content": []
+    },
+    {
+        "label": "9",
+        "page_number": 4,
+        "bbox": [
+            68,
+            727,
+            81,
+            741
+        ],
+        "level": 70,
+        "parts": [],
+        "content": []
+    },
+    {
+        "label": "10",
+        "page_number": 4,
+        "bbox": [
+            68,
+            773,
+            81,
+            786
+        ],
+        "level": 70,
+        "parts": [
+            {
+                "label": "(b)",
+                "page_number": 5,
+                "bbox": [
+                    70,
+                    62,
+                    81,
+                    75
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the mean of \\(X\\).",
+                        "bbox": [
+                            92,
+                            62,
+                            186,
+                            75
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            530,
+                            62,
+                            546,
+                            75
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(c)",
+                "page_number": 5,
+                "bbox": [
+                    68,
+                    242,
+                    81,
+                    255
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the median of \\(X\\).",
+                        "bbox": [
+                            92,
+                            242,
+                            195,
+                            255
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            530,
+                            242,
+                            546,
+                            255
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(d)",
+                "page_number": 5,
+                "bbox": [
+                    71,
+                    422,
+                    81,
+                    436
+                ],
+                "level": 70,
+                "parts": [
+                    {
+                        "label": "H",
+                        "page_number": 5,
+                        "bbox": [
+                            68,
+                            527,
+                            81,
+                            540
+                        ],
+                        "level": 70,
+                        "parts": [],
+                        "content": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Y\\) is defined by \\(Y=X^{2}\\).",
+                        "bbox": [
+                            68,
+                            397,
+                            281,
+                            410
+                        ],
+                        "page_number": 5,
+                        "is_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the cumulative distribution function for \\(Y\\).",
+                        "bbox": [
+                            92,
+                            422,
+                            313,
+                            436
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            530,
+                            422,
+                            546,
+                            436
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    169,
+                    796,
+                    186,
+                    810
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 4
+                }
+            },
+            {
+                "type": "text",
+                "text": "9231/41/M/J/25",
+                "bbox": [
+                    270,
+                    796,
+                    325,
+                    810
+                ],
+                "page_number": 4,
+                "is_pre": false
+            }
+        ]
+    }
+]

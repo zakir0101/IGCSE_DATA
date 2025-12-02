@@ -7,7 +7,7 @@
                 "bbox": [
                     47.49637155297533,
                     62.48768809849521,
-                    132.4141267537494,
+                    546.6400580551524,
                     89.84404924760602
                 ],
                 "page_number": 2,
@@ -75,7 +75,7 @@
                         "bbox": [
                             93.55345911949686,
                             369.7428180574555,
-                            147.3826802128689,
+                            546.6400580551524,
                             397.3871409028728
                         ],
                         "page_number": 2,
@@ -86,7 +86,7 @@
                         "bbox": [
                             93.55345911949686,
                             408.61764705882354,
-                            263.96468311562654,
+                            546.6400580551524,
                             436.8378932968536
                         ],
                         "page_number": 2,
@@ -161,6 +161,7 @@
                         ],
                         "page_number": 3,
                         "table": {
+                            "latex": "\\begin{tabular}{|c|r|}\n\\hline \\(\\mathrm{m} / \\mathrm{g}\\) & \\(l / \\mathrm{cm}\\) \\\\\n\\hline 100 & 6.0 \\\\\n\\hline 200 & 9.2 \\\\\n\\hline 300 & 13.6 \\\\\n\\hline 400 & 16.8 \\\\\n\\hline 500 & 21.0 \\\\\n\\hline\n\\end{tabular}",
                             "html": "<table><tr><td >\\(\\mathrm{m} / \\mathrm{g}\\)</td><td >\\(l / \\mathrm{cm}\\)</td></tr><tr><td >100</td><td >6.0</td></tr><tr><td >200</td><td >9.2</td></tr><tr><td >300</td><td >13.6</td></tr><tr><td >400</td><td >16.8</td></tr><tr><td >500</td><td >21.0</td></tr></table>",
                             "caption": ""
                         }
@@ -244,14 +245,9 @@
                         ],
                         "page_number": 3,
                         "blockMath": "\\[\nl_{0}=\n\\]"
-                    }
-                ]
-            },
-            {
-                "label": "(d)",
-                "content": [
+                    },
                     {
-                        "type": "pre_text",
+                        "type": "form_text",
                         "bbox": [
                             277.781809385583,
                             539.3522571819425,
@@ -259,7 +255,12 @@
                             552.0225718194255
                         ],
                         "page_number": 4
-                    },
+                    }
+                ]
+            },
+            {
+                "label": "(d)",
+                "content": [
                     {
                         "type": "text",
                         "bbox": [
@@ -319,21 +320,10 @@
                                     91.8263183357523,
                                     641.2906976744185,
                                     516.4150943396227,
-                                    657.1285909712722
-                                ],
-                                "page_number": 4,
-                                "text": "(ii) Use the graph and your reading from (d)(i), to determine the mass \\(m_{\\mathrm{X}}\\) of object \\(\\mathbf{X}\\)."
-                            },
-                            {
-                                "type": "text",
-                                "bbox": [
-                                    116.58200290275764,
-                                    655.9767441860465,
-                                    400.4088050314466,
                                     668.6470588235294
                                 ],
                                 "page_number": 4,
-                                "text": "Show clearly on the graph how you obtained your answer."
+                                "text": "(ii) Use the graph and your reading from (d)(i), to determine the mass \\(m_{\\mathrm{X}}\\) of object \\(\\mathbf{X}\\). Show clearly on the graph how you obtained your answer."
                             },
                             {
                                 "type": "blockMath",
@@ -369,28 +359,17 @@
                             70.52491533623609,
                             62.48768809849521,
                             533.6865021770683,
-                            76.59781121751026
-                        ],
-                        "page_number": 5,
-                        "text": "(e) Two students measure the mass of another object using the same method and apparatus."
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            93.55345911949686,
-                            75.44596443228454,
-                            522.1722302854379,
                             89.84404924760602
                         ],
                         "page_number": 5,
-                        "text": "One student records the mass as 132.6 g . The other student records the mass as 130 g ."
+                        "text": "(e) Two students measure the mass of another object using the same method and apparatus. One student records the mass as 132.6 g . The other student records the mass as 130 g ."
                     },
                     {
                         "type": "text",
                         "bbox": [
                             93.55345911949686,
                             101.93844049247606,
-                            173.57764876632802,
+                            546.6400580551524,
                             127.56703146374828
                         ],
                         "page_number": 5,
@@ -493,7 +472,7 @@
                         "bbox": [
                             70.52491533623609,
                             60.75991792065663,
-                            143.9283986453798,
+                            547.5036284470248,
                             88.11627906976744
                         ],
                         "page_number": 7,
@@ -563,6 +542,7 @@
                         ],
                         "page_number": 7,
                         "table": {
+                            "latex": "\\begin{tabular}{|l|l|l|}\n\\hline & beaker A with insulation & beaker B without insulation \\\\\n\\hline \\(t / \\mathrm{s}\\) & \\(\\theta /{ }^{\\circ} \\mathrm{C}\\) & \\(\\theta /{ }^{\\circ} \\mathrm{C}\\) \\\\\n\\hline 0 & 92.5 & 93.0 \\\\\n\\hline 30 & 90.5 & 90.5 \\\\\n\\hline 60 & 89.0 & 88.5 \\\\\n\\hline 90 & 87.5 & 87.0 \\\\\n\\hline 120 & 86.0 & 85.5 \\\\\n\\hline 150 & 85.0 & 84.0 \\\\\n\\hline 180 & 85.5 & 83.0 \\\\\n\\hline\n\\end{tabular}",
                             "html": "<table><tr><td ></td><td >beaker A with insulation</td><td >beaker B without insulation</td></tr><tr><td >\\(t / \\mathrm{s}\\)</td><td >\\(\\theta /{ }^{\\circ} \\mathrm{C}\\)</td><td >\\(\\theta /{ }^{\\circ} \\mathrm{C}\\)</td></tr><tr><td >0</td><td >92.5</td><td >93.0</td></tr><tr><td >30</td><td >90.5</td><td >90.5</td></tr><tr><td >60</td><td >89.0</td><td >88.5</td></tr><tr><td >90</td><td >87.5</td><td >87.0</td></tr><tr><td >120</td><td >86.0</td><td >85.5</td></tr><tr><td >150</td><td >85.0</td><td >84.0</td></tr><tr><td >180</td><td >85.5</td><td >83.0</td></tr></table>",
                             "caption": ""
                         }
@@ -676,7 +656,7 @@
                         "bbox": [
                             70.52491533623609,
                             514.5875512995896,
-                            377.38026124818583,
+                            546.6400580551524,
                             541.9439124487004
                         ],
                         "page_number": 7,
@@ -696,7 +676,7 @@
                                 "bbox": [
                                     70.52491533623609,
                                     62.48768809849521,
-                                    487.62941461054675,
+                                    546.6400580551524,
                                     89.84404924760602
                                 ],
                                 "page_number": 8,
@@ -718,7 +698,7 @@
                                 "bbox": [
                                     116.58200290275764,
                                     134.76607387140902,
-                                    201.49975810353172,
+                                    546.6400580551524,
                                     160.39466484268127
                                 ],
                                 "page_number": 8,
@@ -766,7 +746,7 @@
                                 "bbox": [
                                     91.8263183357523,
                                     251.390560875513,
-                                    517.2786647314949,
+                                    546.6400580551524,
                                     279.0348837209302
                                 ],
                                 "page_number": 8,
@@ -788,7 +768,7 @@
                                 "bbox": [
                                     115.71843251088535,
                                     323.9569083447332,
-                                    221.36187711659412,
+                                    548.367198838897,
                                     349.58549931600544
                                 ],
                                 "page_number": 8,
@@ -838,7 +818,7 @@
                         "bbox": [
                             70.52491533623609,
                             440.5813953488372,
-                            423.4373488147073,
+                            546.6400580551524,
                             467.937756497948
                         ],
                         "page_number": 8,
@@ -869,7 +849,7 @@
                                 "bbox": [
                                     70.52491533623609,
                                     62.48768809849521,
-                                    217.907595549105,
+                                    546.6400580551524,
                                     88.11627906976744
                                 ],
                                 "page_number": 9,
@@ -896,7 +876,7 @@
                                 "bbox": [
                                     90.3870343492985,
                                     179.11217510259917,
-                                    187.68263183357524,
+                                    548.367198838897,
                                     205.02872777017782
                                 ],
                                 "page_number": 9,
@@ -973,7 +953,7 @@
                         "bbox": [
                             70.52491533623609,
                             692.2599179206566,
-                            193.43976777939045,
+                            546.6400580551524,
                             719.6162790697674
                         ],
                         "page_number": 10,
@@ -989,7 +969,7 @@
                                 "bbox": [
                                     95.28059990324142,
                                     731.7106703146375,
-                                    173.57764876632802,
+                                    546.6400580551524,
                                     755.8994528043776
                                 ],
                                 "page_number": 10,
@@ -1181,7 +1161,7 @@
                         "bbox": [
                             93.55345911949686,
                             361.6798905608755,
-                            237.76971456216742,
+                            546.6400580551524,
                             389.0362517099863
                         ],
                         "page_number": 11,
@@ -1203,7 +1183,7 @@
                         "bbox": [
                             93.55345911949686,
                             425.89534883720927,
-                            175.3047895500726,
+                            546.6400580551524,
                             451.5239398084815
                         ],
                         "page_number": 11,
@@ -1225,7 +1205,7 @@
                         "bbox": [
                             93.55345911949686,
                             478.30437756497946,
-                            173.57764876632802,
+                            546.6400580551524,
                             504.22093023255815
                         ],
                         "page_number": 11,
@@ -1305,7 +1285,7 @@
                                 "bbox": [
                                     116.58200290275764,
                                     672.390560875513,
-                                    237.76971456216742,
+                                    546.6400580551524,
                                     700.0348837209302
                                 ],
                                 "page_number": 11,
@@ -1383,7 +1363,7 @@
                         "bbox": [
                             70.52491533623609,
                             203.01299589603283,
-                            175.3047895500726,
+                            546.6400580551524,
                             232.9610123119015
                         ],
                         "page_number": 12,
@@ -1423,33 +1403,11 @@
                 "bbox": [
                     70.52491533623609,
                     88.6922024623803,
-                    127.5205611998065,
-                    114.32079343365253
-                ],
-                "page_number": 13,
-                "text": "Plan an experiment which enables him to investigate how the length of a wire affects the resistance of the wire."
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    70.52491533623609,
-                    119.79206566347469,
-                    328.1567489114659,
-                    145.70861833105334
-                ],
-                "page_number": 13,
-                "text": "Resistance \\(R\\) is calculated from the equation: \\(R=\\frac{V}{I}\\)"
-            },
-            {
-                "type": "text",
-                "bbox": [
-                    70.52491533623609,
-                    152.90766073871407,
-                    496.5529753265603,
+                    546.6400580551524,
                     167.88166894664843
                 ],
                 "page_number": 13,
-                "text": "where \\(V\\) is the potential difference (p.d.) across the wire and \\(I\\) is the current in the wire."
+                "text": "Plan an experiment which enables him to investigate how the length of a wire affects the resistance of the wire. Resistance \\(R\\) is calculated from the equation: \\(R=\\frac{V}{I}\\) where \\(V\\) is the potential difference (p.d.) across the wire and \\(I\\) is the current in the wire."
             },
             {
                 "type": "text",
@@ -1533,7 +1491,7 @@
                 "bbox": [
                     70.52491533623609,
                     322.22913816689464,
-                    135.86840832123852,
+                    546.6400580551524,
                     347.85772913816686
                 ],
                 "page_number": 13,
@@ -1544,7 +1502,7 @@
                 "bbox": [
                     70.52491533623609,
                     361.6798905608755,
-                    240.93613933236577,
+                    546.6400580551524,
                     387.3084815321477
                 ],
                 "page_number": 13,
@@ -1566,7 +1524,7 @@
                 "bbox": [
                     70.52491533623609,
                     425.89534883720927,
-                    324.1267537493953,
+                    546.6400580551524,
                     454.97948016415864
                 ],
                 "page_number": 13,

@@ -1,0 +1,1308 @@
+[
+    {
+        "label": "1",
+        "page_number": 3,
+        "bbox": [
+            48,
+            69,
+            58,
+            83
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 3,
+                "bbox": [
+                    78,
+                    117,
+                    93,
+                    131
+                ],
+                "level": 80,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(i) Find \\(\\sum_{r=n+1}^{2 n} u_{r}\\)",
+                        "bbox": [
+                            95,
+                            106,
+                            160,
+                            141
+                        ],
+                        "page_number": 3,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    75,
+                    441,
+                    95,
+                    455
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(ii) Find \\(u_{r}\\)",
+                        "bbox": [
+                            97,
+                            441,
+                            136,
+                            457
+                        ],
+                        "page_number": 3,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "1 It is given that \\(\\sum_{r=1}^{n} u_{r}=n^{2}(2 n+3)\\), where \\(n\\) is a positive integer",
+                "bbox": [
+                    64,
+                    62,
+                    372,
+                    94
+                ],
+                "page_number": 3,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "page_number": 4,
+        "bbox": [
+            48,
+            63,
+            58,
+            77
+        ],
+        "level": 50,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "2 Prove, by mathematical induction, that \\(5^{n}+3\\) is divisible by 4 for all non-negative integers \\(n\\)",
+                "bbox": [
+                    64,
+                    64,
+                    511,
+                    79
+                ],
+                "page_number": 4,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "page_number": 5,
+        "bbox": [
+            48,
+            63,
+            58,
+            77
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 5,
+                "bbox": [
+                    78,
+                    90,
+                    93,
+                    104
+                ],
+                "level": 80,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(i) Use implicit differentiation to show that",
+                        "bbox": [
+                            95,
+                            90,
+                            284,
+                            105
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\frac{\\mathrm{d}^{2} y}{\\mathrm{~d} x^{2}}=-2 x\\left(\\frac{\\mathrm{~d} y}{\\mathrm{~d} x}\\right)^{2}\n\\]",
+                        "bbox": [
+                            251,
+                            108,
+                            344,
+                            143
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 5,
+                "bbox": [
+                    75,
+                    535,
+                    95,
+                    549
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(ii) Hence find the value of \\(\\frac{\\mathrm{d}^{2} y}{\\mathrm{~d} x^{2}}\\) at the point \\(\\left(1, \\frac{1}{4} \\pi\\right)\\) on \\(C\\)",
+                        "bbox": [
+                            97,
+                            524,
+                            351,
+                            555
+                        ],
+                        "page_number": 5,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "3 A curve \\(C\\) has equation \\(\\tan y=x\\), for \\(x>0\\)",
+                "bbox": [
+                    64,
+                    64,
+                    278,
+                    80
+                ],
+                "page_number": 5,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            48,
+            63,
+            58,
+            77
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 6,
+                "bbox": [
+                    78,
+                    65,
+                    93,
+                    79
+                ],
+                "level": 80,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "4 (i) Find the value of \\(k\\) for which the set of linear equations",
+                        "bbox": [
+                            95,
+                            66,
+                            356,
+                            78
+                        ],
+                        "page_number": 6,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\begin{aligned}\nx+3 y+k z & =4 \\\\\n4 x-2 y-10 z & =-5 \\\\\nx+y+2 z & =1\n\\end{aligned}\n\\]",
+                        "bbox": [
+                            247,
+                            83,
+                            345,
+                            134
+                        ],
+                        "page_number": 6,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "has no unique solution",
+                        "bbox": [
+                            95,
+                            139,
+                            207,
+                            153
+                        ],
+                        "page_number": 6,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 7,
+                "bbox": [
+                    75,
+                    65,
+                    95,
+                    79
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(ii) For this value of \\(k\\), find the set of possible solutions, giving your answer in the form",
+                        "bbox": [
+                            97,
+                            64,
+                            491,
+                            80
+                        ],
+                        "page_number": 7,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\left(\\begin{array}{c}\nx \\\\\ny \\\\\nz\n\\end{array}\\right)=\\mathbf{a}+t \\mathbf{b}\n\\]",
+                        "bbox": [
+                            260,
+                            82,
+                            334,
+                            126
+                        ],
+                        "page_number": 7,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "where \\(\\mathbf{a}\\) and \\(\\mathbf{b}\\) are vectors and \\(t\\) is a scalar",
+                        "bbox": [
+                            95,
+                            130,
+                            298,
+                            146
+                        ],
+                        "page_number": 7,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": []
+    },
+    {
+        "label": "5",
+        "page_number": 8,
+        "bbox": [
+            48,
+            63,
+            58,
+            77
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 8,
+                "bbox": [
+                    78,
+                    154,
+                    93,
+                    168
+                ],
+                "level": 80,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(i) Find a set of corresponding eigenvectors",
+                        "bbox": [
+                            95,
+                            154,
+                            290,
+                            167
+                        ],
+                        "page_number": 8,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 9,
+                "bbox": [
+                    75,
+                    284,
+                    95,
+                    298
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(ii) The matrix \\(\\mathbf{B}\\) is given by \\(\\mathbf{B}=\\mathbf{A}-2 \\mathbf{I}\\), where \\(\\mathbf{I}\\) is the \\(3 \\times 3\\) identity matrix. Write down the eigenvalues of \\(\\mathbf{B}\\), and state a set of corresponding eigenvectors",
+                        "bbox": [
+                            97,
+                            284,
+                            395,
+                            312
+                        ],
+                        "page_number": 9,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "5 The matrix \\(\\mathbf{A}\\), given by",
+                "bbox": [
+                    64,
+                    66,
+                    183,
+                    78
+                ],
+                "page_number": 8,
+                "is_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\mathbf{A}=\\left(\\begin{array}{lll}\n1 & 2 & -2 \\\\\n6 & 4 & -6 \\\\\n6 & 5 & -7\n\\end{array}\\right),\n\\]",
+                "bbox": [
+                    250,
+                    80,
+                    345,
+                    122
+                ],
+                "page_number": 8,
+                "is_pre": false
+            },
+            {
+                "type": "text",
+                "text": "has eigenvalues \\(1,-1\\) and -2",
+                "bbox": [
+                    70,
+                    128,
+                    213,
+                    141
+                ],
+                "page_number": 8,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "page_number": 10,
+        "bbox": [
+            48,
+            71,
+            58,
+            85
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 10,
+                "bbox": [
+                    78,
+                    104,
+                    93,
+                    118
+                ],
+                "level": 80,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(i) Prove that, for \\(n \\geqslant 2\\),",
+                        "bbox": [
+                            95,
+                            104,
+                            195,
+                            116
+                        ],
+                        "page_number": 10,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\nI_{n}+n(n-1) I_{n-2}=n\\left(\\frac{1}{2} \\pi\\right)^{n-1}\n\\]",
+                        "bbox": [
+                            227,
+                            118,
+                            367,
+                            139
+                        ],
+                        "page_number": 10,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 11,
+                "bbox": [
+                    75,
+                    65,
+                    95,
+                    79
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(ii) Calculate the exact value of \\(I_{1}\\) and deduce the exact value of \\(I_{3}\\)",
+                        "bbox": [
+                            97,
+                            64,
+                            395,
+                            81
+                        ],
+                        "page_number": 11,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "6 Let \\(I_{n}=\\int_{0}^{\\frac{1}{2} \\pi} x^{n} \\sin x \\mathrm{~d} x\\)",
+                "bbox": [
+                    64,
+                    62,
+                    183,
+                    94
+                ],
+                "page_number": 10,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "page_number": 12,
+        "bbox": [
+            48,
+            63,
+            58,
+            77
+        ],
+        "level": 50,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "7 By finding a cubic equation whose roots are \\(\\alpha, \\beta\\) and \\(\\gamma\\), solve the set of simultaneous equations",
+                "bbox": [
+                    64,
+                    65,
+                    519,
+                    80
+                ],
+                "page_number": 12,
+                "is_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\n\\begin{aligned}\n\\alpha+\\beta+\\gamma & =-1 \\\\\n\\alpha^{2}+\\beta^{2}+\\gamma^{2} & =29 \\\\\n\\frac{1}{\\alpha}+\\frac{1}{\\beta}+\\frac{1}{\\gamma} & =-1\n\\end{aligned}\n\\]",
+                "bbox": [
+                    251,
+                    83,
+                    344,
+                    149
+                ],
+                "page_number": 12,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "8",
+        "page_number": 14,
+        "bbox": [
+            48,
+            67,
+            58,
+            81
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 14,
+                "bbox": [
+                    78,
+                    69,
+                    93,
+                    83
+                ],
+                "level": 80,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "8 (i) Let \\(z=\\cos \\theta+\\mathrm{i} \\sin \\theta\\). Show that \\(z-\\frac{1}{z}=2 \\mathrm{i} \\sin \\theta\\) and hence express \\(16 \\sin ^{5} \\theta\\) in the form \\(\\sin 5 \\theta+p \\sin 3 \\theta+q \\sin \\theta\\), where \\(p\\) and \\(q\\) are integers to be determined",
+                        "bbox": [
+                            95,
+                            62,
+                            429,
+                            99
+                        ],
+                        "page_number": 14,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 15,
+                "bbox": [
+                    75,
+                    73,
+                    95,
+                    87
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(ii) Hence find the exact value of \\(\\int_{0}^{\\frac{1}{3} \\pi} 16 \\sin ^{5} \\theta \\mathrm{~d} \\theta\\)",
+                        "bbox": [
+                            97,
+                            61,
+                            313,
+                            94
+                        ],
+                        "page_number": 15,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": []
+    },
+    {
+        "label": "9",
+        "page_number": 16,
+        "bbox": [
+            48,
+            69,
+            58,
+            83
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 16,
+                "bbox": [
+                    78,
+                    101,
+                    93,
+                    115
+                ],
+                "level": 80,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(i) Find the equations of the asymptotes of \\(C\\)",
+                        "bbox": [
+                            95,
+                            100,
+                            297,
+                            115
+                        ],
+                        "page_number": 16,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 16,
+                "bbox": [
+                    75,
+                    359,
+                    95,
+                    373
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(ii) Find the coordinates of the turning points of \\(C\\)",
+                        "bbox": [
+                            97,
+                            358,
+                            319,
+                            373
+                        ],
+                        "page_number": 16,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(iii)",
+                "page_number": 17,
+                "bbox": [
+                    72,
+                    65,
+                    97,
+                    79
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(iii) Find the coordinates of any intersections with the coordinate axes",
+                        "bbox": [
+                            99,
+                            64,
+                            409,
+                            80
+                        ],
+                        "page_number": 17,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(iv)",
+                "page_number": 17,
+                "bbox": [
+                    72,
+                    351,
+                    92,
+                    365
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(iv) Sketch \\(C\\)",
+                        "bbox": [
+                            94,
+                            348,
+                            146,
+                            364
+                        ],
+                        "page_number": 17,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "9 The curve \\(C\\) has equation \\(y=\\frac{x^{2}-3 x+6}{1-x}\\)",
+                "bbox": [
+                    64,
+                    61,
+                    272,
+                    90
+                ],
+                "page_number": 16,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "10",
+        "page_number": 18,
+        "bbox": [
+            48,
+            65,
+            68,
+            79
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 18,
+                "bbox": [
+                    78,
+                    101,
+                    93,
+                    115
+                ],
+                "level": 80,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(i) Show that \\(\\frac{\\mathrm{d} y}{\\mathrm{~d} x}=2 t^{\\frac{1}{2}} \\frac{\\mathrm{~d} y}{\\mathrm{~d} t}\\) and \\(\\frac{\\mathrm{d}^{2} y}{\\mathrm{~d} x^{2}}=2 \\frac{\\mathrm{~d} y}{\\mathrm{~d} t}+4 t \\frac{\\mathrm{~d}^{2} y}{\\mathrm{~d} t^{2}}\\)",
+                        "bbox": [
+                            95,
+                            92,
+                            322,
+                            123
+                        ],
+                        "page_number": 18,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 18,
+                "bbox": [
+                    75,
+                    449,
+                    95,
+                    463
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(ii) Hence show that the differential equation",
+                        "bbox": [
+                            97,
+                            449,
+                            291,
+                            461
+                        ],
+                        "page_number": 18,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\frac{\\mathrm{d}^{2} y}{\\mathrm{~d} x^{2}}-\\left(8 x+\\frac{1}{x}\\right) \\frac{\\mathrm{d} y}{\\mathrm{~d} x}+12 x^{2} y=4 x^{2} \\mathrm{e}^{-x^{2}}\n\\]",
+                        "bbox": [
+                            208,
+                            469,
+                            387,
+                            499
+                        ],
+                        "page_number": 18,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "",
+                        "bbox": [
+                            443,
+                            478,
+                            458,
+                            494
+                        ],
+                        "page_number": 18,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "reduces to the differential equation",
+                        "bbox": [
+                            95,
+                            507,
+                            261,
+                            519
+                        ],
+                        "page_number": 18,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\frac{\\mathrm{d}^{2} y}{\\mathrm{~d} t^{2}}-4 \\frac{\\mathrm{~d} y}{\\mathrm{~d} t}+3 y=\\mathrm{e}^{-t} .\n\\]",
+                        "bbox": [
+                            245,
+                            527,
+                            350,
+                            557
+                        ],
+                        "page_number": 18,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            536,
+                            548,
+                            550
+                        ],
+                        "page_number": 18,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(iii)",
+                "page_number": 19,
+                "bbox": [
+                    72,
+                    65,
+                    97,
+                    79
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(iii) Find the general solution of (*), giving \\(y\\) in terms of \\(x\\)",
+                        "bbox": [
+                            99,
+                            64,
+                            353,
+                            80
+                        ],
+                        "page_number": 19,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "10 It is given that \\(x=t^{\\frac{1}{2}}\\), where \\(x>0\\) and \\(t>0\\), and \\(y\\) is a function of \\(x\\)",
+                "bbox": [
+                    74,
+                    60,
+                    394,
+                    82
+                ],
+                "page_number": 18,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "11",
+        "page_number": 20,
+        "bbox": [
+            48,
+            63,
+            68,
+            77
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 20,
+                "bbox": [
+                    78,
+                    91,
+                    93,
+                    105
+                ],
+                "level": 80,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(i) Sketch \\(C\\)",
+                        "bbox": [
+                            95,
+                            90,
+                            144,
+                            105
+                        ],
+                        "page_number": 20,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 20,
+                "bbox": [
+                    75,
+                    331,
+                    95,
+                    345
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(ii) Find the area of the region enclosed by \\(C\\)",
+                        "bbox": [
+                            97,
+                            330,
+                            295,
+                            345
+                        ],
+                        "page_number": 20,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(iii)",
+                "page_number": 21,
+                "bbox": [
+                    72,
+                    65,
+                    97,
+                    79
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(iii) Show that the length of the arc of \\(C\\) from the pole to the point furthest from the pole is given by",
+                        "bbox": [
+                            99,
+                            64,
+                            547,
+                            80
+                        ],
+                        "page_number": 21,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\ns=(\\sqrt{ } 2) a \\int_{-\\frac{1}{2} \\pi}^{\\frac{1}{2} \\pi} \\sqrt{ }(1+\\sin \\theta) \\mathrm{d} \\theta\n\\]",
+                        "bbox": [
+                            221,
+                            82,
+                            373,
+                            131
+                        ],
+                        "page_number": 21,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(iv)",
+                "page_number": 22,
+                "bbox": [
+                    72,
+                    75,
+                    92,
+                    89
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "(iv) Show that the substitution \\(u=1+\\sin \\theta\\) reduces this integral for \\(s\\) to \\((\\sqrt{ } 2) a \\int_{0}^{2} \\frac{1}{\\sqrt{ }(2-u)} \\mathrm{d} u\\). Hence evaluate \\(s\\)",
+                        "bbox": [
+                            94,
+                            62,
+                            146,
+                            110
+                        ],
+                        "page_number": 22,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "11 The curve \\(C\\) has polar equation \\(r=a(1+\\sin \\theta)\\) for \\(-\\pi<\\theta \\leqslant \\pi\\), where \\(a\\) is a positive constant",
+                "bbox": [
+                    74,
+                    64,
+                    515,
+                    80
+                ],
+                "page_number": 20,
+                "is_pre": false
+            }
+        ]
+    },
+    {
+        "label": "12",
+        "page_number": 23,
+        "bbox": [
+            48,
+            63,
+            68,
+            77
+        ],
+        "level": 50,
+        "parts": [
+            {
+                "label": "EITHER",
+                "page_number": 23,
+                "bbox": [
+                    72,
+                    87,
+                    102,
+                    101
+                ],
+                "level": 70,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 23,
+                        "bbox": [
+                            78,
+                            143,
+                            93,
+                            157
+                        ],
+                        "level": 80,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) The region \\(R\\) is bounded by \\(C\\), the \\(x\\)-axis, the \\(y\\)-axis and the line \\(x=4\\). Find, in terms of e , the coordinates of the centroid of the region \\(R\\)",
+                                "bbox": [
+                                    95,
+                                    142,
+                                    298,
+                                    169
+                                ],
+                                "page_number": 23,
+                                "is_pre": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 25,
+                        "bbox": [
+                            75,
+                            69,
+                            95,
+                            83
+                        ],
+                        "level": 75,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Show that \\(\\frac{\\mathrm{d} s}{\\mathrm{~d} x}=\\frac{1}{2}\\left(\\mathrm{e}^{x}+\\mathrm{e}^{-x}\\right)\\), where \\(s\\) denotes the arc length of \\(C\\), and find the surface area generated when \\(C\\) is rotated through \\(2 \\pi\\) radians about the \\(x\\)-axis",
+                                "bbox": [
+                                    97,
+                                    62,
+                                    403,
+                                    102
+                                ],
+                                "page_number": 25,
+                                "is_pre": false
+                            }
+                        ]
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "EITHER",
+                        "bbox": [
+                            104,
+                            90,
+                            121,
+                            101
+                        ],
+                        "page_number": 23,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The curve \\(C\\) has equation \\(y=\\frac{1}{2}\\left(\\mathrm{e}^{x}+\\mathrm{e}^{-x}\\right)\\) for \\(0 \\leqslant x \\leqslant 4\\)",
+                        "bbox": [
+                            70,
+                            114,
+                            333,
+                            132
+                        ],
+                        "page_number": 23,
+                        "is_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "OR",
+                "page_number": 26,
+                "bbox": [
+                    72,
+                    60,
+                    82,
+                    74
+                ],
+                "level": 70,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 26,
+                        "bbox": [
+                            78,
+                            174,
+                            93,
+                            188
+                        ],
+                        "level": 80,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(i) Show that the possible values of \\(\\alpha\\) are 3 and 5",
+                                "bbox": [
+                                    95,
+                                    174,
+                                    315,
+                                    187
+                                ],
+                                "page_number": 26,
+                                "is_pre": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 27,
+                        "bbox": [
+                            75,
+                            284,
+                            95,
+                            298
+                        ],
+                        "level": 75,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(ii) Using \\(\\alpha=3\\), find the shortest distance of the point \\(D\\) from the line \\(A C\\), giving your answer correct to 3 significant figures",
+                                "bbox": [
+                                    97,
+                                    283,
+                                    205,
+                                    310
+                                ],
+                                "page_number": 27,
+                                "is_pre": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(iii)",
+                        "page_number": 28,
+                        "bbox": [
+                            72,
+                            65,
+                            97,
+                            79
+                        ],
+                        "level": 70,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "(iii) Using \\(\\alpha=3\\), find the acute angle between the planes \\(A B C\\) and \\(A B D\\), giving your answer in degrees",
+                                "bbox": [
+                                    99,
+                                    64,
+                                    138,
+                                    93
+                                ],
+                                "page_number": 28,
+                                "is_pre": false
+                            }
+                        ]
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "OR",
+                        "bbox": [
+                            84,
+                            66,
+                            92,
+                            78
+                        ],
+                        "page_number": 26,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The position vectors of the points \\(A, B, C, D\\) are",
+                        "bbox": [
+                            70,
+                            90,
+                            301,
+                            105
+                        ],
+                        "page_number": 26,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\n\\mathbf{i}+\\mathbf{j}+3 \\mathbf{k}, \\quad 3 \\mathbf{i}-\\mathbf{j}+5 \\mathbf{k}, \\quad 3 \\mathbf{i}-\\mathbf{j}+\\mathbf{k}, \\quad 5 \\mathbf{i}-5 \\mathbf{j}+\\alpha \\mathbf{k},\n\\]",
+                        "bbox": [
+                            173,
+                            112,
+                            422,
+                            127
+                        ],
+                        "page_number": 26,
+                        "is_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "respectively, where \\(\\alpha\\) is a positive integer. It is given that the shortest distance between the line \\(A B\\) and the line \\(C D\\) is equal to \\(2 \\sqrt{ } 2\\)",
+                        "bbox": [
+                            70,
+                            135,
+                            225,
+                            161
+                        ],
+                        "page_number": 26,
+                        "is_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "12 Answer only one of the following two alternatives",
+                "bbox": [
+                    74,
+                    66,
+                    312,
+                    78
+                ],
+                "page_number": 23,
+                "is_pre": false
+            }
+        ]
+    }
+]

@@ -23,6 +23,7 @@
                 ],
                 "page_number": 3,
                 "table": {
+                    "latex": "\\begin{tabular}{|llllllll|}\n\\hline 2 & 6 & 16 & 18 & 24 & 26 & 27 & 33 \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td >2</td><td >6</td><td >16</td><td >18</td><td >24</td><td >26</td><td >27</td><td >33</td></tr></table>",
                     "caption": ""
                 }
@@ -1021,6 +1022,7 @@
                 ],
                 "page_number": 10,
                 "table": {
+                    "latex": "\\begin{tabular}{|l|l|l|}\n\\hline Type of bike & Cost for first day & Cost for each extra day \\\\\n\\hline Road & \\$25 & \\$20 \\\\\n\\hline Mountain & \\$40 & \\$35 \\\\\n\\hline Electric & \\$70 & \\$50 \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td >Type of bike</td><td >Cost for first day</td><td >Cost for each extra day</td></tr><tr><td >Road</td><td >\\$25</td><td >\\$20</td></tr><tr><td >Mountain</td><td >\\$40</td><td >\\$35</td></tr><tr><td >Electric</td><td >\\$70</td><td >\\$50</td></tr></table>",
                     "caption": ""
                 }
@@ -1041,7 +1043,7 @@
                 "bbox": [
                     110.53701015965169,
                     113.74487004103966,
-                    137.5955491049831,
+                    434.95162070633774,
                     130.44664842681257
                 ],
                 "page_number": 10,
@@ -1150,7 +1152,7 @@
                                 "bbox": [
                                     90.3870343492985,
                                     465.3461012311901,
-                                    166.95694242864056,
+                                    546.6400580551524,
                                     492.7024623803009
                                 ],
                                 "page_number": 10,
@@ -1347,22 +1349,11 @@
                         "bbox": [
                             70.52491533623609,
                             477.7284541723666,
-                            145.65553942912436,
-                            518.9069767441861
-                        ],
-                        "page_number": 12,
-                        "text": "(a) Sue describes the single transformation that maps shape \\(A\\) onto shape \\(B\\) as a translation by the vector \\(\\binom{7}{1}\\)."
-                    },
-                    {
-                        "type": "text",
-                        "bbox": [
-                            93.55345911949686,
-                            519.4829001367989,
-                            231.14900822447996,
+                            546.6400580551524,
                             533.8809849521203
                         ],
                         "page_number": 12,
-                        "text": "Explain why Sue is incorrect."
+                        "text": "(a) Sue describes the single transformation that maps shape \\(A\\) onto shape \\(B\\) as a translation by the vector \\(\\binom{7}{1}\\). Explain why Sue is incorrect."
                     }
                 ]
             },
@@ -1550,6 +1541,7 @@
                         ],
                         "page_number": 14,
                         "table": {
+                            "latex": "\\begin{tabular}{|c||c|c|c|c|c|}\n\\hline\\(x\\) & 1 & 2 & 3 & 4 & 5 \\\\\n\\hline\\(y\\) & 20 & 10 & & & 4 \\\\\n\\hline\n\\end{tabular}",
                             "html": "<table><tr><td >\\(x\\)</td><td >1</td><td >2</td><td >3</td><td >4</td><td >5</td></tr><tr><td >\\(y\\)</td><td >20</td><td >10</td><td ></td><td ></td><td >4</td></tr></table>",
                             "caption": ""
                         }
@@ -1667,6 +1659,7 @@
                 ],
                 "page_number": 15,
                 "table": {
+                    "latex": "\\begin{tabular}{|l||c|c|c|c|c|}\n\\hline Number & 1 & 2 & 3 & 4 & 5 \\\\\n\\hline Relative frequency & 0.15 & 0.22 & & 0.26 & 0.25 \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td >Number</td><td >1</td><td >2</td><td >3</td><td >4</td><td >5</td></tr><tr><td >Relative frequency</td><td >0.15</td><td >0.22</td><td ></td><td >0.26</td><td >0.25</td></tr></table>",
                     "caption": ""
                 }
@@ -1757,6 +1750,7 @@
                         ],
                         "page_number": 16,
                         "table": {
+                            "latex": "\\begin{tabular}{ccccc}\n\\(A\\) & \\(B\\) & \\(C\\) & \\(D\\) & \\(E\\) \\\\\n35800 & \\(7.8 \\times 10^{2}\\) & \\(1.5 \\times 10^{6}\\) & 535 & \\(2 \\times 10^{4}\\)\n\\end{tabular}",
                             "html": "<table><tr><td >\\(A\\)</td><td >\\(B\\)</td><td >\\(C\\)</td><td >\\(D\\)</td><td >\\(E\\)</td></tr><tr><td >35800</td><td >\\(7.8 \\times 10^{2}\\)</td><td >\\(1.5 \\times 10^{6}\\)</td><td >535</td><td >\\(2 \\times 10^{4}\\)</td></tr></table>",
                             "caption": ""
                         }

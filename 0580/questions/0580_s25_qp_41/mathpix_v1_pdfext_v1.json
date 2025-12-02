@@ -699,7 +699,7 @@
                         "bbox": [
                             93.55345911949686,
                             355.92065663474693,
-                            145.65553942912436,
+                            547.5036284470248,
                             384.140902872777
                         ],
                         "page_number": 7,
@@ -819,7 +819,7 @@
                 "bbox": [
                     162.63909046927915,
                     182.27975376196989,
-                    181.06192549588778,
+                    263.1011127237543,
                     197.54172366621066
                 ],
                 "page_number": 8,
@@ -830,7 +830,7 @@
                 "bbox": [
                     131.26269956458637,
                     197.25376196990425,
-                    220.49830672472183,
+                    269.72181906144175,
                     212.22777017783858
                 ],
                 "page_number": 8,
@@ -934,6 +934,7 @@
                 ],
                 "page_number": 9,
                 "table": {
+                    "latex": "\\begin{tabular}{|c||c|c|c|c|c|c|c|c|}\n\\hline\\(x\\) & -2 & -1 & 0 & 1 & 2 & 3 & 4 & 5 \\\\\n\\hline\\(y\\) & 24 & & -4 & & 8 & 14 & & -4 \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td >\\(x\\)</td><td >-2</td><td >-1</td><td >0</td><td >1</td><td >2</td><td >3</td><td >4</td><td >5</td></tr><tr><td >\\(y\\)</td><td >24</td><td ></td><td >-4</td><td ></td><td >8</td><td >14</td><td ></td><td >-4</td></tr></table>",
                     "caption": ""
                 }
@@ -1005,6 +1006,18 @@
                         ],
                         "page_number": 9,
                         "text": "(c) By drawing a suitable straight line on the grid, solve the equation \\(x^{3}-5 x^{2}-x+14=0\\)."
+                    },
+                    {
+                        "type": "form_text",
+                        "bbox": [
+                            276.05466860183844,
+                            693.1238030095759,
+                            528.7929366231253,
+                            709.8255813953488
+                        ],
+                        "page_number": 9,
+                        "blockMath": "\\[\nx=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . \\text { or } x=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . \\text { or } x=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . .\n\\]",
+                        "text": "\\(\nx=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . \\text { or } x=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . . \\text { or } x=\\ldots \\ldots \\ldots \\ldots \\ldots \\ldots . .\n\\)"
                     }
                 ]
             }
@@ -1045,6 +1058,7 @@
                 ],
                 "page_number": 10,
                 "table": {
+                    "latex": "\\begin{tabular}{|l|c|c|c|c|c|}\n\\hline Height \\((h \\mathrm{~cm})\\) & \\(160<h \\leqslant 180\\) & \\(180<h \\leqslant 185\\) & \\(185<h \\leqslant 190\\) & \\(190<h \\leqslant 200\\) & \\(200<h \\leqslant 210\\) \\\\\n\\hline Frequency & 7 & 12 & 31 & 70 & 20 \\\\\n\\hline\n\\end{tabular}",
                     "html": "<table><tr><td >Height \\((h \\mathrm{~cm})\\)</td><td >\\(160&lt;h \\leqslant 180\\)</td><td >\\(180&lt;h \\leqslant 185\\)</td><td >\\(185&lt;h \\leqslant 190\\)</td><td >\\(190&lt;h \\leqslant 200\\)</td><td >\\(200&lt;h \\leqslant 210\\)</td></tr><tr><td >Frequency</td><td >7</td><td >12</td><td >31</td><td >70</td><td >20</td></tr></table>",
                     "caption": ""
                 }
