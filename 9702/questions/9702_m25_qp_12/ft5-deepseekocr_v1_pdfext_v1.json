@@ -20,34 +20,7 @@
                     97
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "B",
-                        "page_number": 3,
-                        "bbox": [
-                            68,
-                            110,
-                            149,
-                            121
-                        ],
-                        "level": 70,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "momentum",
-                                "bbox": [
-                                    79,
-                                    106,
-                                    149,
-                                    119
-                                ],
-                                "page_number": 3,
-                                "is_pre": false
-                            }
-                        ]
-                    }
-                ],
+                "parts": [],
                 "content": [
                     {
                         "type": "text",
@@ -59,7 +32,8 @@
                             101
                         ],
                         "page_number": 3,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -75,7 +49,8 @@
                     74
                 ],
                 "page_number": 3,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -100,34 +75,7 @@
                     226
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "B",
-                        "page_number": 3,
-                        "bbox": [
-                            68,
-                            234,
-                            410,
-                            248
-                        ],
-                        "level": 70,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "It limits the range of values obtained in repeated measurements",
-                                "bbox": [
-                                    91,
-                                    232,
-                                    406,
-                                    247
-                                ],
-                                "page_number": 3,
-                                "is_pre": false
-                            }
-                        ]
-                    }
-                ],
+                "parts": [],
                 "content": [
                     {
                         "type": "text",
@@ -139,7 +87,8 @@
                             226
                         ],
                         "page_number": 3,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -155,7 +104,8 @@
                     202
                 ],
                 "page_number": 3,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -181,7 +131,8 @@
                     329
                 ],
                 "page_number": 3,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -193,7 +144,8 @@
                     354
                 ],
                 "page_number": 3,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -208,7 +160,8 @@
                 "image": {
                     "caption": "",
                     "page": 3
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -220,7 +173,21 @@
                     538
                 ],
                 "page_number": 3,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "A 13kg B 1000kg C 1300kg D 10000kg",
+                "bbox": [
+                    68,
+                    548,
+                    438,
+                    562
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -237,18 +204,6 @@
         "parts": [],
         "content": [
             {
-                "type": "pre_text",
-                "text": "A 13kg B 1000kg C 1300kg D 10000kg",
-                "bbox": [
-                    68,
-                    548,
-                    438,
-                    562
-                ],
-                "page_number": 3,
-                "is_pre": true
-            },
-            {
                 "type": "text",
                 "text": "An aircraft, initially stationary on a runway, takes off with a speed of \\(85 \\text{kmh}^{-1}\\) in a distance of no more than \\(1.20 \\text{km}\\)",
                 "bbox": [
@@ -258,7 +213,8 @@
                     613
                 ],
                 "page_number": 3,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -270,7 +226,21 @@
                     638
                 ],
                 "page_number": 3,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "A 0.23ms-2 B 0.46ms-2 C 3.0ms-2 D 6.0ms-2",
+                "bbox": [
+                    68,
+                    648,
+                    434,
+                    662
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -295,34 +265,7 @@
                     150
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "B",
-                        "page_number": 4,
-                        "bbox": [
-                            68,
-                            158,
-                            82,
-                            173
-                        ],
-                        "level": 70,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "Its speed decreases to a value greater than zero, then increases to a value greater than \\(20 \\text{m s}^{-1}\\)",
-                                "bbox": [
-                                    90,
-                                    158,
-                                    547,
-                                    185
-                                ],
-                                "page_number": 4,
-                                "is_pre": false
-                            }
-                        ]
-                    }
-                ],
+                "parts": [],
                 "content": [
                     {
                         "type": "text",
@@ -334,24 +277,13 @@
                             150
                         ],
                         "page_number": 4,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
         ],
         "content": [
-            {
-                "type": "pre_text",
-                "text": "A 0.23ms-2 B 0.46ms-2 C 3.0ms-2 D 6.0ms-2",
-                "bbox": [
-                    68,
-                    648,
-                    434,
-                    662
-                ],
-                "page_number": 3,
-                "is_pre": true
-            },
             {
                 "type": "text",
                 "text": "An object is fired upwards from horizontal ground. The object has an initial velocity of \\(20 \\text{m s}^{-1}\\) at an angle of \\(45^{\\circ}\\) to the horizontal. Air resistance is negligible",
@@ -362,7 +294,8 @@
                     89
                 ],
                 "page_number": 4,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -374,7 +307,8 @@
                     127
                 ],
                 "page_number": 4,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -399,34 +333,7 @@
                     291
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "B",
-                        "page_number": 4,
-                        "bbox": [
-                            68,
-                            298,
-                            378,
-                            312
-                        ],
-                        "level": 70,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "The total momentum is conserved only in elastic collisions",
-                                "bbox": [
-                                    90,
-                                    297,
-                                    378,
-                                    312
-                                ],
-                                "page_number": 4,
-                                "is_pre": false
-                            }
-                        ]
-                    }
-                ],
+                "parts": [],
                 "content": [
                     {
                         "type": "text",
@@ -438,7 +345,8 @@
                             291
                         ],
                         "page_number": 4,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -454,7 +362,8 @@
                     267
                 ],
                 "page_number": 4,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -480,7 +389,8 @@
                     394
                 ],
                 "page_number": 4,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -492,7 +402,8 @@
                     419
                 ],
                 "page_number": 4,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -504,7 +415,8 @@
                     456
                 ],
                 "page_number": 4,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -519,7 +431,8 @@
                 "image": {
                     "caption": "",
                     "page": 4
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -531,7 +444,8 @@
                     594
                 ],
                 "page_number": 4,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -543,7 +457,21 @@
                     632
                 ],
                 "page_number": 4,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "A \\(9.6kgm s^{-1}\\) B \\(11kgm s^{-1}\\) C \\(13kgm s^{-1}\\) D \\(25kgm s^{-1}\\)",
+                "bbox": [
+                    68,
+                    641,
+                    443,
+                    656
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -580,7 +508,8 @@
                             150
                         ],
                         "page_number": 5,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -592,7 +521,8 @@
                             150
                         ],
                         "page_number": 5,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -604,7 +534,8 @@
                             150
                         ],
                         "page_number": 5,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -616,24 +547,13 @@
                             150
                         ],
                         "page_number": 5,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
         ],
         "content": [
-            {
-                "type": "pre_text",
-                "text": "A \\(9.6kgm s^{-1}\\) B \\(11kgm s^{-1}\\) C \\(13kgm s^{-1}\\) D \\(25kgm s^{-1}\\)",
-                "bbox": [
-                    68,
-                    641,
-                    443,
-                    656
-                ],
-                "page_number": 4,
-                "is_pre": true
-            },
             {
                 "type": "text",
                 "text": "An astronaut of mass \\(m\\) in a spacecraft experiences a gravitational force \\(F = mg\\) when stationary on the launchpad",
@@ -644,7 +564,8 @@
                     89
                 ],
                 "page_number": 5,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -656,7 +577,8 @@
                     126
                 ],
                 "page_number": 5,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -681,34 +603,7 @@
                     419
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "B",
-                        "page_number": 5,
-                        "bbox": [
-                            68,
-                            426,
-                            89,
-                            441
-                        ],
-                        "level": 70,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "The weight of the plank is causing an anticlockwise moment",
-                                "bbox": [
-                                    92,
-                                    426,
-                                    387,
-                                    440
-                                ],
-                                "page_number": 5,
-                                "is_pre": false
-                            }
-                        ]
-                    }
-                ],
+                "parts": [],
                 "content": [
                     {
                         "type": "text",
@@ -720,7 +615,8 @@
                             418
                         ],
                         "page_number": 5,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -736,7 +632,8 @@
                     202
                 ],
                 "page_number": 5,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -751,7 +648,8 @@
                 "image": {
                     "caption": "",
                     "page": 5
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -763,7 +661,8 @@
                     368
                 ],
                 "page_number": 5,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -775,7 +674,8 @@
                     394
                 ],
                 "page_number": 5,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -800,34 +700,7 @@
                     605
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "B",
-                        "page_number": 5,
-                        "bbox": [
-                            68,
-                            613,
-                            84,
-                            628
-                        ],
-                        "level": 70,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "Use a different object that has half the volume and the same density as the original object",
-                                "bbox": [
-                                    90,
-                                    613,
-                                    532,
-                                    627
-                                ],
-                                "page_number": 5,
-                                "is_pre": false
-                            }
-                        ]
-                    }
-                ],
+                "parts": [],
                 "content": [
                     {
                         "type": "text",
@@ -839,7 +712,8 @@
                             604
                         ],
                         "page_number": 5,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -855,7 +729,8 @@
                     522
                 ],
                 "page_number": 5,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -867,7 +742,8 @@
                     560
                 ],
                 "page_number": 5,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -879,7 +755,8 @@
                     581
                 ],
                 "page_number": 5,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -904,21 +781,7 @@
                     359
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "0N",
-                        "page_number": 6,
-                        "bbox": [
-                            97,
-                            345,
-                            109,
-                            359
-                        ],
-                        "level": 95,
-                        "parts": [],
-                        "content": []
-                    }
-                ],
+                "parts": [],
                 "content": []
             }
         ],
@@ -933,7 +796,8 @@
                     76
                 ],
                 "page_number": 6,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -948,7 +812,8 @@
                 "image": {
                     "caption": "",
                     "page": 6
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -960,7 +825,8 @@
                     310
                 ],
                 "page_number": 6,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -972,7 +838,8 @@
                     335
                 ],
                 "page_number": 6,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -997,21 +864,7 @@
                     526
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "2%",
-                        "page_number": 6,
-                        "bbox": [
-                            95,
-                            511,
-                            110,
-                            526
-                        ],
-                        "level": 95,
-                        "parts": [],
-                        "content": []
-                    }
-                ],
+                "parts": [],
                 "content": []
             }
         ],
@@ -1026,7 +879,8 @@
                     397
                 ],
                 "page_number": 6,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1038,7 +892,8 @@
                     423
                 ],
                 "page_number": 6,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1050,7 +905,8 @@
                     449
                 ],
                 "page_number": 6,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1062,7 +918,8 @@
                     475
                 ],
                 "page_number": 6,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1074,7 +931,8 @@
                     501
                 ],
                 "page_number": 6,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -1100,7 +958,8 @@
                     76
                 ],
                 "page_number": 7,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -1115,7 +974,8 @@
                 "image": {
                     "caption": "",
                     "page": 7
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1127,7 +987,8 @@
                     223
                 ],
                 "page_number": 7,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1139,7 +1000,8 @@
                     249
                 ],
                 "page_number": 7,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1151,7 +1013,8 @@
                     274
                 ],
                 "page_number": 7,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1163,7 +1026,8 @@
                     300
                 ],
                 "page_number": 7,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "table",
@@ -1177,7 +1041,8 @@
                 "is_pre": false,
                 "table": {
                     "html": "<table><tr><td></td><td>\\(F/N\\) when child is at X</td><td>\\(F/N\\) when child is at Y</td></tr><tr><td>A</td><td>600</td><td>0</td></tr><tr><td>B</td><td>600</td><td>150</td></tr><tr><td>C</td><td>750</td><td>0</td></tr><tr><td>D</td><td>750</td><td>150</td></tr></table>"
-                }
+                },
+                "is_pot_pre": false
             }
         ]
     },
@@ -1203,7 +1068,8 @@
                     470
                 ],
                 "page_number": 7,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "blockMath",
@@ -1215,7 +1081,8 @@
                     496
                 ],
                 "page_number": 7,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1227,7 +1094,8 @@
                     522
                 ],
                 "page_number": 7,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1239,7 +1107,8 @@
                     544
                 ],
                 "page_number": 7,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1251,7 +1120,8 @@
                     567
                 ],
                 "page_number": 7,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1263,7 +1133,8 @@
                     590
                 ],
                 "page_number": 7,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -1289,7 +1160,8 @@
                     88
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -1304,7 +1176,8 @@
                 "image": {
                     "caption": "",
                     "page": 8
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1316,7 +1189,8 @@
                     216
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1328,7 +1202,8 @@
                     241
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1340,7 +1215,8 @@
                     268
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -1365,21 +1241,7 @@
                     577
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "13J",
-                        "page_number": 8,
-                        "bbox": [
-                            95,
-                            563,
-                            117,
-                            577
-                        ],
-                        "level": 95,
-                        "parts": [],
-                        "content": []
-                    }
-                ],
+                "parts": [],
                 "content": []
             }
         ],
@@ -1394,7 +1256,8 @@
                     335
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -1409,7 +1272,8 @@
                 "image": {
                     "caption": "",
                     "page": 8
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1421,7 +1285,8 @@
                     528
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1433,7 +1298,8 @@
                     553
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -1459,7 +1325,8 @@
                     641
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1471,7 +1338,8 @@
                     680
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1483,7 +1351,21 @@
                     705
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "A 0.15MW B 1.5MW C 1.7MW D 90MW",
+                "bbox": [
+                    68,
+                    714,
+                    425,
+                    727
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -1500,18 +1382,6 @@
         "parts": [],
         "content": [
             {
-                "type": "pre_text",
-                "text": "A 0.15MW B 1.5MW C 1.7MW D 90MW",
-                "bbox": [
-                    68,
-                    714,
-                    425,
-                    727
-                ],
-                "page_number": 8,
-                "is_pre": true
-            },
-            {
                 "type": "text",
                 "text": "A projectile is launched at \\(45^{\\circ}\\) to the horizontal with initial kinetic energy \\(E\\)",
                 "bbox": [
@@ -1521,7 +1391,8 @@
                     76
                 ],
                 "page_number": 9,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1533,7 +1404,8 @@
                     114
                 ],
                 "page_number": 9,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1545,7 +1417,8 @@
                     137
                 ],
                 "page_number": 9,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -1570,34 +1443,7 @@
                     225
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "B",
-                        "page_number": 9,
-                        "bbox": [
-                            68,
-                            233,
-                            404,
-                            247
-                        ],
-                        "level": 70,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "The extension of the wire is **not** proportional to the tensile force",
-                                "bbox": [
-                                    90,
-                                    230,
-                                    404,
-                                    245
-                                ],
-                                "page_number": 9,
-                                "is_pre": false
-                            }
-                        ]
-                    }
-                ],
+                "parts": [],
                 "content": [
                     {
                         "type": "text",
@@ -1609,7 +1455,8 @@
                             225
                         ],
                         "page_number": 9,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -1625,7 +1472,8 @@
                     175
                 ],
                 "page_number": 9,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1637,7 +1485,8 @@
                     201
                 ],
                 "page_number": 9,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -1674,7 +1523,8 @@
                             529
                         ],
                         "page_number": 9,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -1686,7 +1536,8 @@
                             529
                         ],
                         "page_number": 9,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -1698,7 +1549,8 @@
                             529
                         ],
                         "page_number": 9,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -1710,7 +1562,8 @@
                             529
                         ],
                         "page_number": 9,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -1726,7 +1579,8 @@
                     329
                 ],
                 "page_number": 9,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -1741,7 +1595,8 @@
                 "image": {
                     "caption": "",
                     "page": 9
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1753,7 +1608,8 @@
                     464
                 ],
                 "page_number": 9,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1765,7 +1621,8 @@
                     503
                 ],
                 "page_number": 9,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -1791,7 +1648,8 @@
                     89
                 ],
                 "page_number": 10,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -1806,7 +1664,8 @@
                 "image": {
                     "caption": "",
                     "page": 10
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1818,7 +1677,8 @@
                     436
                 ],
                 "page_number": 10,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1830,7 +1690,8 @@
                     462
                 ],
                 "page_number": 10,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1842,7 +1703,8 @@
                     485
                 ],
                 "page_number": 10,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -1868,7 +1730,8 @@
                     524
                 ],
                 "page_number": 10,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "table",
@@ -1882,7 +1745,47 @@
                 "is_pre": false,
                 "table": {
                     "html": "<table><tr><td></td><td>transverse wave</td><td>longitudinal wave</td><td>can travel in free space</td></tr><tr><td>A</td><td>✓</td><td>✗</td><td>✓</td></tr><tr><td>B</td><td>✓</td><td>✗</td><td>✗</td></tr><tr><td>C</td><td>✗</td><td>✓</td><td>✓</td></tr><tr><td>D</td><td>✗</td><td>✓</td><td>✗</td></tr></table>"
-                }
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "key",
+                "bbox": [
+                    311,
+                    576,
+                    331,
+                    590
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "✓ = property of an electromagnetic wave",
+                "bbox": [
+                    311,
+                    597,
+                    511,
+                    611
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "✗ = not a property of an electromagnetic wave",
+                "bbox": [
+                    311,
+                    617,
+                    539,
+                    631
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -1899,42 +1802,6 @@
         "parts": [],
         "content": [
             {
-                "type": "pre_text",
-                "text": "key",
-                "bbox": [
-                    311,
-                    576,
-                    331,
-                    590
-                ],
-                "page_number": 10,
-                "is_pre": true
-            },
-            {
-                "type": "pre_text",
-                "text": "✓ = property of an electromagnetic wave",
-                "bbox": [
-                    311,
-                    597,
-                    511,
-                    611
-                ],
-                "page_number": 10,
-                "is_pre": true
-            },
-            {
-                "type": "pre_text",
-                "text": "✗ = not a property of an electromagnetic wave",
-                "bbox": [
-                    311,
-                    617,
-                    539,
-                    631
-                ],
-                "page_number": 10,
-                "is_pre": true
-            },
-            {
                 "type": "text",
                 "text": "What is the approximate range of wavelengths in free space for infrared radiation?",
                 "bbox": [
@@ -1944,7 +1811,8 @@
                     76
                 ],
                 "page_number": 11,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1956,7 +1824,8 @@
                     99
                 ],
                 "page_number": 11,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1968,7 +1837,8 @@
                     121
                 ],
                 "page_number": 11,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1980,7 +1850,8 @@
                     143
                 ],
                 "page_number": 11,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1992,7 +1863,8 @@
                     165
                 ],
                 "page_number": 11,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -2017,34 +1889,7 @@
                     472
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "B",
-                        "page_number": 11,
-                        "bbox": [
-                            68,
-                            479,
-                            153,
-                            493
-                        ],
-                        "level": 70,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "1 and 2 only",
-                                "bbox": [
-                                    91,
-                                    479,
-                                    153,
-                                    493
-                                ],
-                                "page_number": 11,
-                                "is_pre": false
-                            }
-                        ]
-                    }
-                ],
+                "parts": [],
                 "content": [
                     {
                         "type": "text",
@@ -2056,7 +1901,8 @@
                             471
                         ],
                         "page_number": 11,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -2072,7 +1918,8 @@
                     217
                 ],
                 "page_number": 11,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -2087,7 +1934,8 @@
                 "image": {
                     "caption": "",
                     "page": 11
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2099,7 +1947,8 @@
                     338
                 ],
                 "page_number": 11,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2111,7 +1960,8 @@
                     378
                 ],
                 "page_number": 11,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2123,7 +1973,8 @@
                     402
                 ],
                 "page_number": 11,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2135,7 +1986,8 @@
                     424
                 ],
                 "page_number": 11,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2147,7 +1999,8 @@
                     446
                 ],
                 "page_number": 11,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -2184,7 +2037,8 @@
                             624
                         ],
                         "page_number": 11,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -2196,7 +2050,8 @@
                             624
                         ],
                         "page_number": 11,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -2208,7 +2063,8 @@
                             624
                         ],
                         "page_number": 11,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -2220,7 +2076,8 @@
                             624
                         ],
                         "page_number": 11,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -2236,7 +2093,8 @@
                     574
                 ],
                 "page_number": 11,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2248,7 +2106,8 @@
                     599
                 ],
                 "page_number": 11,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -2274,7 +2133,8 @@
                     76
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2286,7 +2146,8 @@
                     101
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2298,7 +2159,8 @@
                     127
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2310,7 +2172,8 @@
                     153
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2322,7 +2185,8 @@
                     180
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2334,7 +2198,8 @@
                     203
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -2360,7 +2225,8 @@
                     242
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2372,7 +2238,8 @@
                     267
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2384,7 +2251,8 @@
                     291
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2396,7 +2264,8 @@
                     312
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2408,7 +2277,8 @@
                     334
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2420,7 +2290,8 @@
                     356
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -2446,7 +2317,8 @@
                     406
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -2461,7 +2333,8 @@
                 "image": {
                     "caption": "",
                     "page": 12
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2473,7 +2346,8 @@
                     542
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2485,7 +2359,8 @@
                     566
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "table",
@@ -2499,7 +2374,8 @@
                 "is_pre": false,
                 "table": {
                     "html": "<table><tr><td></td><td>wavelength</td><td>width of gap</td></tr><tr><td>A</td><td>decreases</td><td>decreases</td></tr><tr><td>B</td><td>decreases</td><td>increases</td></tr><tr><td>C</td><td>increases</td><td>decreases</td></tr><tr><td>D</td><td>increases</td><td>increases</td></tr></table>"
-                }
+                },
+                "is_pot_pre": false
             }
         ]
     },
@@ -2536,7 +2412,8 @@
                             138
                         ],
                         "page_number": 13,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -2548,7 +2425,8 @@
                             138
                         ],
                         "page_number": 13,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -2560,7 +2438,8 @@
                             138
                         ],
                         "page_number": 13,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -2572,7 +2451,8 @@
                             138
                         ],
                         "page_number": 13,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -2588,7 +2468,8 @@
                     89
                 ],
                 "page_number": 13,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2600,7 +2481,8 @@
                     114
                 ],
                 "page_number": 13,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -2626,7 +2508,8 @@
                     188
                 ],
                 "page_number": 13,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2638,7 +2521,8 @@
                     213
                 ],
                 "page_number": 13,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2650,7 +2534,8 @@
                     251
                 ],
                 "page_number": 13,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "table",
@@ -2664,7 +2549,8 @@
                 "is_pre": false,
                 "table": {
                     "html": "<table><tr><td></td><td>number of charge carriers per unit time</td><td>average drift speed of charge carriers</td></tr><tr><td>A</td><td>Y greater than X</td><td>Y greater than X</td></tr><tr><td>B</td><td>Y same as X</td><td>Y same as X</td></tr><tr><td>C</td><td>Y greater than X</td><td>Y same as X</td></tr><tr><td>D</td><td>Y same as X</td><td>Y greater than X</td></tr></table>"
-                }
+                },
+                "is_pot_pre": false
             }
         ]
     },
@@ -2690,7 +2576,8 @@
                     423
                 ],
                 "page_number": 13,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2702,7 +2589,8 @@
                     448
                 ],
                 "page_number": 13,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2714,7 +2602,8 @@
                     474
                 ],
                 "page_number": 13,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2726,7 +2615,8 @@
                     499
                 ],
                 "page_number": 13,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -2752,7 +2642,8 @@
                     76
                 ],
                 "page_number": 14,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -2767,7 +2658,8 @@
                 "image": {
                     "caption": "",
                     "page": 14
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2779,7 +2671,8 @@
                     188
                 ],
                 "page_number": 14,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -2794,7 +2687,8 @@
                 "image": {
                     "caption": "",
                     "page": 14
-                }
+                },
+                "is_pot_pre": false
             }
         ]
     },
@@ -2820,7 +2714,8 @@
                     522
                 ],
                 "page_number": 14,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2832,7 +2727,8 @@
                     547
                 ],
                 "page_number": 14,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2844,7 +2740,8 @@
                     572
                 ],
                 "page_number": 14,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -2870,7 +2767,8 @@
                     623
                 ],
                 "page_number": 14,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -2885,7 +2783,8 @@
                 "image": {
                     "caption": "",
                     "page": 14
-                }
+                },
+                "is_pot_pre": false
             }
         ]
     },
@@ -2911,7 +2810,8 @@
                     89
                 ],
                 "page_number": 15,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -2926,7 +2826,8 @@
                 "image": {
                     "caption": "",
                     "page": 15
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2938,7 +2839,8 @@
                     237
                 ],
                 "page_number": 15,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2950,7 +2852,8 @@
                     261
                 ],
                 "page_number": 15,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -2975,34 +2878,7 @@
                     511
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "B",
-                        "page_number": 15,
-                        "bbox": [
-                            68,
-                            519,
-                            77,
-                            534
-                        ],
-                        "level": 70,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "V decreases because there is a p.d. across \\(r\\)",
-                                "bbox": [
-                                    90,
-                                    519,
-                                    314,
-                                    534
-                                ],
-                                "page_number": 15,
-                                "is_pre": false
-                            }
-                        ]
-                    }
-                ],
+                "parts": [],
                 "content": [
                     {
                         "type": "text",
@@ -3014,7 +2890,8 @@
                             511
                         ],
                         "page_number": 15,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -3030,7 +2907,8 @@
                     312
                 ],
                 "page_number": 15,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -3045,7 +2923,8 @@
                 "image": {
                     "caption": "",
                     "page": 15
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -3057,7 +2936,8 @@
                     461
                 ],
                 "page_number": 15,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -3069,7 +2949,8 @@
                     486
                 ],
                 "page_number": 15,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -3094,34 +2975,7 @@
                     652
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "B",
-                        "page_number": 15,
-                        "bbox": [
-                            68,
-                            661,
-                            417,
-                            675
-                        ],
-                        "level": 70,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "It consists of three quarks that do **not** need to be the same flavour",
-                                "bbox": [
-                                    92,
-                                    660,
-                                    417,
-                                    674
-                                ],
-                                "page_number": 15,
-                                "is_pre": false
-                            }
-                        ]
-                    }
-                ],
+                "parts": [],
                 "content": [
                     {
                         "type": "text",
@@ -3133,7 +2987,8 @@
                             652
                         ],
                         "page_number": 15,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -3149,7 +3004,8 @@
                     628
                 ],
                 "page_number": 15,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -3175,7 +3031,8 @@
                     74
                 ],
                 "page_number": 16,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -3187,7 +3044,8 @@
                     113
                 ],
                 "page_number": 16,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -3199,7 +3057,8 @@
                     137
                 ],
                 "page_number": 16,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -3211,7 +3070,8 @@
                     230
                 ],
                 "page_number": 16,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -3237,7 +3097,8 @@
                     268
                 ],
                 "page_number": 16,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -3249,7 +3110,8 @@
                     358
                 ],
                 "page_number": 16,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -3275,7 +3137,8 @@
                     395
                 ],
                 "page_number": 16,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -3287,7 +3150,8 @@
                     433
                 ],
                 "page_number": 16,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     }

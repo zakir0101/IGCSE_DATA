@@ -34,6 +34,32 @@
                         "parts": [],
                         "content": [
                             {
+                                "type": "pre_text",
+                                "text": "The small cog has a radius of \\(0.038 \\text{m}\\) and is fixed to the rear wheel so that it rotates with it. The large cog has a radius of \\(0.15 \\text{m}\\) and is fixed to the pedals so that it rotates with them. The rear wheel has a radius of \\(0.46 \\text{m}\\)",
+                                "bbox": [
+                                    93,
+                                    492,
+                                    540,
+                                    533
+                                ],
+                                "page_number": 4,
+                                "is_pre": true,
+                                "is_pot_pre": true
+                            },
+                            {
+                                "type": "pre_text",
+                                "text": "The bicycle is being pedalled so that it moves in a straight line at a constant speed of \\(17 \\text{m s}^{-1}\\)",
+                                "bbox": [
+                                    93,
+                                    544,
+                                    547,
+                                    558
+                                ],
+                                "page_number": 4,
+                                "is_pre": true,
+                                "is_pot_pre": true
+                            },
+                            {
                                 "type": "text",
                                 "text": "Calculate the angular speed of the rear wheel",
                                 "bbox": [
@@ -43,19 +69,34 @@
                                     585
                                 ],
                                 "page_number": 4,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "angular speed = .................................................... rad s\\(^{-1}\\) [2]",
+                                "text": "angular speed = .................................................... rad s\\(^{-1}\\)",
                                 "bbox": [
                                     266,
                                     688,
-                                    548,
+                                    528,
                                     702
                                 ],
                                 "page_number": 4,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    688,
+                                    528,
+                                    702
+                                ],
+                                "page_number": 4,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -81,19 +122,34 @@
                                     76
                                 ],
                                 "page_number": 5,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "period = .................................................................... s [2]",
+                                "text": "period = .................................................................... s",
                                 "bbox": [
                                     305,
                                     177,
-                                    548,
+                                    528,
                                     192
                                 ],
                                 "page_number": 5,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    177,
+                                    528,
+                                    192
+                                ],
+                                "page_number": 5,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -119,7 +175,8 @@
                                     232
                                 ],
                                 "page_number": 5,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -131,7 +188,8 @@
                                     339
                                 ],
                                 "page_number": 5,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -157,19 +215,34 @@
                                     376
                                 ],
                                 "page_number": 5,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "angle = ............................................................ rad [2]",
+                                "text": "angle = ............................................................ rad",
                                 "bbox": [
                                     309,
                                     490,
-                                    548,
+                                    528,
                                     506
                                 ],
                                 "page_number": 5,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    490,
+                                    528,
+                                    506
+                                ],
+                                "page_number": 5,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     }
@@ -185,31 +258,24 @@
                             167
                         ],
                         "page_number": 4,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
-                        "type": "text",
-                        "text": "The small cog has a radius of \\(0.038 \\text{m}\\) and is fixed to the rear wheel so that it rotates with it. The large cog has a radius of \\(0.15 \\text{m}\\) and is fixed to the pedals so that it rotates with them. The rear wheel has a radius of \\(0.46 \\text{m}\\)",
+                        "type": "image",
                         "bbox": [
-                            93,
-                            492,
-                            540,
-                            533
+                            54,
+                            175,
+                            542,
+                            445
                         ],
                         "page_number": 4,
-                        "is_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The bicycle is being pedalled so that it moves in a straight line at a constant speed of \\(17 \\text{m s}^{-1}\\)",
-                        "bbox": [
-                            93,
-                            544,
-                            547,
-                            558
-                        ],
-                        "page_number": 4,
-                        "is_pre": false
+                        "is_pre": false,
+                        "image": {
+                            "caption": "",
+                            "page": 4
+                        },
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -235,7 +301,8 @@
                             545
                         ],
                         "page_number": 5,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -247,7 +314,8 @@
                             571
                         ],
                         "page_number": 5,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -259,7 +327,8 @@
                             675
                         ],
                         "page_number": 5,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -275,7 +344,8 @@
                     74
                 ],
                 "page_number": 4,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "mark_text",
@@ -287,7 +357,8 @@
                     128
                 ],
                 "page_number": 4,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -335,22 +406,8 @@
                                     74
                                 ],
                                 "page_number": 6,
-                                "is_pre": false
-                            },
-                            {
-                                "type": "image",
-                                "bbox": [
-                                    115,
-                                    86,
-                                    548,
-                                    152
-                                ],
-                                "page_number": 6,
                                 "is_pre": false,
-                                "image": {
-                                    "caption": "",
-                                    "page": 6
-                                }
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -376,49 +433,8 @@
                                     180
                                 ],
                                 "page_number": 6,
-                                "is_pre": false
-                            },
-                            {
-                                "type": "image",
-                                "bbox": [
-                                    254,
-                                    261,
-                                    338,
-                                    346
-                                ],
-                                "page_number": 6,
                                 "is_pre": false,
-                                "image": {
-                                    "caption": "",
-                                    "page": 6
-                                }
-                            },
-                            {
-                                "type": "image",
-                                "bbox": [
-                                    262,
-                                    371,
-                                    334,
-                                    388
-                                ],
-                                "page_number": 6,
-                                "is_pre": false,
-                                "image": {
-                                    "caption": "",
-                                    "page": 6
-                                }
-                            },
-                            {
-                                "type": "text",
-                                "text": "On Fig. 2.1, draw field lines to represent the Earth's gravitational field outside the Earth. [2]",
-                                "bbox": [
-                                    115,
-                                    476,
-                                    548,
-                                    506
-                                ],
-                                "page_number": 6,
-                                "is_pre": false
+                                "is_pot_pre": false
                             }
                         ]
                     }
@@ -435,61 +451,53 @@
                     532
                 ],
                 "level": 70,
-                "parts": [
+                "parts": [],
+                "content": [
                     {
-                        "label": "(i)",
-                        "page_number": 7,
+                        "type": "pre_image",
                         "bbox": [
-                            93,
-                            394,
-                            108,
-                            410
+                            254,
+                            261,
+                            338,
+                            346
                         ],
-                        "level": 95,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "On Fig. 2.3, label the magnetic poles with the letters N and S to indicate which one is the magnetic N pole and which one is the magnetic S pole. [1]",
-                                "bbox": [
-                                    115,
-                                    394,
-                                    548,
-                                    422
-                                ],
-                                "page_number": 7,
-                                "is_pre": false
-                            }
-                        ]
+                        "page_number": 6,
+                        "is_pre": true,
+                        "image": {
+                            "caption": "",
+                            "page": 6
+                        },
+                        "is_pot_pre": true
                     },
                     {
-                        "label": "(ii)",
-                        "page_number": 7,
+                        "type": "pre_image",
                         "bbox": [
-                            89,
-                            432,
-                            107,
-                            448
+                            262,
+                            371,
+                            334,
+                            388
                         ],
-                        "level": 90,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "On Fig. 2.3, draw field lines to represent the Earth's magnetic field outside the Earth. [2]",
-                                "bbox": [
-                                    115,
-                                    432,
-                                    548,
-                                    447
-                                ],
-                                "page_number": 7,
-                                "is_pre": false
-                            }
-                        ]
-                    }
-                ],
-                "content": [
+                        "page_number": 6,
+                        "is_pre": true,
+                        "image": {
+                            "caption": "",
+                            "page": 6
+                        },
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_text",
+                        "text": "On Fig. 2.1, draw field lines to represent the Earth's gravitational field outside the Earth. [2]",
+                        "bbox": [
+                            115,
+                            476,
+                            548,
+                            506
+                        ],
+                        "page_number": 6,
+                        "is_pre": true,
+                        "is_pot_pre": true
+                    },
                     {
                         "type": "text",
                         "text": "The Earth's magnetic field may be considered as being due to the Earth acting as a long solenoid, as shown in Fig. 2.2",
@@ -500,7 +508,8 @@
                             545
                         ],
                         "page_number": 6,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "image",
@@ -515,34 +524,8 @@
                         "image": {
                             "caption": "",
                             "page": 6
-                        }
-                    },
-                    {
-                        "type": "text",
-                        "text": "Fig. 2.3 is a copy of Fig. 2.2 without the labels but with two magnetic field lines shown",
-                        "bbox": [
-                            93,
-                            62,
-                            515,
-                            74
-                        ],
-                        "page_number": 7,
-                        "is_pre": false
-                    },
-                    {
-                        "type": "image",
-                        "bbox": [
-                            255,
-                            152,
-                            338,
-                            285
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "image": {
-                            "caption": "",
-                            "page": 7
-                        }
+                        },
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -579,7 +562,8 @@
                                     512
                                 ],
                                 "page_number": 7,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -591,7 +575,8 @@
                                     591
                                 ],
                                 "page_number": 7,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -617,7 +602,8 @@
                                     630
                                 ],
                                 "page_number": 7,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -629,7 +615,8 @@
                                     763
                                 ],
                                 "page_number": 7,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     }
@@ -645,7 +632,8 @@
                             474
                         ],
                         "page_number": 7,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -685,7 +673,8 @@
                             76
                         ],
                         "page_number": 8,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -697,7 +686,8 @@
                             155
                         ],
                         "page_number": 8,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -734,7 +724,8 @@
                                     298
                                 ],
                                 "page_number": 8,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
@@ -746,7 +737,8 @@
                                     415
                                 ],
                                 "page_number": 8,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -758,7 +750,8 @@
                                     415
                                 ],
                                 "page_number": 8,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -784,7 +777,8 @@
                                     442
                                 ],
                                 "page_number": 8,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -796,7 +790,8 @@
                                     534
                                 ],
                                 "page_number": 8,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -822,7 +817,8 @@
                                     571
                                 ],
                                 "page_number": 8,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
@@ -834,7 +830,8 @@
                                     702
                                 ],
                                 "page_number": 8,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -846,7 +843,8 @@
                                     702
                                 ],
                                 "page_number": 8,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -872,7 +870,8 @@
                                     76
                                 ],
                                 "page_number": 9,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -884,7 +883,8 @@
                                     155
                                 ],
                                 "page_number": 9,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -910,19 +910,34 @@
                                     206
                                 ],
                                 "page_number": 9,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "specific heat capacity = ......................................... unit .............. [3]",
+                                "text": "specific heat capacity = ......................................... unit ..............",
                                 "bbox": [
                                     231,
                                     376,
-                                    547,
+                                    527,
                                     390
                                 ],
                                 "page_number": 9,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    507,
+                                    376,
+                                    527,
+                                    390
+                                ],
+                                "page_number": 9,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     }
@@ -938,7 +953,8 @@
                             180
                         ],
                         "page_number": 8,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -950,7 +966,8 @@
                             206
                         ],
                         "page_number": 8,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -962,7 +979,8 @@
                             219
                         ],
                         "page_number": 8,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -974,7 +992,8 @@
                             258
                         ],
                         "page_number": 8,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -986,7 +1005,8 @@
                             271
                         ],
                         "page_number": 8,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -1012,7 +1032,8 @@
                             430
                         ],
                         "page_number": 9,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -1024,7 +1045,8 @@
                             534
                         ],
                         "page_number": 9,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -1075,7 +1097,8 @@
                                     168
                                 ],
                                 "page_number": 10,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -1087,7 +1110,8 @@
                                     193
                                 ],
                                 "page_number": 10,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -1113,7 +1137,8 @@
                                     219
                                 ],
                                 "page_number": 10,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -1125,7 +1150,8 @@
                                     245
                                 ],
                                 "page_number": 10,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     }
@@ -1141,7 +1167,8 @@
                             76
                         ],
                         "page_number": 10,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "blockMath",
@@ -1153,7 +1180,8 @@
                             101
                         ],
                         "page_number": 10,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -1165,7 +1193,8 @@
                             142
                         ],
                         "page_number": 10,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -1202,7 +1231,8 @@
                                     325
                                 ],
                                 "page_number": 10,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "text",
@@ -1214,7 +1244,8 @@
                                     350
                                 ],
                                 "page_number": 10,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -1240,19 +1271,34 @@
                                     428
                                 ],
                                 "page_number": 10,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "E_K = ........................................................................... [2]",
+                                "text": "E_K = ...........................................................................",
                                 "bbox": [
                                     322,
                                     556,
-                                    547,
+                                    527,
                                     572
                                 ],
                                 "page_number": 10,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    507,
+                                    556,
+                                    527,
+                                    572
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     }
@@ -1268,7 +1314,8 @@
                             272
                         ],
                         "page_number": 10,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "blockMath",
@@ -1280,7 +1327,8 @@
                             301
                         ],
                         "page_number": 10,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -1306,7 +1354,8 @@
                             89
                         ],
                         "page_number": 11,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "image",
@@ -1321,7 +1370,8 @@
                         "image": {
                             "caption": "",
                             "page": 11
-                        }
+                        },
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -1333,7 +1383,8 @@
                             278
                         ],
                         "page_number": 11,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -1345,7 +1396,8 @@
                             305
                         ],
                         "page_number": 11,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -1385,7 +1437,8 @@
                             76
                         ],
                         "page_number": 12,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -1397,7 +1450,8 @@
                             154
                         ],
                         "page_number": 12,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -1434,19 +1488,34 @@
                                     285
                                 ],
                                 "page_number": 12,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "period = ..................................................................... s [1]",
+                                "text": "period = ..................................................................... s",
                                 "bbox": [
                                     305,
                                     361,
-                                    547,
+                                    527,
                                     375
                                 ],
                                 "page_number": 12,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    507,
+                                    361,
+                                    527,
+                                    375
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -1472,19 +1541,34 @@
                                     402
                                 ],
                                 "page_number": 12,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "x_{0} = ............................................................ m [2]",
+                                "text": "x_{0} = ............................................................ m",
                                 "bbox": [
                                     325,
                                     506,
-                                    547,
+                                    527,
                                     520
                                 ],
                                 "page_number": 12,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    507,
+                                    506,
+                                    527,
+                                    520
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -1510,19 +1594,34 @@
                                     559
                                 ],
                                 "page_number": 12,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "v = .................................................................... [1]",
+                                "text": "v = ....................................................................",
                                 "bbox": [
                                     329,
                                     647,
-                                    548,
+                                    528,
                                     662
                                 ],
                                 "page_number": 12,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    647,
+                                    528,
+                                    662
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -1548,7 +1647,8 @@
                                     76
                                 ],
                                 "page_number": 13,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "image",
@@ -1563,7 +1663,8 @@
                                 "image": {
                                     "caption": "",
                                     "page": 13
-                                }
+                                },
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -1575,7 +1676,8 @@
                                     372
                                 ],
                                 "page_number": 13,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -1587,7 +1689,8 @@
                                     396
                                 ],
                                 "page_number": 13,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     }
@@ -1603,7 +1706,8 @@
                             180
                         ],
                         "page_number": 12,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -1615,7 +1719,8 @@
                             207
                         ],
                         "page_number": 12,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "blockMath",
@@ -1627,7 +1732,8 @@
                             232
                         ],
                         "page_number": 12,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -1639,7 +1745,8 @@
                             258
                         ],
                         "page_number": 12,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -1679,7 +1786,8 @@
                             426
                         ],
                         "page_number": 14,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -1716,19 +1824,34 @@
                                     453
                                 ],
                                 "page_number": 14,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "E = ............................................ unit .............. [2]",
+                                "text": "E = ............................................ unit ..............",
                                 "bbox": [
                                     328,
                                     540,
-                                    512,
+                                    492,
                                     555
                                 ],
                                 "page_number": 14,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    472,
+                                    540,
+                                    492,
+                                    555
+                                ],
+                                "page_number": 14,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -1754,19 +1877,34 @@
                                     582
                                 ],
                                 "page_number": 14,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "acceleration = ........................................................... ms$^{-2}$ [2]",
+                                "text": "acceleration = ........................................................... ms$^{-2}$",
                                 "bbox": [
                                     277,
                                     684,
-                                    547,
+                                    527,
                                     699
                                 ],
                                 "page_number": 14,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    507,
+                                    684,
+                                    527,
+                                    699
+                                ],
+                                "page_number": 14,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     }
@@ -1806,7 +1944,8 @@
                                     128
                                 ],
                                 "page_number": 15,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -1818,7 +1957,8 @@
                                     286
                                 ],
                                 "page_number": 15,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -1844,7 +1984,8 @@
                                     311
                                 ],
                                 "page_number": 15,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -1856,7 +1997,8 @@
                                     338
                                 ],
                                 "page_number": 15,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -1882,7 +2024,8 @@
                                     376
                                 ],
                                 "page_number": 15,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -1894,7 +2037,8 @@
                                     504
                                 ],
                                 "page_number": 15,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     }
@@ -1910,7 +2054,8 @@
                             101
                         ],
                         "page_number": 15,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -1926,7 +2071,8 @@
                     76
                 ],
                 "page_number": 14,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -1941,7 +2087,8 @@
                 "image": {
                     "caption": "",
                     "page": 14
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1953,7 +2100,8 @@
                     346
                 ],
                 "page_number": 14,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -1965,7 +2113,8 @@
                     386
                 ],
                 "page_number": 14,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -1979,147 +2128,7 @@
             76
         ],
         "level": 45,
-        "parts": [
-            {
-                "label": "(ii)",
-                "page_number": 17,
-                "bbox": [
-                    91,
-                    61,
-                    109,
-                    76
-                ],
-                "level": 90,
-                "parts": [],
-                "content": [
-                    {
-                        "type": "text",
-                        "text": "the resistance \\(R\\) , in k\\(\\Omega\\)",
-                        "bbox": [
-                            116,
-                            61,
-                            230,
-                            76
-                        ],
-                        "page_number": 17,
-                        "is_pre": false
-                    },
-                    {
-                        "type": "form_text",
-                        "text": "R = ............................................................ $k\\Omega$",
-                        "bbox": [
-                            328,
-                            166,
-                            547,
-                            181
-                        ],
-                        "page_number": 17,
-                        "is_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[2]",
-                        "bbox": [
-                            531,
-                            166,
-                            548,
-                            182
-                        ],
-                        "page_number": 17,
-                        "is_pre": false
-                    }
-                ]
-            },
-            {
-                "label": "(iii)",
-                "page_number": 17,
-                "bbox": [
-                    87,
-                    194,
-                    107,
-                    209
-                ],
-                "level": 85,
-                "parts": [
-                    {
-                        "label": "(c)",
-                        "page_number": 17,
-                        "bbox": [
-                            70,
-                            324,
-                            87,
-                            340
-                        ],
-                        "level": 70,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "Use Fig. 7.2, Fig. 7.3 and your answer in (a) to explain why the variation of \\(Q\\) with \\(t\\) is exponential in nature",
-                                "bbox": [
-                                    92,
-                                    324,
-                                    548,
-                                    352
-                                ],
-                                "page_number": 17,
-                                "is_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[10]",
-                                "bbox": [
-                                    496,
-                                    490,
-                                    548,
-                                    506
-                                ],
-                                "page_number": 17,
-                                "is_pre": false
-                            }
-                        ]
-                    }
-                ],
-                "content": [
-                    {
-                        "type": "text",
-                        "text": "the time constant \\(\\tau\\) of the circuit",
-                        "bbox": [
-                            115,
-                            194,
-                            275,
-                            209
-                        ],
-                        "page_number": 17,
-                        "is_pre": false
-                    },
-                    {
-                        "type": "form_text",
-                        "text": "t = ............................................................ $s$",
-                        "bbox": [
-                            332,
-                            297,
-                            548,
-                            312
-                        ],
-                        "page_number": 17,
-                        "is_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[2]",
-                        "bbox": [
-                            531,
-                            298,
-                            548,
-                            314
-                        ],
-                        "page_number": 17,
-                        "is_pre": false
-                    }
-                ]
-            }
-        ],
+        "parts": [],
         "content": [
             {
                 "type": "text",
@@ -2131,7 +2140,8 @@
                     76
                 ],
                 "page_number": 16,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -2146,7 +2156,8 @@
                 "image": {
                     "caption": "",
                     "page": 16
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2158,7 +2169,8 @@
                     248
                 ],
                 "page_number": 16,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2170,7 +2182,8 @@
                     274
                 ],
                 "page_number": 16,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2182,19 +2195,50 @@
                     327
                 ],
                 "page_number": 16,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    52,
+                    347,
+                    545,
+                    502
+                ],
+                "page_number": 16,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 16
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "form_text",
-                "text": "C = ..................................................................... µF [2]",
+                "text": "C = ..................................................................... µF",
                 "bbox": [
                     328,
                     712,
-                    548,
+                    528,
                     727
                 ],
                 "page_number": 16,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    508,
+                    712,
+                    528,
+                    727
+                ],
+                "page_number": 16,
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -2242,7 +2286,8 @@
                                     502
                                 ],
                                 "page_number": 18,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -2254,7 +2299,8 @@
                                     529
                                 ],
                                 "page_number": 18,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -2280,37 +2326,39 @@
                                     555
                                 ],
                                 "page_number": 18,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "V_0 = ............................................................ V [1]",
+                                "text": "V_0 = ............................................................ V",
                                 "bbox": [
                                     324,
                                     627,
-                                    543,
+                                    523,
                                     644
                                 ],
                                 "page_number": 18,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    503,
+                                    627,
+                                    523,
+                                    644
+                                ],
+                                "page_number": 18,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     }
                 ],
-                "content": [
-                    {
-                        "type": "pre_text",
-                        "text": "The root-mean-square (r.m.s.) value of \\(V_{\\mathrm{IN}}\\) is 6.0V",
-                        "bbox": [
-                            70,
-                            460,
-                            321,
-                            475
-                        ],
-                        "page_number": 18,
-                        "is_pre": true
-                    }
-                ]
+                "content": []
             },
             {
                 "label": "(b)",
@@ -2345,19 +2393,34 @@
                                     127
                                 ],
                                 "page_number": 19,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "P_0 = ............................................................ W [2]",
+                                "text": "P_0 = ............................................................ W",
                                 "bbox": [
                                     324,
                                     232,
-                                    547,
+                                    527,
                                     247
                                 ],
                                 "page_number": 19,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    507,
+                                    232,
+                                    527,
+                                    247
+                                ],
+                                "page_number": 19,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -2383,7 +2446,8 @@
                                     286
                                 ],
                                 "page_number": 19,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "image",
@@ -2398,7 +2462,8 @@
                                 "image": {
                                     "caption": "",
                                     "page": 19
-                                }
+                                },
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -2410,7 +2475,8 @@
                                     486
                                 ],
                                 "page_number": 19,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -2436,7 +2502,8 @@
                                     513
                                 ],
                                 "page_number": 19,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -2462,19 +2529,34 @@
                                     616
                                 ],
                                 "page_number": 19,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "r.m.s. voltage = ............................................................ V [1]",
+                                "text": "r.m.s. voltage = ............................................................ V",
                                 "bbox": [
                                     270,
                                     718,
-                                    547,
+                                    527,
                                     733
                                 ],
                                 "page_number": 19,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    507,
+                                    718,
+                                    527,
+                                    733
+                                ],
+                                "page_number": 19,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -2486,7 +2568,8 @@
                                     759
                                 ],
                                 "page_number": 19,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     }
@@ -2502,7 +2585,8 @@
                             74
                         ],
                         "page_number": 19,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -2514,7 +2598,8 @@
                             101
                         ],
                         "page_number": 19,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -2530,7 +2615,8 @@
                     76
                 ],
                 "page_number": 18,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -2545,7 +2631,8 @@
                 "image": {
                     "caption": "",
                     "page": 18
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2557,7 +2644,8 @@
                     251
                 ],
                 "page_number": 18,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -2569,7 +2657,8 @@
                     277
                 ],
                 "page_number": 18,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "image",
@@ -2584,7 +2673,21 @@
                 "image": {
                     "caption": "",
                     "page": 18
-                }
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The root-mean-square (r.m.s.) value of \\(V_{\\mathrm{IN}}\\) is 6.0V",
+                "bbox": [
+                    70,
+                    460,
+                    321,
+                    475
+                ],
+                "page_number": 18,
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -2621,7 +2724,8 @@
                             76
                         ],
                         "page_number": 20,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -2633,7 +2737,8 @@
                             155
                         ],
                         "page_number": 20,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -2647,72 +2752,7 @@
                     180
                 ],
                 "level": 70,
-                "parts": [
-                    {
-                        "label": "(i)",
-                        "page_number": 21,
-                        "bbox": [
-                            92,
-                            61,
-                            107,
-                            76
-                        ],
-                        "level": 90,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "Explain, with reference to photons, why \\(V_{\\mathrm{S}}\\) depends on the frequency of the incident electromagnetic radiation",
-                                "bbox": [
-                                    115,
-                                    61,
-                                    547,
-                                    89
-                                ],
-                                "page_number": 21,
-                                "is_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[3]",
-                                "bbox": [
-                                    524,
-                                    231,
-                                    547,
-                                    247
-                                ],
-                                "page_number": 21,
-                                "is_pre": false
-                            }
-                        ]
-                    },
-                    {
-                        "label": "(ii)",
-                        "page_number": 21,
-                        "bbox": [
-                            90,
-                            256,
-                            107,
-                            272
-                        ],
-                        "level": 90,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "text",
-                                "text": "State **three** quantitative conclusions that can be drawn from the results in Fig. 9.2 and Fig. 9.3. Use the space for any working",
-                                "bbox": [
-                                    115,
-                                    256,
-                                    547,
-                                    285
-                                ],
-                                "page_number": 21,
-                                "is_pre": false
-                            }
-                        ]
-                    }
-                ],
+                "parts": [],
                 "content": [
                     {
                         "type": "text",
@@ -2724,7 +2764,24 @@
                             180
                         ],
                         "page_number": 20,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            56,
+                            187,
+                            536,
+                            331
+                        ],
+                        "page_number": 20,
+                        "is_pre": false,
+                        "image": {
+                            "caption": "",
+                            "page": 20
+                        },
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -2736,7 +2793,8 @@
                             399
                         ],
                         "page_number": 20,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -2748,7 +2806,8 @@
                             464
                         ],
                         "page_number": 20,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -2760,7 +2819,8 @@
                             517
                         ],
                         "page_number": 20,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "image",
@@ -2775,7 +2835,8 @@
                         "image": {
                             "caption": "",
                             "page": 20
-                        }
+                        },
+                        "is_pot_pre": false
                     },
                     {
                         "type": "image",
@@ -2790,7 +2851,8 @@
                         "image": {
                             "caption": "",
                             "page": 20
-                        }
+                        },
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -2830,7 +2892,8 @@
                             74
                         ],
                         "page_number": 22,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -2842,7 +2905,8 @@
                             101
                         ],
                         "page_number": 22,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -2854,7 +2918,8 @@
                             154
                         ],
                         "page_number": 22,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -2891,7 +2956,8 @@
                                     587
                                 ],
                                 "page_number": 22,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "table",
@@ -2905,7 +2971,8 @@
                                 "is_pre": false,
                                 "table": {
                                     "html": "<table><tr><td>sample</td><td>half-life</td><td>decay constant</td><td>initial activity</td><td>initial number of nuclei</td></tr><tr><td>X</td><td></td><td></td><td>4A</td><td></td></tr><tr><td>Y</td><td></td><td></td><td>A</td><td></td></tr></table>"
-                                }
+                                },
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -2917,7 +2984,8 @@
                                     744
                                 ],
                                 "page_number": 22,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -2943,7 +3011,8 @@
                                     74
                                 ],
                                 "page_number": 23,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
@@ -2955,7 +3024,8 @@
                                     229
                                 ],
                                 "page_number": 23,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -2967,7 +3037,8 @@
                                     230
                                 ],
                                 "page_number": 23,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     }
@@ -2983,7 +3054,8 @@
                             179
                         ],
                         "page_number": 22,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -2995,7 +3067,8 @@
                             191
                         ],
                         "page_number": 22,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -3007,7 +3080,8 @@
                             205
                         ],
                         "page_number": 22,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -3019,7 +3093,8 @@
                             244
                         ],
                         "page_number": 22,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "image",
@@ -3034,7 +3109,8 @@
                         "image": {
                             "caption": "",
                             "page": 22
-                        }
+                        },
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -3060,7 +3136,8 @@
                             258
                         ],
                         "page_number": 23,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -3072,7 +3149,8 @@
                             283
                         ],
                         "page_number": 23,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -3084,7 +3162,8 @@
                             387
                         ],
                         "page_number": 23,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }

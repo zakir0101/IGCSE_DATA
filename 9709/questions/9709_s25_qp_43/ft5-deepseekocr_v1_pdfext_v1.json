@@ -32,7 +32,8 @@
                             142
                         ],
                         "page_number": 2,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -44,7 +45,8 @@
                             142
                         ],
                         "page_number": 2,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -70,7 +72,8 @@
                             454
                         ],
                         "page_number": 2,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -82,7 +85,8 @@
                             454
                         ],
                         "page_number": 2,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -98,7 +102,8 @@
                     115
                 ],
                 "page_number": 2,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -124,7 +129,8 @@
                     115
                 ],
                 "page_number": 3,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -136,7 +142,8 @@
                     141
                 ],
                 "page_number": 3,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "mark_text",
@@ -148,7 +155,8 @@
                     141
                 ],
                 "page_number": 3,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -185,7 +193,8 @@
                             355
                         ],
                         "page_number": 4,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -197,7 +206,8 @@
                             355
                         ],
                         "page_number": 4,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -223,7 +233,8 @@
                             668
                         ],
                         "page_number": 4,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -235,7 +246,8 @@
                             668
                         ],
                         "page_number": 4,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -254,7 +266,8 @@
                 "image": {
                     "caption": "",
                     "page": 4
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -266,7 +279,8 @@
                     329
                 ],
                 "page_number": 4,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -295,7 +309,8 @@
                 "image": {
                     "caption": "",
                     "page": 5
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -307,7 +322,8 @@
                     354
                 ],
                 "page_number": 5,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -319,7 +335,8 @@
                     379
                 ],
                 "page_number": 5,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "mark_text",
@@ -331,7 +348,8 @@
                     379
                 ],
                 "page_number": 5,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -368,7 +386,8 @@
                             133
                         ],
                         "page_number": 6,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -380,19 +399,8 @@
                             173
                         ],
                         "page_number": 6,
-                        "is_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The van begins to ascend a hill inclined at an angle \\(\\theta^{\\circ}\\) to the horizontal. The van travels along a line of greatest slope of the hill. The speed of the van at the start of the hill is \\(20 \\mathrm{m s}^{-1}\\), and its acceleration is \\(5a \\mathrm{m s}^{-2}\\). Later, on the same hill, the speed of the van is \\(30 \\mathrm{m s}^{-1}\\), and its acceleration is \\(a \\mathrm{m s}^{-2}\\). The power of the van's engine remains at \\(62.5 \\mathrm{kW}\\), and the resistance force remains at \\(0.5v^2 \\mathrm{N}\\)",
-                        "bbox": [
-                            70,
-                            62,
-                            547,
-                            115
-                        ],
-                        "page_number": 7,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -409,6 +417,19 @@
                 "parts": [],
                 "content": [
                     {
+                        "type": "pre_text",
+                        "text": "The van begins to ascend a hill inclined at an angle \\(\\theta^{\\circ}\\) to the horizontal. The van travels along a line of greatest slope of the hill. The speed of the van at the start of the hill is \\(20 \\mathrm{m s}^{-1}\\), and its acceleration is \\(5a \\mathrm{m s}^{-2}\\). Later, on the same hill, the speed of the van is \\(30 \\mathrm{m s}^{-1}\\), and its acceleration is \\(a \\mathrm{m s}^{-2}\\). The power of the van's engine remains at \\(62.5 \\mathrm{kW}\\), and the resistance force remains at \\(0.5v^2 \\mathrm{N}\\)",
+                        "bbox": [
+                            70,
+                            62,
+                            547,
+                            115
+                        ],
+                        "page_number": 7,
+                        "is_pre": true,
+                        "is_pot_pre": true
+                    },
+                    {
                         "type": "text",
                         "text": "Find the value of \\(a\\) and the value of \\(\\theta\\)",
                         "bbox": [
@@ -418,7 +439,8 @@
                             143
                         ],
                         "page_number": 7,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -430,7 +452,8 @@
                             143
                         ],
                         "page_number": 7,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -446,7 +469,8 @@
                     93
                 ],
                 "page_number": 6,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -483,7 +507,8 @@
                             396
                         ],
                         "page_number": 8,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -495,7 +520,8 @@
                             396
                         ],
                         "page_number": 8,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -521,7 +547,8 @@
                             336
                         ],
                         "page_number": 9,
-                        "is_pre": true
+                        "is_pre": true,
+                        "is_pot_pre": true
                     },
                     {
                         "type": "text",
@@ -533,7 +560,8 @@
                             363
                         ],
                         "page_number": 9,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -545,7 +573,8 @@
                             363
                         ],
                         "page_number": 9,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -564,7 +593,8 @@
                 "image": {
                     "caption": "",
                     "page": 8
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -576,7 +606,8 @@
                     371
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -613,7 +644,8 @@
                             115
                         ],
                         "page_number": 10,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -625,19 +657,8 @@
                             115
                         ],
                         "page_number": 10,
-                        "is_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "For \\(t > 4\\) , the acceleration of \\(X\\) at time \\(t\\)s after leaving \\(O\\) is \\(a \\mathrm{m} \\mathrm{s}^{- 2}\\) , where \\(a = 0.3t^{\\frac{1}{2}}\\) . There is no change in the velocity of \\(X\\) at \\(t = 4\\) . The velocity of \\(X\\) at \\(t = T\\) is \\(14.2 \\mathrm{m} \\mathrm{s}^{- 1}\\)",
-                        "bbox": [
-                            70,
-                            281,
-                            548,
-                            310
-                        ],
-                        "page_number": 10,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -674,7 +695,8 @@
                                     337
                                 ],
                                 "page_number": 10,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -686,7 +708,8 @@
                                     337
                                 ],
                                 "page_number": 10,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     },
@@ -712,7 +735,8 @@
                                     76
                                 ],
                                 "page_number": 11,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "mark_text",
@@ -724,12 +748,27 @@
                                     77
                                 ],
                                 "page_number": 11,
-                                "is_pre": false
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ]
                     }
                 ],
-                "content": []
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "For \\(t > 4\\) , the acceleration of \\(X\\) at time \\(t\\)s after leaving \\(O\\) is \\(a \\mathrm{m} \\mathrm{s}^{- 2}\\) , where \\(a = 0.3t^{\\frac{1}{2}}\\) . There is no change in the velocity of \\(X\\) at \\(t = 4\\) . The velocity of \\(X\\) at \\(t = T\\) is \\(14.2 \\mathrm{m} \\mathrm{s}^{- 1}\\)",
+                        "bbox": [
+                            70,
+                            281,
+                            548,
+                            310
+                        ],
+                        "page_number": 10,
+                        "is_pre": true,
+                        "is_pot_pre": true
+                    }
+                ]
             }
         ],
         "content": [
@@ -743,7 +782,8 @@
                     89
                 ],
                 "page_number": 10,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     }

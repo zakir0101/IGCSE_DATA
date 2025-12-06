@@ -21,7 +21,8 @@
                     101
                 ],
                 "page_number": 3,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -33,7 +34,8 @@
                     128
                 ],
                 "page_number": 3,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "mark_text",
@@ -45,7 +47,8 @@
                     128
                 ],
                 "page_number": 3,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -82,7 +85,8 @@
                             143
                         ],
                         "page_number": 4,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -108,7 +112,8 @@
                             73
                         ],
                         "page_number": 5,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "text",
@@ -120,7 +125,8 @@
                             100
                         ],
                         "page_number": 5,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -132,7 +138,8 @@
                             101
                         ],
                         "page_number": 5,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -148,7 +155,8 @@
                     115
                 ],
                 "page_number": 4,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -185,7 +193,8 @@
                             152
                         ],
                         "page_number": 6,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -211,7 +220,8 @@
                             76
                         ],
                         "page_number": 7,
-                        "is_pre": true
+                        "is_pre": true,
+                        "is_pot_pre": true
                     },
                     {
                         "type": "text",
@@ -223,7 +233,8 @@
                             103
                         ],
                         "page_number": 7,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -235,7 +246,8 @@
                             103
                         ],
                         "page_number": 7,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -251,7 +263,8 @@
                     105
                 ],
                 "page_number": 6,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -280,7 +293,8 @@
                 "image": {
                     "caption": "",
                     "page": 8
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -292,7 +306,8 @@
                     334
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -304,7 +319,8 @@
                     372
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             },
             {
                 "type": "mark_text",
@@ -316,7 +332,8 @@
                     374
                 ],
                 "page_number": 8,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -353,7 +370,8 @@
                             329
                         ],
                         "page_number": 10,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -365,7 +383,8 @@
                             329
                         ],
                         "page_number": 10,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -391,7 +410,8 @@
                             89
                         ],
                         "page_number": 11,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -410,7 +430,8 @@
                 "image": {
                     "caption": "",
                     "page": 10
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -422,7 +443,8 @@
                     303
                 ],
                 "page_number": 10,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -459,7 +481,8 @@
                             293
                         ],
                         "page_number": 12,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -471,19 +494,8 @@
                             293
                         ],
                         "page_number": 12,
-                        "is_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "As a result of the collision, \\(A\\) moves in a direction which is perpendicular to the line of centres",
-                        "bbox": [
-                            67,
-                            413,
-                            511,
-                            427
-                        ],
-                        "page_number": 13,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -500,6 +512,19 @@
                 "parts": [],
                 "content": [
                     {
+                        "type": "pre_text",
+                        "text": "As a result of the collision, \\(A\\) moves in a direction which is perpendicular to the line of centres",
+                        "bbox": [
+                            67,
+                            413,
+                            511,
+                            427
+                        ],
+                        "page_number": 13,
+                        "is_pre": true,
+                        "is_pot_pre": true
+                    },
+                    {
                         "type": "text",
                         "text": "Find the value of \\(\\theta\\)",
                         "bbox": [
@@ -509,7 +534,8 @@
                             454
                         ],
                         "page_number": 13,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -521,7 +547,8 @@
                             454
                         ],
                         "page_number": 13,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -540,7 +567,8 @@
                 "image": {
                     "caption": "",
                     "page": 12
-                }
+                },
+                "is_pot_pre": false
             },
             {
                 "type": "text",
@@ -552,7 +580,8 @@
                     267
                 ],
                 "page_number": 12,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     },
@@ -589,7 +618,8 @@
                             114
                         ],
                         "page_number": 14,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -601,19 +631,8 @@
                             114
                         ],
                         "page_number": 14,
-                        "is_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "At time \\(T,\\) particle \\(P\\) is moving at an angle of \\(60^{\\circ}\\) below the horizontal",
-                        "bbox": [
-                            70,
-                            309,
-                            400,
-                            324
-                        ],
-                        "page_number": 14,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -630,6 +649,19 @@
                 "parts": [],
                 "content": [
                     {
+                        "type": "pre_text",
+                        "text": "At time \\(T,\\) particle \\(P\\) is moving at an angle of \\(60^{\\circ}\\) below the horizontal",
+                        "bbox": [
+                            70,
+                            309,
+                            400,
+                            324
+                        ],
+                        "page_number": 14,
+                        "is_pre": true,
+                        "is_pot_pre": true
+                    },
+                    {
                         "type": "text",
                         "text": "Show that \\(T = \\frac{U}{2g} (\\sqrt{2} + \\sqrt{6}).\\)",
                         "bbox": [
@@ -639,7 +671,8 @@
                             353
                         ],
                         "page_number": 14,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -651,7 +684,8 @@
                             350
                         ],
                         "page_number": 14,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -677,7 +711,8 @@
                             88
                         ],
                         "page_number": 15,
-                        "is_pre": true
+                        "is_pre": true,
+                        "is_pot_pre": true
                     },
                     {
                         "type": "text",
@@ -689,7 +724,8 @@
                             115
                         ],
                         "page_number": 15,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -701,7 +737,8 @@
                             115
                         ],
                         "page_number": 15,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             },
@@ -727,7 +764,8 @@
                             445
                         ],
                         "page_number": 15,
-                        "is_pre": true
+                        "is_pre": true,
+                        "is_pot_pre": true
                     },
                     {
                         "type": "text",
@@ -739,7 +777,8 @@
                             470
                         ],
                         "page_number": 15,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     },
                     {
                         "type": "mark_text",
@@ -751,7 +790,8 @@
                             470
                         ],
                         "page_number": 15,
-                        "is_pre": false
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ]
             }
@@ -767,7 +807,8 @@
                     88
                 ],
                 "page_number": 14,
-                "is_pre": false
+                "is_pre": false,
+                "is_pot_pre": false
             }
         ]
     }
