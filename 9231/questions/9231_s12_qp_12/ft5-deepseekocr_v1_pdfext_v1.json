@@ -1,0 +1,1345 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            46,
+            63,
+            59,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 2,
+                "bbox": [
+                    76,
+                    85,
+                    93,
+                    100
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "\\(\\alpha^{2} + \\beta^{2} + \\gamma^{2}\\),",
+                        "bbox": [
+                            96,
+                            84,
+                            157,
+                            100
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            530,
+                            85,
+                            528,
+                            100
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            85,
+                            528,
+                            100
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 2,
+                "bbox": [
+                    72,
+                    105,
+                    94,
+                    121
+                ],
+                "level": 72,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "\\(\\alpha^{3} + \\beta^{3} + \\gamma^{3}\\)",
+                        "bbox": [
+                            96,
+                            105,
+                            157,
+                            121
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            530,
+                            105,
+                            528,
+                            121
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            105,
+                            528,
+                            121
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The roots of the cubic equation \\(x^{3} - 7x^{2} + 2x - 3 = 0\\) are \\(\\alpha , \\beta , \\gamma\\). Find the values of",
+                "bbox": [
+                    72,
+                    63,
+                    465,
+                    78
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "page_number": 2,
+        "bbox": [
+            46,
+            145,
+            57,
+            160
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Prove, by mathematical induction, that, for integers \\(n \\geqslant 2\\),",
+                "bbox": [
+                    72,
+                    144,
+                    346,
+                    160
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[4^{n} > 2^{n} + 3^{n}.\\]",
+                "bbox": [
+                    266,
+                    166,
+                    328,
+                    182
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "",
+                "bbox": [
+                    530,
+                    166,
+                    528,
+                    182
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    166,
+                    528,
+                    182
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "page_number": 2,
+        "bbox": [
+            46,
+            215,
+            57,
+            231
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Given that \\(\\operatorname {f}(r) = \\frac{1}{(r + 1)(r + 2)},\\) show that",
+                "bbox": [
+                    72,
+                    213,
+                    274,
+                    240
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\operatorname {f}(r - 1) - \\operatorname {f}(r) = \\frac{2}{r(r + 1)(r + 2)}.\\]",
+                "bbox": [
+                    219,
+                    247,
+                    375,
+                    274
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Hence find \\(\\sum_{r=1}^{n} \\frac{1}{r(r+1)(r+2)}\\).",
+                "bbox": [
+                    71,
+                    289,
+                    528,
+                    329
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    289,
+                    528,
+                    329
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Deduce the value of \\(\\sum_{r=1}^{\\infty} \\frac{1}{r(r+1)(r+2)}\\).",
+                "bbox": [
+                    71,
+                    339,
+                    242,
+                    374
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[1]",
+                "bbox": [
+                    222,
+                    339,
+                    242,
+                    374
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "page_number": 2,
+        "bbox": [
+            46,
+            400,
+            57,
+            414
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The curve \\(C\\) has polar equation \\(r = 2 + 2\\cos \\theta\\) , for \\(0\\leqslant \\theta \\leqslant \\pi\\) . Sketch the graph of \\(C\\) .",
+                "bbox": [
+                    71,
+                    399,
+                    453,
+                    414
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    433,
+                    399,
+                    453,
+                    414
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the area of the region \\(R\\) enclosed by \\(C\\) and the initial line.",
+                "bbox": [
+                    71,
+                    425,
+                    351,
+                    441
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    331,
+                    425,
+                    351,
+                    441
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The half-line \\(\\theta = \\frac{1}{5}\\pi\\) divides \\(R\\) into two parts. Find the area of each part, correct to 3 decimal places",
+                "bbox": [
+                    71,
+                    452,
+                    548,
+                    467
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "",
+                "bbox": [
+                    530,
+                    468,
+                    528,
+                    482
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    468,
+                    528,
+                    482
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "page_number": 2,
+        "bbox": [
+            46,
+            506,
+            58,
+            521
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "A matrix \\(\\mathbf{A}\\) has eigenvalues \\(-1\\) , 1 and 2, with corresponding eigenvectors",
+                "bbox": [
+                    71,
+                    505,
+                    419,
+                    520
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\left( \\begin{array}{c}0\\\\ 1\\\\ -2 \\end{array} \\right),\\quad \\left( \\begin{array}{c}-1\\\\ -1\\\\ 3 \\end{array} \\right)\\quad \\mathrm{and}\\quad \\left( \\begin{array}{c}2\\\\ -3\\\\ 5 \\end{array} \\right),\\]",
+                "bbox": [
+                    217,
+                    525,
+                    378,
+                    565
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "respectively. Find A",
+                "bbox": [
+                    71,
+                    571,
+                    172,
+                    585
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "",
+                "bbox": [
+                    530,
+                    571,
+                    528,
+                    585
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[9]",
+                "bbox": [
+                    508,
+                    571,
+                    528,
+                    585
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "page_number": 2,
+        "bbox": [
+            46,
+            609,
+            57,
+            625
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Write down the values of \\(\\theta\\) , in the interval \\(0 \\leqslant \\theta < 2\\pi\\) , for which \\(\\cos \\theta + \\mathrm{i} \\sin \\theta\\) is a fifth root of unity",
+                "bbox": [
+                    71,
+                    609,
+                    548,
+                    624
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "",
+                "bbox": [
+                    530,
+                    624,
+                    528,
+                    638
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    508,
+                    624,
+                    528,
+                    638
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "By writing the equation \\((z + 1)^{5} = z^{5}\\) in the form",
+                "bbox": [
+                    71,
+                    649,
+                    302,
+                    664
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\left(\\frac{z + 1}{z}\\right)^{5} = 1,\\]",
+                "bbox": [
+                    264,
+                    670,
+                    331,
+                    700
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "show that its roots are",
+                "bbox": [
+                    71,
+                    708,
+                    177,
+                    722
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[-\\frac{1}{2}\\Big\\{1 + \\mathrm{i}\\cot \\Big(\\frac{k\\pi}{5}\\Big)\\Big\\} ,\\quad k = 1,2,3,4. \\quad [7]\\]",
+                "bbox": [
+                    210,
+                    722,
+                    384,
+                    750
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "page_number": 3,
+        "bbox": [
+            46,
+            63,
+            56,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The linear transformations \\(\\mathrm{T}_{1}:\\mathbb{R}^{4}\\to \\mathbb{R}^{4}\\) and \\(\\mathrm{T}_{2}:\\mathbb{R}^{4}\\to \\mathbb{R}^{4}\\) are represented by the matrices",
+                "bbox": [
+                    70,
+                    63,
+                    494,
+                    79
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathbf{M}_{1} = \\begin{pmatrix} 1 & 1 & 1 & 4 \\\\ 2 & 1 & 4 & 11 \\\\ 3 & 4 & 1 & 9 \\\\ 4 & -3 & 18 & 37 \\end{pmatrix} \\quad \\text{and} \\quad \\mathbf{M}_{2} = \\begin{pmatrix} 1 & 1 & 1 & -1 \\\\ 2 & 3 & 0 & 1 \\\\ 3 & 4 & 1 & 0 \\\\ 4 & 5 & 2 & 0 \\end{pmatrix},\\]",
+                "bbox": [
+                    149,
+                    84,
+                    445,
+                    143
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "respectively. The null space of \\(\\mathrm{T}_{1}\\) is denoted by \\(K_{1}\\) and the null space of \\(\\mathrm{T}_{2}\\) is denoted by \\(K_{2}\\). Show that the dimension of \\(K_{1}\\) is 2 and that the dimension of \\(K_{2}\\) is 1.",
+                "bbox": [
+                    70,
+                    148,
+                    527,
+                    177
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    507,
+                    148,
+                    527,
+                    177
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the basis of \\(K_{1}\\) which has the form \\(\\left\\{ \\begin{pmatrix} p \\\\ q \\\\ 1 \\\\ 0 \\end{pmatrix}, \\begin{pmatrix} r \\\\ s \\\\ 0 \\\\ 1 \\end{pmatrix} \\right\\}\\) and show that \\(K_{2}\\) is a subspace of \\(K_{1}\\).",
+                "bbox": [
+                    70,
+                    183,
+                    528,
+                    247
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    183,
+                    528,
+                    247
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "8",
+        "page_number": 3,
+        "bbox": [
+            46,
+            267,
+            57,
+            283
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Find the particular solution of the differential equation",
+                "bbox": [
+                    70,
+                    267,
+                    331,
+                    283
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\frac{\\mathrm{d}^{2}y}{\\mathrm{d}x^{2}} +2\\frac{\\mathrm{d}y}{\\mathrm{d}x} +5y = 10\\mathrm{e}^{-2x},\\]",
+                "bbox": [
+                    236,
+                    291,
+                    357,
+                    318
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "given that \\(y = 5\\) and \\(\\frac{\\mathrm{d}y}{\\mathrm{d}x} = 1\\) when \\(x = 0\\)",
+                "bbox": [
+                    70,
+                    326,
+                    262,
+                    350
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[11]",
+                "bbox": [
+                    524,
+                    330,
+                    548,
+                    346
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "9",
+        "page_number": 3,
+        "bbox": [
+            46,
+            373,
+            57,
+            388
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The curve \\(C\\) has equation",
+                "bbox": [
+                    70,
+                    373,
+                    195,
+                    388
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[y = \\frac{2x^{2} + 2x + 3}{x^{2} + 2}.\\]",
+                "bbox": [
+                    254,
+                    389,
+                    339,
+                    420
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Show that, for all \\(x\\) , \\(1 \\leqslant y \\leqslant \\frac{5}{2}\\)",
+                "bbox": [
+                    70,
+                    424,
+                    215,
+                    440
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "",
+                "bbox": [
+                    530,
+                    425,
+                    528,
+                    440
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    425,
+                    528,
+                    440
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the coordinates of the turning points on \\(C\\)",
+                "bbox": [
+                    70,
+                    451,
+                    298,
+                    466
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "",
+                "bbox": [
+                    530,
+                    451,
+                    528,
+                    466
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    451,
+                    528,
+                    466
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the equation of the asymptote of \\(C\\)",
+                "bbox": [
+                    70,
+                    477,
+                    264,
+                    492
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "",
+                "bbox": [
+                    530,
+                    477,
+                    528,
+                    492
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    508,
+                    477,
+                    528,
+                    492
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Sketch the graph of \\(C\\) , stating the coordinates of any intersections with the \\(y\\) -axis and the asymptote",
+                "bbox": [
+                    70,
+                    502,
+                    548,
+                    518
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "",
+                "bbox": [
+                    530,
+                    518,
+                    528,
+                    533
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    508,
+                    518,
+                    528,
+                    533
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "10",
+        "page_number": 3,
+        "bbox": [
+            47,
+            556,
+            64,
+            571
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The curve \\(C\\) has equation",
+                "bbox": [
+                    70,
+                    556,
+                    195,
+                    571
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[y = 2\\left(\\frac{x}{3}\\right)^{\\frac{3}{2}},\\]",
+                "bbox": [
+                    268,
+                    573,
+                    325,
+                    601
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "where \\(0 \\leqslant x \\leqslant 3\\) . Show that the arc length of \\(C\\) is \\(2(2\\sqrt{2} - 1)\\)",
+                "bbox": [
+                    70,
+                    605,
+                    365,
+                    621
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "",
+                "bbox": [
+                    530,
+                    607,
+                    528,
+                    622
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    607,
+                    528,
+                    622
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the coordinates of the centroid of the region enclosed by \\(C\\), the \\(x\\) -axis and the line \\(x = 3\\)",
+                "bbox": [
+                    70,
+                    632,
+                    545,
+                    647
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "",
+                "bbox": [
+                    530,
+                    632,
+                    528,
+                    647
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[7]",
+                "bbox": [
+                    508,
+                    632,
+                    528,
+                    647
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "11",
+        "page_number": 4,
+        "bbox": [
+            48,
+            63,
+            64,
+            78
+        ],
+        "level": 48,
+        "parts": [
+            {
+                "label": "EITHER",
+                "page_number": 4,
+                "bbox": [
+                    71,
+                    102,
+                    119,
+                    115
+                ],
+                "level": 71,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that",
+                        "bbox": [
+                            71,
+                            129,
+                            121,
+                            142
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\int_{0}^{\\pi}\\mathrm{e}^{x}\\sin x\\mathrm{d}x = \\frac{1 + \\mathrm{e}^{\\pi}}{2}. \\quad [4]\\]",
+                        "bbox": [
+                            243,
+                            142,
+                            353,
+                            170
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Given that",
+                        "bbox": [
+                            71,
+                            185,
+                            123,
+                            197
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[I_{n} = \\int_{0}^{\\pi}\\mathrm{e}^{x}\\sin^{n}x\\mathrm{d}x,\\]",
+                        "bbox": [
+                            250,
+                            198,
+                            343,
+                            228
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "show that, for \\(n \\geq 2\\),",
+                        "bbox": [
+                            71,
+                            232,
+                            169,
+                            245
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[I_{n} = n(n - 1)\\int_{0}^{\\pi}\\mathrm{e}^{x}\\cos^{2}x\\sin^{n - 2}x\\mathrm{d}x - nI_{n},\\]",
+                        "bbox": [
+                            198,
+                            247,
+                            395,
+                            276
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "and deduce that",
+                        "bbox": [
+                            71,
+                            280,
+                            148,
+                            292
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[(n^{2} + 1)I_{n} = n(n - 1)I_{n - 2}. \\quad [6]\\]",
+                        "bbox": [
+                            236,
+                            295,
+                            357,
+                            312
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "A curve has equation \\(y = \\mathrm{e}^{x}\\sin^{5}x\\) . Find, in an exact form, the mean value of \\(y\\) over the interval \\(0\\leqslant x\\leqslant \\pi\\) .",
+                        "bbox": [
+                            71,
+                            328,
+                            527,
+                            356
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            507,
+                            328,
+                            527,
+                            356
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "OR",
+                "page_number": 4,
+                "bbox": [
+                    71,
+                    380,
+                    91,
+                    394
+                ],
+                "level": 71,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The position vectors of the points \\(A, B, C, D\\) are",
+                        "bbox": [
+                            71,
+                            407,
+                            302,
+                            421
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[2\\mathbf{i} + 4\\mathbf{j} - 3\\mathbf{k},\\quad -2\\mathbf{i} + 5\\mathbf{j} - 4\\mathbf{k},\\quad \\mathbf{i} + 4\\mathbf{j} + \\mathbf{k},\\quad \\mathbf{i} + 5\\mathbf{j} + m\\mathbf{k},\\]",
+                        "bbox": [
+                            164,
+                            428,
+                            429,
+                            443
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "respectively, where \\(m\\) is an integer. It is given that the shortest distance between the line through \\(A\\) and \\(B\\) and the line through \\(C\\) and \\(D\\) is 3. Show that the only possible value of \\(m\\) is 2.",
+                        "bbox": [
+                            71,
+                            451,
+                            527,
+                            478
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            507,
+                            451,
+                            527,
+                            478
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the shortest distance of \\(D\\) from the line through \\(A\\) and \\(C\\).",
+                        "bbox": [
+                            71,
+                            490,
+                            526,
+                            503
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            506,
+                            490,
+                            526,
+                            503
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Show that the acute angle between the planes \\(ACD\\) and \\(BCD\\) is \\(\\cos^{-1}\\left(\\frac{1}{\\sqrt{3}}\\right)\\).",
+                        "bbox": [
+                            71,
+                            516,
+                            416,
+                            542
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            396,
+                            516,
+                            416,
+                            542
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Answer only one of the following two alternatives",
+                "bbox": [
+                    72,
+                    63,
+                    313,
+                    78
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    }
+]

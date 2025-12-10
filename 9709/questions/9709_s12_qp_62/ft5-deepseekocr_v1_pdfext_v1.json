@@ -1,0 +1,1221 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            47,
+            63,
+            57,
+            78
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The ages, \\(x\\) years, of 150 cars are summarised by \\(\\Sigma x = 645\\) and \\(\\Sigma x^2 = 8287.5\\). Find \\(\\Sigma (x - \\bar{x})^2\\), where \\(\\bar{x}\\) denotes the mean of \\(x\\)",
+                "bbox": [
+                    71,
+                    63,
+                    548,
+                    91
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "",
+                "bbox": [
+                    531,
+                    75,
+                    528,
+                    90
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    75,
+                    528,
+                    90
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "2",
+        "page_number": 2,
+        "bbox": [
+            47,
+            115,
+            57,
+            130
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 2,
+                "bbox": [
+                    76,
+                    240,
+                    92,
+                    255
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Draw up the probability distribution table for \\(Y\\)",
+                        "bbox": [
+                            95,
+                            240,
+                            323,
+                            255
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            240,
+                            528,
+                            255
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            240,
+                            528,
+                            255
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 2,
+                "bbox": [
+                    73,
+                    266,
+                    92,
+                    281
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the expected value of \\(Y\\)",
+                        "bbox": [
+                            95,
+                            266,
+                            235,
+                            281
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            266,
+                            528,
+                            281
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            266,
+                            528,
+                            281
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The random variable \\(X\\) has the probability distribution shown in the table",
+                "bbox": [
+                    71,
+                    115,
+                    421,
+                    129
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    221,
+                    137,
+                    396,
+                    177
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>\\(x\\)</td><td>2</td><td>4</td><td>6</td></tr><tr><td>P(\\(X = x\\))</td><td>0.5</td><td>0.4</td><td>0.1</td></tr></table>"
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Two independent values of \\(X\\) are chosen at random. The random variable \\(Y\\) takes the value 0 if the two values of \\(X\\) are the same. Otherwise the value of \\(Y\\) is the larger value of \\(X\\) minus the smaller value of \\(X\\)",
+                "bbox": [
+                    71,
+                    188,
+                    548,
+                    228
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "3",
+        "page_number": 2,
+        "bbox": [
+            47,
+            305,
+            57,
+            320
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 2,
+                "bbox": [
+                    76,
+                    358,
+                    92,
+                    373
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability that more than 2 and fewer than 12 of them rated the food as ‘good’.",
+                        "bbox": [
+                            95,
+                            358,
+                            528,
+                            373
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            358,
+                            528,
+                            373
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "On a separate occasion, a random sample of \\(n\\) customers who went for a meal at the restaurant was taken",
+                        "bbox": [
+                            71,
+                            385,
+                            548,
+                            411
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 2,
+                "bbox": [
+                    73,
+                    424,
+                    92,
+                    438
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the smallest value of \\(n\\) for which the probability that at least 1 person will rate the food as ‘poor’ is greater than 0.95.",
+                        "bbox": [
+                            95,
+                            424,
+                            528,
+                            451
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            424,
+                            528,
+                            451
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "In Restaurant Bijoux \\(13\\%\\) of customers rated the food as ‘poor’, \\(22\\%\\) of customers rated the food as ‘satisfactory’ and \\(65\\%\\) rated it as ‘good’. A random sample of 12 customers who went for a meal at Restaurant Bijoux was taken",
+                "bbox": [
+                    71,
+                    305,
+                    548,
+                    346
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "4",
+        "page_number": 2,
+        "bbox": [
+            47,
+            475,
+            57,
+            490
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 2,
+                "bbox": [
+                    76,
+                    659,
+                    92,
+                    674
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the median and the interquartile range for variable \\(A\\)",
+                        "bbox": [
+                            95,
+                            659,
+                            371,
+                            674
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            659,
+                            528,
+                            674
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            659,
+                            528,
+                            674
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 2,
+                "bbox": [
+                    73,
+                    686,
+                    92,
+                    700
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "You are given that, for variable \\(B\\), the median is 0.171, the upper quartile is 0.179 and the lower quartile is 0.164. Draw box-and-whisker plots for \\(A\\) and \\(B\\) in a single diagram on graph paper",
+                        "bbox": [
+                            95,
+                            686,
+                            548,
+                            713
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            712,
+                            528,
+                            727
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            712,
+                            528,
+                            727
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The back-to-back stem-and-leaf diagram shows the values taken by two variables \\(A\\) and \\(B\\)",
+                "bbox": [
+                    71,
+                    475,
+                    501,
+                    490
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    177,
+                    497,
+                    441,
+                    607
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td></td><td>\\(A\\)</td><td></td><td>\\(B\\)</td></tr><tr><td>(3)</td><td>3 1 0</td><td>15</td><td>1 3 3 5</td></tr><tr><td>(2)</td><td>4 1</td><td>16</td><td>2 2 3 4 4 5 7 7 7 8</td></tr><tr><td>(3)</td><td>8 3 3</td><td>17</td><td>0 1 3 3 3 4 6 6 7 9 9</td></tr><tr><td>(12)</td><td>9 8 8 6 5 5 4 3 2 1 1 0</td><td>18</td><td>2 4 7</td></tr><tr><td>(8)</td><td>9 9 8 8 6 5 4 2</td><td>19</td><td>1 5</td></tr><tr><td>(5)</td><td>9 8 7 1 0</td><td>20</td><td>4</td></tr></table>"
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\text{Key: } 4 \\quad \\text{16} \\quad \\text{7} \\quad \\text{means } A = 0.164 \\text{ and } B = 0.167.\\]",
+                "bbox": [
+                    190,
+                    618,
+                    427,
+                    638
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "5",
+        "page_number": 3,
+        "bbox": [
+            47,
+            63,
+            56,
+            78
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 3,
+                "bbox": [
+                    76,
+                    114,
+                    92,
+                    128
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "There are no restrictions on which questions can be chosen",
+                        "bbox": [
+                            94,
+                            114,
+                            378,
+                            127
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            114,
+                            528,
+                            128
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            114,
+                            528,
+                            128
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    73,
+                    138,
+                    93,
+                    153
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Candidates must choose at least 4 questions from Part \\(A\\)",
+                        "bbox": [
+                            94,
+                            138,
+                            364,
+                            152
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            138,
+                            528,
+                            153
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            138,
+                            528,
+                            153
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(iii)",
+                "page_number": 3,
+                "bbox": [
+                    70,
+                    163,
+                    92,
+                    177
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Candidates must either choose both question 1 and question 2 in Part \\(A\\), or choose neither of these questions",
+                        "bbox": [
+                            94,
+                            163,
+                            548,
+                            190
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            176,
+                            528,
+                            191
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            176,
+                            528,
+                            191
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "An English examination consists of 8 questions in Part \\(A\\) and 3 questions in Part \\(B\\). Candidates must choose 6 questions. The order in which questions are chosen does not matter. Find the number of ways in which the 6 questions can be chosen in each of the following cases",
+                "bbox": [
+                    71,
+                    63,
+                    548,
+                    103
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "6",
+        "page_number": 3,
+        "bbox": [
+            47,
+            211,
+            56,
+            226
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 3,
+                "bbox": [
+                    76,
+                    261,
+                    93,
+                    276
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Copy and complete the table below to show the number of biscuits in each category",
+                        "bbox": [
+                            94,
+                            261,
+                            493,
+                            275
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            261,
+                            528,
+                            276
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            261,
+                            528,
+                            276
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "table",
+                        "bbox": [
+                            106,
+                            282,
+                            535,
+                            364
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "table": {
+                            "html": "<table><tr><td></td><td>Wrapped in gold foil</td><td>Unwrapped</td><td>Total</td></tr><tr><td>Chocolate-covered</td><td></td><td></td><td></td></tr><tr><td>Not chocolate-covered</td><td></td><td></td><td></td></tr><tr><td>Total</td><td></td><td></td><td>30</td></tr></table>"
+                        },
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "A biscuit is selected at random from the box",
+                        "bbox": [
+                            71,
+                            384,
+                            285,
+                            397
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    72,
+                    406,
+                    91,
+                    421
+                ],
+                "level": 72,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability that the biscuit is wrapped in gold foil",
+                        "bbox": [
+                            94,
+                            406,
+                            375,
+                            420
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            406,
+                            528,
+                            421
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            406,
+                            528,
+                            421
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The biscuit is returned to the box. An unwrapped biscuit is then selected at random from the box",
+                        "bbox": [
+                            71,
+                            431,
+                            533,
+                            444
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(iii)",
+                "page_number": 3,
+                "bbox": [
+                    70,
+                    453,
+                    91,
+                    468
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability that the biscuit is chocolate-covered",
+                        "bbox": [
+                            94,
+                            453,
+                            365,
+                            466
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            453,
+                            528,
+                            468
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            453,
+                            528,
+                            468
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The biscuit is returned to the box. A biscuit is then selected at random from the box",
+                        "bbox": [
+                            71,
+                            477,
+                            471,
+                            490
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(iv)",
+                "page_number": 3,
+                "bbox": [
+                    71,
+                    499,
+                    93,
+                    514
+                ],
+                "level": 71,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability that the biscuit is unwrapped, given that it is chocolate-covered",
+                        "bbox": [
+                            94,
+                            499,
+                            493,
+                            512
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            499,
+                            528,
+                            514
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            499,
+                            528,
+                            514
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The biscuit is returned to the box. Nasir then takes 4 biscuits without replacement from the box",
+                        "bbox": [
+                            71,
+                            523,
+                            527,
+                            536
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(v)",
+                "page_number": 3,
+                "bbox": [
+                    73,
+                    545,
+                    93,
+                    560
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability that he takes exactly 2 wrapped biscuits",
+                        "bbox": [
+                            94,
+                            545,
+                            383,
+                            559
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            545,
+                            528,
+                            560
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            545,
+                            528,
+                            560
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A box of biscuits contains 30 biscuits, some of which are wrapped in gold foil and some of which are unwrapped. Some of the biscuits are chocolate-covered. 12 biscuits are wrapped in gold foil, and of these biscuits, 7 are chocolate-covered. There are 17 chocolate-covered biscuits in total",
+                "bbox": [
+                    71,
+                    211,
+                    548,
+                    250
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    },
+    {
+        "label": "7",
+        "page_number": 3,
+        "bbox": [
+            47,
+            580,
+            56,
+            594
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 3,
+                "bbox": [
+                    76,
+                    632,
+                    93,
+                    646
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability that the symphony takes longer than 42 minutes to play on exactly 1 of these occasions",
+                        "bbox": [
+                            95,
+                            631,
+                            548,
+                            657
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            645,
+                            528,
+                            659
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            645,
+                            528,
+                            659
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The times taken to play Beethoven's Fifth Symphony can also be assumed to have a normal distribution. The probability that the time is less than 26.5 minutes is 0.1, and the probability that the time is more than 34.6 minutes is 0.05",
+                        "bbox": [
+                            71,
+                            669,
+                            548,
+                            708
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    73,
+                    719,
+                    93,
+                    733
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the mean and standard deviation of the times to play this symphony",
+                        "bbox": [
+                            95,
+                            719,
+                            442,
+                            732
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "",
+                        "bbox": [
+                            531,
+                            719,
+                            528,
+                            733
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            719,
+                            528,
+                            733
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            },
+            {
+                "label": "(iii)",
+                "page_number": 3,
+                "bbox": [
+                    70,
+                    743,
+                    92,
+                    758
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Assuming that the times to play the two symphonies are independent of each other, find the probability that, when both symphonies are played, both of the times are less than 34.6 minutes",
+                        "bbox": [
+                            94,
+                            743,
+                            548,
+                            770
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ]
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The times taken to play Beethoven's Sixth Symphony can be assumed to have a normal distribution with mean 41.1 minutes and standard deviation 3.4 minutes. Three occasions on which this symphony is played are chosen at random",
+                "bbox": [
+                    71,
+                    580,
+                    548,
+                    620
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ]
+    }
+]
