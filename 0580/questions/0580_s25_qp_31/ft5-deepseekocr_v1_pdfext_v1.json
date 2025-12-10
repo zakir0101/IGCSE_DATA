@@ -8,7 +8,7 @@
             61,
             76
         ],
-        "level": 50,
+        "level": 52,
         "parts": [
             {
                 "label": "(a)",
@@ -37,11 +37,24 @@
                     },
                     {
                         "type": "mark_text",
-                        "text": "[1]",
+                        "text": "",
                         "bbox": [
                             524,
                             324,
-                            548,
+                            528,
+                            340
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            324,
+                            528,
                             340
                         ],
                         "page_number": 3,
@@ -90,11 +103,24 @@
                     },
                     {
                         "type": "mark_text",
-                        "text": "[3]",
+                        "text": "",
                         "bbox": [
                             530,
                             442,
-                            548,
+                            528,
+                            457
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            442,
+                            528,
                             457
                         ],
                         "page_number": 3,
@@ -157,7 +183,7 @@
             56,
             496
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
             {
@@ -188,11 +214,24 @@
             },
             {
                 "type": "mark_text",
-                "text": "[1]",
+                "text": "",
                 "bbox": [
                     531,
                     546,
-                    548,
+                    528,
+                    561
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[1]",
+                "bbox": [
+                    508,
+                    546,
+                    528,
                     561
                 ],
                 "page_number": 3,
@@ -210,7 +249,7 @@
             57,
             600
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
             {
@@ -228,11 +267,24 @@
             },
             {
                 "type": "mark_text",
-                "text": "[1]",
+                "text": "",
                 "bbox": [
                     531,
                     624,
-                    548,
+                    528,
+                    640
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[1]",
+                "bbox": [
+                    508,
+                    624,
+                    528,
                     640
                 ],
                 "page_number": 3,
@@ -250,7 +302,7 @@
             56,
             679
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
             {
@@ -268,11 +320,24 @@
             },
             {
                 "type": "mark_text",
-                "text": "[1]",
+                "text": "",
                 "bbox": [
                     531,
                     729,
-                    548,
+                    528,
+                    745
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[1]",
+                "bbox": [
+                    508,
+                    729,
+                    528,
                     745
                 ],
                 "page_number": 3,
@@ -290,7 +355,7 @@
             56,
             76
         ],
-        "level": 50,
+        "level": 48,
         "parts": [
             {
                 "label": "(a)",
@@ -319,7 +384,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "....................................................",
+                        "text": ".........",
                         "bbox": [
                             381,
                             204,
@@ -372,11 +437,24 @@
                     },
                     {
                         "type": "mark_text",
-                        "text": "[2]",
+                        "text": "",
                         "bbox": [
                             530,
                             229,
-                            548,
+                            528,
+                            244
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            229,
+                            528,
                             244
                         ],
                         "page_number": 4,
@@ -414,7 +492,7 @@
             57,
             282
         ],
-        "level": 50,
+        "level": 48,
         "parts": [],
         "content": [
             {
@@ -470,17 +548,20 @@
                 "is_pot_pre": false
             },
             {
-                "type": "mark_text",
-                "text": "[2]",
+                "type": "image",
                 "bbox": [
-                    530,
-                    587,
-                    548,
-                    602
+                    186,
+                    565,
+                    407,
+                    583
                 ],
                 "page_number": 4,
                 "is_pre": false,
-                "is_pot_pre": false
+                "image": {
+                    "caption": "",
+                    "page": 4
+                },
+                "is_pot_pre": true
             }
         ]
     },
@@ -493,25 +574,9 @@
             57,
             641
         ],
-        "level": 50,
+        "level": 48,
         "parts": [],
         "content": [
-            {
-                "type": "pre_image",
-                "bbox": [
-                    186,
-                    565,
-                    407,
-                    583
-                ],
-                "page_number": 4,
-                "is_pre": true,
-                "image": {
-                    "caption": "",
-                    "page": 4
-                },
-                "is_pot_pre": true
-            },
             {
                 "type": "text",
                 "text": "Solve",
@@ -540,7 +605,7 @@
             },
             {
                 "type": "form_text",
-                "text": "y = ............................................................",
+                "text": "y = .........",
                 "bbox": [
                     361,
                     743,
@@ -575,7 +640,7 @@
             55,
             78
         ],
-        "level": 45,
+        "level": 46,
         "parts": [
             {
                 "label": "(a)",
@@ -586,7 +651,7 @@
                     86,
                     78
                 ],
-                "level": 70,
+                "level": 68,
                 "parts": [],
                 "content": [
                     {
@@ -617,7 +682,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "T = ............................................................",
+                        "text": "T = .........",
                         "bbox": [
                             361,
                             152,
@@ -652,7 +717,7 @@
                     87,
                     195
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -683,7 +748,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "t = ............................................................",
+                        "text": "t = .........",
                         "bbox": [
                             364,
                             310,
@@ -721,7 +786,7 @@
             55,
             364
         ],
-        "level": 45,
+        "level": 46,
         "parts": [],
         "content": [
             {
@@ -738,17 +803,20 @@
                 "is_pot_pre": false
             },
             {
-                "type": "mark_text",
-                "text": "[2]",
+                "type": "image",
                 "bbox": [
-                    530,
-                    480,
-                    548,
-                    496
+                    131,
+                    434,
+                    461,
+                    464
                 ],
                 "page_number": 5,
                 "is_pre": false,
-                "is_pot_pre": false
+                "image": {
+                    "caption": "",
+                    "page": 5
+                },
+                "is_pot_pre": true
             }
         ]
     },
@@ -761,25 +829,9 @@
             62,
             78
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
-            {
-                "type": "pre_image",
-                "bbox": [
-                    131,
-                    434,
-                    461,
-                    464
-                ],
-                "page_number": 5,
-                "is_pre": true,
-                "image": {
-                    "caption": "",
-                    "page": 5
-                },
-                "is_pot_pre": true
-            },
             {
                 "type": "text",
                 "text": "\\(\\frac{3}{7}\\) 0.41 \\(\\frac{17}{41}\\) 42%",
@@ -830,7 +882,7 @@
             61,
             316
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
             {
@@ -861,7 +913,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Day ................................... Time",
+                "text": "Day .........Time",
                 "bbox": [
                     304,
                     481,
@@ -874,11 +926,24 @@
             },
             {
                 "type": "mark_text",
-                "text": "[3]",
+                "text": "",
                 "bbox": [
                     524,
                     481,
-                    548,
+                    528,
+                    497
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    481,
+                    528,
                     497
                 ],
                 "page_number": 6,
@@ -896,7 +961,7 @@
             62,
             537
         ],
-        "level": 45,
+        "level": 47,
         "parts": [
             {
                 "label": "(a)",
@@ -938,11 +1003,24 @@
                     },
                     {
                         "type": "mark_text",
-                        "text": "[1]",
+                        "text": "",
                         "bbox": [
                             528,
                             613,
-                            548,
+                            528,
+                            628
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            613,
+                            528,
                             628
                         ],
                         "page_number": 6,
@@ -991,11 +1069,24 @@
                     },
                     {
                         "type": "mark_text",
-                        "text": "[1]",
+                        "text": "",
                         "bbox": [
                             528,
                             704,
-                            548,
+                            528,
+                            719
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            704,
+                            528,
                             719
                         ],
                         "page_number": 6,
@@ -1030,7 +1121,7 @@
             61,
             76
         ],
-        "level": 45,
+        "level": 46,
         "parts": [],
         "content": [
             {
@@ -1077,7 +1168,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Scale: 1 cm to 50 km</FORM>",
+                "text": "Scale: 1 cm to 50 km",
                 "bbox": [
                     364,
                     387,
@@ -1116,11 +1207,24 @@
             },
             {
                 "type": "mark_text",
-                "text": "[2]",
+                "text": "",
                 "bbox": [
                     531,
                     452,
-                    548,
+                    528,
+                    467
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    508,
+                    452,
+                    528,
                     467
                 ],
                 "page_number": 7,
@@ -1138,7 +1242,7 @@
             62,
             506
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
             {
@@ -1182,11 +1286,24 @@
             },
             {
                 "type": "mark_text",
-                "text": "[3]",
+                "text": "",
                 "bbox": [
                     506,
                     699,
-                    548,
+                    528,
+                    715
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    699,
+                    528,
                     715
                 ],
                 "page_number": 7,
@@ -1204,7 +1321,7 @@
             62,
             74
         ],
-        "level": 45,
+        "level": 47,
         "parts": [
             {
                 "label": "(a)",
@@ -1215,7 +1332,7 @@
                     88,
                     385
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -1242,7 +1359,7 @@
                     88,
                     437
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -1260,11 +1377,24 @@
                     },
                     {
                         "type": "text",
-                        "text": "[1]",
+                        "text": "",
                         "bbox": [
                             381,
                             396,
-                            548,
+                            528,
+                            411
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            396,
+                            528,
                             411
                         ],
                         "page_number": 8,
@@ -1273,11 +1403,24 @@
                     },
                     {
                         "type": "text",
-                        "text": "[1]",
+                        "text": "",
                         "bbox": [
                             381,
                             449,
-                            548,
+                            528,
+                            464
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            449,
+                            528,
                             464
                         ],
                         "page_number": 8,
@@ -1328,7 +1471,7 @@
             61,
             76
         ],
-        "level": 45,
+        "level": 46,
         "parts": [],
         "content": [
             {
@@ -1375,7 +1518,7 @@
             },
             {
                 "type": "form_text",
-                "text": "............................................ $cm^2$",
+                "text": ".........$cm^2$",
                 "bbox": [
                     382,
                     486,
@@ -1388,11 +1531,24 @@
             },
             {
                 "type": "mark_text",
-                "text": "[3]",
+                "text": "",
                 "bbox": [
                     531,
                     486,
-                    548,
+                    528,
+                    501
+                ],
+                "page_number": 9,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    486,
+                    528,
                     501
                 ],
                 "page_number": 9,
@@ -1410,7 +1566,7 @@
             62,
             540
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
             {
@@ -1454,7 +1610,7 @@
             },
             {
                 "type": "form_text",
-                "text": "............................................ $cm$",
+                "text": ".........$cm$",
                 "bbox": [
                     382,
                     721,
@@ -1467,11 +1623,24 @@
             },
             {
                 "type": "mark_text",
-                "text": "[3]",
+                "text": "",
                 "bbox": [
                     531,
                     721,
-                    548,
+                    528,
+                    735
+                ],
+                "page_number": 9,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    721,
+                    528,
                     735
                 ],
                 "page_number": 9,
@@ -1489,7 +1658,7 @@
             63,
             74
         ],
-        "level": 50,
+        "level": 48,
         "parts": [],
         "content": [
             {
@@ -1533,7 +1702,7 @@
             },
             {
                 "type": "form_text",
-                "text": "§ ....................................................",
+                "text": "§ .........",
                 "bbox": [
                     374,
                     152,
@@ -1568,7 +1737,7 @@
             63,
             206
         ],
-        "level": 50,
+        "level": 48,
         "parts": [],
         "content": [
             {
@@ -1640,11 +1809,24 @@
             },
             {
                 "type": "mark_text",
-                "text": "[2]",
+                "text": "",
                 "bbox": [
                     512,
                     479,
-                    548,
+                    528,
+                    493
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    508,
+                    479,
+                    528,
                     493
                 ],
                 "page_number": 10,
@@ -1662,7 +1844,7 @@
             64,
             533
         ],
-        "level": 50,
+        "level": 48,
         "parts": [],
         "content": [
             {
@@ -1721,11 +1903,24 @@
             },
             {
                 "type": "mark_text",
-                "text": "[2]",
+                "text": "",
                 "bbox": [
                     530,
                     730,
-                    548,
+                    528,
+                    744
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    508,
+                    730,
+                    528,
                     744
                 ],
                 "page_number": 10,
@@ -1743,7 +1938,7 @@
             65,
             76
         ],
-        "level": 50,
+        "level": 49,
         "parts": [],
         "content": [
             {
@@ -1790,7 +1985,7 @@
             },
             {
                 "type": "form_text",
-                "text": "BC = .................................................... cm",
+                "text": "BC = .........cm",
                 "bbox": [
                     353,
                     295,
@@ -1825,7 +2020,7 @@
             64,
             350
         ],
-        "level": 45,
+        "level": 47,
         "parts": [
             {
                 "label": "(a)",
@@ -1836,7 +2031,7 @@
                     89,
                     350
                 ],
-                "level": 70,
+                "level": 71,
                 "parts": [],
                 "content": [
                     {
@@ -1867,7 +2062,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".................... : ....................",
+                        "text": ".........: .........",
                         "bbox": [
                             381,
                             426,
@@ -1902,7 +2097,7 @@
                     88,
                     468
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -1933,7 +2128,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$  ...............................................",
+                        "text": "$  .........",
                         "bbox": [
                             373,
                             595,
@@ -1968,7 +2163,7 @@
                     87,
                     637
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -1999,7 +2194,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$  ...............................................",
+                        "text": "$  .........",
                         "bbox": [
                             373,
                             739,
@@ -2037,7 +2232,7 @@
             62,
             76
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
             {
@@ -2068,7 +2263,7 @@
             },
             {
                 "type": "form_text",
-                "text": "................................... %",
+                "text": ".........%",
                 "bbox": [
                     382,
                     204,
@@ -2103,7 +2298,7 @@
             62,
             258
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
             {
@@ -2150,7 +2345,7 @@
             },
             {
                 "type": "form_text",
-                "text": "AB = ............................................... cm",
+                "text": "AB = .........cm",
                 "bbox": [
                     353,
                     502,
@@ -2185,7 +2380,7 @@
             62,
             556
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
             {
@@ -2229,7 +2424,7 @@
             },
             {
                 "type": "form_text",
-                "text": "..................................... g",
+                "text": ".........g",
                 "bbox": [
                     382,
                     725,
@@ -2264,7 +2459,7 @@
             62,
             74
         ],
-        "level": 45,
+        "level": 47,
         "parts": [
             {
                 "label": "(a)",
@@ -2293,11 +2488,24 @@
                     },
                     {
                         "type": "mark_text",
-                        "text": "[2]",
+                        "text": "",
                         "bbox": [
                             531,
                             318,
-                            548,
+                            528,
+                            334
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            318,
+                            528,
                             334
                         ],
                         "page_number": 13,
@@ -2368,7 +2576,7 @@
                     87,
                     438
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -2493,7 +2701,7 @@
             63,
             543
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
             {
@@ -2524,7 +2732,7 @@
             },
             {
                 "type": "form_text",
-                "text": "................. \\(\\leqslant h <\\) .................",
+                "text": ".........\\(\\leqslant h <\\) .........",
                 "bbox": [
                     382,
                     631,
@@ -2559,7 +2767,7 @@
             63,
             78
         ],
-        "level": 45,
+        "level": 47,
         "parts": [
             {
                 "label": "(a)",
@@ -2570,7 +2778,7 @@
                     89,
                     80
                 ],
-                "level": 70,
+                "level": 71,
                 "parts": [
                     {
                         "label": "(i)",
@@ -2581,7 +2789,7 @@
                             110,
                             80
                         ],
-                        "level": 95,
+                        "level": 94,
                         "parts": [],
                         "content": [
                             {
@@ -2614,11 +2822,24 @@
                             },
                             {
                                 "type": "mark_text",
-                                "text": "[2]",
+                                "text": "",
                                 "bbox": [
                                     530,
                                     132,
-                                    548,
+                                    528,
+                                    148
+                                ],
+                                "page_number": 14,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    132,
+                                    528,
                                     148
                                 ],
                                 "page_number": 14,
@@ -2636,7 +2857,7 @@
                             107,
                             174
                         ],
-                        "level": 90,
+                        "level": 89,
                         "parts": [],
                         "content": [
                             {
@@ -2670,11 +2891,24 @@
                             },
                             {
                                 "type": "mark_text",
-                                "text": "[4]",
+                                "text": "",
                                 "bbox": [
                                     530,
                                     618,
-                                    548,
+                                    528,
+                                    634
+                                ],
+                                "page_number": 14,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[4]",
+                                "bbox": [
+                                    508,
+                                    618,
+                                    528,
                                     634
                                 ],
                                 "page_number": 14,
@@ -2695,7 +2929,7 @@
                     88,
                     661
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -2713,7 +2947,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "......",
+                        "text": ".........",
                         "bbox": [
                             381,
                             684,
@@ -2748,7 +2982,7 @@
                     86,
                     725
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -2766,7 +3000,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "x = ................................... or \\(x =\\) ................................",
+                        "text": "x = .........or \\(x =\\) .........",
                         "bbox": [
                             300,
                             749,
@@ -2789,32 +3023,6 @@
                         "page_number": 14,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "form_text",
-                        "text": ".................... $cm$",
-                        "bbox": [
-                            381,
-                            485,
-                            547,
-                            498
-                        ],
-                        "page_number": 15,
-                        "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[3]",
-                        "bbox": [
-                            531,
-                            485,
-                            548,
-                            498
-                        ],
-                        "page_number": 15,
-                        "is_pre": false,
-                        "is_pot_pre": false
                     }
                 ]
             }
@@ -2830,35 +3038,9 @@
             62,
             74
         ],
-        "level": 50,
+        "level": 48,
         "parts": [],
         "content": [
-            {
-                "type": "pre_text",
-                "text": "This shape is made from a rectangle and a semicircle. The diameter of the semicircle is \\(10\\mathrm{cm}\\)",
-                "bbox": [
-                    70,
-                    249,
-                    319,
-                    276
-                ],
-                "page_number": 15,
-                "is_pre": true,
-                "is_pot_pre": true
-            },
-            {
-                "type": "pre_text",
-                "text": "Calculate the perimeter of this shape",
-                "bbox": [
-                    70,
-                    288,
-                    243,
-                    302
-                ],
-                "page_number": 15,
-                "is_pre": true,
-                "is_pot_pre": true
-            },
             {
                 "type": "image",
                 "bbox": [
@@ -2903,7 +3085,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Angle \\(QRP =\\) ....................................................",
+                "text": "Angle \\(QRP =\\) .........",
                 "bbox": [
                     315,
                     435,

@@ -8,7 +8,7 @@
             56,
             74
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
             {
@@ -220,7 +220,7 @@
             58,
             76
         ],
-        "level": 50,
+        "level": 49,
         "parts": [
             {
                 "label": "(a)",
@@ -288,11 +288,24 @@
                     },
                     {
                         "type": "mark_text",
-                        "text": "[1]",
+                        "text": "",
                         "bbox": [
                             531,
                             714,
-                            548,
+                            528,
+                            728
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            714,
+                            528,
                             728
                         ],
                         "page_number": 5,
@@ -343,11 +356,24 @@
                     },
                     {
                         "type": "text",
-                        "text": "Calculate and record values of \\(\\frac{1}{I}/10^{3}\\text{A}^{-1}\\) in Table 2.1. Include the absolute uncertainties in \\(\\frac{1}{I}\\). [2]",
+                        "text": "Calculate and record values of \\(\\frac{1}{I}/10^{3}\\text{A}^{-1}\\) in Table 2.1. Include the absolute uncertainties in \\(\\frac{1}{I}\\).",
                         "bbox": [
                             92,
                             419,
-                            548,
+                            528,
+                            456
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            419,
+                            528,
                             456
                         ],
                         "page_number": 6,
@@ -365,7 +391,7 @@
                     86,
                     484
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [
                     {
                         "label": "(i)",
@@ -376,16 +402,29 @@
                             107,
                             484
                         ],
-                        "level": 90,
+                        "level": 91,
                         "parts": [],
                         "content": [
                             {
                                 "type": "text",
-                                "text": "Plot a graph of \\(\\frac{1}{I}/10^{3}\\text{A}^{-1}\\) against \\(\\frac{1}{n}\\). Include error bars for \\(\\frac{1}{I}\\). [2]",
+                                "text": "Plot a graph of \\(\\frac{1}{I}/10^{3}\\text{A}^{-1}\\) against \\(\\frac{1}{n}\\). Include error bars for \\(\\frac{1}{I}\\).",
                                 "bbox": [
                                     114,
                                     465,
-                                    414,
+                                    394,
+                                    490
+                                ],
+                                "page_number": 6,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    374,
+                                    465,
+                                    394,
                                     490
                                 ],
                                 "page_number": 6,
@@ -403,16 +442,29 @@
                             107,
                             511
                         ],
-                        "level": 90,
+                        "level": 88,
                         "parts": [],
                         "content": [
                             {
                                 "type": "text",
-                                "text": "Draw the straight line of best fit and a worst acceptable straight line on your graph. Label both lines. [2]",
+                                "text": "Draw the straight line of best fit and a worst acceptable straight line on your graph. Label both lines.",
                                 "bbox": [
                                     114,
                                     495,
-                                    547,
+                                    527,
+                                    524
+                                ],
+                                "page_number": 6,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    507,
+                                    495,
+                                    527,
                                     524
                                 ],
                                 "page_number": 6,
@@ -430,7 +482,7 @@
                             107,
                             549
                         ],
-                        "level": 85,
+                        "level": 87,
                         "parts": [],
                         "content": [
                             {
@@ -448,7 +500,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "gradient = ....................................................................",
+                                "text": "gradient = .........",
                                 "bbox": [
                                     296,
                                     716,
@@ -483,25 +535,9 @@
                             108,
                             76
                         ],
-                        "level": 85,
+                        "level": 87,
                         "parts": [],
                         "content": [
-                            {
-                                "type": "pre_image",
-                                "bbox": [
-                                    53,
-                                    61,
-                                    533,
-                                    748
-                                ],
-                                "page_number": 7,
-                                "is_pre": true,
-                                "image": {
-                                    "caption": "",
-                                    "page": 7
-                                },
-                                "is_pot_pre": true
-                            },
                             {
                                 "type": "text",
                                 "text": "Determine the \\(y\\)-intercept of the line of best fit. Include the absolute uncertainty in your answer",
@@ -517,7 +553,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "y-intercept = ....................................................................",
+                                "text": "y-intercept = .........",
                                 "bbox": [
                                     284,
                                     178,
@@ -566,7 +602,7 @@
                             107,
                             259
                         ],
-                        "level": 95,
+                        "level": 93,
                         "parts": [],
                         "content": [
                             {
@@ -610,11 +646,24 @@
                             },
                             {
                                 "type": "mark_text",
-                                "text": "[2]",
+                                "text": "",
                                 "bbox": [
                                     531,
                                     426,
-                                    548,
+                                    528,
+                                    441
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    426,
+                                    528,
                                     441
                                 ],
                                 "page_number": 8,
@@ -650,7 +699,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "percentage uncertainty = ........................................................... %",
+                                "text": "percentage uncertainty = .........%",
                                 "bbox": [
                                     224,
                                     556,
@@ -720,7 +769,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "I = .................................................................... A",
+                        "text": "I = .........A",
                         "bbox": [
                             330,
                             712,
@@ -761,19 +810,6 @@
             }
         ],
         "content": [
-            {
-                "type": "pre_text",
-                "text": "Diagram",
-                "bbox": [
-                    70,
-                    62,
-                    116,
-                    73
-                ],
-                "page_number": 3,
-                "is_pre": true,
-                "is_pot_pre": true
-            },
             {
                 "type": "text",
                 "text": "A student investigates an electrical circuit",

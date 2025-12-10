@@ -8,7 +8,7 @@
             55,
             74
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
             {
@@ -233,7 +233,7 @@
             61,
             76
         ],
-        "level": 50,
+        "level": 52,
         "parts": [
             {
                 "label": "(a)",
@@ -297,7 +297,7 @@
                     88,
                     76
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -330,11 +330,24 @@
                     },
                     {
                         "type": "text",
-                        "text": "Calculate and record values of \\(V/V\\) and \\(\\frac{1}{V}/V^{-1}\\) in Table 2.1. Include the absolute uncertainties in \\(V\\) and \\(\\frac{1}{V}\\). [2]",
+                        "text": "Calculate and record values of \\(V/V\\) and \\(\\frac{1}{V}/V^{-1}\\) in Table 2.1. Include the absolute uncertainties in \\(V\\) and \\(\\frac{1}{V}\\).",
                         "bbox": [
                             92,
                             409,
-                            547,
+                            527,
+                            452
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            507,
+                            409,
+                            527,
                             452
                         ],
                         "page_number": 6,
@@ -352,7 +365,7 @@
                     86,
                     476
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [
                     {
                         "label": "(i)",
@@ -363,16 +376,29 @@
                             107,
                             476
                         ],
-                        "level": 90,
+                        "level": 92,
                         "parts": [],
                         "content": [
                             {
                                 "type": "text",
-                                "text": "Plot a graph of \\(\\frac{1}{V}/V^{-1}\\) against \\(n\\). Include error bars for \\(\\frac{1}{V}\\). [2]",
+                                "text": "Plot a graph of \\(\\frac{1}{V}/V^{-1}\\) against \\(n\\). Include error bars for \\(\\frac{1}{V}\\).",
                                 "bbox": [
                                     113,
                                     456,
-                                    406,
+                                    386,
+                                    481
+                                ],
+                                "page_number": 6,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    366,
+                                    456,
+                                    386,
                                     481
                                 ],
                                 "page_number": 6,
@@ -390,16 +416,29 @@
                             106,
                             502
                         ],
-                        "level": 85,
+                        "level": 87,
                         "parts": [],
                         "content": [
                             {
                                 "type": "text",
-                                "text": "Draw the straight line of best fit and a worst acceptable straight line on your graph. Label both lines. [2]",
+                                "text": "Draw the straight line of best fit and a worst acceptable straight line on your graph. Label both lines.",
                                 "bbox": [
                                     113,
                                     486,
-                                    547,
+                                    527,
+                                    514
+                                ],
+                                "page_number": 6,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    507,
+                                    486,
+                                    527,
                                     514
                                 ],
                                 "page_number": 6,
@@ -417,7 +456,7 @@
                             107,
                             541
                         ],
-                        "level": 85,
+                        "level": 87,
                         "parts": [],
                         "content": [
                             {
@@ -435,7 +474,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "gradient = ...........................................................................",
+                                "text": "gradient = .........",
                                 "bbox": [
                                     296,
                                     695,
@@ -470,25 +509,9 @@
                             107,
                             76
                         ],
-                        "level": 85,
+                        "level": 86,
                         "parts": [],
                         "content": [
-                            {
-                                "type": "pre_image",
-                                "bbox": [
-                                    62,
-                                    61,
-                                    530,
-                                    723
-                                ],
-                                "page_number": 7,
-                                "is_pre": true,
-                                "image": {
-                                    "caption": "",
-                                    "page": 7
-                                },
-                                "is_pot_pre": true
-                            },
                             {
                                 "type": "text",
                                 "text": "Determine the \\(y\\)-intercept of the line of best fit. Include the absolute uncertainty in your answer",
@@ -504,7 +527,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "y-intercept = ...........................................................................",
+                                "text": "y-intercept = .........",
                                 "bbox": [
                                     284,
                                     178,
@@ -542,7 +565,7 @@
                     87,
                     219
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [
                     {
                         "label": "(i)",
@@ -553,7 +576,7 @@
                             107,
                             219
                         ],
-                        "level": 90,
+                        "level": 92,
                         "parts": [],
                         "content": [
                             {
@@ -583,17 +606,30 @@
                                 "is_pot_pre": false
                             },
                             {
-                                "type": "mark_text",
-                                "text": "[2]",
+                                "type": "blockMath",
+                                "blockMath": "\\[E = \\text{...........................................................................}\\]",
                                 "bbox": [
-                                    531,
-                                    438,
-                                    547,
-                                    453
+                                    328,
+                                    399,
+                                    546,
+                                    413
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
-                                "is_pot_pre": false
+                                "is_pot_pre": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\\[C = \\text{...........................................................................}\\]",
+                                "bbox": [
+                                    328,
+                                    426,
+                                    546,
+                                    440
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "is_pot_pre": true
                             }
                         ]
                     },
@@ -609,32 +645,6 @@
                         "level": 90,
                         "parts": [],
                         "content": [
-                            {
-                                "type": "pre_blockMath",
-                                "blockMath": "\\[E = \\text{...........................................................................}\\]",
-                                "bbox": [
-                                    328,
-                                    399,
-                                    546,
-                                    413
-                                ],
-                                "page_number": 8,
-                                "is_pre": true,
-                                "is_pot_pre": true
-                            },
-                            {
-                                "type": "pre_text",
-                                "text": "\\[C = \\text{...........................................................................}\\]",
-                                "bbox": [
-                                    328,
-                                    426,
-                                    546,
-                                    440
-                                ],
-                                "page_number": 8,
-                                "is_pre": true,
-                                "is_pot_pre": true
-                            },
                             {
                                 "type": "text",
                                 "text": "Determine the percentage uncertainty in your value of \\(C\\)",
@@ -662,7 +672,7 @@
                     87,
                     611
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -693,7 +703,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "V = ........................................................................... $V$",
+                        "text": "V = .........$V$",
                         "bbox": [
                             328,
                             716,
@@ -721,19 +731,6 @@
             }
         ],
         "content": [
-            {
-                "type": "pre_text",
-                "text": "Diagram",
-                "bbox": [
-                    70,
-                    62,
-                    116,
-                    73
-                ],
-                "page_number": 3,
-                "is_pre": true,
-                "is_pot_pre": true
-            },
             {
                 "type": "text",
                 "text": "A student investigates a circuit containing capacitors. The circuit is connected with a capacitor of capacitance \\(A\\) , as shown in Fig. 2.1",

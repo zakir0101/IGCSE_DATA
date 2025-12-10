@@ -8,7 +8,7 @@
             56,
             74
         ],
-        "level": 45,
+        "level": 47,
         "parts": [
             {
                 "label": "(a)",
@@ -30,7 +30,7 @@
                             107,
                             431
                         ],
-                        "level": 90,
+                        "level": 92,
                         "parts": [],
                         "content": [
                             {
@@ -90,11 +90,24 @@
                             },
                             {
                                 "type": "mark_text",
-                                "text": "[1]",
+                                "text": "",
                                 "bbox": [
                                     531,
                                     659,
-                                    548,
+                                    528,
+                                    673
+                                ],
+                                "page_number": 2,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    659,
+                                    528,
                                     673
                                 ],
                                 "page_number": 2,
@@ -112,7 +125,7 @@
                             106,
                             76
                         ],
-                        "level": 90,
+                        "level": 88,
                         "parts": [],
                         "content": [
                             {
@@ -172,11 +185,24 @@
                             },
                             {
                                 "type": "mark_text",
-                                "text": "[1]",
+                                "text": "",
                                 "bbox": [
                                     530,
                                     312,
-                                    547,
+                                    527,
+                                    327
+                                ],
+                                "page_number": 3,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    507,
+                                    312,
+                                    527,
                                     327
                                 ],
                                 "page_number": 3,
@@ -194,7 +220,7 @@
                             107,
                             353
                         ],
-                        "level": 85,
+                        "level": 86,
                         "parts": [],
                         "content": [
                             {
@@ -251,11 +277,24 @@
                             },
                             {
                                 "type": "mark_text",
-                                "text": "[1]",
+                                "text": "",
                                 "bbox": [
                                     530,
                                     416,
-                                    547,
+                                    527,
+                                    431
+                                ],
+                                "page_number": 3,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    507,
+                                    416,
+                                    527,
                                     431
                                 ],
                                 "page_number": 3,
@@ -453,11 +492,24 @@
                     },
                     {
                         "type": "mark_text",
-                        "text": "[1]",
+                        "text": "",
                         "bbox": [
                             531,
                             632,
-                            548,
+                            528,
+                            646
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            632,
+                            528,
                             646
                         ],
                         "page_number": 4,
@@ -475,7 +527,7 @@
                     87,
                     76
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -522,11 +574,24 @@
                     },
                     {
                         "type": "mark_text",
-                        "text": "[4]",
+                        "text": "",
                         "bbox": [
                             531,
                             475,
-                            548,
+                            528,
+                            490
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            475,
+                            528,
                             490
                         ],
                         "page_number": 5,
@@ -562,7 +627,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "G = ...........................................................................",
+                        "text": "G = .........",
                         "bbox": [
                             328,
                             569,
@@ -608,7 +673,7 @@
                             107,
                             613
                         ],
-                        "level": 95,
+                        "level": 93,
                         "parts": [],
                         "content": [
                             {
@@ -639,7 +704,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "d = ............................................................... cm",
+                                "text": "d = .........cm",
                                 "bbox": [
                                     330,
                                     679,
@@ -750,7 +815,7 @@
             56,
             76
         ],
-        "level": 45,
+        "level": 47,
         "parts": [
             {
                 "label": "(a)",
@@ -794,30 +859,36 @@
                         "is_pot_pre": false
                     },
                     {
-                        "type": "mark_text",
-                        "text": "Fig. 2.2**",
+                        "type": "image",
                         "bbox": [
-                            274,
-                            489,
-                            317,
-                            503
+                            119,
+                            354,
+                            548,
+                            459
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "is_pot_pre": false
+                        "image": {
+                            "caption": "",
+                            "page": 6
+                        },
+                        "is_pot_pre": true
                     },
                     {
-                        "type": "mark_text",
-                        "text": "[1]",
+                        "type": "image",
                         "bbox": [
-                            531,
-                            516,
-                            548,
-                            531
+                            116,
+                            430,
+                            476,
+                            468
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "is_pot_pre": false
+                        "image": {
+                            "caption": "",
+                            "page": 6
+                        },
+                        "is_pot_pre": true
                     }
                 ]
             },
@@ -841,7 +912,7 @@
                             107,
                             558
                         ],
-                        "level": 95,
+                        "level": 93,
                         "parts": [],
                         "content": [
                             {
@@ -911,11 +982,24 @@
                             },
                             {
                                 "type": "text",
-                                "text": "On Fig. 2.1, draw a voltmeter connected to measure the potential difference (p.d.) across the \\(470\\Omega\\) resistor. [1]",
+                                "text": "On Fig. 2.1, draw a voltmeter connected to measure the potential difference (p.d.) across the \\(470\\Omega\\) resistor.",
                                 "bbox": [
                                     115,
                                     634,
-                                    548,
+                                    528,
+                                    660
+                                ],
+                                "page_number": 6,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    634,
+                                    528,
                                     660
                                 ],
                                 "page_number": 6,
@@ -933,7 +1017,7 @@
                             105,
                             76
                         ],
-                        "level": 85,
+                        "level": 87,
                         "parts": [],
                         "content": [
                             {
@@ -980,7 +1064,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "V_{XY} = ............................................................ V",
+                                "text": "V_{XY} = .........V",
                                 "bbox": [
                                     318,
                                     287,
@@ -1007,40 +1091,7 @@
                         ]
                     }
                 ],
-                "content": [
-                    {
-                        "type": "pre_image",
-                        "bbox": [
-                            119,
-                            354,
-                            548,
-                            459
-                        ],
-                        "page_number": 6,
-                        "is_pre": true,
-                        "image": {
-                            "caption": "",
-                            "page": 6
-                        },
-                        "is_pot_pre": true
-                    },
-                    {
-                        "type": "pre_image",
-                        "bbox": [
-                            116,
-                            430,
-                            476,
-                            468
-                        ],
-                        "page_number": 6,
-                        "is_pre": true,
-                        "image": {
-                            "caption": "",
-                            "page": 6
-                        },
-                        "is_pot_pre": true
-                    }
-                ]
+                "content": []
             },
             {
                 "label": "(c)",
@@ -1051,7 +1102,7 @@
                     87,
                     330
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -1108,7 +1159,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "I = ....................................................................",
+                        "text": "I = .........",
                         "bbox": [
                             331,
                             487,
@@ -1143,7 +1194,7 @@
                     88,
                     531
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -1261,7 +1312,7 @@
                     87,
                     76
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [
                     {
                         "label": "(i)",
@@ -1272,7 +1323,7 @@
                             107,
                             76
                         ],
-                        "level": 90,
+                        "level": 92,
                         "parts": [],
                         "content": [
                             {
@@ -1289,17 +1340,30 @@
                                 "is_pot_pre": false
                             },
                             {
-                                "type": "form_text",
-                                "text": "R_{\\mathrm{D}} = \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\quad \\Omega \\quad [1]</text>",
+                                "type": "text",
+                                "text": "Calculate the resistance \\(R_{\\mathrm{D}}\\) of the LDR in the dark using the equation:",
                                 "bbox": [
-                                    322,
-                                    285,
-                                    546,
-                                    300
+                                    115,
+                                    159,
+                                    459,
+                                    174
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
-                                "is_pot_pre": false
+                                "is_pot_pre": true
+                            },
+                            {
+                                "type": "blockMath",
+                                "blockMath": "\\[R_{\\mathrm{D}} = \\frac{470\\Omega\\times V_{\\mathrm{YZ}}}{V_{\\mathrm{XY}}}.\\]",
+                                "bbox": [
+                                    251,
+                                    177,
+                                    344,
+                                    207
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "is_pot_pre": true
                             }
                         ]
                     },
@@ -1315,32 +1379,6 @@
                         "level": 90,
                         "parts": [],
                         "content": [
-                            {
-                                "type": "pre_text",
-                                "text": "Calculate the resistance \\(R_{\\mathrm{D}}\\) of the LDR in the dark using the equation:",
-                                "bbox": [
-                                    115,
-                                    159,
-                                    459,
-                                    174
-                                ],
-                                "page_number": 8,
-                                "is_pre": true,
-                                "is_pot_pre": true
-                            },
-                            {
-                                "type": "pre_blockMath",
-                                "blockMath": "\\[R_{\\mathrm{D}} = \\frac{470\\Omega\\times V_{\\mathrm{YZ}}}{V_{\\mathrm{XY}}}.\\]",
-                                "bbox": [
-                                    251,
-                                    177,
-                                    344,
-                                    207
-                                ],
-                                "page_number": 8,
-                                "is_pre": true,
-                                "is_pot_pre": true
-                            },
                             {
                                 "type": "text",
                                 "text": "The student removes the card from the top of the LDR and slowly lifts it vertically upwards away from the LDR until the card is \\(30 \\text{cm}\\) above the LDR. The student observes and records the readings on the voltmeter across the LDR \\((V_{\\text{YZ}})\\) as the card is raised",
@@ -1397,11 +1435,24 @@
                             },
                             {
                                 "type": "mark_text",
-                                "text": "[2]",
+                                "text": "",
                                 "bbox": [
                                     531,
                                     702,
-                                    547,
+                                    527,
+                                    716
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    507,
+                                    702,
+                                    527,
                                     716
                                 ],
                                 "page_number": 8,
@@ -1422,7 +1473,7 @@
                     86,
                     76
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -1505,7 +1556,7 @@
             57,
             74
         ],
-        "level": 50,
+        "level": 48,
         "parts": [
             {
                 "label": "(a)",
@@ -1527,7 +1578,7 @@
                             108,
                             465
                         ],
-                        "level": 95,
+                        "level": 93,
                         "parts": [],
                         "content": [
                             {
@@ -1545,7 +1596,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "x = ............................................................ cm",
+                                "text": "x = .........cm",
                                 "bbox": [
                                     330,
                                     489,
@@ -1611,7 +1662,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "X = ............................................................ cm",
+                                "text": "X = .........cm",
                                 "bbox": [
                                     328,
                                     593,
@@ -1745,7 +1796,185 @@
                     635
                 ],
                 "level": 70,
-                "parts": [],
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 11,
+                        "bbox": [
+                            93,
+                            61,
+                            108,
+                            76
+                        ],
+                        "level": 93,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Fig. 3.2 shows the illuminated object",
+                                "bbox": [
+                                    115,
+                                    61,
+                                    298,
+                                    76
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "On Fig. 3.2, draw a diminished, inverted image in the space provided",
+                                "bbox": [
+                                    115,
+                                    87,
+                                    456,
+                                    102
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    114,
+                                    139,
+                                    223,
+                                    261
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "image": {
+                                    "caption": "",
+                                    "page": 11
+                                },
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "image",
+                                "bbox": [
+                                    403,
+                                    251,
+                                    436,
+                                    266
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    274,
+                                    281,
+                                    318,
+                                    297
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "image": {
+                                    "caption": "",
+                                    "page": 11
+                                },
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "",
+                                "bbox": [
+                                    530,
+                                    296,
+                                    528,
+                                    312
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    296,
+                                    528,
+                                    312
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ]
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 11,
+                        "bbox": [
+                            90,
+                            323,
+                            108,
+                            338
+                        ],
+                        "level": 90,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Calculate the value \\(d = (Y - X)\\)",
+                                "bbox": [
+                                    115,
+                                    323,
+                                    271,
+                                    337
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "d = .........$cm$",
+                                "bbox": [
+                                    330,
+                                    373,
+                                    536,
+                                    388
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "",
+                                "bbox": [
+                                    531,
+                                    374,
+                                    528,
+                                    389
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    374,
+                                    528,
+                                    389
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ]
+                    }
+                ],
                 "content": [
                     {
                         "type": "text",
@@ -1788,7 +2017,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Y = ................................................. 59.8 cm",
+                        "text": "Y = .........59.8 cm",
                         "bbox": [
                             330,
                             711,
@@ -1867,7 +2096,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "f_{1} = ................................................................. $cm$",
+                        "text": "f_{1} = .........$cm$",
                         "bbox": [
                             327,
                             580,
@@ -1880,11 +2109,24 @@
                     },
                     {
                         "type": "mark_text",
-                        "text": "[2]",
+                        "text": "",
                         "bbox": [
                             531,
                             581,
-                            548,
+                            528,
+                            596
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            581,
+                            528,
                             596
                         ],
                         "page_number": 11,
@@ -1902,7 +2144,7 @@
                     88,
                     76
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -1933,7 +2175,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "d = \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\quad 63.7 \\text{cm} \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\text{DO}</a>",
+                        "text": "d = \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\quad 63.7 \\text{cm} \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\text{DO}",
                         "bbox": [
                             328,
                             174,
@@ -1959,7 +2201,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "f_{2} = \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\quad \\text{cm} \\quad [1] \\quad \\text{DO}</a>",
+                        "text": "f_{2} = \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\quad \\text{cm} \\quad [1] \\quad \\text{DO}",
                         "bbox": [
                             327,
                             296,
@@ -2024,17 +2266,17 @@
                         "is_pot_pre": false
                     },
                     {
-                        "type": "mark_text",
-                        "text": "[2]",
+                        "type": "text",
+                        "text": "statement",
                         "bbox": [
-                            524,
-                            569,
-                            542,
-                            584
+                            93,
+                            531,
+                            546,
+                            544
                         ],
                         "page_number": 12,
                         "is_pre": false,
-                        "is_pot_pre": false
+                        "is_pot_pre": true
                     }
                 ]
             },
@@ -2047,7 +2289,7 @@
                     86,
                     76
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [
                     {
                         "label": "(i)",
@@ -2058,7 +2300,7 @@
                             107,
                             76
                         ],
-                        "level": 95,
+                        "level": 93,
                         "parts": [],
                         "content": [
                             {
@@ -2076,11 +2318,24 @@
                             },
                             {
                                 "type": "mark_text",
-                                "text": "[1]",
+                                "text": "",
                                 "bbox": [
                                     529,
                                     152,
-                                    547,
+                                    527,
+                                    168
+                                ],
+                                "page_number": 13,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    507,
+                                    152,
+                                    527,
                                     168
                                 ],
                                 "page_number": 13,
@@ -2143,21 +2398,7 @@
                         ]
                     }
                 ],
-                "content": [
-                    {
-                        "type": "pre_text",
-                        "text": "statement",
-                        "bbox": [
-                            93,
-                            531,
-                            546,
-                            544
-                        ],
-                        "page_number": 12,
-                        "is_pre": true,
-                        "is_pot_pre": true
-                    }
-                ]
+                "content": []
             }
         ],
         "content": [
@@ -2198,7 +2439,7 @@
             56,
             74
         ],
-        "level": 45,
+        "level": 46,
         "parts": [],
         "content": [
             {

@@ -8,7 +8,7 @@
             56,
             76
         ],
-        "level": 45,
+        "level": 47,
         "parts": [],
         "content": [
             {
@@ -246,7 +246,7 @@
             61,
             76
         ],
-        "level": 50,
+        "level": 52,
         "parts": [
             {
                 "label": "(a)",
@@ -314,11 +314,24 @@
                     },
                     {
                         "type": "mark_text",
-                        "text": "[1]",
+                        "text": "",
                         "bbox": [
                             531,
                             750,
-                            548,
+                            528,
+                            764
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            750,
+                            528,
                             764
                         ],
                         "page_number": 5,
@@ -336,7 +349,7 @@
                     88,
                     76
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -395,11 +408,24 @@
                     },
                     {
                         "type": "text",
-                        "text": "Include the absolute uncertainties in \\((\\theta - \\theta_{\\mathrm{R}})\\) and \\(\\ln \\left((\\theta - \\theta_{\\mathrm{R}}) / ^{\\circ}\\mathrm{C}\\right)\\). [2]",
+                        "text": "Include the absolute uncertainties in \\((\\theta - \\theta_{\\mathrm{R}})\\) and \\(\\ln \\left((\\theta - \\theta_{\\mathrm{R}}) / ^{\\circ}\\mathrm{C}\\right)\\).",
                         "bbox": [
                             92,
                             424,
-                            411,
+                            391,
+                            439
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            371,
+                            424,
+                            391,
                             439
                         ],
                         "page_number": 6,
@@ -417,7 +443,7 @@
                     86,
                     467
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [
                     {
                         "label": "(i)",
@@ -428,16 +454,29 @@
                             107,
                             467
                         ],
-                        "level": 90,
+                        "level": 91,
                         "parts": [],
                         "content": [
                             {
                                 "type": "text",
-                                "text": "Plot a graph of \\(\\ln \\left((\\theta - \\theta_{\\mathrm{R}}) / ^{\\circ}\\mathrm{C}\\right)\\) against \\(t / \\min\\) . Include error bars for \\(\\ln \\left((\\theta - \\theta_{\\mathrm{R}}) / ^{\\circ}\\mathrm{C}\\right)\\). [2]",
+                                "text": "Plot a graph of \\(\\ln \\left((\\theta - \\theta_{\\mathrm{R}}) / ^{\\circ}\\mathrm{C}\\right)\\) against \\(t / \\min\\) . Include error bars for \\(\\ln \\left((\\theta - \\theta_{\\mathrm{R}}) / ^{\\circ}\\mathrm{C}\\right)\\).",
                                 "bbox": [
                                     115,
                                     451,
-                                    548,
+                                    528,
+                                    466
+                                ],
+                                "page_number": 6,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    451,
+                                    528,
                                     466
                                 ],
                                 "page_number": 6,
@@ -455,16 +494,29 @@
                             107,
                             492
                         ],
-                        "level": 90,
+                        "level": 89,
                         "parts": [],
                         "content": [
                             {
                                 "type": "text",
-                                "text": "Draw the straight line of best fit and a worst acceptable straight line on your graph. Label both lines. [2]",
+                                "text": "Draw the straight line of best fit and a worst acceptable straight line on your graph. Label both lines.",
                                 "bbox": [
                                     115,
                                     477,
-                                    548,
+                                    528,
+                                    505
+                                ],
+                                "page_number": 6,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    477,
+                                    528,
                                     505
                                 ],
                                 "page_number": 6,
@@ -482,7 +534,7 @@
                             109,
                             531
                         ],
-                        "level": 85,
+                        "level": 87,
                         "parts": [],
                         "content": [
                             {
@@ -500,7 +552,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "gradient = ...........................................................................",
+                                "text": "gradient = .........",
                                 "bbox": [
                                     296,
                                     711,
@@ -535,38 +587,9 @@
                             107,
                             76
                         ],
-                        "level": 85,
+                        "level": 86,
                         "parts": [],
                         "content": [
-                            {
-                                "type": "pre_image",
-                                "bbox": [
-                                    55,
-                                    61,
-                                    536,
-                                    723
-                                ],
-                                "page_number": 7,
-                                "is_pre": true,
-                                "image": {
-                                    "caption": "",
-                                    "page": 7
-                                },
-                                "is_pot_pre": true
-                            },
-                            {
-                                "type": "pre_text",
-                                "text": "t/min",
-                                "bbox": [
-                                    432,
-                                    721,
-                                    463,
-                                    734
-                                ],
-                                "page_number": 7,
-                                "is_pre": true,
-                                "is_pot_pre": true
-                            },
                             {
                                 "type": "text",
                                 "text": "Determine the \\(y\\)-intercept of the line of best fit. Include the absolute uncertainty in your answer",
@@ -582,7 +605,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "y-intercept = ....................................................................",
+                                "text": "y-intercept = .........",
                                 "bbox": [
                                     283,
                                     190,
@@ -620,7 +643,7 @@
                     87,
                     232
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [
                     {
                         "label": "(i)",
@@ -631,7 +654,7 @@
                             107,
                             232
                         ],
-                        "level": 90,
+                        "level": 92,
                         "parts": [],
                         "content": [
                             {
@@ -675,11 +698,24 @@
                             },
                             {
                                 "type": "mark_text",
-                                "text": "[2]",
+                                "text": "",
                                 "bbox": [
                                     531,
                                     426,
-                                    547,
+                                    527,
+                                    441
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    507,
+                                    426,
+                                    527,
                                     441
                                 ],
                                 "page_number": 8,
@@ -697,7 +733,7 @@
                             107,
                             468
                         ],
-                        "level": 90,
+                        "level": 89,
                         "parts": [],
                         "content": [
                             {
@@ -715,7 +751,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "absolute uncertainty = ...................................................................",
+                                "text": "absolute uncertainty = .........",
                                 "bbox": [
                                     237,
                                     582,
@@ -753,7 +789,7 @@
                     87,
                     624
                 ],
-                "level": 70,
+                "level": 69,
                 "parts": [],
                 "content": [
                     {
@@ -771,7 +807,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "t = .................................................................... min",
+                        "text": "t = .........min",
                         "bbox": [
                             333,
                             711,
@@ -812,19 +848,6 @@
             }
         ],
         "content": [
-            {
-                "type": "pre_text",
-                "text": "Diagram",
-                "bbox": [
-                    70,
-                    62,
-                    116,
-                    73
-                ],
-                "page_number": 3,
-                "is_pre": true,
-                "is_pot_pre": true
-            },
             {
                 "type": "text",
                 "text": "A student investigates the cooling of a liquid in a beaker",
