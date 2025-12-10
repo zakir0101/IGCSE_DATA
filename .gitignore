@@ -3,9 +3,11 @@
 *.txt
 *.txt.backup
 *.aux
+*.pdf
 
 exams/
-!/synthetic/exams/
+/synthetic/exams/
+/synthetic/exams-images/
 /synthetic/questions/
 deepseekocr/
 detected/
