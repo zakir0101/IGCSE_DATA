@@ -1,0 +1,1125 @@
+[
+    {
+        "label": "1",
+        "page_number": 3,
+        "bbox": [
+            47,
+            61,
+            55,
+            74
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The manager of a hardware store is interested in whether there is a difference in the amount spent per customer on weekdays \\((\\$ x)\\) compared to weekends \\((\\$ y)\\). Random samples of 120 customers on weekdays and 80 customers on weekends are taken and the amount spent by each customer is recorded. The results are summarised as follows",
+                "bbox": [
+                    69,
+                    60,
+                    548,
+                    116
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\Sigma x = 10 470\\qquad \\Sigma (x - \\overline{x})^2 = 12 283\\qquad \\Sigma y = 6560\\qquad \\Sigma (y - \\overline{y})^2 = 13 520\\]",
+                "bbox": [
+                    110,
+                    126,
+                    507,
+                    142
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Test at the \\(1\\%\\) significance level whether there is a difference in the mean amount spent per customer on weekdays compared to weekends. You should not assume that the population variances of the amounts spent on weekdays and weekends are equal",
+                "bbox": [
+                    69,
+                    152,
+                    548,
+                    194
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[7]",
+                "bbox": [
+                    506,
+                    177,
+                    526,
+                    191
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 4,
+        "bbox": [
+            46,
+            61,
+            55,
+            74
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    68,
+                    324,
+                    86,
+                    340
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(a = \\frac{2}{13}\\) and find the values of \\(b\\) and \\(c\\)",
+                        "bbox": [
+                            92,
+                            324,
+                            319,
+                            340
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            507,
+                            324,
+                            527,
+                            340
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 5,
+                "bbox": [
+                    68,
+                    61,
+                    87,
+                    74
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the mean of \\(X\\)",
+                        "bbox": [
+                            92,
+                            61,
+                            186,
+                            74
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            507,
+                            61,
+                            527,
+                            75
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 5,
+                "bbox": [
+                    92,
+                    240,
+                    108,
+                    256
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the median of \\(X\\)",
+                        "bbox": [
+                            107,
+                            240,
+                            196,
+                            256
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            507,
+                            240,
+                            527,
+                            256
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 5,
+                "bbox": [
+                    69,
+                    422,
+                    87,
+                    437
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Y\\) is defined by \\(Y = X^2\\)",
+                        "bbox": [
+                            69,
+                            396,
+                            281,
+                            411
+                        ],
+                        "page_number": 5,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the cumulative distribution function for \\(Y\\)",
+                        "bbox": [
+                            92,
+                            422,
+                            313,
+                            437
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            507,
+                            422,
+                            527,
+                            437
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    170,
+                    68,
+                    424,
+                    209
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 4
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "As shown in the diagram, the continuous random variable \\(X\\) has probability density function f given by",
+                "bbox": [
+                    69,
+                    219,
+                    548,
+                    236
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{f}(x) = \\left\\{ \\begin{array}{ll}a & 0\\leqslant x\\leqslant 5,\\\\ b - cx & 5\\leqslant x\\leqslant 8,\\\\ 0 & \\mathrm{otherwise}, \\end{array} \\right.\\]",
+                "bbox": [
+                    227,
+                    243,
+                    367,
+                    291
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "where \\(a, b\\) and \\(c\\) are constants",
+                "bbox": [
+                    69,
+                    298,
+                    213,
+                    314
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 6,
+        "bbox": [
+            46,
+            58,
+            55,
+            73
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    68,
+                    171,
+                    87,
+                    187
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the data to estimate the probability that an egg is broken. Give your answer correct to 4 significant figures",
+                        "bbox": [
+                            91,
+                            171,
+                            548,
+                            200
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            183,
+                            528,
+                            200
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 6,
+                "bbox": [
+                    68,
+                    514,
+                    87,
+                    529
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "It is decided to carry out a goodness of fit test at the \\(0.5\\%\\) significance level to determine whether a binomial distribution fits the data",
+                        "bbox": [
+                            68,
+                            367,
+                            548,
+                            396
+                        ],
+                        "page_number": 6,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_text",
+                        "text": "The observed frequencies and the expected frequencies are given in the following table",
+                        "bbox": [
+                            69,
+                            406,
+                            477,
+                            423
+                        ],
+                        "page_number": 6,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_table",
+                        "bbox": [
+                            69,
+                            432,
+                            549,
+                            503
+                        ],
+                        "page_number": 6,
+                        "is_pre": true,
+                        "table": {
+                            "html": "<table><tr><td>Number of broken eggs</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>Observed frequency</td><td>1844</td><td>143</td><td>11</td><td>0</td><td>1</td><td>0</td><td>1</td></tr><tr><td>Expected frequency</td><td>1831.3</td><td>\\(a\\)</td><td>6.016</td><td>0.119</td><td>0.001</td><td>0.000</td><td>0.000</td></tr></table>"
+                        },
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Show that \\(a = 162.6\\) correct to 1 decimal place",
+                        "bbox": [
+                            92,
+                            514,
+                            317,
+                            529
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            514,
+                            528,
+                            529
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 7,
+                "bbox": [
+                    68,
+                    61,
+                    86,
+                    74
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Carry out a goodness of fit test at the \\(0.5\\%\\) level of significance to test whether a binomial distribution is a satisfactory model for the data",
+                        "bbox": [
+                            92,
+                            60,
+                            548,
+                            88
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            71,
+                            528,
+                            86
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "<label>",
+                        "bbox": [
+                            92,
+                            70,
+                            525,
+                            85
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            505,
+                            70,
+                            525,
+                            85
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 7,
+                "bbox": [
+                    69,
+                    700,
+                    87,
+                    715
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Give a reason why a binomial distribution may not be a suitable model in this situation",
+                        "bbox": [
+                            92,
+                            699,
+                            499,
+                            715
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            699,
+                            528,
+                            715
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Eggs in a supermarket are sold in boxes of six. A supermarket manager wishes to model the number of broken eggs in the boxes sold in the store. A random sample of 2000 boxes is taken and the number of broken eggs recorded. The observed frequencies are shown in the table below",
+                "bbox": [
+                    69,
+                    58,
+                    548,
+                    102
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    69,
+                    112,
+                    549,
+                    161
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>Number of broken eggs</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>Observed frequency</td><td>1844</td><td>143</td><td>11</td><td>0</td><td>1</td><td>0</td><td>1</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 8,
+        "bbox": [
+            47,
+            61,
+            56,
+            73
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    69,
+                    179,
+                    87,
+                    193
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find a \\(95\\%\\) confidence interval for the difference in the mean scores for students from school \\(X\\) and students from school \\(Y\\) in the written English test",
+                        "bbox": [
+                            92,
+                            177,
+                            548,
+                            207
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            506,
+                            191,
+                            526,
+                            206
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 9,
+                "bbox": [
+                    65,
+                    673,
+                    86,
+                    688
+                ],
+                "level": 65,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the confidence interval you found in part **(a)** to explain why there is insufficient evidence at a \\(5\\%\\) significance level to suggest that the English scores of students from school \\(X\\) and students from school \\(Y\\) are different",
+                        "bbox": [
+                            92,
+                            673,
+                            548,
+                            715
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            702,
+                            528,
+                            717
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A researcher is interested in whether there is a difference between two schools in students' aptitude for English. She randomly chooses 10 students from school \\(X\\) and 8 students of a similar age from school \\(Y\\) to take a written English test. The scores for the students from school \\(X\\) \\((x)\\) and school \\(Y\\) \\((y)\\) are summarised as follows",
+                "bbox": [
+                    69,
+                    60,
+                    548,
+                    116
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\Sigma x = 612\\qquad \\Sigma x^2 = 40 104\\qquad \\Sigma y = 444\\qquad \\Sigma y^2 = 27 460\\]",
+                "bbox": [
+                    143,
+                    125,
+                    475,
+                    142
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "You should assume that the two distributions are normal and have the same population variance",
+                "bbox": [
+                    70,
+                    152,
+                    517,
+                    169
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 10,
+        "bbox": [
+            46,
+            58,
+            55,
+            73
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    207,
+                    86,
+                    223
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Carry out a Wilcoxon matched-pairs signed-rank test at the \\(5\\%\\) significance level to test the researcher's belief",
+                        "bbox": [
+                            92,
+                            207,
+                            548,
+                            236
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            219,
+                            528,
+                            235
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 11,
+                "bbox": [
+                    68,
+                    61,
+                    87,
+                    74
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that using a paired-sample sign test at the \\(5\\%\\) significance level would result in the opposite conclusion to that found in part (a)",
+                        "bbox": [
+                            93,
+                            60,
+                            548,
+                            88
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            72,
+                            528,
+                            87
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 11,
+                "bbox": [
+                    68,
+                    688,
+                    86,
+                    702
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "It was later discovered that the experiment had been conducted such that each child completed the seaside puzzle first followed by the cartoon puzzle",
+                        "bbox": [
+                            92,
+                            647,
+                            548,
+                            677
+                        ],
+                        "page_number": 11,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Comment on the validity of using this experiment to test the researcher's belief",
+                        "bbox": [
+                            92,
+                            686,
+                            463,
+                            702
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            686,
+                            528,
+                            702
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Two jigsaw puzzles have the same number of pieces with identical shapes but have different pictures printed on them. One puzzle has a seaside picture and the other has a cartoon picture. A researcher believes that children will complete the cartoon puzzle more quickly. To test this belief, 10 children are randomly selected. The time taken in seconds for each child to complete each puzzle is recorded below",
+                "bbox": [
+                    69,
+                    58,
+                    548,
+                    114
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    69,
+                    126,
+                    548,
+                    195
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>Child</td><td>\\(A\\)</td><td>\\(B\\)</td><td>\\(C\\)</td><td>\\(D\\)</td><td>\\(E\\)</td><td>\\(F\\)</td><td>\\(G\\)</td><td>\\(H\\)</td><td>\\(I\\)</td><td>\\(J\\)</td></tr><tr><td>Seaside</td><td>182</td><td>130</td><td>193</td><td>181</td><td>192</td><td>204</td><td>184</td><td>192</td><td>180</td><td>189</td></tr><tr><td>Cartoon</td><td>161</td><td>111</td><td>195</td><td>159</td><td>202</td><td>200</td><td>168</td><td>165</td><td>145</td><td>160</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 12,
+        "bbox": [
+            46,
+            59,
+            55,
+            73
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 12,
+                "bbox": [
+                    68,
+                    127,
+                    86,
+                    143
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(k\\) in terms of \\(a\\)",
+                        "bbox": [
+                            92,
+                            127,
+                            188,
+                            143
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            127,
+                            528,
+                            143
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 12,
+                "bbox": [
+                    92,
+                    308,
+                    110,
+                    324
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(\\mathrm{P}(Y > 2) = a^2\\)",
+                        "bbox": [
+                            112,
+                            308,
+                            217,
+                            324
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            308,
+                            528,
+                            324
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 13,
+                "bbox": [
+                    69,
+                    88,
+                    87,
+                    102
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "It is now given that \\(a = 0.2\\)",
+                        "bbox": [
+                            69,
+                            62,
+                            203,
+                            76
+                        ],
+                        "page_number": 13,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(\\mathrm{E}(Y)\\)",
+                        "bbox": [
+                            93,
+                            87,
+                            202,
+                            102
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            87,
+                            528,
+                            102
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "\\(Y\\) is a discrete random variable which takes the values 0, 2, 4, ... . The probability generating function of \\(Y\\) is given by",
+                "bbox": [
+                    69,
+                    59,
+                    548,
+                    89
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{G}_{Y}(t) = \\frac{k}{1 - a t^{2}}.\\]",
+                "bbox": [
+                    257,
+                    94,
+                    337,
+                    121
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

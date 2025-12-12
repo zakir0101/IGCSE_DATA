@@ -1,0 +1,923 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            47,
+            63,
+            57,
+            78
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Find the roots of the equation \\(z^{3} = 27 - 27\\mathrm{i}\\), giving your answers in the form \\(r\\mathrm{e}^{\\mathrm{i}\\theta}\\), where \\(r > 0\\) and \\(-\\pi \\leqslant \\theta < \\pi\\).",
+                "bbox": [
+                    69,
+                    62,
+                    528,
+                    92
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    62,
+                    528,
+                    92
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 3,
+        "bbox": [
+            46,
+            62,
+            55,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 3,
+                "bbox": [
+                    69,
+                    89,
+                    87,
+                    105
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that, for \\(n \\geqslant 2\\), \\(I_n = -1 + n(n-1)I_{n-2}\\)",
+                        "bbox": [
+                            93,
+                            88,
+                            310,
+                            107
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            507,
+                            88,
+                            527,
+                            104
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 3,
+                "bbox": [
+                    92,
+                    508,
+                    99,
+                    523
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the exact value of \\(I_{2}\\)",
+                        "bbox": [
+                            100,
+                            508,
+                            217,
+                            523
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            507,
+                            507,
+                            527,
+                            523
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Let \\(I_{n} = \\int_{0}^{1}(1 - x)^{n}\\sinh x \\mathrm{d}x\\), where \\(n\\) is a non-negative integer",
+                "bbox": [
+                    70,
+                    56,
+                    363,
+                    84
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 4,
+        "bbox": [
+            46,
+            68,
+            56,
+            84
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "By considering the binomial expansion of \\(\\left(z - \\frac{1}{z}\\right)^5\\), where \\(z = \\cos \\theta + \\mathrm{i}\\sin \\theta\\), use de Moivre's theorem to show that",
+                "bbox": [
+                    69,
+                    63,
+                    548,
+                    101
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{cosec}^{5}\\theta = \\frac{a}{\\sin 5\\theta + b\\sin 3\\theta + c\\sin\\theta},\\]",
+                "bbox": [
+                    213,
+                    117,
+                    382,
+                    143
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "where \\(a, b\\) and \\(c\\) are integers to be determined",
+                "bbox": [
+                    69,
+                    160,
+                    289,
+                    177
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[6]",
+                "bbox": [
+                    508,
+                    161,
+                    528,
+                    177
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            46,
+            61,
+            55,
+            74
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    69,
+                    478,
+                    87,
+                    494
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "By considering the sum of the areas of these rectangles, show that",
+                        "bbox": [
+                            92,
+                            478,
+                            400,
+                            495
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\sum_{r = 1}^{n}\\frac{1}{\\sqrt{r}}\\mathrm{e}^{\\sqrt{r}}< \\left(2 + \\frac{1}{\\sqrt{n}}\\right)\\mathrm{e}^{\\sqrt{n}} - 2\\mathrm{e}. \\quad [5]\\]",
+                        "bbox": [
+                            221,
+                            508,
+                            372,
+                            543
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 7,
+                "bbox": [
+                    66,
+                    215,
+                    85,
+                    230
+                ],
+                "level": 66,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use a similar method to find, in terms of \\(n\\), a lower bound for \\(\\sum_{r=1}^{n} \\frac{1}{\\sqrt{r}} e^{\\sqrt{r}}\\)",
+                        "bbox": [
+                            92,
+                            211,
+                            435,
+                            236
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            507,
+                            216,
+                            527,
+                            232
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    65,
+                    73,
+                    522,
+                    428
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 6
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curve with equation \\(y = \\frac{1}{\\sqrt{x}} \\mathrm{e}^{\\sqrt{x}}\\) for \\(x \\geqslant 1\\), together with a set of \\(n - 1\\) rectangles of unit width",
+                "bbox": [
+                    69,
+                    437,
+                    548,
+                    469
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 8,
+        "bbox": [
+            46,
+            61,
+            55,
+            74
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Find the particular solution of the differential equation",
+                "bbox": [
+                    69,
+                    60,
+                    324,
+                    75
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[6\\frac{\\mathrm{d}^{2}x}{\\mathrm{d}t^{2}} +3\\frac{\\mathrm{d}x}{\\mathrm{d}t} +6x = \\mathrm{e}^{-t},\\]",
+                "bbox": [
+                    240,
+                    92,
+                    354,
+                    121
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "given that, when \\(t = 0\\), \\(x = \\frac{\\mathrm{d}x}{\\mathrm{d}t} = 0\\)",
+                "bbox": [
+                    69,
+                    135,
+                    238,
+                    158
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[10]",
+                "bbox": [
+                    524,
+                    137,
+                    548,
+                    153
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 10,
+        "bbox": [
+            46,
+            60,
+            56,
+            74
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    60,
+                    85,
+                    74
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Starting from the definitions of \\(\\tanh\\) and \\(\\operatorname {sech}\\) in terms of exponentials, prove that",
+                        "bbox": [
+                            91,
+                            60,
+                            472,
+                            75
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[1 - \\tanh^{2}u = \\operatorname {sech}^{2}u. \\quad [3]\\]",
+                        "bbox": [
+                            247,
+                            84,
+                            347,
+                            101
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            84,
+                            528,
+                            101
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 10,
+                "bbox": [
+                    92,
+                    438,
+                    110,
+                    454
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(\\frac{\\mathrm{d}}{\\mathrm{d}t}(\\mathrm{sech}^{-1}t) = -\\frac{1}{t\\sqrt{1 - t^2}}\\)",
+                        "bbox": [
+                            107,
+                            438,
+                            264,
+                            457
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            438,
+                            528,
+                            454
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 11,
+                "bbox": [
+                    69,
+                    125,
+                    86,
+                    142
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "It is given that",
+                        "bbox": [
+                            69,
+                            61,
+                            140,
+                            74
+                        ],
+                        "page_number": 11,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_blockMath",
+                        "blockMath": "\\[x = \\tanh^{-1}t\\qquad \\mathrm{and}\\qquad y = t\\mathrm{sech}^{-1}t,\\qquad \\mathrm{for} 0< t< 1.\\]",
+                        "bbox": [
+                            168,
+                            85,
+                            426,
+                            102
+                        ],
+                        "page_number": 11,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Show that \\(\\frac{\\mathrm{d}y}{\\mathrm{d}x} = -\\sqrt{1 - t^2} + \\left(1 - t^2\\right)\\mathrm{sech}^{-1}t.\\)",
+                        "bbox": [
+                            92,
+                            121,
+                            295,
+                            143
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            124,
+                            528,
+                            140
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\frac{\\mathrm{d}^2y}{\\mathrm{dx}^2}\\) in terms of \\(t\\)",
+                        "bbox": [
+                            92,
+                            382,
+                            200,
+                            413
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": true
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 12,
+        "bbox": [
+            46,
+            60,
+            56,
+            74
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Find the solution of the differential equation",
+                "bbox": [
+                    69,
+                    60,
+                    277,
+                    74
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\frac{\\mathrm{d}y}{\\mathrm{d}x} -\\frac{x + 5}{x^2 + 10x + 61} y = 1,\\]",
+                "bbox": [
+                    236,
+                    92,
+                    358,
+                    121
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "given that \\(y = 0\\) when \\(x = 3\\). Give your answer in an exact form",
+                "bbox": [
+                    69,
+                    137,
+                    376,
+                    153
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[10]",
+                "bbox": [
+                    524,
+                    137,
+                    548,
+                    153
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "8",
+        "page_number": 14,
+        "bbox": [
+            45,
+            61,
+            57,
+            77
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 14,
+                "bbox": [
+                    68,
+                    61,
+                    86,
+                    77
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "It is given that \\(\\lambda\\) is an eigenvalue of the non-singular square matrix \\(\\mathbf{A}\\), with corresponding eigenvector \\(\\mathbf{e}\\)",
+                        "bbox": [
+                            92,
+                            61,
+                            548,
+                            90
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Show that \\(\\mathbf{e}\\) is an eigenvector of \\(\\mathbf{A}^3\\) with corresponding eigenvalue \\(\\lambda^3\\)",
+                        "bbox": [
+                            92,
+                            98,
+                            426,
+                            117
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            99,
+                            528,
+                            115
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 14,
+                "bbox": [
+                    68,
+                    426,
+                    86,
+                    442
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The matrix \\(\\mathbf{A}\\) is given by",
+                        "bbox": [
+                            65,
+                            337,
+                            188,
+                            354
+                        ],
+                        "page_number": 14,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_blockMath",
+                        "blockMath": "\\[\\mathbf{A} = \\left( \\begin{array}{ccc} - 1 & 3 & 4 \\\\ 0 & 1 & 0 \\\\ 0 & -2 & 5 \\end{array} \\right).\\]",
+                        "bbox": [
+                            253,
+                            358,
+                            343,
+                            406
+                        ],
+                        "page_number": 14,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Show that the eigenvalues of \\(\\mathbf{A}\\) are \\(-1, 1\\) and \\(5\\)",
+                        "bbox": [
+                            92,
+                            426,
+                            317,
+                            443
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            426,
+                            528,
+                            442
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 15,
+                "bbox": [
+                    68,
+                    63,
+                    86,
+                    78
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find a matrix \\(\\mathbf{P}\\) and a diagonal matrix \\(\\mathbf{D}\\) such that \\(\\mathbf{A} - 2\\mathbf{I} = \\mathbf{P}\\mathbf{D}\\mathbf{P}^{-1}\\)",
+                        "bbox": [
+                            92,
+                            63,
+                            410,
+                            79
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            63,
+                            528,
+                            79
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 15,
+                "bbox": [
+                    92,
+                    472,
+                    111,
+                    488
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the characteristic equation of \\(\\mathbf{A}\\) to show that \\((\\mathbf{A} - 2\\mathbf{I})^{3} = a\\mathbf{A}^{2} + b\\mathbf{A} + c\\mathbf{I}\\) where \\(a, b\\) and \\(c\\) are constants to be determined",
+                        "bbox": [
+                            111,
+                            472,
+                            546,
+                            506
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            494,
+                            528,
+                            510
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    }
+]
