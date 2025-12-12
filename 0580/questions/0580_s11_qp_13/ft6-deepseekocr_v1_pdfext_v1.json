@@ -152,65 +152,9 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "1,",
+                        "text": "1, 2, 4, 8, 16,",
                         "bbox": [
                             91,
-                            255,
-                            105,
-                            271
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "2,",
-                        "bbox": [
-                            128,
-                            255,
-                            141,
-                            271
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "4,",
-                        "bbox": [
-                            167,
-                            255,
-                            180,
-                            271
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "8,",
-                        "bbox": [
-                            208,
-                            255,
-                            221,
-                            271
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "16,",
-                        "bbox": [
-                            250,
                             255,
                             265,
                             271
@@ -250,51 +194,9 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "23,",
+                        "text": "23, 19, 15, 11,",
                         "bbox": [
                             91,
-                            283,
-                            108,
-                            299
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "19,",
-                        "bbox": [
-                            129,
-                            283,
-                            143,
-                            299
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "15,",
-                        "bbox": [
-                            167,
-                            283,
-                            180,
-                            299
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "11,",
-                        "bbox": [
-                            209,
                             283,
                             224,
                             299
@@ -504,24 +406,10 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "3",
+                        "text": "3 0.273",
                         "bbox": [
                             85,
                             569,
-                            99,
-                            585
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "0.273",
-                        "bbox": [
-                            215,
-                            573,
                             213,
                             590
                         ],
@@ -560,23 +448,9 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "1.1",
+                        "text": "1.1 111%",
                         "bbox": [
                             88,
-                            617,
-                            106,
-                            632
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "111%",
-                        "bbox": [
-                            170,
                             617,
                             215,
                             632
@@ -1207,7 +1081,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer \\(AC =\\)  .........\\(cm\\)",
+                "text": "Answer \\(AC =\\)    .........  \\(cm\\)",
                 "bbox": [
                     312,
                     269,
@@ -1293,7 +1167,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer \\(BC =\\)  .........\\(cm\\)",
+                "text": "Answer \\(BC =\\)    .........  \\(cm\\)",
                 "bbox": [
                     312,
                     546,
@@ -1556,6 +1430,20 @@
                         "is_pot_pre": false
                     },
                     {
+                        "type": "form_text",
+                        "text": "Answer(b)",
+                        "bbox": [
+                            88,
+                            190,
+                            139,
+                            205
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
                         "type": "mark_text",
                         "text": "[2]",
                         "bbox": [
@@ -1628,7 +1516,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a)  .........litres",
+                        "text": "Answer(a)    .........  litres",
                         "bbox": [
                             327,
                             367,
@@ -1726,7 +1614,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(b)  .........g",
+                        "text": "Answer(b)    .........  g",
                         "bbox": [
                             327,
                             539,

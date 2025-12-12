@@ -326,7 +326,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........mm",
+                "text": "Answer   .........  mm",
                 "bbox": [
                     337,
                     202,
@@ -689,6 +689,20 @@
                         "is_pot_pre": false
                     },
                     {
+                        "type": "form_text",
+                        "text": "Answer(b)",
+                        "bbox": [
+                            89,
+                            190,
+                            139,
+                            205
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
                         "type": "mark_text",
                         "text": "[2]",
                         "bbox": [
@@ -946,7 +960,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........cents",
+                "text": "Answer   .........  cents",
                 "bbox": [
                     337,
                     316,
@@ -1030,7 +1044,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........\\(\\mathrm{cm}^3\\)",
+                "text": "Answer   .........  \\(\\mathrm{cm}^3\\)",
                 "bbox": [
                     337,
                     603,
@@ -1834,27 +1848,13 @@
                         "is_pot_pre": false
                     },
                     {
-                        "type": "form_text",
-                        "text": "Answer(a)",
+                        "type": "text",
+                        "text": "Answer(a) cm <mark>",
                         "bbox": [
                             317,
                             440,
-                            478,
-                            457
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "cm <mark>",
-                        "bbox": [
-                            486,
-                            440,
                             501,
-                            456
+                            457
                         ],
                         "page_number": 9,
                         "is_pre": false,
@@ -1918,24 +1918,10 @@
                         "is_pot_pre": false
                     },
                     {
-                        "type": "form_text",
-                        "text": "Answer(b)",
+                        "type": "text",
+                        "text": "Answer(b) km<sup>2</sup> <mark>",
                         "bbox": [
                             317,
-                            684,
-                            474,
-                            699
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "km<sup>2</sup> <mark>",
-                        "bbox": [
-                            481,
                             683,
                             502,
                             699
@@ -2364,7 +2350,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........\\(\\mathrm{cm}^2\\)",
+                "text": "Answer   .........  \\(\\mathrm{cm}^2\\)",
                 "bbox": [
                     337,
                     677,
@@ -2445,7 +2431,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a) .........km",
+                        "text": "Answer(a)   .........  km",
                         "bbox": [
                             325,
                             430,
@@ -2499,26 +2485,12 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(b)(i)",
+                                "text": "Answer(b)(i) m/s",
                                 "bbox": [
                                     316,
                                     535,
-                                    490,
-                                    551
-                                ],
-                                "page_number": 12,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "m/s",
-                                "bbox": [
-                                    490,
-                                    535,
                                     521,
-                                    550
+                                    551
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,

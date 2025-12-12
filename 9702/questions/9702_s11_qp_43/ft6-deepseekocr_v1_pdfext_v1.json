@@ -220,7 +220,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "ratio = .........",
+                        "text": "ratio =   .........",
                         "bbox": [
                             311,
                             617,
@@ -283,6 +283,20 @@
                             61,
                             247,
                             77
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "Two containers A and B are joined by a tube of negligible volume, as illustrated in Fig  .........  2.1",
+                        "bbox": [
+                            92,
+                            94,
+                            520,
+                            113
                         ],
                         "page_number": 5,
                         "is_pre": false,
@@ -392,7 +406,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "amount = .........mol",
+                        "text": "amount =   .........  mol",
                         "bbox": [
                             296,
                             558,
@@ -516,7 +530,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "capacitance = .........\\(\\mu \\mathsf{F}\\)",
+                                "text": "capacitance =   .........  \\(\\mu \\mathsf{F}\\)",
                                 "bbox": [
                                     274,
                                     241,
@@ -572,7 +586,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "energy = .........mJ",
+                                "text": "energy =   .........  mJ",
                                 "bbox": [
                                     298,
                                     435,
@@ -705,7 +719,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "charge = .........\\(\\mu \\mathrm{C}\\)",
+                        "text": "charge =   .........  \\(\\mu \\mathrm{C}\\)",
                         "bbox": [
                             299,
                             466,
@@ -1116,11 +1130,11 @@
                             },
                             {
                                 "type": "text",
-                                "text": "1.",
+                                "text": "1. there is a reading on the voltmeter,",
                                 "bbox": [
                                     115,
                                     83,
-                                    130,
+                                    310,
                                     99
                                 ],
                                 "page_number": 11,
@@ -1129,17 +1143,112 @@
                                 "is_pot_pre": false
                             },
                             {
-                                "type": "text",
-                                "text": "there is a reading on the voltmeter,",
+                                "type": "form_text",
+                                "text": ".........",
                                 "bbox": [
-                                    137,
-                                    83,
-                                    310,
-                                    99
+                                    115,
+                                    104,
+                                    501,
+                                    143
                                 ],
                                 "page_number": 11,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    481,
+                                    104,
+                                    501,
+                                    143
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "2. this reading varies in magnitude,",
+                                "bbox": [
+                                    114,
+                                    152,
+                                    300,
+                                    169
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    115,
+                                    177,
+                                    501,
+                                    215
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    481,
+                                    177,
+                                    501,
+                                    215
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "3. the reading has both positive and negative values",
+                                "bbox": [
+                                    114,
+                                    221,
+                                    384,
+                                    238
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    115,
+                                    246,
+                                    501,
+                                    281
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    481,
+                                    246,
+                                    501,
+                                    281
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -1177,7 +1286,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "f_0 = .........Hz",
+                        "text": "\\( f_0 \\)  =   .........  Hz",
                         "bbox": [
                             324,
                             445,
@@ -1186,9 +1295,7 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1205,9 +1312,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -1459,8 +1564,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "6",
@@ -1512,7 +1616,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "frequency = .........Hz",
+                                "text": "frequency =   .........  Hz",
                                 "bbox": [
                                     284,
                                     478,
@@ -1568,7 +1672,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "r.m.s.........current = .........A",
+                                "text": "r.m.s  .........  current =   .........  A",
                                 "bbox": [
                                     268,
                                     659,
@@ -1657,7 +1761,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "resistance = .........\\(\\Omega\\)",
+                        "text": "resistance =   .........  \\(\\Omega\\)",
                         "bbox": [
                             282,
                             241,
@@ -1882,7 +1986,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "wavelength = .........m",
+                                "text": "wavelength =   .........  m",
                                 "bbox": [
                                     277,
                                     527,
@@ -2110,7 +2214,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "binding energy = .........MeV",
+                                "text": "binding energy =   .........  MeV",
                                 "bbox": [
                                     260,
                                     690,
@@ -2673,6 +2777,33 @@
                         "is_pot_pre": false
                     },
                     {
+                        "type": "form_text",
+                        "text": "2  .........  2  .........  2  .........  2  .........  2  .........  2  .........  2  .........  2  .........  2  .........  2  .........  2  .........",
+                        "bbox": [
+                            92,
+                            143,
+                            499,
+                            160
+                        ],
+                        "page_number": 23,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            479,
+                            143,
+                            499,
+                            160
+                        ],
+                        "page_number": 23,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
                         "type": "mark_text",
                         "text": "[4]",
                         "bbox": [
@@ -2813,7 +2944,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "power = .........W",
+                                "text": "power =   .........  W",
                                 "bbox": [
                                     303,
                                     255,
@@ -2883,7 +3014,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "length = .........km",
+                                "text": "length =   .........  km",
                                 "bbox": [
                                     303,
                                     463,

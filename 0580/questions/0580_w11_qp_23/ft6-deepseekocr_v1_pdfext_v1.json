@@ -210,93 +210,9 @@
         "content": [
             {
                 "type": "text",
-                "text": "210",
+                "text": "210 211 212 213 214 215 216",
                 "bbox": [
                     160,
-                    282,
-                    165,
-                    299
-                ],
-                "page_number": 2,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "211",
-                "bbox": [
-                    188,
-                    282,
-                    200,
-                    299
-                ],
-                "page_number": 2,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "212",
-                "bbox": [
-                    217,
-                    282,
-                    229,
-                    299
-                ],
-                "page_number": 2,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "213",
-                "bbox": [
-                    265,
-                    282,
-                    277,
-                    299
-                ],
-                "page_number": 2,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "214",
-                "bbox": [
-                    295,
-                    282,
-                    307,
-                    299
-                ],
-                "page_number": 2,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "215",
-                "bbox": [
-                    331,
-                    282,
-                    344,
-                    299
-                ],
-                "page_number": 2,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "216",
-                "bbox": [
-                    387,
                     282,
                     404,
                     299
@@ -677,7 +593,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer $",
+                "text": "Answer",
                 "bbox": [
                     331,
                     531,
@@ -763,6 +679,20 @@
                 "is_pot_pre": false
             },
             {
+                "type": "form_text",
+                "text": "Answer",
+                "bbox": [
+                    67,
+                    631,
+                    105,
+                    646
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
                 "type": "mark_text",
                 "text": "[2]",
                 "bbox": [
@@ -806,7 +736,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........",
+                "text": "Answer   .........",
                 "bbox": [
                     343,
                     188,
@@ -873,7 +803,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a) .........\\(^\\circ \\mathrm{C}\\)",
+                        "text": "Answer(a)   .........  \\(^\\circ \\mathrm{C}\\)",
                         "bbox": [
                             316,
                             371,
@@ -929,7 +859,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(b) .........\\(^\\circ \\mathrm{C}\\)",
+                        "text": "Answer(b)   .........  \\(^\\circ \\mathrm{C}\\)",
                         "bbox": [
                             316,
                             501,
@@ -1000,6 +930,20 @@
                 "is_pre": false,
                 "issues": [],
                 "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "Calculate",
+                "bbox": [
+                    67,
+                    305,
+                    114,
+                    321
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
             }
         ],
         "issues": []
@@ -1060,7 +1004,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........h .........min",
+                "text": "Answer   .........  h   .........  min",
                 "bbox": [
                     316,
                     723,
@@ -1417,24 +1361,10 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer",
+                "text": "Answer %",
                 "bbox": [
                     327,
                     489,
-                    483,
-                    506
-                ],
-                "page_number": 6,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "form_text",
-                "text": "%",
-                "bbox": [
-                    488,
-                    490,
                     502,
                     506
                 ],
@@ -2085,23 +2015,9 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer",
+                "text": "Answer cm\\(^2\\)",
                 "bbox": [
                     327,
-                    722,
-                    493,
-                    737
-                ],
-                "page_number": 8,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "form_text",
-                "text": "cm\\(^2\\)",
-                "bbox": [
-                    490,
                     721,
                     521,
                     737
@@ -2604,6 +2520,33 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "Answer(a)   .........",
+                        "bbox": [
+                            90,
+                            345,
+                            476,
+                            361
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            456,
+                            345,
+                            476,
+                            361
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -2647,23 +2590,9 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(b)(i) \\(CX =\\)",
+                                "text": "Answer(b)(i) \\(CX =\\) cm",
                                 "bbox": [
                                     266,
-                                    486,
-                                    503,
-                                    503
-                                ],
-                                "page_number": 11,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "cm",
-                                "bbox": [
-                                    483,
                                     486,
                                     522,
                                     503
@@ -2731,26 +2660,12 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(b)(ii)",
+                                "text": "Answer(b)(ii) cm\\(^2\\)",
                                 "bbox": [
                                     292,
-                                    666,
-                                    498,
-                                    684
-                                ],
-                                "page_number": 11,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "cm\\(^2\\)",
-                                "bbox": [
-                                    481,
                                     665,
                                     522,
-                                    683
+                                    684
                                 ],
                                 "page_number": 11,
                                 "is_pre": false,
@@ -2894,7 +2809,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a)  .........m/s²",
+                        "text": "Answer(a)    .........  m/s²",
                         "bbox": [
                             311,
                             434,
@@ -2964,7 +2879,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(b)  .........m/s",
+                        "text": "Answer(b)    .........  m/s",
                         "bbox": [
                             302,
                             665,

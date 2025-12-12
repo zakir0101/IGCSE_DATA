@@ -81,7 +81,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "expected speed = .........",
+                        "text": "expected speed =   .........",
                         "bbox": [
                             257,
                             624,
@@ -312,7 +312,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "deceleration = .........",
+                        "text": "deceleration =   .........",
                         "bbox": [
                             276,
                             392,
@@ -655,7 +655,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "pressure difference = .........",
+                        "text": "pressure difference =   .........",
                         "bbox": [
                             241,
                             367,
@@ -711,7 +711,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "upward force = .........",
+                        "text": "upward force =   .........",
                         "bbox": [
                             272,
                             492,
@@ -767,7 +767,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "acceleration = .........",
+                        "text": "acceleration =   .........",
                         "bbox": [
                             275,
                             644,
@@ -1191,6 +1191,33 @@
                         "page_number": 8,
                         "is_pre": false,
                         "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            69,
+                            759,
+                            528,
+                            774
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            759,
+                            528,
+                            774
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],
@@ -1870,7 +1897,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "lower pressure .........",
+                        "text": "lower pressure   .........",
                         "bbox": [
                             273,
                             367,
@@ -1939,6 +1966,20 @@
                         "is_pot_pre": false
                     },
                     {
+                        "type": "form_text",
+                        "text": "lower pressure",
+                        "bbox": [
+                            92,
+                            484,
+                            547,
+                            501
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
                         "type": "mark_text",
                         "text": "[2]",
                         "bbox": [
@@ -1990,6 +2031,34 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "loudness",
+                                "bbox": [
+                                    114,
+                                    588,
+                                    547,
+                                    604
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "pitch",
+                                "bbox": [
+                                    114,
+                                    615,
+                                    547,
+                                    631
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2014,6 +2083,34 @@
                                     641,
                                     402,
                                     657
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "loudness",
+                                "bbox": [
+                                    114,
+                                    668,
+                                    547,
+                                    683
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "pitch",
+                                "bbox": [
+                                    114,
+                                    693,
+                                    548,
+                                    709
                                 ],
                                 "page_number": 11,
                                 "is_pre": false,
@@ -2169,7 +2266,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "effective resistance = .........",
+                                "text": "effective resistance =   .........",
                                 "bbox": [
                                     242,
                                     542,
@@ -2269,7 +2366,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "voltmeter reading = .........",
+                                "text": "voltmeter reading =   .........",
                                 "bbox": [
                                     250,
                                     699,
@@ -2445,23 +2542,9 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "at A",
+                                "text": "at A light in the darkroom,",
                                 "bbox": [
                                     114,
-                                    514,
-                                    138,
-                                    529
-                                ],
-                                "page_number": 14,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "light in the darkroom,",
-                                "bbox": [
-                                    171,
                                     514,
                                     479,
                                     529
@@ -3091,25 +3174,11 @@
                         "parts": [],
                         "content": [
                             {
-                                "type": "text",
-                                "text": "the values of x and y for strontium-88,",
+                                "type": "form_text",
+                                "text": "the values of x and y for strontium-88, x =",
                                 "bbox": [
                                     115,
                                     126,
-                                    302,
-                                    143
-                                ],
-                                "page_number": 18,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "x =",
-                                "bbox": [
-                                    437,
-                                    127,
                                     549,
                                     143
                                 ],

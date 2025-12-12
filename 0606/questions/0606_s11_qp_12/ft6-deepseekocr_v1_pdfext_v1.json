@@ -126,11 +126,11 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "p = .........$",
+                        "text": "k =   .........  \\(m =   .........  \\) p =   .........",
                         "bbox": [
-                            348,
-                            296,
-                            434,
+                            92,
+                            294,
+                            435,
                             311
                         ],
                         "page_number": 5,
@@ -1412,52 +1412,124 @@
         "level": 47,
         "parts": [
             {
-                "label": "(i)",
+                "label": "EITHER",
                 "page_number": 14,
                 "bbox": [
                     69,
-                    152,
                     86,
-                    168
+                    118,
+                    102
                 ],
                 "level": 69,
-                "parts": [],
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 14,
+                        "bbox": [
+                            69,
+                            152,
+                            86,
+                            168
+                        ],
+                        "level": 69,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Find the coordinates of the point \\(A\\)",
+                                "bbox": [
+                                    93,
+                                    152,
+                                    259,
+                                    168
+                                ],
+                                "page_number": 14,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    481,
+                                    152,
+                                    501,
+                                    168
+                                ],
+                                "page_number": 14,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "The curve meets the \\(y\\)-axis at the point \\(B\\). The normal to the curve at \\(B\\) meets the \\(x\\)-axis at the point \\(C\\). The tangent to the curve at the point where \\(x = -1\\) and the normal to the curve at \\(B\\) meet at the point \\(D\\)",
+                                "bbox": [
+                                    69,
+                                    177,
+                                    521,
+                                    219
+                                ],
+                                "page_number": 14,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 14,
+                        "bbox": [
+                            66,
+                            230,
+                            84,
+                            245
+                        ],
+                        "level": 66,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Find the area of the triangle \\(ACD\\)",
+                                "bbox": [
+                                    92,
+                                    229,
+                                    252,
+                                    245
+                                ],
+                                "page_number": 14,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[7]",
+                                "bbox": [
+                                    481,
+                                    230,
+                                    501,
+                                    245
+                                ],
+                                "page_number": 14,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
                 "content": [
                     {
                         "type": "text",
-                        "text": "Find the coordinates of the point \\(A\\)",
-                        "bbox": [
-                            93,
-                            152,
-                            259,
-                            168
-                        ],
-                        "page_number": 14,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[3]",
-                        "bbox": [
-                            481,
-                            152,
-                            501,
-                            168
-                        ],
-                        "page_number": 14,
-                        "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The curve meets the \\(y\\)-axis at the point \\(B\\). The normal to the curve at \\(B\\) meets the \\(x\\)-axis at the point \\(C\\). The tangent to the curve at the point where \\(x = -1\\) and the normal to the curve at \\(B\\) meet at the point \\(D\\)",
+                        "text": "The tangent to the curve \\(y = 3x^{3} + 2x^{2} - 5x + 1\\) at the point where \\(x = -1\\) meets the \\(y\\)-axis at the point \\(A\\)",
                         "bbox": [
                             69,
-                            177,
+                            112,
                             521,
-                            219
+                            142
                         ],
                         "page_number": 14,
                         "is_pre": false,
@@ -1468,85 +1540,41 @@
                 "issues": []
             },
             {
-                "label": "(ii)",
+                "label": "OR",
                 "page_number": 14,
                 "bbox": [
-                    66,
-                    230,
-                    84,
-                    245
+                    69,
+                    268,
+                    90,
+                    283
                 ],
-                "level": 66,
-                "parts": [
-                    {
-                        "label": "OR",
-                        "page_number": 14,
-                        "bbox": [
-                            69,
-                            268,
-                            90,
-                            283
-                        ],
-                        "level": 69,
-                        "parts": [],
-                        "content": [
-                            {
-                                "type": "image",
-                                "bbox": [
-                                    111,
-                                    293,
-                                    493,
-                                    514
-                                ],
-                                "page_number": 14,
-                                "is_pre": false,
-                                "image": {
-                                    "caption": "",
-                                    "page": 14
-                                },
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "The diagram shows the curve \\(y = x(x - 3)^2\\) . The curve has a maximum at the point \\(P\\) and touches the \\(x\\)-axis at the point \\(Q\\). The tangent at \\(P\\) and the normal at \\(Q\\) meet at the point \\(R\\). Find the area of the shaded region \\(PQR\\)",
-                                "bbox": [
-                                    69,
-                                    528,
-                                    521,
-                                    571
-                                ],
-                                "page_number": 14,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[10]",
-                                "bbox": [
-                                    498,
-                                    555,
-                                    521,
-                                    570
-                                ],
-                                "page_number": 14,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            }
-                        ],
-                        "issues": []
-                    }
-                ],
+                "level": 69,
+                "parts": [],
                 "content": [
                     {
-                        "type": "text",
-                        "text": "Find the area of the triangle \\(ACD\\)",
+                        "type": "image",
                         "bbox": [
-                            92,
-                            229,
-                            252,
-                            245
+                            111,
+                            293,
+                            493,
+                            514
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "image": {
+                            "caption": "",
+                            "page": 14
+                        },
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The diagram shows the curve \\(y = x(x - 3)^2\\) . The curve has a maximum at the point \\(P\\) and touches the \\(x\\)-axis at the point \\(Q\\). The tangent at \\(P\\) and the normal at \\(Q\\) meet at the point \\(R\\). Find the area of the shaded region \\(PQR\\)",
+                        "bbox": [
+                            69,
+                            528,
+                            521,
+                            571
                         ],
                         "page_number": 14,
                         "is_pre": false,
@@ -1555,15 +1583,16 @@
                     },
                     {
                         "type": "mark_text",
-                        "text": "[7]",
+                        "text": "[10]",
                         "bbox": [
-                            481,
-                            230,
-                            501,
-                            245
+                            498,
+                            555,
+                            521,
+                            570
                         ],
                         "page_number": 14,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -1579,20 +1608,6 @@
                     61,
                     308,
                     77
-                ],
-                "page_number": 14,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "The tangent to the curve \\(y = 3x^{3} + 2x^{2} - 5x + 1\\) at the point where \\(x = -1\\) meets the \\(y\\)-axis at the point \\(A\\)",
-                "bbox": [
-                    69,
-                    112,
-                    521,
-                    142
                 ],
                 "page_number": 14,
                 "is_pre": false,

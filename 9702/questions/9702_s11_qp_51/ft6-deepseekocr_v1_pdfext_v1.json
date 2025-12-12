@@ -339,7 +339,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "gradient = .........",
+                        "text": "gradient =   .........",
                         "bbox": [
                             299,
                             262,
@@ -615,6 +615,34 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "\\(p/10^{5} \\text{ Pa}\\)",
+                                "bbox": [
+                                    38,
+                                    205,
+                                    90,
+                                    221
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "1.8",
+                                "bbox": [
+                                    89,
+                                    215,
+                                    108,
+                                    229
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -636,27 +664,13 @@
                 "parts": [],
                 "content": [
                     {
-                        "type": "text",
-                        "text": "In this experiment, \\(A = 3.14 \\times 10^{- 6} \\text{m}^2\\) and \\(k = 1.38 \\times 10^{- 23} \\text{J} \\text{K}^{- 1}\\). Using your answer in (c)(iii), determine the value of \\(N\\). Include the absolute uncertainty in your value",
+                        "type": "form_text",
+                        "text": "In this experiment, \\(A = 3.14 \\times 10^{- 6} \\text{m}^2\\) and \\(k = 1.38 \\times 10^{- 23} \\text{J} \\text{K}^{- 1}\\). Using your answer in (c)(iii), determine the value of \\(N\\). Include the absolute uncertainty in your value For",
                         "bbox": [
                             92,
                             61,
-                            521,
-                            90
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "form_text",
-                        "text": "For",
-                        "bbox": [
-                            533,
-                            65,
                             563,
-                            73
+                            90
                         ],
                         "page_number": 8,
                         "is_pre": false,
@@ -693,7 +707,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "N = .........",
+                        "text": "N =   .........",
                         "bbox": [
                             300,
                             215,
@@ -774,7 +788,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "h = .........",
+                                "text": "h =   .........",
                                 "bbox": [
                                     300,
                                     463,
@@ -830,7 +844,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "percentage uncertainty = .........%",
+                                "text": "percentage uncertainty =   .........  %",
                                 "bbox": [
                                     191,
                                     602,

@@ -77,6 +77,33 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "acceleration kinetic energy momentum power weight",
+                        "bbox": [
+                            92,
+                            206,
+                            502,
+                            222
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            482,
+                            206,
+                            502,
+                            222
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -120,7 +147,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "horizontal component = .........N",
+                                "text": "horizontal component =   .........  N",
                                 "bbox": [
                                     230,
                                     508,
@@ -176,7 +203,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "vertical component = .........N",
+                                "text": "vertical component =   .........  N",
                                 "bbox": [
                                     242,
                                     618,
@@ -311,7 +338,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "T_1 = .........N",
+                        "text": "\\( T_1 \\)  =   .........  N",
                         "bbox": [
                             325,
                             670,
@@ -320,14 +347,12 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
                         "type": "form_text",
-                        "text": "T_2 = .........N",
+                        "text": "\\( T_2 \\)  =   .........  N",
                         "bbox": [
                             325,
                             696,
@@ -336,9 +361,7 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -355,15 +378,11 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode",
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -458,7 +477,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "force = .........N",
+                                "text": "force =   .........  N",
                                 "bbox": [
                                     312,
                                     200,
@@ -490,7 +509,7 @@
                 "content": [
                     {
                         "type": "form_text",
-                        "text": "total distance = .........m",
+                        "text": "total distance =   .........  m",
                         "bbox": [
                             270,
                             661,
@@ -903,7 +922,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "tension = .........N",
+                                "text": "tension =   .........  N",
                                 "bbox": [
                                     300,
                                     196,
@@ -930,23 +949,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "2.",
+                                "text": "2. the gain in potential energy of the mass",
                                 "bbox": [
                                     114,
-                                    223,
-                                    131,
-                                    238
-                                ],
-                                "page_number": 9,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "the gain in potential energy of the mass",
-                                "bbox": [
-                                    140,
                                     223,
                                     336,
                                     238
@@ -958,7 +963,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "gain in potential energy = .........J",
+                                "text": "gain in potential energy =   .........  J",
                                 "bbox": [
                                     221,
                                     307,
@@ -1014,7 +1019,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "input power = .........W",
+                                "text": "input power =   .........  W",
                                 "bbox": [
                                     278,
                                     486,
@@ -1203,7 +1208,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "current = .........A",
+                                "text": "current =   .........  A",
                                 "bbox": [
                                     301,
                                     672,
@@ -1301,23 +1306,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "1.",
+                                "text": "1. the p.d. across resistor R,",
                                 "bbox": [
                                     115,
-                                    87,
-                                    125,
-                                    102
-                                ],
-                                "page_number": 11,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "the p.d. across resistor R,",
-                                "bbox": [
-                                    137,
                                     87,
                                     265,
                                     102
@@ -1329,7 +1320,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "p.d.........= .........V",
+                                "text": "p.d  .........  =   .........  V",
                                 "bbox": [
                                     318,
                                     184,
@@ -1356,23 +1347,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "2.",
+                                "text": "2. the terminal p.d. across cell A,",
                                 "bbox": [
                                     114,
-                                    211,
-                                    131,
-                                    226
-                                ],
-                                "page_number": 11,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "the terminal p.d. across cell A,",
-                                "bbox": [
-                                    137,
                                     211,
                                     288,
                                     226
@@ -1384,7 +1361,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "p.d.........= .........V",
+                                "text": "p.d  .........  =   .........  V",
                                 "bbox": [
                                     318,
                                     310,
@@ -1411,23 +1388,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "3.",
+                                "text": "3. the terminal p.d. across cell B",
                                 "bbox": [
                                     114,
-                                    337,
-                                    131,
-                                    352
-                                ],
-                                "page_number": 11,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "the terminal p.d. across cell B",
-                                "bbox": [
-                                    137,
                                     337,
                                     288,
                                     352
@@ -1439,7 +1402,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "p.d.........= .........V",
+                                "text": "p.d  .........  =   .........  V",
                                 "bbox": [
                                     318,
                                     433,
@@ -1642,7 +1605,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "amplitude = .........\\(cm\\)",
+                                "text": "amplitude =   .........  \\(cm\\)",
                                 "bbox": [
                                     289,
                                     638,
@@ -1683,7 +1646,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "phase difference = .........",
+                                "text": "phase difference =   .........",
                                 "bbox": [
                                     255,
                                     736,
@@ -1739,7 +1702,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "amplitude = .........cm",
+                                "text": "amplitude =   .........  cm",
                                 "bbox": [
                                     289,
                                     121,
@@ -2144,7 +2107,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "ratio = .........",
+                        "text": "ratio =   .........",
                         "bbox": [
                             314,
                             607,

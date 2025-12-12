@@ -54,27 +54,13 @@
                 "is_pot_pre": false
             },
             {
-                "type": "form_text",
-                "text": "Answer",
+                "type": "text",
+                "text": "Answer °C",
                 "bbox": [
                     322,
                     139,
-                    492,
-                    156
-                ],
-                "page_number": 2,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "°C",
-                "bbox": [
-                    486,
-                    139,
                     522,
-                    155
+                    156
                 ],
                 "page_number": 2,
                 "is_pre": false,
@@ -155,7 +141,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer A\\$",
+                "text": "Answer A\\",
                 "bbox": [
                     322,
                     312,
@@ -164,9 +150,7 @@
                 ],
                 "page_number": 2,
                 "is_pre": false,
-                "issues": [
-                    "Escaped dollar outside math mode: ...Answer A\\$..."
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -184,8 +168,7 @@
             }
         ],
         "issues": [
-            "Escaped dollar outside math mode: ...ustralian dollars (A\\$) when the exchang...",
-            "Escaped dollar outside math mode: ...Answer A\\$..."
+            "Escaped dollar outside math mode: ...ustralian dollars (A\\$) when the exchang..."
         ],
         "has_issues": true
     },
@@ -315,7 +298,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........< .........< .........<",
+                "text": "Answer   .........  <   .........  <   .........  <",
                 "bbox": [
                     237,
                     635,
@@ -399,7 +382,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........\\(kg\\)",
+                "text": "Answer   .........  \\(kg\\)",
                 "bbox": [
                     322,
                     254,
@@ -681,7 +664,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........\\(\\leqslant P <\\)",
+                "text": "Answer   .........  \\(\\leqslant P <\\)",
                 "bbox": [
                     277,
                     202,
@@ -1274,9 +1257,7 @@
                 ],
                 "page_number": 6,
                 "is_pre": false,
-                "issues": [
-                    "Multiple display math blocks (2 found)"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1335,10 +1316,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "Multiple display math blocks (2 found)"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "14",
@@ -1582,26 +1560,12 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer",
+                "text": "Answer m/s",
                 "bbox": [
                     322,
                     726,
-                    493,
-                    742
-                ],
-                "page_number": 7,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "form_text",
-                "text": "m/s",
-                "bbox": [
-                    483,
-                    726,
                     522,
-                    740
+                    742
                 ],
                 "page_number": 7,
                 "is_pre": false,
@@ -1730,7 +1694,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "1, ........., ........., ........., 81",
+                                "text": "1,   .........  ,   .........  ,   .........  , 81",
                                 "bbox": [
                                     262,
                                     269,
@@ -2376,7 +2340,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(a)(i) ( ........., .........)",
+                                "text": "Answer(a)(i) (   .........  ,   .........  )",
                                 "bbox": [
                                     312,
                                     424,
@@ -2581,9 +2545,9 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Q",
+                        "text": "Answer(b) \\(P\\) Q",
                         "bbox": [
-                            364,
+                            91,
                             694,
                             493,
                             709

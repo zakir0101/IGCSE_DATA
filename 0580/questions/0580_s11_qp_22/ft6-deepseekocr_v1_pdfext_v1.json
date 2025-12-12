@@ -196,6 +196,20 @@
                 "is_pot_pre": false
             },
             {
+                "type": "form_text",
+                "text": "Answer",
+                "bbox": [
+                    67,
+                    529,
+                    106,
+                    545
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
                 "type": "mark_text",
                 "text": "[2]",
                 "bbox": [
@@ -267,7 +281,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........",
+                "text": "Answer   .........",
                 "bbox": [
                     337,
                     243,
@@ -351,7 +365,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........",
+                "text": "Answer   .........",
                 "bbox": [
                     337,
                     478,
@@ -421,7 +435,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........",
+                "text": "Answer   .........",
                 "bbox": [
                     337,
                     656,
@@ -659,7 +673,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........\\(\\leqslant d <\\)",
+                "text": "Answer   .........  \\(\\leqslant d <\\)",
                 "bbox": [
                     281,
                     698,
@@ -1448,7 +1462,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(c)  .........cm",
+                        "text": "Answer(c)    .........  cm",
                         "bbox": [
                             331,
                             672,
@@ -1976,7 +1990,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a) ( ........., .........)",
+                        "text": "Answer(a) (   .........  ,   .........  )",
                         "bbox": [
                             342,
                             619,
@@ -2278,37 +2292,9 @@
         "content": [
             {
                 "type": "text",
-                "text": "f(x) = \\(x^{2}\\)",
+                "text": "f(x) = \\(x^{2}\\) g(x) = \\(2^{x}\\) h(x) = \\(2x - 3\\)",
                 "bbox": [
                     69,
-                    73,
-                    110,
-                    89
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "g(x) = \\(2^{x}\\)",
-                "bbox": [
-                    131,
-                    73,
-                    257,
-                    89
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "h(x) = \\(2x - 3\\)",
-                "bbox": [
-                    197,
                     73,
                     257,
                     89

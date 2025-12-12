@@ -150,6 +150,47 @@
                 "is_pre": false,
                 "issues": [],
                 "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "Answer   .........  \\(>\\)   .........  \\(>\\)   .........",
+                "bbox": [
+                    171,
+                    492,
+                    463,
+                    509
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    443,
+                    492,
+                    463,
+                    509
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "\\(\\frac{3}{5} +\\frac{2}{3}\\)",
+                "bbox": [
+                    260,
+                    535,
+                    292,
+                    558
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
             }
         ],
         "issues": []
@@ -166,20 +207,6 @@
         "level": 46,
         "parts": [],
         "content": [
-            {
-                "type": "pre_text",
-                "text": "\\(\\frac{3}{5} +\\frac{2}{3}\\)",
-                "bbox": [
-                    260,
-                    535,
-                    292,
-                    558
-                ],
-                "page_number": 2,
-                "is_pre": true,
-                "issues": [],
-                "is_pot_pre": true
-            },
             {
                 "type": "text",
                 "text": "Write down all the working to show that \\(\\frac{3}{5} \\times \\frac{2}{3} = 3 \\frac{1}{6}\\)",
@@ -202,6 +229,20 @@
                     571,
                     291,
                     602
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "Answer",
+                "bbox": [
+                    67,
+                    602,
+                    105,
+                    617
                 ],
                 "page_number": 2,
                 "is_pre": false,
@@ -263,7 +304,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a)  .........\\(\\mathrm{cm}^2\\)",
+                        "text": "Answer(a)    .........  \\(\\mathrm{cm}^2\\)",
                         "bbox": [
                             306,
                             191,
@@ -319,7 +360,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(b)  .........\\(\\mathrm{m}^2\\)",
+                        "text": "Answer(b)    .........  \\(\\mathrm{m}^2\\)",
                         "bbox": [
                             306,
                             281,
@@ -1117,23 +1158,9 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a)",
+                        "text": "Answer(a) \\(\\begin{pmatrix} & \\\\ & \\end{pmatrix}\\)",
                         "bbox": [
                             327,
-                            484,
-                            379,
-                            508
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "form_text",
-                        "text": "\\(\\begin{pmatrix} & \\\\ & \\end{pmatrix}\\)",
-                        "bbox": [
-                            405,
                             484,
                             479,
                             539
@@ -1914,7 +1941,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a) .........km",
+                        "text": "Answer(a)   .........  km",
                         "bbox": [
                             311,
                             607,
@@ -2370,7 +2397,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(c) \\(x =\\) .........\\(or x =\\)",
+                        "text": "Answer(c) \\(x =\\)   .........  \\(or x =\\)",
                         "bbox": [
                             283,
                             696,
@@ -2565,7 +2592,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(b)(i) \\(\\mathrm{U}_{1} =\\)  .........and \\(\\mathrm{U}_{2} =\\)",
+                                "text": "Answer(b)(i) \\(\\mathrm{U}_{1} =\\)    .........  and \\(\\mathrm{U}_{2} =\\)",
                                 "bbox": [
                                     247,
                                     401,

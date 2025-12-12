@@ -38,7 +38,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "average velocity = .........\\(m s^{-1}\\)",
+                        "text": "average velocity =   .........  \\(m s^{-1}\\)",
                         "bbox": [
                             256,
                             461,
@@ -223,6 +223,20 @@
                         "level": 88,
                         "parts": [],
                         "content": [
+                            {
+                                "type": "form_text",
+                                "text": "work done",
+                                "bbox": [
+                                    117,
+                                    197,
+                                    521,
+                                    215
+                                ],
+                                "page_number": 5,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
                             {
                                 "type": "mark_text",
                                 "text": "[1]",
@@ -425,7 +439,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance = .........m",
+                                "text": "distance =   .........  m",
                                 "bbox": [
                                     294,
                                     661,
@@ -906,6 +920,33 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            92,
+                            109,
+                            502,
+                            128
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            482,
+                            109,
+                            502,
+                            128
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -991,7 +1032,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "electric field strength = .........V m^{-1}",
+                                "text": "electric field strength =   .........  V m^{-1}",
                                 "bbox": [
                                     234,
                                     455,
@@ -1051,7 +1092,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "charge = .........C",
+                                "text": "charge =   .........  C",
                                 "bbox": [
                                     302,
                                     599,
@@ -1626,7 +1667,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "frequency = .........Hz",
+                                "text": "frequency =   .........  Hz",
                                 "bbox": [
                                     288,
                                     165,

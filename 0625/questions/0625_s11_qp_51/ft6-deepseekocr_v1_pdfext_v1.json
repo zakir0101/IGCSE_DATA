@@ -66,7 +66,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "length 3 = .........",
+                        "text": "length 3 =   .........",
                         "bbox": [
                             298,
                             613,
@@ -454,7 +454,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "a = .........",
+                        "text": "a =   .........",
                         "bbox": [
                             330,
                             298,
@@ -811,7 +811,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "T_1 =",
+                                "text": "\\( T_1 \\)  =",
                                 "bbox": [
                                     326,
                                     100,
@@ -820,15 +820,11 @@
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -858,7 +854,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "T_2 =",
+                                "text": "\\( T_2 \\)  =",
                                 "bbox": [
                                     326,
                                     166,
@@ -867,9 +863,7 @@
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -886,9 +880,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [],
@@ -1085,8 +1077,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -1494,7 +1485,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "R_{\\mathrm{T}} = .........",
+                                "text": "\\( R_{\\mathrm{T}} \\)  =   .........",
                                 "bbox": [
                                     324,
                                     404,
@@ -1503,9 +1494,7 @@
                                 ],
                                 "page_number": 9,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1522,9 +1511,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -1611,6 +1598,33 @@
                         "page_number": 9,
                         "is_pre": false,
                         "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            92,
+                            546,
+                            501,
+                            562
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            481,
+                            546,
+                            501,
+                            562
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],
@@ -1705,8 +1719,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "4",
@@ -1975,23 +1988,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "(j)",
+                                "text": "(j) Repeat the steps (e) – (i) but using edge \\(\\mathbf{B}\\) of the card instead of edge \\(\\mathbf{A}\\)",
                                 "bbox": [
                                     68,
-                                    243,
-                                    84,
-                                    259
-                                ],
-                                "page_number": 11,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "Repeat the steps (e) – (i) but using edge \\(\\mathbf{B}\\) of the card instead of edge \\(\\mathbf{A}\\)",
-                                "bbox": [
-                                    92,
                                     242,
                                     451,
                                     259
@@ -2003,23 +2002,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "(k)",
+                                "text": "(k) In spite of carrying out this experiment with care, it is possible that the values of the angle of reflection \\(r\\) will not be exactly the same as the values obtained from theory. Suggest two possible causes of this inaccuracy",
                                 "bbox": [
                                     68,
-                                    269,
-                                    86,
-                                    285
-                                ],
-                                "page_number": 11,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "In spite of carrying out this experiment with care, it is possible that the values of the angle of reflection \\(r\\) will not be exactly the same as the values obtained from theory. Suggest two possible causes of this inaccuracy",
-                                "bbox": [
-                                    92,
                                     268,
                                     521,
                                     310

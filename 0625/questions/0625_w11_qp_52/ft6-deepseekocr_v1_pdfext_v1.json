@@ -192,7 +192,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "m_{1} =",
+                                "text": "\\( m_{1} \\)  =",
                                 "bbox": [
                                     322,
                                     656,
@@ -201,9 +201,7 @@
                                 ],
                                 "page_number": 2,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -220,9 +218,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -619,8 +615,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -1372,6 +1367,33 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    114,
+                                    296,
+                                    501,
+                                    316
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    481,
+                                    296,
+                                    501,
+                                    316
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -1491,7 +1513,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "R = .........",
+                                "text": "R =   .........",
                                 "bbox": [
                                     328,
                                     497,

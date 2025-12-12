@@ -63,7 +63,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(a)(i) \\( .........\\)",
+                                "text": "Answer(a)(i) \\(   .........  \\)",
                                 "bbox": [
                                     307,
                                     196,
@@ -136,7 +136,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(a)(ii) \\( .........\\)",
+                                "text": "Answer(a)(ii) \\(   .........  \\)",
                                 "bbox": [
                                     304,
                                     299,
@@ -211,7 +211,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(a)(iii) \\( .........\\)",
+                                "text": "Answer(a)(iii) \\(   .........  \\)",
                                 "bbox": [
                                     298,
                                     416,
@@ -334,7 +334,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(b)(i) \\( .........\\)",
+                                "text": "Answer(b)(i) \\(   .........  \\)",
                                 "bbox": [
                                     307,
                                     585,
@@ -410,7 +410,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(b)(ii) \\( .........\\)",
+                                "text": "Answer(b)(ii) \\(   .........  \\)",
                                 "bbox": [
                                     304,
                                     718,
@@ -613,6 +613,20 @@
                                 "is_pot_pre": false
                             },
                             {
+                                "type": "form_text",
+                                "text": "Answer(a)(iii)",
+                                "bbox": [
+                                    111,
+                                    532,
+                                    492,
+                                    550
+                                ],
+                                "page_number": 3,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
                                 "type": "mark_text",
                                 "text": "[2]",
                                 "bbox": [
@@ -713,24 +727,10 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(b)(ii)",
+                                "text": "Answer(b)(ii) \\(\\begin{pmatrix} & \\\\ & \\end{pmatrix}\\)",
                                 "bbox": [
                                     327,
                                     625,
-                                    356,
-                                    650
-                                ],
-                                "page_number": 3,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "\\(\\begin{pmatrix} & \\\\ & \\end{pmatrix}\\)",
-                                "bbox": [
-                                    429,
-                                    627,
                                     447,
                                     650
                                 ],
@@ -827,23 +827,9 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(c)(ii)",
+                                "text": "Answer(c)(ii) \\(\\begin{pmatrix} & \\\\ & \\end{pmatrix}\\)",
                                 "bbox": [
                                     327,
-                                    723,
-                                    356,
-                                    746
-                                ],
-                                "page_number": 3,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "\\(\\begin{pmatrix} & \\\\ & \\end{pmatrix}\\)",
-                                "bbox": [
-                                    429,
                                     723,
                                     447,
                                     746
@@ -1714,6 +1700,20 @@
                                 "is_pot_pre": false
                             },
                             {
+                                "type": "form_text",
+                                "text": "Answer\\((c)(iii)\\) \\(x =\\)   .........  or \\(x =\\)   .........  or \\(x =\\)   .........  or \\(x =\\)",
+                                "bbox": [
+                                    111,
+                                    392,
+                                    489,
+                                    411
+                                ],
+                                "page_number": 9,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
                                 "type": "mark_text",
                                 "text": "[2]",
                                 "bbox": [
@@ -1757,7 +1757,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer\\((c)(iv)\\) \\(x =\\) .........or \\(x =\\)",
+                                "text": "Answer\\((c)(iv)\\) \\(x =\\)   .........  or \\(x =\\)",
                                 "bbox": [
                                     274,
                                     489,
@@ -1843,7 +1843,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(a)(i) .........kg",
+                                "text": "Answer(a)(i)   .........  kg",
                                 "bbox": [
                                     310,
                                     524,
@@ -1899,7 +1899,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(a)(ii) .........kg",
+                                "text": "Answer(a)(ii)   .........  kg",
                                 "bbox": [
                                     306,
                                     578,
@@ -1955,7 +1955,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(a)(iii) .........kg",
+                                "text": "Answer(a)(iii)   .........  kg",
                                 "bbox": [
                                     302,
                                     631,
@@ -2155,7 +2155,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(b)(ii) .........kg",
+                                "text": "Answer(b)(ii)   .........  kg",
                                 "bbox": [
                                     307,
                                     299,
@@ -3326,7 +3326,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(\\(d\\)) \\(x =\\) .........or \\(x =\\)",
+                        "text": "Answer(\\(d\\)) \\(x =\\)   .........  or \\(x =\\)",
                         "bbox": [
                             285,
                             418,
@@ -3581,6 +3581,20 @@
                                 "is_pot_pre": false
                             },
                             {
+                                "type": "form_text",
+                                "text": "Answer(\\(a\\))(ii)",
+                                "bbox": [
+                                    110,
+                                    602,
+                                    491,
+                                    619
+                                ],
+                                "page_number": 16,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
                                 "type": "mark_text",
                                 "text": "[1]",
                                 "bbox": [
@@ -3772,6 +3786,20 @@
                                     195,
                                     291,
                                     211
+                                ],
+                                "page_number": 18,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "Answer(a)(ii)",
+                                "bbox": [
+                                    111,
+                                    221,
+                                    174,
+                                    236
                                 ],
                                 "page_number": 18,
                                 "is_pre": false,

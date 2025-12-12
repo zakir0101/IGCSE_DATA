@@ -362,24 +362,10 @@
                 "parts": [],
                 "content": [
                     {
-                        "type": "text",
-                        "text": "shape \\(A\\),",
+                        "type": "form_text",
+                        "text": "shape \\(A\\), Answer(a)",
                         "bbox": [
                             88,
-                            704,
-                            130,
-                            719
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "form_text",
-                        "text": "Answer(a)",
-                        "bbox": [
-                            327,
                             704,
                             493,
                             719
@@ -418,24 +404,10 @@
                 "parts": [],
                 "content": [
                     {
-                        "type": "text",
-                        "text": "shape \\(B\\)",
+                        "type": "form_text",
+                        "text": "shape \\(B\\) Answer(b)",
                         "bbox": [
                             88,
-                            734,
-                            130,
-                            750
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "form_text",
-                        "text": "Answer(b)",
-                        "bbox": [
-                            327,
                             734,
                             493,
                             750
@@ -540,7 +512,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer \\( \\hspace{1cm} .........\\)",
+                "text": "Answer \\( \\hspace{1cm}   .........  \\)",
                 "bbox": [
                     328,
                     165,
@@ -599,7 +571,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........\\(cm^2\\)",
+                "text": "Answer   .........  \\(cm^2\\)",
                 "bbox": [
                     328,
                     299,
@@ -683,7 +655,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........\\(km\\)",
+                "text": "Answer   .........  \\(km\\)",
                 "bbox": [
                     328,
                     497,
@@ -1362,7 +1334,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer $",
+                "text": "Answer",
                 "bbox": [
                     327,
                     430,
@@ -1614,7 +1586,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(a)(i) .........min",
+                                "text": "Answer(a)(i)   .........  min",
                                 "bbox": [
                                     301,
                                     243,
@@ -2589,7 +2561,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(b) Angle \\(BOC =$",
+                        "text": "Answer(b) Angle \\(BOC =",
                         "bbox": [
                             262,
                             552,
@@ -2649,7 +2621,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(c) Angle \\(OCB =$",
+                        "text": "Answer(c) Angle \\(OCB =",
                         "bbox": [
                             262,
                             732,
@@ -2943,6 +2915,20 @@
                                     295,
                                     392,
                                     310
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "Answer(b)(i)",
+                                "bbox": [
+                                    152,
+                                    346,
+                                    491,
+                                    364
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,

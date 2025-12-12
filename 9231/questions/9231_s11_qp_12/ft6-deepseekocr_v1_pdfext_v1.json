@@ -557,6 +557,158 @@
         "level": 46,
         "parts": [
             {
+                "label": "EITHER",
+                "page_number": 4,
+                "bbox": [
+                    70,
+                    89,
+                    120,
+                    104
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "11",
+                        "bbox": [
+                            46,
+                            62,
+                            62,
+                            78
+                        ],
+                        "page_number": 4,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_text",
+                        "text": "Answer only **one** of the following two alternatives",
+                        "bbox": [
+                            70,
+                            62,
+                            314,
+                            78
+                        ],
+                        "page_number": 4,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Use de Moivre's theorem to prove that",
+                        "bbox": [
+                            70,
+                            115,
+                            256,
+                            130
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\tan 3\\theta = \\frac{3\\tan\\theta - \\tan^3\\theta}{1 - 3\\tan^2\\theta}. \\quad (6)\\]",
+                        "bbox": [
+                            237,
+                            137,
+                            356,
+                            167
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "State the exact values of \\(\\theta\\), between 0 and \\(\\pi\\), that satisfy \\(\\tan 3\\theta = 1\\)",
+                        "bbox": [
+                            70,
+                            183,
+                            390,
+                            199
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            506,
+                            183,
+                            526,
+                            198
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Express each root of the equation \\(t^{3} - 3t^{2} - 3t + 1 = 0\\) in the form \\(\\tan (k\\pi)\\), where \\(k\\) is a positive rational number",
+                        "bbox": [
+                            70,
+                            209,
+                            548,
+                            239
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            224,
+                            528,
+                            240
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "For each of these values of \\(k\\), find the exact value of \\(\\tan (k\\pi)\\)",
+                        "bbox": [
+                            70,
+                            249,
+                            359,
+                            265
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            250,
+                            528,
+                            265
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
                 "label": "OR",
                 "page_number": 4,
                 "bbox": [
@@ -737,34 +889,6 @@
                     }
                 ],
                 "content": [
-                    {
-                        "type": "pre_text",
-                        "text": "Express each root of the equation \\(t^{3} - 3t^{2} - 3t + 1 = 0\\) in the form \\(\\tan (k\\pi)\\), where \\(k\\) is a positive rational number",
-                        "bbox": [
-                            70,
-                            209,
-                            548,
-                            239
-                        ],
-                        "page_number": 4,
-                        "is_pre": true,
-                        "issues": [],
-                        "is_pot_pre": true
-                    },
-                    {
-                        "type": "pre_text",
-                        "text": "For each of these values of \\(k\\), find the exact value of \\(\\tan (k\\pi)\\)",
-                        "bbox": [
-                            70,
-                            249,
-                            359,
-                            265
-                        ],
-                        "page_number": 4,
-                        "is_pre": true,
-                        "issues": [],
-                        "is_pot_pre": true
-                    },
                     {
                         "type": "text",
                         "text": "The curve \\(C\\) has equation",

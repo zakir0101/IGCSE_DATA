@@ -1057,6 +1057,158 @@
         "level": 46,
         "parts": [
             {
+                "label": "EITHER",
+                "page_number": 4,
+                "bbox": [
+                    70,
+                    88,
+                    120,
+                    103
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Let \\(\\omega = \\cos \\frac{1}{5}\\pi + \\mathrm{i}\\sin \\frac{1}{5}\\pi\\). Show that \\(\\omega^{5} + 1 = 0\\) and deduce that",
+                        "bbox": [
+                            69,
+                            114,
+                            372,
+                            130
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\omega^{4} - \\omega^{3} + \\omega^{2} - \\omega = -1.\\]",
+                        "bbox": [
+                            240,
+                            137,
+                            353,
+                            153
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            507,
+                            139,
+                            527,
+                            154
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Show further that",
+                        "bbox": [
+                            69,
+                            174,
+                            156,
+                            188
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\omega -\\omega^{4} = 2\\cos {\\frac{1}{5}}\\pi \\quad \\mathrm{and}\\quad \\omega^{3} - \\omega^{2} = 2\\cos {\\frac{3}{5}}\\pi .\\]",
+                        "bbox": [
+                            188,
+                            190,
+                            405,
+                            206
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            507,
+                            191,
+                            527,
+                            207
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Hence find the values of",
+                        "bbox": [
+                            69,
+                            224,
+                            188,
+                            239
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\cos {\\frac{1}{5}}\\pi +\\cos {\\frac{3}{5}}\\pi \\quad \\mathrm{and}\\quad \\cos {\\frac{1}{5}}\\pi \\cos {\\frac{3}{5}}\\pi .\\]",
+                        "bbox": [
+                            206,
+                            244,
+                            388,
+                            263
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            507,
+                            246,
+                            527,
+                            261
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find a quadratic equation having roots \\(\\cos \\frac{1}{5}\\pi\\) and \\(\\cos \\frac{3}{5}\\pi\\) and deduce the exact value of \\(\\cos \\frac{1}{5}\\pi\\)",
+                        "bbox": [
+                            69,
+                            282,
+                            548,
+                            299
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
                 "label": "OR",
                 "page_number": 4,
                 "bbox": [
@@ -1204,143 +1356,6 @@
                     62,
                     314,
                     78
-                ],
-                "page_number": 4,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "Let \\(\\omega = \\cos \\frac{1}{5}\\pi + \\mathrm{i}\\sin \\frac{1}{5}\\pi\\). Show that \\(\\omega^{5} + 1 = 0\\) and deduce that",
-                "bbox": [
-                    69,
-                    114,
-                    372,
-                    130
-                ],
-                "page_number": 4,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "blockMath",
-                "blockMath": "\\[\\omega^{4} - \\omega^{3} + \\omega^{2} - \\omega = -1.\\]",
-                "bbox": [
-                    240,
-                    137,
-                    353,
-                    153
-                ],
-                "page_number": 4,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[2]",
-                "bbox": [
-                    507,
-                    139,
-                    527,
-                    154
-                ],
-                "page_number": 4,
-                "is_pre": false,
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "Show further that",
-                "bbox": [
-                    69,
-                    174,
-                    156,
-                    188
-                ],
-                "page_number": 4,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "blockMath",
-                "blockMath": "\\[\\omega -\\omega^{4} = 2\\cos {\\frac{1}{5}}\\pi \\quad \\mathrm{and}\\quad \\omega^{3} - \\omega^{2} = 2\\cos {\\frac{3}{5}}\\pi .\\]",
-                "bbox": [
-                    188,
-                    190,
-                    405,
-                    206
-                ],
-                "page_number": 4,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[4]",
-                "bbox": [
-                    507,
-                    191,
-                    527,
-                    207
-                ],
-                "page_number": 4,
-                "is_pre": false,
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "Hence find the values of",
-                "bbox": [
-                    69,
-                    224,
-                    188,
-                    239
-                ],
-                "page_number": 4,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "blockMath",
-                "blockMath": "\\[\\cos {\\frac{1}{5}}\\pi +\\cos {\\frac{3}{5}}\\pi \\quad \\mathrm{and}\\quad \\cos {\\frac{1}{5}}\\pi \\cos {\\frac{3}{5}}\\pi .\\]",
-                "bbox": [
-                    206,
-                    244,
-                    388,
-                    263
-                ],
-                "page_number": 4,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[4]",
-                "bbox": [
-                    507,
-                    246,
-                    527,
-                    261
-                ],
-                "page_number": 4,
-                "is_pre": false,
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "Find a quadratic equation having roots \\(\\cos \\frac{1}{5}\\pi\\) and \\(\\cos \\frac{3}{5}\\pi\\) and deduce the exact value of \\(\\cos \\frac{1}{5}\\pi\\)",
-                "bbox": [
-                    69,
-                    282,
-                    548,
-                    299
                 ],
                 "page_number": 4,
                 "is_pre": false,
