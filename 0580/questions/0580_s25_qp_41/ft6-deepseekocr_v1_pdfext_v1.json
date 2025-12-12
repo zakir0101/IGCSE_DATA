@@ -987,7 +987,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\mathrm{\\S}.........\\mathrm{\\S}$",
+                        "text": "\\(\\mathrm{\\S}.........\\mathrm{\\S}\\)",
                         "bbox": [
                             373,
                             415,
@@ -996,9 +996,7 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1015,9 +1013,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -1171,7 +1167,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$\\mathrm{\\S}.........\\mathrm{\\S}$",
+                "text": "\\(\\mathrm{\\S}.........\\mathrm{\\S}\\)",
                 "bbox": [
                     373,
                     706,
@@ -1180,9 +1176,7 @@
                 ],
                 "page_number": 6,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1199,10 +1193,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX command found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "10",
@@ -1558,7 +1549,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm$",
+                "text": ".........\\(cm\\)",
                 "bbox": [
                     381,
                     406,
@@ -1628,7 +1619,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$x =$ .........",
+                "text": "\\(x =\\) .........",
                 "bbox": [
                     362,
                     611,
@@ -1795,7 +1786,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "x = .........or $x = .........$ or $x = .........$",
+                        "text": "x = .........or \\(x = .........\\) or \\(x = .........\\)",
                         "bbox": [
                             275,
                             696,
@@ -1897,7 +1888,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm$",
+                        "text": ".........\\(cm\\)",
                         "bbox": [
                             382,
                             401,
@@ -2442,7 +2433,7 @@
             },
             {
                 "type": "form_text",
-                "text": "a = ........., $b = ........., c = .........$",
+                "text": "a = ........., \\(b = ........., c = .........\\)",
                 "bbox": [
                     290,
                     304,
@@ -2528,7 +2519,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm$",
+                "text": ".........\\(cm\\)",
                 "bbox": [
                     381,
                     711,

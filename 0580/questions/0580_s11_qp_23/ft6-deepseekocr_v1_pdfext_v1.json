@@ -412,7 +412,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer $a =$",
+                "text": "Answer \\(a =\\)",
                 "bbox": [
                     316,
                     497,
@@ -750,7 +750,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer $x =$",
+                "text": "Answer \\(x =\\)",
                 "bbox": [
                     317,
                     482,
@@ -848,7 +848,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer $ \\$",
+                "text": "Answer \\( \\\\)",
                 "bbox": [
                     327,
                     733,
@@ -857,9 +857,7 @@
                 ],
                 "page_number": 4,
                 "is_pre": false,
-                "issues": [
-                    "Escaped dollar outside math mode: ...Answer $ \\$..."
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -876,10 +874,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "Escaped dollar outside math mode: ...Answer $ \\$..."
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "10",
@@ -2024,7 +2019,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a) $e =$",
+                        "text": "Answer(a) \\(e =\\)",
                         "bbox": [
                             302,
                             455,
@@ -2080,7 +2075,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(b) $f =$",
+                        "text": "Answer(b) \\(f =\\)",
                         "bbox": [
                             302,
                             535,
@@ -2136,7 +2131,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(c) $g =$",
+                        "text": "Answer(c) \\(g =\\)",
                         "bbox": [
                             302,
                             614,
@@ -2192,7 +2187,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(d) $h =$",
+                        "text": "Answer(d) \\(h =\\)",
                         "bbox": [
                             302,
                             705,
@@ -2369,7 +2364,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........$\\mathrm{cm}^2$",
+                "text": "Answer .........\\(\\mathrm{cm}^2\\)",
                 "bbox": [
                     337,
                     677,
@@ -2378,9 +2373,7 @@
                 ],
                 "page_number": 11,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -2397,10 +2390,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX command found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "22",

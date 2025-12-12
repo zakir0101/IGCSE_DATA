@@ -659,7 +659,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........$\\leqslant d <$",
+                "text": "Answer .........\\(\\leqslant d <\\)",
                 "bbox": [
                     281,
                     698,
@@ -668,9 +668,7 @@
                 ],
                 "page_number": 4,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -687,10 +685,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX command found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "10",
@@ -990,7 +985,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer $x =$",
+                "text": "Answer \\(x =\\)",
                 "bbox": [
                     322,
                     254,
@@ -1071,7 +1066,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a) $x =$",
+                        "text": "Answer(a) \\(x =\\)",
                         "bbox": [
                             312,
                             605,
@@ -1127,7 +1122,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(b) $y =$",
+                        "text": "Answer(b) \\(y =\\)",
                         "bbox": [
                             312,
                             672,
@@ -1183,7 +1178,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(c) $z =$",
+                        "text": "Answer(c) \\(z =\\)",
                         "bbox": [
                             312,
                             737,

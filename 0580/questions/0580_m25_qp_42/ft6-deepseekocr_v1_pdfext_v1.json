@@ -755,7 +755,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$km$",
+                        "text": ".........\\(km\\)",
                         "bbox": [
                             381,
                             406,
@@ -1300,7 +1300,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\mathrm{\\S .........}$",
+                        "text": "\\(\\mathrm{\\S .........}\\)",
                         "bbox": [
                             372,
                             164,
@@ -1309,9 +1309,7 @@
                         ],
                         "page_number": 8,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1329,8 +1327,7 @@
                     }
                 ],
                 "issues": [
-                    "Empty inline math environment \\(\\)",
-                    "LaTeX command found outside math mode"
+                    "Empty inline math environment \\(\\)"
                 ]
             },
             {
@@ -1962,7 +1959,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........m/s$^2$",
+                        "text": ".........m/s\\(^2\\)",
                         "bbox": [
                             382,
                             437,
@@ -2018,7 +2015,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........m/s$^2$",
+                        "text": ".........m/s\\(^2\\)",
                         "bbox": [
                             382,
                             567,
@@ -2633,7 +2630,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$\\mathrm{g/cm}^3$",
+                "text": ".........\\(\\mathrm{g/cm}^3\\)",
                 "bbox": [
                     381,
                     271,
@@ -2642,9 +2639,7 @@
                 ],
                 "page_number": 14,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -2661,10 +2656,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX command found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "21",

@@ -479,7 +479,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "V1 = .........$cm^3$",
+                                "text": "V1 = .........\\(cm^3\\)",
                                 "bbox": [
                                     324,
                                     614,
@@ -488,9 +488,7 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX superscript (^) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -507,9 +505,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -722,20 +718,6 @@
                                 ],
                                 "page_number": 6,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 11]",
-                                "bbox": [
-                                    496,
-                                    313,
-                                    548,
-                                    329
-                                ],
-                                "page_number": 6,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -1410,20 +1392,6 @@
                         "page_number": 9,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 11]",
-                        "bbox": [
-                            496,
-                            700,
-                            548,
-                            716
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -1598,7 +1566,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "h_{\\mathrm{O}} = .........$\\text{cm}$",
+                                "text": "h_{\\mathrm{O}} = .........\\(\\text{cm}\\)",
                                 "bbox": [
                                     324,
                                     638,
@@ -1628,7 +1596,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "h_{\\mathrm{I}} = .........$\\text{cm}$",
+                                "text": "h_{\\mathrm{I}} = .........\\(\\text{cm}\\)",
                                 "bbox": [
                                     325,
                                     690,
@@ -2008,20 +1976,6 @@
                         ],
                         "page_number": 12,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 11]",
-                        "bbox": [
-                            496,
-                            191,
-                            550,
-                            207
-                        ],
-                        "page_number": 12,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],

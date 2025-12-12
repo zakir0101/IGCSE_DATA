@@ -1461,20 +1461,6 @@
                         "is_pot_pre": false
                     },
                     {
-                        "type": "mark_text",
-                        "text": "[c]",
-                        "bbox": [
-                            263,
-                            240,
-                            305,
-                            256
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
                         "type": "text",
                         "text": "Switch \\(\\mathbf{S}_{1}\\) is closed and switch \\(\\mathbf{S}_{2}\\) is open",
                         "bbox": [
@@ -2349,7 +2335,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Planck constant = .........$Js$",
+                                "text": "Planck constant = .........\\(Js\\)",
                                 "bbox": [
                                     258,
                                     422,
@@ -2712,7 +2698,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "resistance = .........$\\Omega$",
+                        "text": "resistance = .........\\(\\Omega\\)",
                         "bbox": [
                             286,
                             165,
@@ -2721,15 +2707,11 @@
                         ],
                         "page_number": 18,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -2991,8 +2973,7 @@
                 "is_pot_pre": true
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "10",

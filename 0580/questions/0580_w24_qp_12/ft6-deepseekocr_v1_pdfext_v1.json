@@ -1375,7 +1375,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$km$",
+                        "text": ".........\\(km\\)",
                         "bbox": [
                             381,
                             476,
@@ -2035,7 +2035,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$\\$",
+                "text": "\\(\\\\)",
                 "bbox": [
                     372,
                     269,
@@ -2044,9 +2044,7 @@
                 ],
                 "page_number": 9,
                 "is_pre": false,
-                "issues": [
-                    "Escaped dollar outside math mode: ...$\\$..."
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -2064,8 +2062,7 @@
             }
         ],
         "issues": [
-            "normal text placed inside inline-latex-block",
-            "Escaped dollar outside math mode: ...$\\$..."
+            "normal text placed inside inline-latex-block"
         ],
         "has_issues": true
     },
@@ -2369,7 +2366,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm^2$",
+                "text": ".........\\(cm^2\\)",
                 "bbox": [
                     381,
                     402,
@@ -2378,9 +2375,7 @@
                 ],
                 "page_number": 11,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -2397,10 +2392,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX superscript (^) found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "21",

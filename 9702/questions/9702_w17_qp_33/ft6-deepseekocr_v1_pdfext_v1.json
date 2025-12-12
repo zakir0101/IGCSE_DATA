@@ -718,22 +718,6 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "image",
-                        "bbox": [
-                            322,
-                            212,
-                            562,
-                            278
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "image": {
-                            "caption": "",
-                            "page": 6
-                        },
-                        "is_pot_pre": true
                     }
                 ],
                 "issues": []
@@ -894,7 +878,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "c = .........$cm$",
+                                "text": "c = .........\\(cm\\)",
                                 "bbox": [
                                     330,
                                     617,
@@ -1066,7 +1050,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "m = .........$kg$",
+                                "text": "m = .........\\(kg\\)",
                                 "bbox": [
                                     327,
                                     86,
@@ -1109,7 +1093,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "x = .........$cm$",
+                                "text": "x = .........\\(cm\\)",
                                 "bbox": [
                                     328,
                                     137,
@@ -1165,7 +1149,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "y = .........$cm$",
+                                "text": "y = .........\\(cm\\)",
                                 "bbox": [
                                     328,
                                     202,
@@ -1208,7 +1192,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "z = .........$cm$",
+                                "text": "z = .........\\(cm\\)",
                                 "bbox": [
                                     328,
                                     254,
@@ -1335,7 +1319,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "(x - \\(\\frac{c}{2}\\)) = .........$cm$",
+                                "text": "(x - \\(\\frac{c}{2}\\)) = .........\\(cm\\)",
                                 "bbox": [
                                     300,
                                     527,
@@ -1780,6 +1764,22 @@
             }
         ],
         "content": [
+            {
+                "type": "pre_image",
+                "bbox": [
+                    322,
+                    212,
+                    562,
+                    278
+                ],
+                "page_number": 6,
+                "is_pre": true,
+                "image": {
+                    "caption": "",
+                    "page": 6
+                },
+                "is_pot_pre": true
+            },
             {
                 "type": "pre_text",
                 "text": "**You may not need to use all of the materials provided.**",

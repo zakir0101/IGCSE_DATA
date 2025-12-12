@@ -136,7 +136,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$ml$ , .........$ml$ , .........$ml$",
+                        "text": ".........\\(ml\\) , .........\\(ml\\) , .........\\(ml\\)",
                         "bbox": [
                             264,
                             333,
@@ -212,7 +212,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\$  .........$",
+                        "text": "\\(\\\\)  .........$",
                         "bbox": [
                             373,
                             529,
@@ -221,9 +221,7 @@
                         ],
                         "page_number": 2,
                         "is_pre": false,
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$  .........$..."
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -243,8 +241,7 @@
                 "issues": [
                     "Empty inline math environment \\(\\)",
                     "Unbalanced inline math brackets: (=2, )=1",
-                    "Unbalanced inline math brackets: (=1, )=0",
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
+                    "Unbalanced inline math brackets: (=1, )=0"
                 ]
             },
             {
@@ -1986,7 +1983,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "x = .........or $x = .........$",
+                                "text": "x = .........or \\(x = .........\\)",
                                 "bbox": [
                                     361,
                                     406,
@@ -2846,7 +2843,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\$  .........$",
+                        "text": "\\(\\\\)  .........$",
                         "bbox": [
                             372,
                             255,
@@ -2855,9 +2852,7 @@
                         ],
                         "page_number": 15,
                         "is_pre": false,
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$  .........$..."
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2875,8 +2870,7 @@
                     }
                 ],
                 "issues": [
-                    "normal text placed inside inline-latex-block",
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
+                    "normal text placed inside inline-latex-block"
                 ]
             }
         ],

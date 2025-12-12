@@ -658,7 +658,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$\\mathrm{cm}^3$",
+                                "text": ".........\\(\\mathrm{cm}^3\\)",
                                 "bbox": [
                                     394,
                                     467,
@@ -667,9 +667,7 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -686,9 +684,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -864,7 +860,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "$\\$  .........$",
+                                "text": "\\(\\\\)  .........$",
                                 "bbox": [
                                     387,
                                     525,
@@ -873,9 +869,7 @@
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
-                                "issues": [
-                                    "Escaped dollar outside math mode: ...$\\$  .........$..."
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -893,8 +887,7 @@
                             }
                         ],
                         "issues": [
-                            "Empty inline math environment \\(\\)",
-                            "Escaped dollar outside math mode: ...$\\$  .........$..."
+                            "Empty inline math environment \\(\\)"
                         ]
                     },
                     {
@@ -3082,7 +3075,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Dice $A$",
+                                "text": "Dice \\(A\\)",
                                 "bbox": [
                                     304,
                                     318,

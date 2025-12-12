@@ -239,7 +239,7 @@
             },
             {
                 "type": "form_text",
-                "text": "box $A$ .........$kg$",
+                "text": "box \\(A\\) .........\\(kg\\)",
                 "bbox": [
                     351,
                     202,
@@ -253,7 +253,7 @@
             },
             {
                 "type": "form_text",
-                "text": "box $B$ .........$kg$",
+                "text": "box \\(B\\) .........\\(kg\\)",
                 "bbox": [
                     351,
                     228,
@@ -339,7 +339,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm^2$",
+                "text": ".........\\(cm^2\\)",
                 "bbox": [
                     381,
                     585,
@@ -348,9 +348,7 @@
                 ],
                 "page_number": 4,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -367,10 +365,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX superscript (^) found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "5",
@@ -885,7 +880,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$- .........$",
+                "text": "\\(- .........\\)",
                 "bbox": [
                     373,
                     686,
@@ -969,7 +964,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$\\$",
+                "text": "\\(\\\\)",
                 "bbox": [
                     373,
                     216,
@@ -978,9 +973,7 @@
                 ],
                 "page_number": 7,
                 "is_pre": false,
-                "issues": [
-                    "Escaped dollar outside math mode: ...$\\$..."
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -997,10 +990,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "Escaped dollar outside math mode: ...$\\$..."
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "12",
@@ -1652,29 +1642,16 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$( .........$",
+                        "text": "\\(( .........[3]\\)",
                         "bbox": [
                             372,
                             202,
-                            530,
+                            550,
                             219
                         ],
                         "page_number": 10,
                         "is_pre": false,
                         "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[3]",
-                        "bbox": [
-                            510,
-                            202,
-                            530,
-                            219
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],
@@ -1874,7 +1851,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\$  .........$",
+                        "text": "\\(\\\\)  .........$",
                         "bbox": [
                             372,
                             347,
@@ -1883,9 +1860,7 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$  .........$..."
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1903,8 +1878,7 @@
                     }
                 ],
                 "issues": [
-                    "Unbalanced inline math brackets: (=1, )=0",
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
+                    "Unbalanced inline math brackets: (=1, )=0"
                 ]
             }
         ],
@@ -2422,7 +2396,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$\\mathrm{m}^2$",
+                        "text": ".........\\(\\mathrm{m}^2\\)",
                         "bbox": [
                             381,
                             602,
@@ -2431,9 +2405,7 @@
                         ],
                         "page_number": 14,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2450,9 +2422,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -2627,8 +2597,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "21",

@@ -1,0 +1,921 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            47,
+            61,
+            57,
+            74
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The times taken by members of a large quiz club to complete a challenge have a normal distribution with mean \\(\\mu\\) minutes. The times, \\(x\\) minutes, are recorded for a random sample of 8 members of the club. The results are summarised as follows, where \\(\\overline{x}\\) is the sample mean",
+                "bbox": [
+                    69,
+                    60,
+                    548,
+                    102
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\overline{x} = 33.8\\qquad \\Sigma (x - \\overline{x})^2 = 94.5\\]",
+                "bbox": [
+                    236,
+                    112,
+                    381,
+                    128
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find a \\(95\\%\\) confidence interval for \\(\\mu\\)",
+                "bbox": [
+                    69,
+                    138,
+                    247,
+                    154
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    139,
+                    528,
+                    154
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 3,
+        "bbox": [
+            46,
+            61,
+            56,
+            75
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "A scientist is investigating the size of shells at various beach locations. She selects four beach locations and takes a random sample of shells from each of these beaches. She classifies each shell as large or small. Her results are summarised in the following table",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    102
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    69,
+                    108,
+                    548,
+                    216
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td colspan=\"4\">Beach location</td><td rowspan=\"2\">Total</td></tr><tr><td>\\(A\\)</td><td>\\(B\\)</td><td>\\(C\\)</td><td>\\(D\\)</td></tr><tr><td rowspan=\"2\">Size of shell</td><td>Large</td><td>68</td><td>69</td><td>96</td><td>81</td><td>314</td></tr><tr><td>Small</td><td>28</td><td>55</td><td>64</td><td>39</td><td>186</td></tr><tr><td></td><td>Total</td><td>96</td><td>124</td><td>160</td><td>120</td><td>500</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Test, at the \\(10\\%\\) significance level, whether the size of shell is independent of the beach location.",
+                "bbox": [
+                    69,
+                    229,
+                    528,
+                    245
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[7]",
+                "bbox": [
+                    508,
+                    229,
+                    528,
+                    245
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 4,
+        "bbox": [
+            46,
+            61,
+            56,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    69,
+                    126,
+                    87,
+                    142
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(a\\)",
+                        "bbox": [
+                            92,
+                            126,
+                            185,
+                            142
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            126,
+                            528,
+                            142
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 4,
+                "bbox": [
+                    68,
+                    570,
+                    87,
+                    585
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Y\\) is the sum of two independent observations of \\(X\\)",
+                        "bbox": [
+                            69,
+                            544,
+                            407,
+                            560
+                        ],
+                        "page_number": 4,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the probability generating function of \\(Y\\), giving your answer as a polynomial in \\(t\\)",
+                        "bbox": [
+                            92,
+                            570,
+                            493,
+                            585
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            570,
+                            528,
+                            585
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "George throws two coins, \\(A\\) and \\(B\\), at the same time. Coin \\(A\\) is biased so that the probability of obtaining a head is \\(a\\). Coin \\(B\\) is biased so that the probability of obtaining a head is \\(b\\), where \\(b < a\\) . The probability generating function of \\(X\\), the number of heads obtained by George, is \\(\\mathrm{G}_X(t)\\). The coefficients of \\(t\\) and \\(t^2\\) in \\(\\mathrm{G}_X(t)\\) are \\(\\frac{5}{12}\\) and \\(\\frac{1}{12}\\) respectively",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    117
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            46,
+            62,
+            57,
+            77
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    69,
+                    126,
+                    86,
+                    142
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{E}\\bigl (\\sqrt{X}\\bigr)\\)",
+                        "bbox": [
+                            92,
+                            124,
+                            156,
+                            142
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            126,
+                            528,
+                            142
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 6,
+                "bbox": [
+                    68,
+                    491,
+                    87,
+                    507
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Y\\) is given by \\(Y = X^2\\)",
+                        "bbox": [
+                            69,
+                            464,
+                            272,
+                            480
+                        ],
+                        "page_number": 6,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the probability density function of \\(Y\\)",
+                        "bbox": [
+                            92,
+                            491,
+                            289,
+                            507
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            491,
+                            528,
+                            507
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 7,
+                "bbox": [
+                    69,
+                    229,
+                    87,
+                    244
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the 40th percentile of \\(Y.\\)",
+                        "bbox": [
+                            92,
+                            229,
+                            230,
+                            244
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            229,
+                            528,
+                            244
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The continuous random variable \\(X\\) has probability density function f given by",
+                "bbox": [
+                    70,
+                    60,
+                    432,
+                    78
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{f}(x) = \\begin{cases} \\frac{3}{8}\\left(1 + \\frac{1}{x^2}\\right) & 1\\leqslant x\\leqslant 3,\\\\ 0 & \\mathrm{otherwise}. \\end{cases}\\]",
+                "bbox": [
+                    188,
+                    84,
+                    405,
+                    128
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 8,
+        "bbox": [
+            45,
+            61,
+            55,
+            74
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "A manager claims that the lengths of the rubber tubes that his company produces have a median of \\(5.50 \\text{cm}\\). The lengths, in cm, of a random sample of 11 tubes produced by this company are as follows",
+                "bbox": [
+                    69,
+                    60,
+                    549,
+                    89
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.56",
+                "bbox": [
+                    109,
+                    99,
+                    121,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.45",
+                "bbox": [
+                    138,
+                    99,
+                    152,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.47",
+                "bbox": [
+                    160,
+                    99,
+                    175,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.58",
+                "bbox": [
+                    185,
+                    99,
+                    200,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.54",
+                "bbox": [
+                    209,
+                    99,
+                    223,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.52",
+                "bbox": [
+                    235,
+                    99,
+                    250,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.56",
+                "bbox": [
+                    255,
+                    99,
+                    270,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.52",
+                "bbox": [
+                    274,
+                    99,
+                    289,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.60",
+                "bbox": [
+                    304,
+                    99,
+                    318,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.35",
+                "bbox": [
+                    319,
+                    99,
+                    334,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.59",
+                "bbox": [
+                    339,
+                    99,
+                    354,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.51",
+                "bbox": [
+                    357,
+                    99,
+                    372,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.59",
+                "bbox": [
+                    376,
+                    99,
+                    390,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.51",
+                "bbox": [
+                    393,
+                    99,
+                    408,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.61",
+                "bbox": [
+                    410,
+                    99,
+                    424,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.52",
+                "bbox": [
+                    437,
+                    99,
+                    450,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.61",
+                "bbox": [
+                    457,
+                    99,
+                    473,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.52",
+                "bbox": [
+                    481,
+                    99,
+                    505,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "5.61",
+                "bbox": [
+                    508,
+                    99,
+                    524,
+                    114
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "It is required to test at the \\(10\\%\\) significance level the null hypothesis that the population median length is \\(5.50 \\text{cm}\\) against the alternative hypothesis that the population median length is not equal to \\(5.50 \\text{cm}\\)",
+                "bbox": [
+                    69,
+                    169,
+                    548,
+                    197
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": true
+            },
+            {
+                "type": "text",
+                "text": "Show that both a sign test and a Wilcoxon signed-rank test give the same conclusion and state this conclusion",
+                "bbox": [
+                    69,
+                    208,
+                    548,
+                    237
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": true
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 10,
+        "bbox": [
+            45,
+            61,
+            57,
+            74
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    191,
+                    86,
+                    206
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Test at the \\(2\\%\\) significance level whether there is any difference between \\(\\mu_{A}\\) and \\(\\mu_{B}\\)",
+                        "bbox": [
+                            91,
+                            191,
+                            491,
+                            207
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[8]",
+                        "bbox": [
+                            506,
+                            191,
+                            526,
+                            206
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 11,
+                "bbox": [
+                    68,
+                    62,
+                    87,
+                    76
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the set of values of \\(\\alpha\\) for which there would be evidence at the \\(\\alpha \\%\\) significance level that \\(\\mu_A - \\mu_B\\) is greater than 0.25",
+                        "bbox": [
+                            92,
+                            61,
+                            548,
+                            90
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            72,
+                            528,
+                            87
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A company has two machines, \\(A\\) and \\(B\\), which independently fill small bottles with a liquid. The volumes of liquid per bottle, in suitable units, filled by machines \\(A\\) and \\(B\\) are denoted by \\(x\\) and \\(y\\) respectively. A scientist at the company takes a random sample of 40 bottles filled by machine \\(A\\) and a random sample of 50 bottles filled by machine \\(B\\). The results are summarised as follows",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    116
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\Sigma x = 1120\\qquad \\Sigma x^2 = 31400\\qquad \\Sigma y = 1370\\qquad \\Sigma y^2 = 37600\\]",
+                "bbox": [
+                    146,
+                    124,
+                    471,
+                    142
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The population means of the volumes of liquid in the bottles filled by machines \\(A\\) and \\(B\\) are denoted by \\(\\mu_{A}\\) and \\(\\mu_{B}\\)",
+                "bbox": [
+                    69,
+                    152,
+                    548,
+                    183
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

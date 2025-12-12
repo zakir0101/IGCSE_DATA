@@ -480,7 +480,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm^2$",
+                "text": ".........\\(cm^2\\)",
                 "bbox": [
                     381,
                     333,
@@ -489,9 +489,7 @@
                 ],
                 "page_number": 5,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -508,10 +506,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX superscript (^) found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "7",
@@ -1205,29 +1200,16 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$- .........million $",
+                        "text": "\\(- .........million [2]\\)",
                         "bbox": [
                             373,
                             399,
-                            528,
+                            548,
                             415
                         ],
                         "page_number": 9,
                         "is_pre": false,
                         "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[2]",
-                        "bbox": [
-                            508,
-                            399,
-                            528,
-                            415
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],

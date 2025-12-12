@@ -776,7 +776,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "v = .........$\\text{ms}^{-1}$",
+                        "text": "v = .........\\(\\text{ms}^{-1}\\)",
                         "bbox": [
                             330,
                             698,
@@ -785,9 +785,7 @@
                         ],
                         "page_number": 8,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -802,25 +800,9 @@
                         "page_number": 8,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 15]",
-                        "bbox": [
-                            496,
-                            725,
-                            548,
-                            740
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             }
         ],
         "content": [
@@ -939,7 +921,6 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     }
 ]

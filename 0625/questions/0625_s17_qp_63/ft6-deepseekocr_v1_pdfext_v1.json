@@ -345,31 +345,16 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\rho_{1} = .........$",
+                        "text": "\\(\\rho_{1} = .........[2]\\)",
                         "bbox": [
                             324,
                             339,
-                            528,
+                            548,
                             355
                         ],
                         "page_number": 5,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[2]",
-                        "bbox": [
-                            508,
-                            339,
-                            528,
-                            355
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -387,9 +372,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(e)",
@@ -697,20 +680,6 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 11]",
-                        "bbox": [
-                            496,
-                            545,
-                            548,
-                            560
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -1229,20 +1198,6 @@
                         "page_number": 9,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 11]",
-                        "bbox": [
-                            496,
-                            571,
-                            548,
-                            587
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -1584,7 +1539,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "a = .........$cm$",
+                                "text": "a = .........\\(cm\\)",
                                 "bbox": [
                                     330,
                                     555,
@@ -1612,7 +1567,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "b = .........$cm$",
+                                "text": "b = .........\\(cm\\)",
                                 "bbox": [
                                     330,
                                     606,
@@ -2018,20 +1973,6 @@
                             455,
                             548,
                             483
-                        ],
-                        "page_number": 12,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 11]",
-                        "bbox": [
-                            496,
-                            545,
-                            548,
-                            560
                         ],
                         "page_number": 12,
                         "is_pre": false,

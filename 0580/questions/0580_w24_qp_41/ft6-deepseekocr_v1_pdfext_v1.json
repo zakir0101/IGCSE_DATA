@@ -1779,7 +1779,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\$  .........$",
+                        "text": "\\(\\\\)  .........$",
                         "bbox": [
                             373,
                             320,
@@ -1788,9 +1788,7 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$  .........$..."
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1808,8 +1806,7 @@
                     }
                 ],
                 "issues": [
-                    "Empty inline math environment \\(\\)",
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
+                    "Empty inline math environment \\(\\)"
                 ]
             }
         ],
@@ -2189,7 +2186,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$- .........$",
+                        "text": "\\(- .........\\)",
                         "bbox": [
                             372,
                             613,
@@ -2332,7 +2329,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "x = .........or $x = .........$",
+                                "text": "x = .........or \\(x = .........\\)",
                                 "bbox": [
                                     356,
                                     154,
@@ -2839,7 +2836,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm^3$",
+                        "text": ".........\\(cm^3\\)",
                         "bbox": [
                             381,
                             323,
@@ -2848,9 +2845,7 @@
                         ],
                         "page_number": 16,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2867,9 +2862,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -2899,7 +2892,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm^2$",
+                        "text": ".........\\(cm^2\\)",
                         "bbox": [
                             381,
                             455,
@@ -2908,9 +2901,7 @@
                         ],
                         "page_number": 16,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2927,9 +2918,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -3087,7 +3076,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm$",
+                        "text": ".........\\(cm\\)",
                         "bbox": [
                             381,
                             460,
@@ -3162,8 +3151,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "10",

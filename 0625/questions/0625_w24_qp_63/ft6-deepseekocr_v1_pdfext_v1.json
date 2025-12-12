@@ -555,20 +555,6 @@
                                 "page_number": 4,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 11]",
-                                "bbox": [
-                                    497,
-                                    607,
-                                    548,
-                                    623
-                                ],
-                                "page_number": 4,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -1051,7 +1037,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "R = .........$\\Omega$",
+                                "text": "R = .........\\(\\Omega\\)",
                                 "bbox": [
                                     327,
                                     676,
@@ -1060,9 +1046,7 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1079,9 +1063,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [],
@@ -1163,20 +1145,6 @@
                             165,
                             371,
                             180
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 11]",
-                        "bbox": [
-                            496,
-                            243,
-                            548,
-                            259
                         ],
                         "page_number": 9,
                         "is_pre": false,
@@ -1724,7 +1692,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "a = .........$cm$",
+                                "text": "a = .........\\(cm\\)",
                                 "bbox": [
                                     328,
                                     72,
@@ -1752,7 +1720,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "b = .........$cm$",
+                                "text": "b = .........\\(cm\\)",
                                 "bbox": [
                                     328,
                                     110,
@@ -2090,20 +2058,6 @@
                         ],
                         "page_number": 12,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 11]",
-                        "bbox": [
-                            496,
-                            692,
-                            548,
-                            707
-                        ],
-                        "page_number": 12,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],

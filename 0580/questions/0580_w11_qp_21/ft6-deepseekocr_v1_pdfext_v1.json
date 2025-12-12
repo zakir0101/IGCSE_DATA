@@ -263,7 +263,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a)  .........$\\mathrm{cm}^2$",
+                        "text": "Answer(a)  .........\\(\\mathrm{cm}^2\\)",
                         "bbox": [
                             306,
                             191,
@@ -272,9 +272,7 @@
                         ],
                         "page_number": 3,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -291,9 +289,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -368,8 +364,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "6",
@@ -2105,7 +2100,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a) $AB =$",
+                        "text": "Answer(a) \\(AB =\\)",
                         "bbox": [
                             302,
                             445,
@@ -2375,7 +2370,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(c) \\(x =\\) .........$or x =$",
+                        "text": "Answer(c) \\(x =\\) .........\\(or x =\\)",
                         "bbox": [
                             283,
                             696,

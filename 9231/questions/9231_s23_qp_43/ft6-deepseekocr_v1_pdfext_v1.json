@@ -1,0 +1,984 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            47,
+            61,
+            59,
+            75
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 2,
+                "bbox": [
+                    69,
+                    137,
+                    86,
+                    153
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the cumulative distribution function of \\(X\\)",
+                        "bbox": [
+                            92,
+                            137,
+                            311,
+                            154
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            137,
+                            528,
+                            153
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 2,
+                "bbox": [
+                    69,
+                    478,
+                    87,
+                    493
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Y\\) is defined by \\(Y = X^{\\frac{1}{3}}\\)",
+                        "bbox": [
+                            92,
+                            452,
+                            282,
+                            468
+                        ],
+                        "page_number": 2,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the probability density function of \\(Y\\)",
+                        "bbox": [
+                            92,
+                            478,
+                            290,
+                            494
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            478,
+                            528,
+                            494
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 3,
+                "bbox": [
+                    68,
+                    333,
+                    86,
+                    349
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the exact value of the median of \\(Y.\\)",
+                        "bbox": [
+                            92,
+                            333,
+                            279,
+                            349
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            333,
+                            528,
+                            349
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The continuous random variable \\(X\\) has probability density function f given by",
+                "bbox": [
+                    70,
+                    60,
+                    431,
+                    77
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{f(x)} = \\left\\{ \\begin{array}{ll}\\frac{1}{6}\\big(x^{-\\frac{1}{3}} - x^{-\\frac{2}{3}}\\big) & 1\\leqslant x\\leqslant 27,\\\\ 0 & \\mathrm{otherwise}. \\end{array} \\right.\\]",
+                "bbox": [
+                    209,
+                    86,
+                    384,
+                    125
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 5,
+        "bbox": [
+            46,
+            61,
+            55,
+            74
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Shane is studying the lengths of the tails of male red kangaroos. He takes a random sample of 14 male red kangaroos and measures the length of the tail, \\(x \\mathrm{m}\\), for each kangaroo. He then calculates a \\(90\\%\\) confidence interval for the population mean tail length, \\(\\mu \\mathrm{m}\\), of male red kangaroos. He assumes that the tail lengths are normally distributed and finds that \\(1.11 \\leqslant \\mu \\leqslant 1.14\\)",
+                "bbox": [
+                    68,
+                    59,
+                    548,
+                    116
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the values of \\(\\Sigma x\\) and \\(\\Sigma x^2\\) for this sample",
+                "bbox": [
+                    69,
+                    125,
+                    292,
+                    142
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[6]",
+                "bbox": [
+                    508,
+                    126,
+                    528,
+                    142
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 6,
+        "bbox": [
+            46,
+            61,
+            56,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    68,
+                    188,
+                    87,
+                    204
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Carry out a Wilcoxon matched-pairs signed-rank test, at the \\(5\\%\\) significance level, to test whether the data supports the teacher's belief",
+                        "bbox": [
+                            92,
+                            188,
+                            548,
+                            217
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            508,
+                            202,
+                            528,
+                            218
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 7,
+                "bbox": [
+                    68,
+                    567,
+                    88,
+                    583
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State an assumption that you have made in carrying out the test in part (a)",
+                        "bbox": [
+                            92,
+                            567,
+                            439,
+                            583
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            568,
+                            528,
+                            583
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A large number of students took two test papers in mathematics. The teacher believes that the marks obtained in Paper 1 will be higher than the marks obtained in Paper 2. She chooses a random sample of 9 students and compares their marks. The marks are shown in the table",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    102
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    90,
+                    108,
+                    505,
+                    174
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>Student</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td></tr><tr><td>Paper 1</td><td>46</td><td>73</td><td>55</td><td>64</td><td>86</td><td>42</td><td>66</td><td>68</td><td>60</td></tr><tr><td>Paper 2</td><td>41</td><td>66</td><td>61</td><td>63</td><td>90</td><td>40</td><td>58</td><td>42</td><td>70</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 8,
+        "bbox": [
+            46,
+            61,
+            57,
+            74
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    68,
+                    165,
+                    86,
+                    180
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Test at the \\(10\\%\\) significance level whether the data supports the inspector's suspicion",
+                        "bbox": [
+                            92,
+                            164,
+                            491,
+                            180
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[8]",
+                        "bbox": [
+                            506,
+                            165,
+                            526,
+                            180
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 9,
+                "bbox": [
+                    68,
+                    490,
+                    88,
+                    505
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Give a reason why it is not necessary to make any assumption about the distributions of the lengths of the rods",
+                        "bbox": [
+                            92,
+                            490,
+                            548,
+                            516
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            506,
+                            528,
+                            520
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "An inspector is checking the lengths of metal rods produced by two machines, \\(X\\) and \\(Y.\\) These rods should be of the same length, but the inspector suspects that those made by machine \\(X\\) are shorter, on average, than those made by machine \\(Y.\\) The inspector chooses a random sample of 80 rods made by machine \\(X\\) and a random sample of 60 rods made by machine \\(Y.\\) The lengths of these rods are \\(x \\text{cm}\\) and \\(y \\text{cm}\\) respectively. Her results are summarised as follows",
+                "bbox": [
+                    69,
+                    60,
+                    548,
+                    129
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\Sigma x = 164.0 \\quad \\Sigma x^2 = 338.1 \\quad \\Sigma y = 124.8 \\quad \\Sigma y^2 = 261.1\\]",
+                "bbox": [
+                    162,
+                    137,
+                    431,
+                    154
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 10,
+        "bbox": [
+            45,
+            62,
+            56,
+            78
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    135,
+                    86,
+                    150
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(\\mathrm{E}(X) = \\frac{11}{8}\\)",
+                        "bbox": [
+                            92,
+                            133,
+                            195,
+                            150
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            134,
+                            528,
+                            150
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    530,
+                    87,
+                    546
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Y\\) has probability generating function \\(\\mathrm{G}_{Y}(t)\\) given by",
+                        "bbox": [
+                            92,
+                            447,
+                            415,
+                            464
+                        ],
+                        "page_number": 10,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_blockMath",
+                        "blockMath": "\\[\\mathrm{G}_{Y}(t) = \\frac{1}{3} t^{2}(1 + 2t).\\]",
+                        "bbox": [
+                            250,
+                            470,
+                            346,
+                            490
+                        ],
+                        "page_number": 10,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_text",
+                        "text": "The random variables \\(X\\) and \\(Y\\) are independent and \\(Z = X + Y\\)",
+                        "bbox": [
+                            69,
+                            502,
+                            362,
+                            520
+                        ],
+                        "page_number": 10,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the probability generating function of \\(Z\\), expressing your answer as a polynomial in \\(t\\)",
+                        "bbox": [
+                            92,
+                            529,
+                            514,
+                            546
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            529,
+                            528,
+                            546
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 11,
+                "bbox": [
+                    68,
+                    61,
+                    86,
+                    74
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use your answer to part (b) to find the value of \\(\\mathrm{Var}(Z)\\)",
+                        "bbox": [
+                            92,
+                            61,
+                            351,
+                            74
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            61,
+                            528,
+                            74
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 11,
+                "bbox": [
+                    92,
+                    514,
+                    114,
+                    529
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Write down the most probable value of \\(Z\\)",
+                        "bbox": [
+                            93,
+                            514,
+                            288,
+                            531
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            516,
+                            528,
+                            532
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The random variable \\(X\\) has probability generating function \\(\\mathrm{G}_{X}(t)\\) given by",
+                "bbox": [
+                    69,
+                    61,
+                    417,
+                    79
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{G}_{X}(t) = k(1 + 3t + 4t^{2}),\\]",
+                "bbox": [
+                    241,
+                    92,
+                    352,
+                    110
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "where \\(k\\) is a constant",
+                "bbox": [
+                    69,
+                    107,
+                    172,
+                    123
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 12,
+        "bbox": [
+            46,
+            61,
+            56,
+            74
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 12,
+                "bbox": [
+                    68,
+                    237,
+                    87,
+                    253
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Carry out a \\(\\chi^2\\)-test at the \\(2.5\\%\\) significance level to test whether grade is independent of age of student",
+                        "bbox": [
+                            92,
+                            236,
+                            548,
+                            266
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            508,
+                            251,
+                            528,
+                            267
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 13,
+                "bbox": [
+                    69,
+                    245,
+                    88,
+                    261
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The scientist decides instead to use three grades: grade \\(A\\) for 16 or more correct, grade \\(B\\) for 10 to 15 correct and grade \\(C\\) for fewer than 10 correct. The results are shown in the following table",
+                        "bbox": [
+                            69,
+                            61,
+                            548,
+                            89
+                        ],
+                        "page_number": 13,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_table",
+                        "bbox": [
+                            132,
+                            96,
+                            461,
+                            204
+                        ],
+                        "page_number": 13,
+                        "is_pre": true,
+                        "table": {
+                            "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"3\">Age of students</td></tr><tr><td>11-12 years</td><td>13-14 years</td><td>15-16 years</td></tr><tr><td>Grade A</td><td>25</td><td>16</td><td>19</td></tr><tr><td>Grade B</td><td>12</td><td>27</td><td>11</td></tr><tr><td>Grade C</td><td>16</td><td>18</td><td>6</td></tr></table>"
+                        },
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_text",
+                        "text": "With this second set of data, the test statistic is calculated as 10.91",
+                        "bbox": [
+                            69,
+                            218,
+                            382,
+                            235
+                        ],
+                        "page_number": 13,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Complete the \\(\\chi^2\\)-test at the \\(2.5\\%\\) significance level for this second set of data",
+                        "bbox": [
+                            93,
+                            245,
+                            458,
+                            261
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            246,
+                            528,
+                            261
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 13,
+                "bbox": [
+                    93,
+                    531,
+                    111,
+                    546
+                ],
+                "level": 93,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State, with a reason, whether you would prefer to use the result from part **(a)** or part **(b)** to investigate whether the ability to remember depends on age",
+                        "bbox": [
+                            93,
+                            531,
+                            548,
+                            560
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            545,
+                            528,
+                            561
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A scientist is investigating whether the ability to remember depends on age. A random sample of 150 students in different age groups is chosen. Each student is shown a set of 20 objects for thirty seconds and then asked to list as many as they can remember. The students are graded \\(A\\) or \\(B\\) according to how many objects they remembered correctly: grade \\(A\\) for 16 or more correct and grade \\(B\\) for fewer than 16 correct. The results are shown in the table",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    129
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    132,
+                    136,
+                    462,
+                    223
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"3\">Age of students</td></tr><tr><td>11-12 years</td><td>13-14 years</td><td>15-16 years</td></tr><tr><td>Grade A</td><td>25</td><td>16</td><td>19</td></tr><tr><td>Grade B</td><td>28</td><td>45</td><td>17</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

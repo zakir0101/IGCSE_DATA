@@ -224,7 +224,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$\\mathrm{cm}^2$",
+                        "text": ".........\\(\\mathrm{cm}^2\\)",
                         "bbox": [
                             381,
                             667,
@@ -233,9 +233,7 @@
                         ],
                         "page_number": 2,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -252,9 +250,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(d)",
@@ -488,8 +484,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -555,7 +550,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "$\\$ .........$",
+                                "text": "\\(\\\\) .........$",
                                 "bbox": [
                                     372,
                                     254,
@@ -564,9 +559,7 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
-                                "issues": [
-                                    "Escaped dollar outside math mode: ...$\\$ .........$..."
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -583,9 +576,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$ .........$..."
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -615,7 +606,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "$\\$ .........$",
+                                "text": "\\(\\\\) .........$",
                                 "bbox": [
                                     372,
                                     371,
@@ -624,9 +615,7 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
-                                "issues": [
-                                    "Escaped dollar outside math mode: ...$\\$ .........$..."
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -643,9 +632,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$ .........$..."
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(iii)",
@@ -1094,8 +1081,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -2826,7 +2812,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "$XZ = .........km$",
+                                "text": "\\(XZ = .........km\\)",
                                 "bbox": [
                                     352,
                                     527,

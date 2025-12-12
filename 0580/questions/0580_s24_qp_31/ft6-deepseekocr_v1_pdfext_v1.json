@@ -49,7 +49,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "$\\$  .........$",
+                                "text": "\\(\\\\)  .........$",
                                 "bbox": [
                                     372,
                                     124,
@@ -58,9 +58,7 @@
                                 ],
                                 "page_number": 2,
                                 "is_pre": false,
-                                "issues": [
-                                    "Escaped dollar outside math mode: ...$\\$  .........$..."
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -77,9 +75,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$  .........$..."
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -137,7 +133,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "$\\$  .........$",
+                                "text": "\\(\\\\)  .........$",
                                 "bbox": [
                                     372,
                                     255,
@@ -146,9 +142,7 @@
                                 ],
                                 "page_number": 2,
                                 "is_pre": false,
-                                "issues": [
-                                    "Escaped dollar outside math mode: ...$\\$  .........$..."
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -165,9 +159,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$  .........$..."
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -717,7 +709,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\$",
+                        "text": "\\(\\\\)",
                         "bbox": [
                             373,
                             650,
@@ -726,9 +718,7 @@
                         ],
                         "page_number": 3,
                         "is_pre": false,
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$..."
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -746,8 +736,7 @@
                     }
                 ],
                 "issues": [
-                    "Unbalanced inline math brackets: (=1, )=0",
-                    "Escaped dollar outside math mode: ...$\\$..."
+                    "Unbalanced inline math brackets: (=1, )=0"
                 ]
             }
         ],
@@ -3560,7 +3549,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$\\leqslant d <$",
+                                "text": ".........\\(\\leqslant d <\\)",
                                 "bbox": [
                                     374,
                                     124,
@@ -3569,9 +3558,7 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -3588,9 +3575,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -3909,8 +3894,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "8",

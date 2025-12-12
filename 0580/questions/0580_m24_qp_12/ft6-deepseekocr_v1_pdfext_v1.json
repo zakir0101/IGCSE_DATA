@@ -2291,7 +2291,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$\\leqslant l <$ .........",
+                "text": ".........\\(\\leqslant l <\\) .........",
                 "bbox": [
                     381,
                     163,
@@ -2300,9 +2300,7 @@
                 ],
                 "page_number": 9,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -2319,10 +2317,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX command found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "22",

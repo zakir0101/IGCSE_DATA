@@ -1,0 +1,796 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            46,
+            63,
+            59,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 2,
+                "bbox": [
+                    68,
+                    90,
+                    86,
+                    105
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(4b^{3} + 27d = 0\\)",
+                        "bbox": [
+                            92,
+                            90,
+                            213,
+                            105
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            90,
+                            528,
+                            105
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 2,
+                "bbox": [
+                    92,
+                    508,
+                    110,
+                    523
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Given that \\(2\\alpha^{2} + \\gamma^{2} = 3b\\), find the values of \\(b\\) and \\(d\\)",
+                        "bbox": [
+                            111,
+                            508,
+                            340,
+                            523
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            508,
+                            528,
+                            523
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The cubic equation \\(x^{3} + bx^{2} + d = 0\\) has roots \\(\\alpha , \\beta , \\gamma\\), where \\(\\alpha = \\beta\\) and \\(d \\neq 0\\)",
+                "bbox": [
+                    69,
+                    63,
+                    438,
+                    80
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 3,
+        "bbox": [
+            47,
+            202,
+            57,
+            217
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Prove by mathematical induction that, for all positive integers \\(n\\), \\(7^{2n} + 97^n - 50\\) is divisible by 48.",
+                "bbox": [
+                    69,
+                    202,
+                    528,
+                    217
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[6]",
+                "bbox": [
+                    508,
+                    202,
+                    528,
+                    217
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 4,
+        "bbox": [
+            45,
+            66,
+            56,
+            82
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    68,
+                    66,
+                    86,
+                    82
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "By considering \\(\\left(2r + 1\\right)^{3} - \\left(2r - 1\\right)^{3}\\), use the method of differences to prove that",
+                        "bbox": [
+                            92,
+                            64,
+                            463,
+                            84
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\sum_{r = 1}^{n}r^{2} = \\frac{1}{6} n(n + 1)(2n + 1). \\quad [5]\\]",
+                        "bbox": [
+                            232,
+                            94,
+                            362,
+                            131
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 5,
+                "bbox": [
+                    68,
+                    94,
+                    87,
+                    110
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "Let \\(S_{n} = 1^{2} + 3 \\times 2^{2} + 3^{2} + 3 \\times 4^{2} + 5^{2} + 3 \\times 6^{2} + \\ldots + \\left(2 + \\left(-1\\right)^{n}\\right)n^{2}\\)",
+                        "bbox": [
+                            68,
+                            67,
+                            386,
+                            86
+                        ],
+                        "page_number": 5,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Show that \\(S_{2n} = \\frac{1}{3} n(2n + 1)(an + b)\\), where \\(a\\) and \\(b\\) are integers to be determined",
+                        "bbox": [
+                            92,
+                            94,
+                            472,
+                            112
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            94,
+                            528,
+                            110
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 5,
+                "bbox": [
+                    92,
+                    586,
+                    105,
+                    602
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State the value of \\(\\lim_{n \\to \\infty} \\frac{S_{2n}}{n^3}\\)",
+                        "bbox": [
+                            107,
+                            584,
+                            220,
+                            607
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            507,
+                            588,
+                            527,
+                            604
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            45,
+            62,
+            55,
+            78
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    68,
+                    88,
+                    86,
+                    104
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find a Cartesian equation of \\(\\varPi\\), giving your answer in the form \\(ax + by + cz = d\\)",
+                        "bbox": [
+                            92,
+                            87,
+                            472,
+                            104
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            507,
+                            88,
+                            527,
+                            104
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 7,
+                "bbox": [
+                    69,
+                    87,
+                    87,
+                    103
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The line \\(l\\) passes through the point \\(P\\) with position vector \\(2\\mathbf{i} + 3\\mathbf{j} + \\mathbf{k}\\) and is parallel to the vector \\(\\mathbf{j} + \\mathbf{k}\\)",
+                        "bbox": [
+                            69,
+                            62,
+                            546,
+                            78
+                        ],
+                        "page_number": 7,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the acute angle between \\(l\\) and \\(\\varPi\\)",
+                        "bbox": [
+                            92,
+                            87,
+                            273,
+                            103
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            87,
+                            528,
+                            103
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 7,
+                "bbox": [
+                    69,
+                    347,
+                    87,
+                    363
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the position vector of the foot of the perpendicular from \\(P\\) to \\(\\varPi\\)",
+                        "bbox": [
+                            92,
+                            347,
+                            417,
+                            363
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            347,
+                            528,
+                            363
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The plane \\(\\varPi\\) contains the lines \\(\\mathbf{r} = 3\\mathbf{i} - 2\\mathbf{j} + \\mathbf{k} + \\lambda (- \\mathbf{i} + 2\\mathbf{j} + \\mathbf{k})\\) and \\(\\mathbf{r} = 4\\mathbf{i} + 4\\mathbf{j} + 2\\mathbf{k} + \\mu (3\\mathbf{i} + 2\\mathbf{j} - \\mathbf{k})\\)",
+                "bbox": [
+                    69,
+                    62,
+                    536,
+                    78
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 8,
+        "bbox": [
+            46,
+            78,
+            56,
+            94
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    68,
+                    116,
+                    86,
+                    131
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The matrix \\(\\mathbf{M}\\) represents a sequence of two geometrical transformations",
+                        "bbox": [
+                            92,
+                            114,
+                            431,
+                            131
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "State the type of each transformation, and make clear the order in which they are applied.",
+                        "bbox": [
+                            92,
+                            142,
+                            489,
+                            158
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            469,
+                            142,
+                            489,
+                            158
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 8,
+                "bbox": [
+                    92,
+                    378,
+                    109,
+                    394
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The triangle \\(ABC\\) in the \\(x - y\\) plane is transformed by \\(\\mathbf{M}\\) onto triangle \\(DEF\\)",
+                        "bbox": [
+                            111,
+                            378,
+                            439,
+                            394
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find, in terms of \\(k\\), the single matrix which transforms triangle \\(DEF\\) onto triangle \\(ABC\\).",
+                        "bbox": [
+                            92,
+                            403,
+                            480,
+                            419
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            460,
+                            403,
+                            480,
+                            419
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The matrix \\(\\mathbf{M}\\) is given by \\(\\mathbf{M} = \\begin{pmatrix} \\frac{1}{2}\\sqrt{2} & -\\frac{1}{2}\\sqrt{2} \\\\ \\frac{1}{2}\\sqrt{2} & \\frac{1}{2}\\sqrt{2} \\end{pmatrix} \\begin{pmatrix} 1 & k \\\\ 0 & 1 \\end{pmatrix}\\), where \\(k\\) is a constant",
+                "bbox": [
+                    68,
+                    66,
+                    414,
+                    101
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 8,
+        "bbox": [
+            92,
+            634,
+            98,
+            650
+        ],
+        "level": 92,
+        "parts": [],
+        "content": [
+            {
+                "type": "pre_text",
+                "text": "1",
+                "bbox": [
+                    92,
+                    472,
+                    98,
+                    488
+                ],
+                "page_number": 8,
+                "is_pre": true,
+                "issues": [],
+                "is_pot_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "2",
+                "bbox": [
+                    92,
+                    505,
+                    98,
+                    521
+                ],
+                "page_number": 8,
+                "is_pre": true,
+                "issues": [],
+                "is_pot_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "3",
+                "bbox": [
+                    92,
+                    538,
+                    98,
+                    553
+                ],
+                "page_number": 8,
+                "is_pre": true,
+                "issues": [],
+                "is_pot_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "4",
+                "bbox": [
+                    92,
+                    569,
+                    98,
+                    585
+                ],
+                "page_number": 8,
+                "is_pre": true,
+                "issues": [],
+                "is_pot_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "5",
+                "bbox": [
+                    92,
+                    602,
+                    98,
+                    617
+                ],
+                "page_number": 8,
+                "is_pre": true,
+                "issues": [],
+                "is_pot_pre": true
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 8,
+        "bbox": [
+            92,
+            666,
+            98,
+            682
+        ],
+        "level": 92,
+        "parts": [],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "8",
+        "page_number": 8,
+        "bbox": [
+            92,
+            698,
+            98,
+            714
+        ],
+        "level": 92,
+        "parts": [],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "9",
+        "page_number": 8,
+        "bbox": [
+            92,
+            730,
+            98,
+            746
+        ],
+        "level": 92,
+        "parts": [
+            {
+                "label": "(c)",
+                "page_number": 9,
+                "bbox": [
+                    68,
+                    61,
+                    87,
+                    74
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the set of values of \\(k\\) for which the transformation represented by \\(\\mathbf{M}\\) has no invariant lines through the origin",
+                        "bbox": [
+                            91,
+                            61,
+                            548,
+                            88
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            508,
+                            71,
+                            528,
+                            86
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    }
+]

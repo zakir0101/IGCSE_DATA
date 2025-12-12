@@ -609,7 +609,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm$",
+                "text": ".........\\(cm\\)",
                 "bbox": [
                     381,
                     434,
@@ -1791,7 +1791,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$\\leqslant s < .........$",
+                "text": ".........\\(\\leqslant s < .........\\)",
                 "bbox": [
                     349,
                     590,
@@ -1800,9 +1800,7 @@
                 ],
                 "page_number": 7,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1819,10 +1817,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX command found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "19",

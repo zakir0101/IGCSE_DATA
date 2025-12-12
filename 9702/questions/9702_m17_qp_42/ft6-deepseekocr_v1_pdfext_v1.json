@@ -200,20 +200,6 @@
                                 "page_number": 5,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 6]",
-                                "bbox": [
-                                    502,
-                                    464,
-                                    548,
-                                    480
-                                ],
-                                "page_number": 5,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -582,20 +568,6 @@
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 10]",
-                                "bbox": [
-                                    495,
-                                    594,
-                                    548,
-                                    610
-                                ],
-                                "page_number": 7,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -1064,20 +1036,6 @@
                 "page_number": 10,
                 "is_pre": false,
                 "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[Total: 4]",
-                "bbox": [
-                    501,
-                    348,
-                    548,
-                    364
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
             }
         ],
         "issues": []
@@ -1281,20 +1239,6 @@
                                 ],
                                 "page_number": 11,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 8]",
-                                "bbox": [
-                                    501,
-                                    705,
-                                    548,
-                                    721
-                                ],
-                                "page_number": 11,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -1611,20 +1555,6 @@
                                 "page_number": 13,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 9]",
-                                "bbox": [
-                                    501,
-                                    619,
-                                    548,
-                                    634
-                                ],
-                                "page_number": 13,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -1864,20 +1794,6 @@
                                     268,
                                     529,
                                     283
-                                ],
-                                "page_number": 15,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 10]",
-                                "bbox": [
-                                    495,
-                                    425,
-                                    548,
-                                    440
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
@@ -2186,20 +2102,6 @@
                                 "page_number": 17,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 9]",
-                                "bbox": [
-                                    501,
-                                    269,
-                                    548,
-                                    284
-                                ],
-                                "page_number": 17,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2465,7 +2367,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "time = .........$ms$",
+                                "text": "time = .........\\(ms\\)",
                                 "bbox": [
                                     314,
                                     267,
@@ -2567,7 +2469,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "resistance = .........$\\Omega$",
+                                "text": "resistance = .........\\(\\Omega\\)",
                                 "bbox": [
                                     333,
                                     451,
@@ -2576,9 +2478,7 @@
                                 ],
                                 "page_number": 19,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2595,9 +2495,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -2653,20 +2551,6 @@
                                 "page_number": 19,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 11]",
-                                "bbox": [
-                                    496,
-                                    673,
-                                    548,
-                                    689
-                                ],
-                                "page_number": 19,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2721,24 +2605,9 @@
                     "page": 18
                 },
                 "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[b]Fig. 9.1",
-                "bbox": [
-                    277,
-                    263,
-                    317,
-                    278
-                ],
-                "page_number": 18,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "10",
@@ -3024,20 +2893,6 @@
                 "is_pre": false,
                 "issues": [],
                 "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[Total: 5]",
-                "bbox": [
-                    502,
-                    411,
-                    548,
-                    427
-                ],
-                "page_number": 21,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
             }
         ],
         "issues": []
@@ -3253,20 +3108,6 @@
                                     60,
                                     548,
                                     88
-                                ],
-                                "page_number": 23,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 8]",
-                                "bbox": [
-                                    501,
-                                    177,
-                                    548,
-                                    192
                                 ],
                                 "page_number": 23,
                                 "is_pre": false,

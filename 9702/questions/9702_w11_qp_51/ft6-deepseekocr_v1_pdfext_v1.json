@@ -690,7 +690,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "k = .........$\\text{kg} \\text{N}^{-1} \\text{m}^{-2}$",
+                                "text": "k = .........\\(\\text{kg} \\text{N}^{-1} \\text{m}^{-2}\\)",
                                 "bbox": [
                                     255,
                                     517,
@@ -699,9 +699,7 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -718,9 +716,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -750,7 +746,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "M = .........$\\text{kg}$",
+                                "text": "M = .........\\(\\text{kg}\\)",
                                 "bbox": [
                                     327,
                                     673,
@@ -759,9 +755,7 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -778,9 +772,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -890,7 +882,6 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     }
 ]

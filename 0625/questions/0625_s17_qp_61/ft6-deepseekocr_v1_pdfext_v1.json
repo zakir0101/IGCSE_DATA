@@ -738,7 +738,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(\\alpha =\\) .........$52^{\\circ}$",
+                        "text": "\\(\\alpha =\\) .........\\(52^{\\circ}\\)",
                         "bbox": [
                             328,
                             447,
@@ -747,14 +747,12 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(x =\\) .........$19 \\text{mm}$",
+                        "text": "\\(x =\\) .........\\(19 \\text{mm}\\)",
                         "bbox": [
                             328,
                             489,
@@ -763,9 +761,7 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -838,10 +834,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode",
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(e)",
@@ -863,20 +856,6 @@
                             649,
                             534,
                             665
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 8]",
-                        "bbox": [
-                            507,
-                            753,
-                            548,
-                            769
                         ],
                         "page_number": 5,
                         "is_pre": false,
@@ -933,8 +912,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -1539,20 +1517,6 @@
                         "page_number": 8,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 7]",
-                        "bbox": [
-                            501,
-                            637,
-                            548,
-                            653
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -1959,20 +1923,6 @@
                         "page_number": 10,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 8]",
-                        "bbox": [
-                            501,
-                            612,
-                            548,
-                            627
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": [
@@ -2331,34 +2281,6 @@
                     494
                 ],
                 "page_number": 11,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[Total: 7]",
-                "bbox": [
-                    501,
-                    516,
-                    548,
-                    530
-                ],
-                "page_number": 12,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[Total: 7]",
-                "bbox": [
-                    501,
-                    517,
-                    548,
-                    531
-                ],
-                "page_number": 12,
                 "is_pre": false,
                 "issues": [],
                 "is_pot_pre": false

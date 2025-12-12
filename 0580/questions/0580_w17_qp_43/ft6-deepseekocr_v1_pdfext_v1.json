@@ -105,7 +105,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$cm$",
+                                "text": ".........\\(cm\\)",
                                 "bbox": [
                                     389,
                                     334,
@@ -205,7 +205,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$cm$",
+                                "text": ".........\\(cm\\)",
                                 "bbox": [
                                     389,
                                     491,
@@ -1108,7 +1108,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$km/h$",
+                        "text": ".........\\(km/h\\)",
                         "bbox": [
                             389,
                             556,
@@ -1210,7 +1210,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........&lt; $t \\leqslant .........$",
+                        "text": ".........&lt; \\(t \\leqslant .........\\)",
                         "bbox": [
                             390,
                             192,
@@ -1219,9 +1219,7 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1238,9 +1236,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -1745,8 +1741,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "5",
@@ -2339,7 +2334,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$cm^2$",
+                                "text": ".........\\(cm^2\\)",
                                 "bbox": [
                                     389,
                                     650,
@@ -2348,9 +2343,7 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX superscript (^) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2367,9 +2360,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -2459,7 +2450,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$\\mathrm{cm}^2$",
+                                "text": ".........\\(\\mathrm{cm}^2\\)",
                                 "bbox": [
                                     389,
                                     218,
@@ -2468,9 +2459,7 @@
                                 ],
                                 "page_number": 11,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2487,9 +2476,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -2642,8 +2629,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "7",

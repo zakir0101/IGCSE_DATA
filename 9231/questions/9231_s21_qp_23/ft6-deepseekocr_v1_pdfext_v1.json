@@ -1,0 +1,1022 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            47,
+            61,
+            59,
+            74
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 2,
+                "bbox": [
+                    69,
+                    61,
+                    87,
+                    74
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(a\\) and \\(b\\) such that",
+                        "bbox": [
+                            93,
+                            61,
+                            198,
+                            74
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[z^{8} - \\mathrm{i}z^{5} - z^{3} + \\mathrm{i} = (z^{5} - a)(z^{3} - b). \\quad [1]\\]",
+                        "bbox": [
+                            217,
+                            84,
+                            379,
+                            101
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 2,
+                "bbox": [
+                    69,
+                    216,
+                    87,
+                    232
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Hence find the roots of",
+                        "bbox": [
+                            92,
+                            216,
+                            203,
+                            232
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[z^{8} - \\mathrm{i}z^{5} - z^{3} + \\mathrm{i} = 0,\\]",
+                        "bbox": [
+                            249,
+                            240,
+                            346,
+                            257
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "giving your answers in the form \\(r\\mathrm{e}^{\\mathrm{i}\\theta}\\), where \\(r > 0\\) and \\(0\\leqslant \\theta < 2\\pi .\\)",
+                        "bbox": [
+                            92,
+                            267,
+                            410,
+                            285
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            269,
+                            528,
+                            285
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 3,
+        "bbox": [
+            45,
+            63,
+            58,
+            78
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Find the Maclaurin's series for \\(\\ln \\cosh x\\) up to and including the term in \\(x^{4}\\)",
+                "bbox": [
+                    70,
+                    62,
+                    421,
+                    79
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[7]",
+                "bbox": [
+                    508,
+                    63,
+                    528,
+                    78
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 4,
+        "bbox": [
+            46,
+            61,
+            56,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    68,
+                    290,
+                    87,
+                    306
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "By considering the sum of the areas of these rectangles, show that",
+                        "bbox": [
+                            92,
+                            289,
+                            400,
+                            306
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\sum_{r = 1}^{N}\\frac{r}{2r^{2} - 1} < \\frac{1}{4}\\ln (2N^{2} - 1) + 1. \\quad [7]\\]",
+                        "bbox": [
+                            221,
+                            306,
+                            373,
+                            340
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            508,
+                            314,
+                            528,
+                            330
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 5,
+                "bbox": [
+                    69,
+                    255,
+                    88,
+                    270
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use a similar method to find, in terms of \\(N\\), a lower bound for \\(\\sum_{r=1}^{N} \\frac{r}{2r^2 - 1}\\)",
+                        "bbox": [
+                            93,
+                            251,
+                            439,
+                            270
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            506,
+                            255,
+                            526,
+                            270
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    79,
+                    78,
+                    514,
+                    236
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 4
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curve \\(y = \\frac{x}{2x^2 - 1}\\) for \\(x \\geqslant 1\\), together with a set of \\(N - 1\\) rectangles of unit width",
+                "bbox": [
+                    69,
+                    248,
+                    548,
+                    278
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            46,
+            68,
+            56,
+            84
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "By considering the binomial expansions of \\(\\left(z + \\frac{1}{z}\\right)^5\\) and \\(\\left(z - \\frac{1}{z}\\right)^5\\), where \\(z = \\cos \\theta + \\mathrm{i}\\sin \\theta\\), use de Moivre's theorem to show that",
+                "bbox": [
+                    68,
+                    63,
+                    548,
+                    101
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\tan^{5}\\theta = \\frac{\\sin 5\\theta - a\\sin 3\\theta + b\\sin\\theta}{\\cos 5\\theta + a\\cos 3\\theta + b\\cos\\theta},\\]",
+                "bbox": [
+                    215,
+                    104,
+                    379,
+                    129
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "where \\(a\\) and \\(b\\) are integers to be determined",
+                "bbox": [
+                    69,
+                    134,
+                    277,
+                    151
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[7]",
+                "bbox": [
+                    508,
+                    135,
+                    528,
+                    151
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 8,
+        "bbox": [
+            45,
+            61,
+            56,
+            75
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    68,
+                    125,
+                    86,
+                    140
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the value of the constant \\(k\\) such that \\(y = kx\\mathrm{e}^{-x}\\) is a particular integral of the differential equation",
+                        "bbox": [
+                            92,
+                            124,
+                            548,
+                            154
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            137,
+                            528,
+                            154
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 8,
+                "bbox": [
+                    69,
+                    529,
+                    87,
+                    545
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the solution of the differential equation for which \\(y = \\frac{\\mathrm{dy}}{\\mathrm{dx}} = \\frac{1}{2}\\) when \\(x = 0\\)",
+                        "bbox": [
+                            92,
+                            525,
+                            464,
+                            548
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            529,
+                            528,
+                            545
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The variables \\(x\\) and \\(y\\) are related by the differential equation",
+                "bbox": [
+                    69,
+                    60,
+                    351,
+                    77
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\frac{\\mathrm{d}^{2}y}{\\mathrm{dx}^{2}} -2\\frac{\\mathrm{dy}}{\\mathrm{dx}} -3y = 4\\mathrm{e}^{-x}.\\]",
+                "bbox": [
+                    240,
+                    78,
+                    354,
+                    108
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 10,
+        "bbox": [
+            45,
+            61,
+            59,
+            75
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    61,
+                    87,
+                    75
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Starting from the definitions of \\(\\sinh\\) and \\(\\cosh\\) in terms of exponentials, prove that",
+                        "bbox": [
+                            92,
+                            60,
+                            472,
+                            77
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[2\\sinh^{2}x = \\cosh 2x - 1.\\]",
+                        "bbox": [
+                            243,
+                            85,
+                            351,
+                            102
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            85,
+                            528,
+                            101
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 10,
+                "bbox": [
+                    92,
+                    396,
+                    111,
+                    411
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the solution to the differential equation",
+                        "bbox": [
+                            111,
+                            396,
+                            298,
+                            413
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\frac{\\mathrm{d}y}{\\mathrm{d}x} +y\\coth x = 4\\sinh x\\]",
+                        "bbox": [
+                            242,
+                            418,
+                            352,
+                            442
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "for which \\(y = 1\\) when \\(x = \\ln 3\\)",
+                        "bbox": [
+                            92,
+                            450,
+                            239,
+                            466
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            508,
+                            450,
+                            528,
+                            466
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 12,
+        "bbox": [
+            46,
+            70,
+            56,
+            86
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 12,
+                "bbox": [
+                    68,
+                    96,
+                    86,
+                    112
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the exact value of \\(I_{1}\\), expressing your answer in logarithmic form",
+                        "bbox": [
+                            91,
+                            96,
+                            426,
+                            113
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            96,
+                            528,
+                            112
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 12,
+                "bbox": [
+                    92,
+                    396,
+                    111,
+                    411
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "By considering \\(\\frac{\\mathrm{d}}{\\mathrm{dx}}\\Big(x\\big(4 + x^{2}\\big)^{-\\frac{1}{2} n}\\Big)\\), or otherwise, show that",
+                        "bbox": [
+                            114,
+                            392,
+                            359,
+                            415
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[4nI_{n + 2} = \\textstyle \\frac{3}{2}\\Big(\\textstyle \\frac{2}{5}\\Big)^{n} + (n - 1)I_{n}.\\]",
+                        "bbox": [
+                            233,
+                            430,
+                            362,
+                            453
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            433,
+                            528,
+                            449
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The integral \\(I_{n}\\), where \\(n\\) is an integer, is defined by \\(I_{n} = \\int_{0}^{\\frac{3}{2}}(4 + x^{2})^{-\\frac{1}{2} n}\\mathrm{d}x.\\)",
+                "bbox": [
+                    66,
+                    66,
+                    413,
+                    89
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "8",
+        "page_number": 14,
+        "bbox": [
+            45,
+            61,
+            59,
+            75
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 14,
+                "bbox": [
+                    68,
+                    61,
+                    87,
+                    75
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(a\\) for which the system of equations",
+                        "bbox": [
+                            92,
+                            60,
+                            342,
+                            75
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[13x + 18y - 28z = 0,\\]",
+                        "bbox": [
+                            245,
+                            84,
+                            348,
+                            101
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[-4x - a y + 8z = 0,\\]",
+                        "bbox": [
+                            245,
+                            101,
+                            348,
+                            117
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[2x + 6y - 5z = 0,\\]",
+                        "bbox": [
+                            253,
+                            118,
+                            348,
+                            134
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "does not have a unique solution",
+                        "bbox": [
+                            92,
+                            140,
+                            244,
+                            156
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            142,
+                            528,
+                            156
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 14,
+                "bbox": [
+                    69,
+                    375,
+                    87,
+                    391
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the eigenvalue of \\(\\mathbf{A}\\) corresponding to the eigenvector \\(\\begin{pmatrix} 2 \\\\ 0 \\\\ 1 \\end{pmatrix}\\)",
+                        "bbox": [
+                            92,
+                            367,
+                            386,
+                            392
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            377,
+                            528,
+                            392
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 14,
+                "bbox": [
+                    69,
+                    493,
+                    86,
+                    508
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find a matrix \\(\\mathbf{P}\\) and a diagonal matrix \\(\\mathbf{D}\\) such that \\(\\mathbf{A} = \\mathbf{P}\\mathbf{D}\\mathbf{P}^{-1}\\)",
+                        "bbox": [
+                            92,
+                            492,
+                            389,
+                            508
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[8]",
+                        "bbox": [
+                            508,
+                            494,
+                            528,
+                            509
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 15,
+                "bbox": [
+                    69,
+                    674,
+                    88,
+                    689
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the characteristic equation of \\(\\mathbf{A}\\) to find \\(\\mathbf{A}^{-1}\\) in terms of \\(\\mathbf{A}\\)",
+                        "bbox": [
+                            93,
+                            674,
+                            384,
+                            688
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            506,
+                            674,
+                            526,
+                            689
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    }
+]

@@ -94,7 +94,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "viscosity = .........$\\text{kg} \\text{m}^{-1} \\text{s}^{-1}$",
+                        "text": "viscosity = .........\\(\\text{kg} \\text{m}^{-1} \\text{s}^{-1}\\)",
                         "bbox": [
                             294,
                             451,
@@ -103,15 +103,11 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -280,7 +276,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "mass = .........$kg$",
+                                "text": "mass = .........\\(kg\\)",
                                 "bbox": [
                                     309,
                                     322,
@@ -303,20 +299,6 @@
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 10]",
-                                "bbox": [
-                                    495,
-                                    349,
-                                    548,
-                                    364
-                                ],
-                                "page_number": 5,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -399,8 +381,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -718,7 +699,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "speed = .........$\\text{ms}^{-1}$",
+                                "text": "speed = .........\\(\\text{ms}^{-1}\\)",
                                 "bbox": [
                                     305,
                                     569,
@@ -727,9 +708,7 @@
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -744,25 +723,9 @@
                                 "page_number": 7,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 11]",
-                                "bbox": [
-                                    496,
-                                    594,
-                                    548,
-                                    610
-                                ],
-                                "page_number": 7,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -829,8 +792,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -1280,20 +1242,6 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 12]",
-                        "bbox": [
-                            496,
-                            229,
-                            548,
-                            244
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -1621,20 +1569,6 @@
                         "page_number": 13,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 8]",
-                        "bbox": [
-                            501,
-                            490,
-                            548,
-                            505
-                        ],
-                        "page_number": 13,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -1921,7 +1855,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "r = .........$\\Omega$",
+                                "text": "r = .........\\(\\Omega\\)",
                                 "bbox": [
                                     331,
                                     545,
@@ -1930,9 +1864,7 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1949,9 +1881,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -2052,20 +1982,6 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 11]",
-                                "bbox": [
-                                    507,
-                                    319,
-                                    548,
-                                    333
-                                ],
-                                "page_number": 16,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2105,8 +2021,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "6",
@@ -2344,7 +2259,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "charge = .........$e$",
+                                "text": "charge = .........\\(e\\)",
                                 "bbox": [
                                     302,
                                     229,
@@ -2409,20 +2324,6 @@
                                 ],
                                 "page_number": 19,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 8]",
-                                "bbox": [
-                                    501,
-                                    308,
-                                    548,
-                                    324
-                                ],
-                                "page_number": 19,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],

@@ -1,0 +1,908 @@
+[
+    {
+        "label": "1",
+        "page_number": 3,
+        "bbox": [
+            46,
+            63,
+            56,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 3,
+                "bbox": [
+                    69,
+                    133,
+                    87,
+                    148
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Calculate a \\(95\\%\\) confidence interval for the population mean diameter",
+                        "bbox": [
+                            94,
+                            131,
+                            430,
+                            148
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            132,
+                            528,
+                            148
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 3,
+                "bbox": [
+                    70,
+                    586,
+                    88,
+                    600
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Jean chose 40 random samples and used each sample to calculate a \\(95\\%\\) confidence interval for the population mean diameter",
+                        "bbox": [
+                            93,
+                            585,
+                            548,
+                            614
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "How many of these 40 confidence intervals would be expected to include the true value of the population mean diameter?",
+                        "bbox": [
+                            93,
+                            624,
+                            548,
+                            652
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            637,
+                            528,
+                            652
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The diameters, \\(x\\) millimetres, of a random sample of 200 discs made by a certain machine were recorded. The results are summarised below",
+                "bbox": [
+                    70,
+                    62,
+                    548,
+                    91
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[n = 200\\qquad \\Sigma x = 2520\\qquad \\Sigma x^2 = 31852\\]",
+                "bbox": [
+                    197,
+                    96,
+                    397,
+                    113
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 4,
+        "bbox": [
+            46,
+            62,
+            55,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Arvind uses an ordinary fair 6-sided die to play a game. He believes he has a system to predict the score when the die is thrown. Before each throw of the die, he writes down what he thinks the score will be. He claims that he can write the correct score more often than he would if he were just guessing. His friend Laxmi tests his claim by asking him to write down the score before each of 15 throws of the die. Arvind writes the correct score on exactly 5 out of 15 throws",
+                "bbox": [
+                    70,
+                    62,
+                    548,
+                    131
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Test Arvind's claim at the \\(10\\%\\) significance level",
+                "bbox": [
+                    70,
+                    140,
+                    305,
+                    156
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    140,
+                    528,
+                    156
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 5,
+        "bbox": [
+            46,
+            63,
+            55,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The lengths, in centimetres, of two types of insect, \\(A\\) and \\(B\\), are modelled by the random variables \\(X \\sim \\mathrm{N}(6.2, 0.36)\\) and \\(Y \\sim \\mathrm{N}(2.4, 0.25)\\) respectively",
+                "bbox": [
+                    70,
+                    62,
+                    548,
+                    91
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the probability that the length of a randomly chosen type \\(A\\) insect is greater than the sum of the lengths of 3 randomly chosen type \\(B\\) insects.",
+                "bbox": [
+                    70,
+                    101,
+                    528,
+                    130
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    101,
+                    528,
+                    130
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            46,
+            62,
+            58,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    69,
+                    89,
+                    87,
+                    104
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the mean and standard deviation of \\(X - 3Y\\)",
+                        "bbox": [
+                            93,
+                            89,
+                            326,
+                            104
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            89,
+                            528,
+                            104
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 7,
+                "bbox": [
+                    69,
+                    62,
+                    88,
+                    77
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{P}(Y = 15X)\\)",
+                        "bbox": [
+                            93,
+                            62,
+                            180,
+                            77
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            62,
+                            528,
+                            78
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The independent random variables \\(X\\) and \\(Y\\) have distributions \\(\\mathrm{Po}(2)\\) and \\(\\mathrm{B}(20, \\frac{1}{4})\\) respectively",
+                "bbox": [
+                    69,
+                    62,
+                    521,
+                    78
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 8,
+        "bbox": [
+            45,
+            62,
+            55,
+            78
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    69,
+                    89,
+                    87,
+                    104
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability that more than 4 cars arrive during a 20-minute period",
+                        "bbox": [
+                            93,
+                            88,
+                            451,
+                            104
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            89,
+                            528,
+                            104
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 8,
+                "bbox": [
+                    70,
+                    375,
+                    88,
+                    390
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use an approximating distribution to find the probability that the number of cars that arrive during a 12-hour period is between 150 and 160 inclusive",
+                        "bbox": [
+                            93,
+                            375,
+                            548,
+                            402
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            388,
+                            528,
+                            402
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 9,
+                "bbox": [
+                    69,
+                    101,
+                    87,
+                    116
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "Independently of cars, trucks arrive at the fuel station at random and at a constant average rate of 3.6 per 15-minute period",
+                        "bbox": [
+                            70,
+                            62,
+                            548,
+                            91
+                        ],
+                        "page_number": 9,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the probability that the total number of cars and trucks arriving at the fuel station during a 10-minute period is more than 3 and less than 7",
+                        "bbox": [
+                            93,
+                            101,
+                            548,
+                            129
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            114,
+                            528,
+                            129
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Cars arrive at a fuel station at random and at a constant average rate of 13.5 per hour",
+                "bbox": [
+                    69,
+                    62,
+                    474,
+                    78
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 10,
+        "bbox": [
+            46,
+            62,
+            55,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    69,
+                    101,
+                    87,
+                    116
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State, in terms of \\(a\\), the median of \\(X\\)",
+                        "bbox": [
+                            94,
+                            101,
+                            270,
+                            116
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            101,
+                            528,
+                            116
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 10,
+                "bbox": [
+                    69,
+                    304,
+                    87,
+                    320
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{P}(X > \\frac{3}{4} a)\\)",
+                        "bbox": [
+                            93,
+                            304,
+                            174,
+                            320
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            304,
+                            528,
+                            320
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 10,
+                "bbox": [
+                    66,
+                    511,
+                    85,
+                    527
+                ],
+                "level": 66,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(\\mathrm{Var}(X) = \\frac{1}{12} a^2\\)",
+                        "bbox": [
+                            93,
+                            511,
+                            218,
+                            527
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            511,
+                            528,
+                            527
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 11,
+                "bbox": [
+                    70,
+                    369,
+                    88,
+                    384
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Given that \\(\\mathrm{P}(X < b) = p\\), where \\(0 < b < \\frac{1}{2} a\\), find \\(\\mathrm{P}(\\frac{1}{3} b < X < a - \\frac{1}{3} b)\\) in terms of \\(p\\)",
+                        "bbox": [
+                            93,
+                            368,
+                            484,
+                            384
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            369,
+                            528,
+                            384
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A random variable \\(X\\) has probability density function f. The graph of \\(\\mathrm{f}(x)\\) is a straight line segment parallel to the \\(x\\)-axis from \\(x = 0\\) to \\(x = a\\), where \\(a\\) is a positive constant",
+                "bbox": [
+                    70,
+                    62,
+                    548,
+                    91
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 12,
+        "bbox": [
+            46,
+            62,
+            55,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 12,
+                "bbox": [
+                    69,
+                    142,
+                    87,
+                    156
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State suitable null and alternative hypotheses for Jenny's test",
+                        "bbox": [
+                            94,
+                            142,
+                            384,
+                            156
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            142,
+                            528,
+                            156
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 12,
+                "bbox": [
+                    70,
+                    289,
+                    88,
+                    304
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability that Jenny will make a Type I error",
+                        "bbox": [
+                            93,
+                            289,
+                            362,
+                            304
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            289,
+                            528,
+                            304
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 12,
+                "bbox": [
+                    69,
+                    575,
+                    87,
+                    590
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Jenny found that the sample mean run time was 27.2 minutes",
+                        "bbox": [
+                            93,
+                            575,
+                            387,
+                            590
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Explain briefly whether it is possible for her to make a Type I error or a Type II error or both",
+                        "bbox": [
+                            93,
+                            602,
+                            539,
+                            617
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            615,
+                            528,
+                            630
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "In the past, the mean time for Jenny's morning run was 28.2 minutes. She does some extra training and she wishes to test whether her mean time has been reduced. After the training Jenny takes a random sample of 40 morning runs. She decides that if the sample mean run time is less than 27 minutes she will conclude that the training has been effective. You may assume that, after the training, Jenny's run time has a standard deviation of 4.0 minutes",
+                "bbox": [
+                    70,
+                    62,
+                    548,
+                    131
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

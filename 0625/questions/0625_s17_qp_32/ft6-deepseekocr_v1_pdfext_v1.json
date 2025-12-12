@@ -92,7 +92,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "winner's time = .........$s$",
+                                "text": "winner's time = .........\\(s\\)",
                                 "bbox": [
                                     270,
                                     566,
@@ -134,7 +134,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "average speed = .........$m/s$",
+                                "text": "average speed = .........\\(m/s\\)",
                                 "bbox": [
                                     262,
                                     657,
@@ -337,7 +337,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "mass of paint = .........$g$",
+                                "text": "mass of paint = .........\\(g\\)",
                                 "bbox": [
                                     270,
                                     205,
@@ -502,20 +502,6 @@
                             407,
                             240,
                             422
-                        ],
-                        "page_number": 3,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 5]",
-                        "bbox": [
-                            501,
-                            484,
-                            548,
-                            500
                         ],
                         "page_number": 3,
                         "is_pre": false,
@@ -845,20 +831,6 @@
                                 "page_number": 5,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 7]",
-                                "bbox": [
-                                    501,
-                                    211,
-                                    548,
-                                    226
-                                ],
-                                "page_number": 5,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -1164,20 +1136,6 @@
                             328,
                             409,
                             344
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 7]",
-                        "bbox": [
-                            502,
-                            484,
-                            548,
-                            499
                         ],
                         "page_number": 7,
                         "is_pre": false,
@@ -1528,7 +1486,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "pressure = .........$cm$ of water",
+                                "text": "pressure = .........\\(cm\\) of water",
                                 "bbox": [
                                     292,
                                     725,
@@ -1551,20 +1509,6 @@
                                 ],
                                 "page_number": 9,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 8]",
-                                "bbox": [
-                                    501,
-                                    752,
-                                    548,
-                                    766
-                                ],
-                                "page_number": 9,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -1953,20 +1897,6 @@
                                 "page_number": 11,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 7]",
-                                "bbox": [
-                                    501,
-                                    370,
-                                    548,
-                                    385
-                                ],
-                                "page_number": 11,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2328,20 +2258,6 @@
                         "page_number": 12,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 9]",
-                        "bbox": [
-                            501,
-                            721,
-                            548,
-                            737
-                        ],
-                        "page_number": 12,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -2449,6 +2365,20 @@
                             "page": 13
                         },
                         "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "On Fig. 8.1, draw lines to show the shape of the magnetic field around the bar magnet. Include at least **one** arrow to show the direction of the field",
+                        "bbox": [
+                            92,
+                            384,
+                            518,
+                            413
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": true
                     }
                 ],
                 "issues": []
@@ -2465,20 +2395,6 @@
                 "level": 68,
                 "parts": [],
                 "content": [
-                    {
-                        "type": "pre_text",
-                        "text": "On Fig. 8.1, draw lines to show the shape of the magnetic field around the bar magnet. Include at least **one** arrow to show the direction of the field",
-                        "bbox": [
-                            92,
-                            384,
-                            518,
-                            413
-                        ],
-                        "page_number": 13,
-                        "is_pre": true,
-                        "issues": [],
-                        "is_pot_pre": true
-                    },
                     {
                         "type": "text",
                         "text": "Explain how a coil of wire can be used to create a bar magnet from a suitable piece of metal",
@@ -2549,20 +2465,6 @@
                         ],
                         "page_number": 13,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 6]",
-                        "bbox": [
-                            501,
-                            677,
-                            548,
-                            692
-                        ],
-                        "page_number": 13,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -2810,20 +2712,6 @@
                                     151,
                                     400,
                                     166
-                                ],
-                                "page_number": 15,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 7]",
-                                "bbox": [
-                                    501,
-                                    256,
-                                    548,
-                                    271
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
@@ -3145,20 +3033,6 @@
                                 "page_number": 17,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 8]",
-                                "bbox": [
-                                    501,
-                                    699,
-                                    548,
-                                    714
-                                ],
-                                "page_number": 17,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -3389,20 +3263,6 @@
                                 ],
                                 "page_number": 18,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 6]",
-                                "bbox": [
-                                    502,
-                                    478,
-                                    548,
-                                    493
-                                ],
-                                "page_number": 18,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -3664,20 +3524,6 @@
                         ],
                         "page_number": 19,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 5]",
-                        "bbox": [
-                            501,
-                            743,
-                            548,
-                            759
-                        ],
-                        "page_number": 19,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],

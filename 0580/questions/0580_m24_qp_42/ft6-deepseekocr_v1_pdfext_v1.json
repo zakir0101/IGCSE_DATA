@@ -52,7 +52,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\$  .........$",
+                        "text": "\\(\\\\)  .........$",
                         "bbox": [
                             372,
                             202,
@@ -61,9 +61,7 @@
                         ],
                         "page_number": 2,
                         "is_pre": false,
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$  .........$..."
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -80,9 +78,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -250,7 +246,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "$\\$  .........$",
+                                "text": "\\(\\\\)  .........$",
                                 "bbox": [
                                     372,
                                     686,
@@ -259,9 +255,7 @@
                                 ],
                                 "page_number": 2,
                                 "is_pre": false,
-                                "issues": [
-                                    "Escaped dollar outside math mode: ...$\\$  .........$..."
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -278,9 +272,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$  .........$..."
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(iv)",
@@ -324,7 +316,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "$\\$",
+                                "text": "\\(\\\\)",
                                 "bbox": [
                                     373,
                                     215,
@@ -333,9 +325,7 @@
                                 ],
                                 "page_number": 3,
                                 "is_pre": false,
-                                "issues": [
-                                    "Escaped dollar outside math mode: ...$\\$..."
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -352,9 +342,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$..."
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -490,8 +478,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -3615,7 +3602,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm$",
+                        "text": ".........\\(cm\\)",
                         "bbox": [
                             381,
                             422,
@@ -3699,7 +3686,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm$",
+                        "text": ".........\\(cm\\)",
                         "bbox": [
                             381,
                             672,

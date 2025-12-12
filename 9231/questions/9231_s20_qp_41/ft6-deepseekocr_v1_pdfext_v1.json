@@ -1,0 +1,796 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            47,
+            61,
+            57,
+            74
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Two randomly selected groups of students, with similar ranges of abilities, take the same examination in different rooms. One group of 140 students takes the examination with background music playing. The other group of 210 students takes the examination in silence. Each student is awarded a grade for their performance in the examination and the numbers from each group gaining each grade are shown in the following table",
+                "bbox": [
+                    70,
+                    60,
+                    546,
+                    129
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    125,
+                    137,
+                    491,
+                    219
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"3\">Grade awarded</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>Background music</td><td>49</td><td>51</td><td>40</td></tr><tr><td>Silence</td><td>93</td><td>68</td><td>49</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Test at the \\(10\\%\\) significance level whether grades awarded are independent of whether background music is playing during the examination.",
+                "bbox": [
+                    70,
+                    228,
+                    526,
+                    257
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[6]",
+                "bbox": [
+                    506,
+                    228,
+                    526,
+                    257
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 3,
+        "bbox": [
+            46,
+            62,
+            55,
+            77
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 3,
+                "bbox": [
+                    68,
+                    152,
+                    86,
+                    168
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Carry out a Wilcoxon signed-rank test at the \\(5\\%\\) significance level to test this claim",
+                        "bbox": [
+                            92,
+                            152,
+                            483,
+                            168
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            152,
+                            528,
+                            168
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 3,
+                "bbox": [
+                    66,
+                    647,
+                    86,
+                    663
+                ],
+                "level": 66,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State an underlying assumption that is made when using a Wilcoxon signed-rank test",
+                        "bbox": [
+                            92,
+                            647,
+                            489,
+                            663
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            647,
+                            528,
+                            663
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The times, in milliseconds, taken by a computer to perform a certain task were recorded on 10 randomly chosen occasions. The times were as follows",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    89
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[6.44\\qquad 6.16\\qquad 5.62\\qquad 5.82\\qquad 6.51\\qquad 6.62\\qquad 6.19\\qquad 6.42\\qquad 6.34\\qquad 6.28\\]",
+                "bbox": [
+                    128,
+                    98,
+                    490,
+                    115
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "It is claimed that the median time to complete the task is 6.4 milliseconds",
+                "bbox": [
+                    69,
+                    124,
+                    415,
+                    142
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 4,
+        "bbox": [
+            46,
+            61,
+            58,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    69,
+                    164,
+                    86,
+                    179
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{E}(X)\\)",
+                        "bbox": [
+                            92,
+                            164,
+                            144,
+                            179
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            165,
+                            528,
+                            180
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 5,
+                "bbox": [
+                    69,
+                    89,
+                    87,
+                    104
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Y\\) is such that \\(Y = \\sqrt{X}\\)",
+                        "bbox": [
+                            70,
+                            62,
+                            277,
+                            78
+                        ],
+                        "page_number": 5,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the probability density function of \\(Y\\)",
+                        "bbox": [
+                            92,
+                            89,
+                            289,
+                            104
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            89,
+                            528,
+                            104
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The continuous random variable \\(X\\) has probability density function f given by",
+                "bbox": [
+                    70,
+                    60,
+                    431,
+                    77
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{f}(x) = \\left\\{ \\begin{array}{ll}\\frac{3}{16}\\big(2 - \\sqrt{x}\\big) & 0\\leqslant x< 1,\\\\ \\frac{3}{16\\sqrt{x}} & 1\\leqslant x\\leqslant 9,\\\\ 0 & \\mathrm{otherwise}. \\end{array} \\right.\\]",
+                "bbox": [
+                    221,
+                    84,
+                    374,
+                    152
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            46,
+            61,
+            56,
+            74
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "A company has two different machines, \\(X\\) and \\(Y,\\) each of which fills empty cups with coffee. The manager is investigating the volumes of coffee, \\(x\\) and \\(y,\\) measured in appropriate units, in the cups filled by machines \\(X\\) and \\(Y\\) respectively. She chooses a random sample of 50 cups filled by machine \\(X\\) and a random sample of 40 cups filled by machine \\(Y.\\) The volumes are summarised as follows",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    116
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\Sigma x = 15.2\\qquad \\Sigma x^2 = 5.1\\qquad \\Sigma y = 13.4\\qquad \\Sigma y^2 = 4.8\\]",
+                "bbox": [
+                    173,
+                    125,
+                    421,
+                    142
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The manager claims that there is no difference between the mean volume of coffee in cups filled by machine \\(X\\) and the mean volume of coffee in cups filled by machine \\(Y.\\)",
+                "bbox": [
+                    69,
+                    152,
+                    548,
+                    182
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Test the manager's claim at the \\(10\\%\\) significance level",
+                "bbox": [
+                    69,
+                    191,
+                    326,
+                    208
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[9]",
+                "bbox": [
+                    506,
+                    192,
+                    526,
+                    208
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 8,
+        "bbox": [
+            46,
+            61,
+            55,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    68,
+                    126,
+                    86,
+                    142
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Assuming that distances are normally distributed, test, at the \\(5\\%\\) significance level, whether the population mean distance thrown is more than 22.0 metres",
+                        "bbox": [
+                            92,
+                            126,
+                            548,
+                            154
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            508,
+                            137,
+                            528,
+                            154
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 9,
+                "bbox": [
+                    68,
+                    308,
+                    88,
+                    323
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find a \\(95\\%\\) confidence interval for the population mean distance thrown",
+                        "bbox": [
+                            92,
+                            308,
+                            432,
+                            323
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            308,
+                            528,
+                            323
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A large number of children are competing in a throwing competition. The distances, in metres, thrown by a random sample of 8 children are as follows",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    89
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[19.8\\qquad 22.1\\qquad 24.4\\qquad 21.5\\qquad 20.8\\qquad 26.3\\qquad 23.7\\qquad 25.0\\]",
+                "bbox": [
+                    155,
+                    99,
+                    441,
+                    116
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 10,
+        "bbox": [
+            46,
+            61,
+            55,
+            74
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    99,
+                    86,
+                    115
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability generating function, \\(\\mathrm{G}_X(t)\\), of \\(X\\)",
+                        "bbox": [
+                            92,
+                            99,
+                            343,
+                            115
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            99,
+                            528,
+                            115
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    387,
+                    87,
+                    402
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "Rassa also tosses two coins. One coin is biased so that the probability of a head is \\(\\frac{2}{3}\\) . The other coin is biased so that the probability of a head is \\(p\\). The probability generating function of \\(Y,\\) the number of heads obtained by Rassa, is \\(\\mathrm{G}_Y(t)\\). The coefficient of \\(t\\) in \\(\\mathrm{G}_Y(t)\\) is \\(\\frac{7}{12}\\)",
+                        "bbox": [
+                            66,
+                            333,
+                            548,
+                            378
+                        ],
+                        "page_number": 10,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{G}_Y(t)\\)",
+                        "bbox": [
+                            92,
+                            387,
+                            151,
+                            402
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            387,
+                            528,
+                            402
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 11,
+                "bbox": [
+                    68,
+                    100,
+                    86,
+                    115
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Z\\) is the sum of the number of red balls selected and the number of heads obtained by Rassa",
+                        "bbox": [
+                            69,
+                            61,
+                            548,
+                            89
+                        ],
+                        "page_number": 11,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the probability generating function of \\(Z\\), expressing your answer as a polynomial.",
+                        "bbox": [
+                            92,
+                            100,
+                            475,
+                            116
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            455,
+                            100,
+                            475,
+                            116
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 11,
+                "bbox": [
+                    66,
+                    492,
+                    86,
+                    508
+                ],
+                "level": 66,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the probability generating function of \\(Z\\) to find \\(\\mathrm{E}(Z)\\)",
+                        "bbox": [
+                            92,
+                            492,
+                            359,
+                            508
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            492,
+                            528,
+                            508
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A bag contains 4 red balls and 6 blue balls. Rassa selects two balls at random, without replacement, from the bag. The number of red balls selected by Rassa is denoted by \\(X.\\)",
+                "bbox": [
+                    69,
+                    60,
+                    548,
+                    89
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

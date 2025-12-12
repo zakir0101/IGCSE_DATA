@@ -739,7 +739,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm$",
+                "text": ".........\\(cm\\)",
                 "bbox": [
                     389,
                     321,
@@ -2139,7 +2139,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm^3$",
+                        "text": ".........\\(cm^3\\)",
                         "bbox": [
                             389,
                             267,
@@ -2148,15 +2148,11 @@
                         ],
                         "page_number": 9,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -2244,7 +2240,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm$",
+                        "text": ".........\\(cm\\)",
                         "bbox": [
                             389,
                             662,
@@ -2274,8 +2270,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "21",

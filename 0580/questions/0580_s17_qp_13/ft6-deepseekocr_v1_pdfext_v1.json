@@ -1859,7 +1859,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$kg$",
+                        "text": ".........\\(kg\\)",
                         "bbox": [
                             389,
                             486,
@@ -1915,7 +1915,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$kg$",
+                        "text": ".........\\(kg\\)",
                         "bbox": [
                             389,
                             631,
@@ -2468,7 +2468,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$\\$  .........$",
+                "text": "\\(\\\\)  .........$",
                 "bbox": [
                     387,
                     202,
@@ -2477,9 +2477,7 @@
                 ],
                 "page_number": 8,
                 "is_pre": false,
-                "issues": [
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -2496,10 +2494,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "Escaped dollar outside math mode: ...$\\$  .........$..."
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "18",

@@ -1,0 +1,998 @@
+[
+    {
+        "label": "1",
+        "page_number": 3,
+        "bbox": [
+            46,
+            63,
+            56,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 3,
+                "bbox": [
+                    69,
+                    132,
+                    87,
+                    147
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Calculate unbiased estimates of the population mean and variance",
+                        "bbox": [
+                            93,
+                            131,
+                            411,
+                            147
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            132,
+                            528,
+                            147
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 3,
+                "bbox": [
+                    69,
+                    390,
+                    88,
+                    405
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Using this sample, the upper boundary of an \\(\\alpha \\%\\) confidence interval for the population mean is 26.0",
+                        "bbox": [
+                            93,
+                            390,
+                            548,
+                            418
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(\\alpha\\)",
+                        "bbox": [
+                            93,
+                            429,
+                            189,
+                            444
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            429,
+                            528,
+                            444
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Each of a random sample of 80 adults gave an estimate, \\(h\\) metres, of the height of a particular building. The results were summarised as follows",
+                "bbox": [
+                    70,
+                    62,
+                    548,
+                    92
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[n = 80\\qquad \\Sigma h = 2048\\qquad \\Sigma h^2 = 52 760\\]",
+                "bbox": [
+                    198,
+                    96,
+                    396,
+                    112
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 4,
+        "bbox": [
+            46,
+            62,
+            55,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "In the past, the mean length of a particular variety of worm has been \\(10.3 \\text{cm}\\), with standard deviation \\(2.6 \\text{cm}\\). Following a change in the climate, it is thought that the mean length of this variety of worm has decreased. The lengths of a random sample of 100 worms of this variety are found and the mean of this sample is found to be \\(9.8 \\text{cm}\\)",
+                "bbox": [
+                    70,
+                    62,
+                    548,
+                    117
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Assuming that the standard deviation remains at \\(2.6 \\text{cm}\\), carry out a test at the \\(2\\%\\) significance level of whether the mean length has decreased.",
+                "bbox": [
+                    70,
+                    127,
+                    528,
+                    156
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    127,
+                    528,
+                    156
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 5,
+        "bbox": [
+            45,
+            62,
+            55,
+            78
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 5,
+                "bbox": [
+                    69,
+                    101,
+                    87,
+                    116
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use a suitable approximating distribution to find the probability that more than 3 of these adults ride a bicycle",
+                        "bbox": [
+                            93,
+                            101,
+                            548,
+                            130
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            114,
+                            528,
+                            129
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 5,
+                "bbox": [
+                    66,
+                    621,
+                    85,
+                    636
+                ],
+                "level": 66,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Justify your approximating distribution",
+                        "bbox": [
+                            93,
+                            621,
+                            284,
+                            636
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            621,
+                            528,
+                            636
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "1.6% of adults in a certain town ride a bicycle. A random sample of 200 adults from this town is selected",
+                "bbox": [
+                    69,
+                    62,
+                    548,
+                    91
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            46,
+            63,
+            56,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    69,
+                    127,
+                    87,
+                    142
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State suitable null and alternative hypotheses for the test",
+                        "bbox": [
+                            93,
+                            127,
+                            364,
+                            143
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            127,
+                            528,
+                            143
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 6,
+                "bbox": [
+                    69,
+                    304,
+                    88,
+                    320
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability of a Type I error",
+                        "bbox": [
+                            93,
+                            304,
+                            274,
+                            320
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            304,
+                            528,
+                            320
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 7,
+                "bbox": [
+                    69,
+                    88,
+                    87,
+                    103
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "Exactly 3 faults are found in the randomly selected \\(30\\mathrm{m}^2\\) of cloth",
+                        "bbox": [
+                            70,
+                            62,
+                            385,
+                            78
+                        ],
+                        "page_number": 7,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Carry out the test at the \\(5\\%\\) significance level",
+                        "bbox": [
+                            93,
+                            88,
+                            313,
+                            103
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            88,
+                            528,
+                            103
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 7,
+                "bbox": [
+                    69,
+                    470,
+                    87,
+                    485
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "Later a similar test was carried out at the \\(5\\%\\) significance level, using another randomly selected \\(30\\mathrm{m}^2\\) of cloth",
+                        "bbox": [
+                            93,
+                            430,
+                            548,
+                            459
+                        ],
+                        "page_number": 7,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Given that the number of faults actually has a Poisson distribution with mean 0.5 per \\(10\\mathrm{m}^2\\), find the probability of a Type II error",
+                        "bbox": [
+                            93,
+                            470,
+                            548,
+                            499
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            482,
+                            528,
+                            498
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The number of faults in cloth made on a certain machine has a Poisson distribution with mean \\(2.4 \\text{ per } 10 \\text{ m}^2\\). An adjustment is made to the machine. It is required to test at the \\(5\\%\\) significance level whether the mean number of faults has decreased. A randomly selected \\(30 \\text{ m}^2\\) of cloth is checked and the number of faults is found",
+                "bbox": [
+                    70,
+                    62,
+                    548,
+                    117
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 9,
+        "bbox": [
+            45,
+            62,
+            56,
+            78
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 9,
+                "bbox": [
+                    69,
+                    89,
+                    87,
+                    104
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the approximate distribution of the sample mean, including the values of the parameters",
+                        "bbox": [
+                            93,
+                            88,
+                            536,
+                            104
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            102,
+                            528,
+                            117
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 9,
+                "bbox": [
+                    93,
+                    307,
+                    110,
+                    321
+                ],
+                "level": 93,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Hence find the probability that the sample mean is less than 1.8",
+                        "bbox": [
+                            112,
+                            306,
+                            399,
+                            321
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            306,
+                            528,
+                            321
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "\\(X\\) is a random variable with distribution B(10, 0.2). A random sample of 160 values of \\(X\\) is taken",
+                "bbox": [
+                    69,
+                    62,
+                    536,
+                    78
+                ],
+                "page_number": 9,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 10,
+        "bbox": [
+            45,
+            62,
+            55,
+            78
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    69,
+                    101,
+                    87,
+                    116
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability that the total mass of these 6 bags of flour is less than \\(4130\\mathrm{g}\\)",
+                        "bbox": [
+                            93,
+                            100,
+                            482,
+                            116
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            101,
+                            528,
+                            116
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 11,
+                "bbox": [
+                    69,
+                    62,
+                    88,
+                    78
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability that the total mass of the 4 small bags is more than the total mass of the 2 large bags",
+                        "bbox": [
+                            93,
+                            62,
+                            548,
+                            92
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            73,
+                            528,
+                            89
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The masses, in grams, of small and large bags of flour have the distributions N(510, 100) and N(1015, 324) respectively. André selects 4 small bags of flour and 2 large bags of flour at random",
+                "bbox": [
+                    70,
+                    62,
+                    548,
+                    91
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 12,
+        "bbox": [
+            46,
+            62,
+            55,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 12,
+                "bbox": [
+                    69,
+                    252,
+                    88,
+                    267
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Given that the graph is symmetrical about the line \\(x = -0.5\\) and that \\(\\mathrm{P}(X < 0) = p\\), find \\(\\mathrm{P}(-1 < X < 0)\\) in terms of \\(p\\)",
+                        "bbox": [
+                            93,
+                            252,
+                            548,
+                            283
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            266,
+                            528,
+                            282
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 12,
+                "bbox": [
+                    69,
+                    469,
+                    88,
+                    485
+                ],
+                "level": 69,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 12,
+                        "bbox": [
+                            97,
+                            553,
+                            114,
+                            569
+                        ],
+                        "level": 97,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Show that \\(30a - 55b = 6\\)",
+                                "bbox": [
+                                    117,
+                                    553,
+                                    240,
+                                    569
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    508,
+                                    553,
+                                    528,
+                                    569
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 13,
+                        "bbox": [
+                            95,
+                            416,
+                            117,
+                            432
+                        ],
+                        "level": 95,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "By substituting a suitable value of \\(x\\) into \\(\\mathrm{f}(x)\\), find another equation relating \\(a\\) and \\(b\\) and hence determine the values of \\(a\\) and \\(b\\)",
+                                "bbox": [
+                                    118,
+                                    416,
+                                    548,
+                                    444
+                                ],
+                                "page_number": 13,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    508,
+                                    430,
+                                    528,
+                                    444
+                                ],
+                                "page_number": 13,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "It is now given that the probability density function shown in the diagram is given by",
+                        "bbox": [
+                            93,
+                            469,
+                            497,
+                            487
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\mathrm{f}(x) = \\left\\{ \\begin{array}{ll}a - b(x^{2} + x) & -3\\leqslant x\\leqslant 2,\\\\ 0 & \\mathrm{otherwise}, \\end{array} \\right.\\]",
+                        "bbox": [
+                            205,
+                            489,
+                            387,
+                            525
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "where \\(a\\) and \\(b\\) are positive constants",
+                        "bbox": [
+                            93,
+                            528,
+                            270,
+                            544
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    162,
+                    69,
+                    455,
+                    197
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 12
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the graph of the probability density function, f, of a random variable \\(X\\) which takes values between \\(-3\\) and 2 only",
+                "bbox": [
+                    70,
+                    211,
+                    548,
+                    243
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

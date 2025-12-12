@@ -202,20 +202,6 @@
                         "page_number": 2,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 6]",
-                        "bbox": [
-                            502,
-                            714,
-                            548,
-                            730
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -308,7 +294,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "volume = .........$\\text{cm}^3$",
+                        "text": "volume = .........\\(\\text{cm}^3\\)",
                         "bbox": [
                             300,
                             164,
@@ -317,9 +303,7 @@
                         ],
                         "page_number": 3,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -336,9 +320,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -529,20 +511,6 @@
                                 "page_number": 3,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 8]",
-                                "bbox": [
-                                    501,
-                                    665,
-                                    548,
-                                    681
-                                ],
-                                "page_number": 3,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -598,8 +566,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -668,7 +635,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "pressure = .........N/ $cm^2$",
+                        "text": "pressure = .........N/ \\(cm^2\\)",
                         "bbox": [
                             292,
                             410,
@@ -677,15 +644,11 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -756,20 +719,6 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 6]",
-                        "bbox": [
-                            501,
-                            713,
-                            548,
-                            729
-                        ],
-                        "page_number": 4,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -807,8 +756,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "4",
@@ -985,20 +933,6 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 7]",
-                        "bbox": [
-                            502,
-                            664,
-                            548,
-                            681
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -1199,20 +1133,6 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 7]",
-                        "bbox": [
-                            502,
-                            755,
-                            548,
-                            770
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -1495,20 +1415,6 @@
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 6]",
-                                "bbox": [
-                                    501,
-                                    634,
-                                    548,
-                                    649
-                                ],
-                                "page_number": 7,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -1950,6 +1856,34 @@
                             "page": 9
                         },
                         "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Describe an experiment to identify the **pattern** and **directions** of the magnetic field lines around the bar magnet",
+                        "bbox": [
+                            92,
+                            353,
+                            548,
+                            382
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "You may draw on Fig. 8.1 as part of your answer",
+                        "bbox": [
+                            92,
+                            379,
+                            334,
+                            394
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": true
                     }
                 ],
                 "issues": []
@@ -2033,20 +1967,6 @@
                         ],
                         "page_number": 9,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 6]",
-                        "bbox": [
-                            501,
-                            666,
-                            548,
-                            681
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -2165,7 +2085,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "resistance = .........$\\Omega$",
+                                "text": "resistance = .........\\(\\Omega\\)",
                                 "bbox": [
                                     285,
                                     176,
@@ -2174,15 +2094,11 @@
                                 ],
                                 "page_number": 11,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -2285,20 +2201,6 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 12]",
-                        "bbox": [
-                            496,
-                            437,
-                            548,
-                            453
-                        ],
-                        "page_number": 11,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -2336,8 +2238,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "10",
@@ -2559,20 +2460,6 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 7]",
-                        "bbox": [
-                            501,
-                            759,
-                            548,
-                            774
-                        ],
-                        "page_number": 12,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -2676,7 +2563,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "time taken = .........$s$",
+                        "text": "time taken = .........\\(s\\)",
                         "bbox": [
                             284,
                             426,
@@ -2811,20 +2698,6 @@
                         ],
                         "page_number": 13,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 7]",
-                        "bbox": [
-                            501,
-                            622,
-                            548,
-                            638
-                        ],
-                        "page_number": 13,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],

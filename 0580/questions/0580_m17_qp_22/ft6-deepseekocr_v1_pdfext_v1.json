@@ -465,7 +465,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Lower bound = .........$cm^2$",
+                "text": "Lower bound = .........\\(cm^2\\)",
                 "bbox": [
                     318,
                     611,
@@ -474,14 +474,12 @@
                 ],
                 "page_number": 3,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
                 "type": "form_text",
-                "text": "Upper bound = .........$cm^2$",
+                "text": "Upper bound = .........\\(cm^2\\)",
                 "bbox": [
                     319,
                     637,
@@ -490,9 +488,7 @@
                 ],
                 "page_number": 3,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -509,11 +505,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX superscript (^) found outside math mode",
-            "LaTeX superscript (^) found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "8",
@@ -657,7 +649,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm$",
+                "text": ".........\\(cm\\)",
                 "bbox": [
                     389,
                     742,
@@ -741,7 +733,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$\\$ .........$",
+                "text": "\\(\\\\) .........$",
                 "bbox": [
                     381,
                     176,
@@ -750,9 +742,7 @@
                 ],
                 "page_number": 5,
                 "is_pre": false,
-                "issues": [
-                    "Escaped dollar outside math mode: ...$\\$ .........$ ..."
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -769,10 +759,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "Escaped dollar outside math mode: ...$\\$ .........$ ..."
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "11",
@@ -1635,7 +1622,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$km$",
+                        "text": ".........\\(km\\)",
                         "bbox": [
                             389,
                             740,
@@ -2152,7 +2139,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........cm$^2$",
+                        "text": ".........cm\\(^2\\)",
                         "bbox": [
                             389,
                             621,

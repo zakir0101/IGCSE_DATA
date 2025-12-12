@@ -243,20 +243,6 @@
                                 "page_number": 3,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 8]",
-                                "bbox": [
-                                    501,
-                                    462,
-                                    548,
-                                    477
-                                ],
-                                "page_number": 3,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -705,20 +691,6 @@
                         "page_number": 5,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 9]",
-                        "bbox": [
-                            502,
-                            740,
-                            548,
-                            755
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -954,20 +926,6 @@
                                 ],
                                 "page_number": 6,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 8]",
-                                "bbox": [
-                                    501,
-                                    688,
-                                    548,
-                                    703
-                                ],
-                                "page_number": 6,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -1588,20 +1546,6 @@
                         "page_number": 10,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 6]",
-                        "bbox": [
-                            502,
-                            558,
-                            548,
-                            574
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -1826,20 +1770,6 @@
                                 ],
                                 "page_number": 11,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 5]",
-                                "bbox": [
-                                    501,
-                                    702,
-                                    548,
-                                    718
-                                ],
-                                "page_number": 11,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -2090,20 +2020,6 @@
                             86,
                             539,
                             101
-                        ],
-                        "page_number": 13,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 8]",
-                        "bbox": [
-                            502,
-                            208,
-                            548,
-                            223
                         ],
                         "page_number": 13,
                         "is_pre": false,
@@ -2421,7 +2337,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "mass = .........$\\mu \\text{g}$",
+                                "text": "mass = .........\\(\\mu \\text{g}\\)",
                                 "bbox": [
                                     310,
                                     698,
@@ -2430,9 +2346,7 @@
                                 ],
                                 "page_number": 14,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2447,25 +2361,9 @@
                                 "page_number": 14,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 9]",
-                                "bbox": [
-                                    502,
-                                    725,
-                                    548,
-                                    740
-                                ],
-                                "page_number": 14,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -2488,8 +2386,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "10",
@@ -2715,7 +2612,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "average orbital speed = .........$km/h$",
+                                "text": "average orbital speed = .........\\(km/h\\)",
                                 "bbox": [
                                     229,
                                     270,
@@ -2794,20 +2691,6 @@
                                 ],
                                 "page_number": 17,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 8]",
-                                "bbox": [
-                                    502,
-                                    489,
-                                    548,
-                                    505
-                                ],
-                                "page_number": 17,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -3026,7 +2909,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "estimate of age = .........$s$",
+                                "text": "estimate of age = .........\\(s\\)",
                                 "bbox": [
                                     260,
                                     430,
@@ -3049,20 +2932,6 @@
                                 ],
                                 "page_number": 18,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 5]",
-                                "bbox": [
-                                    501,
-                                    458,
-                                    548,
-                                    474
-                                ],
-                                "page_number": 18,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],

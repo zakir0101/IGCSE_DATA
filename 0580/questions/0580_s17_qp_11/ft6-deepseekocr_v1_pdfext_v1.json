@@ -988,7 +988,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$\\leqslant m < .........$",
+                "text": ".........\\(\\leqslant m < .........\\)",
                 "bbox": [
                     376,
                     705,
@@ -997,9 +997,7 @@
                 ],
                 "page_number": 4,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1016,10 +1014,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX command found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "13",

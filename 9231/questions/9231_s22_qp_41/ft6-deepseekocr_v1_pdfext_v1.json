@@ -1,0 +1,761 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            47,
+            61,
+            57,
+            75
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 2,
+                "bbox": [
+                    68,
+                    306,
+                    86,
+                    321
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Test at the \\(10\\%\\) significance level whether the manager's claim is justified",
+                        "bbox": [
+                            92,
+                            304,
+                            441,
+                            321
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            508,
+                            306,
+                            528,
+                            321
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A manager is investigating the times taken by employees to complete a particular task as a result of the introduction of new technology. He claims that the mean time taken to complete the task is reduced by more than 0.4 minutes. He chooses a random sample of 10 employees. The times taken, in minutes, before and after the introduction of the new technology are recorded in the table",
+                "bbox": [
+                    70,
+                    61,
+                    548,
+                    116
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    76,
+                    126,
+                    542,
+                    217
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>Employee</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td><td>J</td></tr><tr><td>Time before new technology</td><td>10.2</td><td>9.8</td><td>12.4</td><td>11.6</td><td>10.8</td><td>11.2</td><td>14.6</td><td>10.6</td><td>12.3</td><td>11.0</td></tr><tr><td>Time after new technology</td><td>9.6</td><td>8.5</td><td>12.4</td><td>10.9</td><td>10.2</td><td>10.6</td><td>12.8</td><td>10.8</td><td>12.5</td><td>10.6</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 4,
+        "bbox": [
+            45,
+            61,
+            57,
+            75
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    68,
+                    112,
+                    86,
+                    128
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{Var}(Y)\\)",
+                        "bbox": [
+                            92,
+                            112,
+                            152,
+                            128
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            113,
+                            528,
+                            128
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 5,
+                "bbox": [
+                    68,
+                    86,
+                    88,
+                    101
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Y\\) is the sum of two independent observations of the random variable \\(X.\\)",
+                        "bbox": [
+                            70,
+                            60,
+                            502,
+                            75
+                        ],
+                        "page_number": 5,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the probability generating function of \\(X,\\) giving your answer as a polynomial in \\(t.\\)",
+                        "bbox": [
+                            92,
+                            86,
+                            495,
+                            101
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            86,
+                            528,
+                            101
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The probability generating function, \\(\\mathrm{G}_Y(t)\\), of the random variable \\(Y\\) is given by",
+                "bbox": [
+                    70,
+                    60,
+                    441,
+                    77
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{G}_Y(t) = 0.04 + 0.2t + 0.37t^2 + 0.3t^3 + 0.09t^4.\\]",
+                "bbox": [
+                    193,
+                    85,
+                    402,
+                    103
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 6,
+        "bbox": [
+            46,
+            61,
+            58,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    68,
+                    164,
+                    86,
+                    179
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(k = \\frac{3}{40}\\)",
+                        "bbox": [
+                            92,
+                            164,
+                            178,
+                            179
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            507,
+                            165,
+                            527,
+                            180
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 6,
+                "bbox": [
+                    68,
+                    320,
+                    86,
+                    336
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Given that \\(\\mathrm{E}(X) = 2.5\\), find \\(\\mathrm{Var}(X)\\)",
+                        "bbox": [
+                            92,
+                            320,
+                            260,
+                            336
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            321,
+                            528,
+                            337
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 7,
+                "bbox": [
+                    68,
+                    61,
+                    86,
+                    74
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the median value of \\(X\\)",
+                        "bbox": [
+                            92,
+                            61,
+                            224,
+                            74
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            507,
+                            61,
+                            527,
+                            74
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The continuous random variable \\(X\\) has probability density function f given by",
+                "bbox": [
+                    69,
+                    60,
+                    431,
+                    77
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{f}(x) = \\left\\{ \\begin{array}{ll}k x(4 - x) & 0\\leqslant x< 2,\\\\ k(6 - x) & 2\\leqslant x\\leqslant 6,\\\\ 0 & \\mathrm{otherwise}, \\end{array} \\right.\\]",
+                "bbox": [
+                    203,
+                    82,
+                    391,
+                    131
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "where \\(k\\) is a constant",
+                "bbox": [
+                    69,
+                    137,
+                    172,
+                    153
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 8,
+        "bbox": [
+            46,
+            61,
+            56,
+            74
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    68,
+                    229,
+                    87,
+                    244
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the values of \\(p\\) and \\(q\\), correct to 2 decimal places",
+                        "bbox": [
+                            92,
+                            229,
+                            348,
+                            245
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            229,
+                            528,
+                            245
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 8,
+                "bbox": [
+                    92,
+                    513,
+                    111,
+                    529
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Carry out a goodness of fit test, at the \\(10\\%\\) significance level, to test the scientist's claim",
+                        "bbox": [
+                            111,
+                            513,
+                            506,
+                            529
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            514,
+                            528,
+                            529
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A scientist is investigating the numbers of a particular type of butterfly in a certain region. He claims that the numbers of these butterflies found per square metre can be modelled by a Poisson distribution with mean 2.5. He takes a random sample of 120 areas, each of one square metre, and counts the number of these butterflies in each of these areas. The following table shows the observed frequencies together with some of the expected frequencies using the scientist's Poisson distribution",
+                "bbox": [
+                    69,
+                    60,
+                    548,
+                    129
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    79,
+                    139,
+                    537,
+                    219
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>Number per square metre</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>≥ 7</td></tr><tr><td>Observed frequency</td><td>12</td><td>20</td><td>36</td><td>32</td><td>13</td><td>6</td><td>1</td><td>0</td></tr><tr><td>Expected frequency</td><td>9.85</td><td>24.63</td><td>30.78</td><td>25.65</td><td>\\(p\\)</td><td>8.02</td><td>3.34</td><td>\\(q\\)</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 10,
+        "bbox": [
+            46,
+            61,
+            57,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    139,
+                    86,
+                    154
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find a \\(90\\%\\) confidence interval for the population mean height of male giraffes in this region.",
+                        "bbox": [
+                            92,
+                            137,
+                            528,
+                            154
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            137,
+                            528,
+                            154
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 11,
+                "bbox": [
+                    68,
+                    86,
+                    87,
+                    101
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "Raman claims that the population mean height of male giraffes in the region is less than 5.9 metres",
+                        "bbox": [
+                            69,
+                            60,
+                            531,
+                            75
+                        ],
+                        "page_number": 11,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Test at the \\(2.5\\%\\) significance level whether this sample provides sufficient evidence to support Raman's claim",
+                        "bbox": [
+                            92,
+                            86,
+                            548,
+                            114
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            98,
+                            528,
+                            113
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Raman is researching the heights of male giraffes in a particular region. Raman assumes that the heights of male giraffes in this region are normally distributed. He takes a random sample of 8 male giraffes from the region and measures the height, in metres, of each giraffe. These heights are as follows",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    102
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[5.2\\qquad 5.8\\qquad 4.9\\qquad 6.1\\qquad 5.5\\qquad 5.9\\qquad 5.4\\qquad 5.6\\]",
+                "bbox": [
+                    156,
+                    112,
+                    438,
+                    128
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 12,
+        "bbox": [
+            46,
+            61,
+            56,
+            74
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "A teacher at a large college gave a mathematical puzzle to all the students. The median time taken by a random sample of 24 students to complete the puzzle was 18.0 minutes. The students were then given practice in solving puzzles. Two weeks later, the students were given another mathematical puzzle of the same type as the first. The times, in minutes, taken by the random sample of 24 students to complete this puzzle are as follows",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    129
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    98,
+                    139,
+                    521,
+                    200
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>18.2</td><td>17.5</td><td>16.4</td><td>15.1</td><td>20.5</td><td>26.5</td><td>19.2</td><td>23.2</td></tr><tr><td>17.9</td><td>18.8</td><td>25.8</td><td>19.9</td><td>17.7</td><td>16.2</td><td>17.3</td><td>16.6</td></tr><tr><td>17.1</td><td>20.1</td><td>20.3</td><td>12.6</td><td>16.0</td><td>21.4</td><td>22.7</td><td>18.4</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The teacher claims that the practice has not made any difference to the average time taken to complete a puzzle of this type",
+                "bbox": [
+                    69,
+                    211,
+                    548,
+                    241
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Carry out a Wilcoxon signed-rank test, at the \\(10\\%\\) significance level, to test whether there is sufficient evidence to reject the teacher's claim. [10]",
+                "bbox": [
+                    69,
+                    250,
+                    548,
+                    280
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

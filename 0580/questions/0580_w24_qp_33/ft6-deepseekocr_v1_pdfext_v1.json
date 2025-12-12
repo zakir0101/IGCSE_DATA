@@ -168,7 +168,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$kg$",
+                                "text": ".........\\(kg\\)",
                                 "bbox": [
                                     380,
                                     211,
@@ -252,7 +252,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$cm^3$",
+                                "text": ".........\\(cm^3\\)",
                                 "bbox": [
                                     380,
                                     299,
@@ -261,9 +261,7 @@
                                 ],
                                 "page_number": 2,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX superscript (^) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -280,9 +278,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [],
@@ -3548,7 +3544,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$cm$",
+                                "text": ".........\\(cm\\)",
                                 "bbox": [
                                     382,
                                     165,
@@ -3723,7 +3719,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm$",
+                        "text": ".........\\(cm\\)",
                         "bbox": [
                             382,
                             661,
@@ -3921,7 +3917,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "x = .........or $x = .........$",
+                                "text": "x = .........or \\(x = .........\\)",
                                 "bbox": [
                                     361,
                                     89,

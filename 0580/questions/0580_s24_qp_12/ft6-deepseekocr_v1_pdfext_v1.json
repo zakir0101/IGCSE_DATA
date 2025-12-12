@@ -625,7 +625,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$\\$  .........$",
+                "text": "\\(\\\\)  .........$",
                 "bbox": [
                     372,
                     567,
@@ -634,9 +634,7 @@
                 ],
                 "page_number": 3,
                 "is_pre": false,
-                "issues": [
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -654,8 +652,7 @@
             }
         ],
         "issues": [
-            "normal text placed inside inline-latex-block",
-            "Escaped dollar outside math mode: ...$\\$  .........$..."
+            "normal text placed inside inline-latex-block"
         ],
         "has_issues": true
     },
@@ -1934,7 +1931,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$\\leqslant l < .........$",
+                "text": ".........\\(\\leqslant l < .........\\)",
                 "bbox": [
                     379,
                     257,
@@ -1943,9 +1940,7 @@
                 ],
                 "page_number": 7,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1962,10 +1957,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX command found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "23",

@@ -147,7 +147,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "mass = .........$kg$",
+                                "text": "mass = .........\\(kg\\)",
                                 "bbox": [
                                     310,
                                     241,
@@ -343,20 +343,6 @@
                         "table": {
                             "html": "<table><tr><td>moon</td><td>radius of orbit<br/>/m</td><td>period of rotation<br>about Mars<br/>/hours</td></tr><tr><td>Phobos<br/>Deimos</td><td>9.39 × 10<sup>6</sup><br/>1.99 × 10<sup>7</sup></td><td>7.65</td></tr></table>"
                         },
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "Fig. 1.1",
-                        "bbox": [
-                            276,
-                            625,
-                            318,
-                            640
-                        ],
-                        "page_number": 4,
-                        "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
                     }
@@ -1050,20 +1036,6 @@
                     "caption": "",
                     "page": 8
                 },
-                "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[3.1]",
-                "bbox": [
-                    274,
-                    278,
-                    317,
-                    294
-                ],
-                "page_number": 8,
-                "is_pre": false,
-                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -2000,20 +1972,6 @@
                     "page": 13
                 },
                 "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[a]",
-                "bbox": [
-                    276,
-                    362,
-                    317,
-                    378
-                ],
-                "page_number": 13,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
             }
         ],
         "issues": [],
@@ -2782,6 +2740,22 @@
                         "parts": [],
                         "content": [
                             {
+                                "type": "pre_image",
+                                "bbox": [
+                                    109,
+                                    374,
+                                    496,
+                                    552
+                                ],
+                                "page_number": 19,
+                                "is_pre": true,
+                                "image": {
+                                    "caption": "",
+                                    "page": 19
+                                },
+                                "is_pot_pre": true
+                            },
+                            {
                                 "type": "text",
                                 "text": "Complete the circuit diagram of Fig. 9.1. Label the input and the output",
                                 "bbox": [
@@ -2855,22 +2829,6 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "image",
-                        "bbox": [
-                            109,
-                            374,
-                            496,
-                            552
-                        ],
-                        "page_number": 19,
-                        "is_pre": false,
-                        "image": {
-                            "caption": "",
-                            "page": 19
-                        },
-                        "is_pot_pre": true
                     }
                 ],
                 "issues": []
@@ -2929,20 +2887,6 @@
                             "caption": "",
                             "page": 20
                         },
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[c]",
-                        "bbox": [
-                            276,
-                            387,
-                            318,
-                            403
-                        ],
-                        "page_number": 20,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -3691,20 +3635,6 @@
                     "caption": "",
                     "page": 23
                 },
-                "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[a]",
-                "bbox": [
-                    274,
-                    506,
-                    320,
-                    521
-                ],
-                "page_number": 23,
-                "is_pre": false,
-                "issues": [],
                 "is_pot_pre": false
             }
         ],

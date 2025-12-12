@@ -119,7 +119,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "A = .........$\\text{m}^2$",
+                                "text": "A = .........\\(\\text{m}^2\\)",
                                 "bbox": [
                                     328,
                                     350,
@@ -128,15 +128,11 @@
                                 ],
                                 "page_number": 3,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [],
@@ -784,8 +780,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -842,7 +837,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "w = .........$cm$",
+                        "text": "w = .........\\(cm\\)",
                         "bbox": [
                             328,
                             317,
@@ -1342,7 +1337,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "T = .........$s$",
+                        "text": "T = .........\\(s\\)",
                         "bbox": [
                             330,
                             296,
@@ -1439,7 +1434,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "T = .........$s$",
+                        "text": "T = .........\\(s\\)",
                         "bbox": [
                             330,
                             608,

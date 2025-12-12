@@ -1,0 +1,813 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            47,
+            61,
+            56,
+            74
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Young children are learning to read using two different reading schemes, \\(A\\) and \\(B\\). The standards achieved are measured against the national average standard achieved and classified as above average, average or below average. For two randomly chosen groups of young children, the numbers in each category are shown in the table",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    116
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    129,
+                    126,
+                    486,
+                    211
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"3\">Standard achieved</td></tr><tr><td>Above average</td><td>Average</td><td>Below average</td></tr><tr><td>Scheme A</td><td>31</td><td>35</td><td>22</td></tr><tr><td>Scheme B</td><td>19</td><td>50</td><td>43</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Test at the \\(5\\%\\) significance level whether standard achieved is independent of the reading scheme used",
+                "bbox": [
+                    69,
+                    221,
+                    548,
+                    238
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[6]",
+                "bbox": [
+                    508,
+                    235,
+                    528,
+                    250
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 3,
+        "bbox": [
+            46,
+            61,
+            56,
+            75
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "A random sample of 40 observations of a random variable \\(X\\) and a random sample of 50 observations of a random variable \\(Y\\) are taken. The resulting values for the sample means, \\(\\bar{x}\\) and \\(\\bar{y}\\), and the unbiased estimates, \\(s_x^2\\) and \\(s_y^2\\), for the population variances are as follows",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    102
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\bar{x} = 24.4\\qquad \\bar{y} = 17.2\\qquad s_{x}^{2} = 10.2\\qquad s_{y}^{2} = 11.1\\]",
+                "bbox": [
+                    186,
+                    112,
+                    408,
+                    129
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find a \\(90\\%\\) confidence interval for the difference between the population means of \\(X\\) and \\(Y\\)",
+                "bbox": [
+                    69,
+                    139,
+                    498,
+                    155
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    139,
+                    528,
+                    155
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 4,
+        "bbox": [
+            46,
+            61,
+            56,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    68,
+                    164,
+                    86,
+                    179
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the cumulative distribution function of \\(X\\)",
+                        "bbox": [
+                            92,
+                            164,
+                            311,
+                            179
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            165,
+                            528,
+                            180
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 4,
+                "bbox": [
+                    92,
+                    478,
+                    110,
+                    494
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the median value of \\(X\\)",
+                        "bbox": [
+                            111,
+                            478,
+                            224,
+                            494
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            478,
+                            528,
+                            494
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 5,
+                "bbox": [
+                    68,
+                    63,
+                    86,
+                    79
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{E}(X^2)\\)",
+                        "bbox": [
+                            92,
+                            62,
+                            152,
+                            79
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            507,
+                            63,
+                            527,
+                            79
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 5,
+                "bbox": [
+                    92,
+                    400,
+                    108,
+                    416
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{P}(1 \\leqslant X \\leqslant 3)\\)",
+                        "bbox": [
+                            111,
+                            400,
+                            185,
+                            416
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            400,
+                            528,
+                            416
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The continuous random variable \\(X\\) has probability density function f given by",
+                "bbox": [
+                    69,
+                    59,
+                    431,
+                    77
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{f}(x) = \\begin{cases} \\frac{1}{5} x & 0\\leqslant x< 2,\\\\ \\frac{2}{15} (5 - x) & 2\\leqslant x\\leqslant 5,\\\\ 0 & \\mathrm{otherwise}. \\end{cases}\\]",
+                "bbox": [
+                    226,
+                    87,
+                    370,
+                    146
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            46,
+            62,
+            58,
+            77
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    68,
+                    140,
+                    86,
+                    155
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability generating function of \\(Y,\\) giving your answer as an expanded polynomial in \\(t. \\)",
+                        "bbox": [
+                            92,
+                            139,
+                            548,
+                            156
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            152,
+                            528,
+                            168
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 7,
+                "bbox": [
+                    68,
+                    61,
+                    87,
+                    74
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the probability generating function of \\(Y\\) to find \\(\\mathrm{E}(Y)\\) and \\(\\mathrm{Var}(Y)\\)",
+                        "bbox": [
+                            92,
+                            61,
+                            411,
+                            74
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            507,
+                            61,
+                            527,
+                            74
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The discrete random variable \\(X\\) has probability generating function \\(\\mathrm{G}_{X}(t)\\) given by",
+                "bbox": [
+                    70,
+                    61,
+                    457,
+                    78
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{G}_{X}(t) = 0.2t + 0.5t^{2} + 0.3t^{3}.\\]",
+                "bbox": [
+                    230,
+                    85,
+                    364,
+                    104
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The random variable \\(Y\\) is the sum of two independent observations of \\(X\\)",
+                "bbox": [
+                    69,
+                    113,
+                    406,
+                    129
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 8,
+        "bbox": [
+            46,
+            61,
+            58,
+            77
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    68,
+                    86,
+                    86,
+                    102
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The time taken for a randomly chosen student from college \\(A\\) to complete the challenge has a normal distribution with mean \\(\\mu\\) minutes. The times taken, \\(x\\) minutes, are recorded for a random sample of 10 students chosen from college \\(A\\). The results are summarised as follows",
+                        "bbox": [
+                            92,
+                            86,
+                            548,
+                            128
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\Sigma x = 828\\qquad \\Sigma x^2 = 68622\\]",
+                        "bbox": [
+                            252,
+                            137,
+                            387,
+                            154
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "A test is carried out on the data at the \\(5\\%\\) significance level and the result supports the claim that \\(\\mu > k\\)",
+                        "bbox": [
+                            92,
+                            164,
+                            548,
+                            194
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the greatest possible value of \\(k\\)",
+                        "bbox": [
+                            92,
+                            203,
+                            264,
+                            219
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            204,
+                            528,
+                            219
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 8,
+                "bbox": [
+                    66,
+                    516,
+                    85,
+                    532
+                ],
+                "level": 66,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "A random sample of 8 students is chosen from college \\(B\\). Their times to complete the same challenge give a sample mean of 79.8 minutes and an unbiased variance estimate of 9.966 minutes²",
+                        "bbox": [
+                            92,
+                            517,
+                            548,
+                            546
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Use a 2-sample test at the \\(5\\%\\) significance level to test whether the mean time for students at college \\(B\\) to complete the challenge is the same as the mean time for students at college \\(A\\) to complete the challenge. You should assume that the two distributions are normal and have the same population variance",
+                        "bbox": [
+                            92,
+                            556,
+                            548,
+                            611
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            508,
+                            594,
+                            528,
+                            610
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Students at two colleges, \\(A\\) and \\(B\\), are competing in a computer games challenge",
+                "bbox": [
+                    69,
+                    61,
+                    447,
+                    77
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 10,
+        "bbox": [
+            46,
+            61,
+            57,
+            74
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    221,
+                    86,
+                    236
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "She carries out a Wilcoxon rank-sum test. Give a reason why this is an appropriate choice of test",
+                        "bbox": [
+                            91,
+                            220,
+                            548,
+                            236
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            233,
+                            528,
+                            249
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    415,
+                    86,
+                    430
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Carry out the Wilcoxon rank-sum test for these results",
+                        "bbox": [
+                            91,
+                            415,
+                            348,
+                            430
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[10]",
+                        "bbox": [
+                            524,
+                            415,
+                            548,
+                            430
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A biologist is studying the effect of nutrients on the heights to which plants grow. A random sample of 24 similar young plants is divided into two equal groups \\(A\\) and \\(B\\). The plants in group \\(A\\) are fed with nutrients and water and the plants in group \\(B\\) are given only water. After four weeks, the height, in cm, of each plant is measured and the results are as follows",
+                "bbox": [
+                    69,
+                    60,
+                    549,
+                    114
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    69,
+                    126,
+                    545,
+                    171
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>Group A</td><td>12.3</td><td>11.8</td><td>12.1</td><td>13.2</td><td>11.1</td><td>10.6</td><td>13.8</td><td>12.0</td><td>12.2</td><td>12.4</td><td>13.5</td><td>13.9</td></tr><tr><td>Group B</td><td>11.7</td><td>10.8</td><td>10.9</td><td>11.3</td><td>11.2</td><td>12.6</td><td>11.0</td><td>10.5</td><td>11.9</td><td>12.5</td><td>10.7</td><td>11.6</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The biologist decides to carry out a test at the \\(5\\%\\) significance level to test whether the nutrients have resulted in an increase in growth",
+                "bbox": [
+                    69,
+                    180,
+                    548,
+                    210
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

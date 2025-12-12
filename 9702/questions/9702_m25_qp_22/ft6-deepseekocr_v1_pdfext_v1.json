@@ -587,20 +587,6 @@
                                 "page_number": 6,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 10]",
-                                "bbox": [
-                                    496,
-                                    481,
-                                    548,
-                                    496
-                                ],
-                                "page_number": 6,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -1017,20 +1003,6 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 10]",
-                                "bbox": [
-                                    496,
-                                    309,
-                                    548,
-                                    325
-                                ],
-                                "page_number": 9,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -1262,20 +1234,6 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 8]",
-                                "bbox": [
-                                    502,
-                                    411,
-                                    548,
-                                    426
-                                ],
-                                "page_number": 11,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -1298,7 +1256,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "wavelength = .........$m$",
+                        "text": "wavelength = .........\\(m\\)",
                         "bbox": [
                             280,
                             736,
@@ -1428,7 +1386,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "wavelength = .........$m$",
+                        "text": "wavelength = .........\\(m\\)",
                         "bbox": [
                             280,
                             610,
@@ -1824,20 +1782,6 @@
                                 "page_number": 15,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 13]",
-                                "bbox": [
-                                    496,
-                                    371,
-                                    548,
-                                    386
-                                ],
-                                "page_number": 15,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2077,7 +2021,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "speed = .........$\\text{ms}^{-1}$",
+                        "text": "speed = .........\\(\\text{ms}^{-1}\\)",
                         "bbox": [
                             305,
                             333,
@@ -2086,9 +2030,7 @@
                         ],
                         "page_number": 16,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2105,9 +2047,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -2189,20 +2129,6 @@
                         "page_number": 16,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 7]",
-                        "bbox": [
-                            502,
-                            477,
-                            548,
-                            492
-                        ],
-                        "page_number": 16,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -2224,7 +2150,6 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     }
 ]

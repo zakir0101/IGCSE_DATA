@@ -228,7 +228,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$\\mathrm{\\S}.........\\mathrm{\\S}$",
+                "text": "\\(\\mathrm{\\S}.........\\mathrm{\\S}\\)",
                 "bbox": [
                     373,
                     503,
@@ -237,9 +237,7 @@
                 ],
                 "page_number": 3,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -258,8 +256,7 @@
         ],
         "issues": [
             "Empty inline math environment \\(\\)",
-            "Empty inline math environment \\(\\)",
-            "LaTeX command found outside math mode"
+            "Empty inline math environment \\(\\)"
         ],
         "has_issues": true
     },
@@ -812,7 +809,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\$ .........",
+                        "text": "\\(\\\\) .........",
                         "bbox": [
                             372,
                             124,
@@ -821,9 +818,7 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$ ............"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -841,8 +836,7 @@
                     }
                 ],
                 "issues": [
-                    "Unbalanced inline math brackets: (=1, )=0",
-                    "Escaped dollar outside math mode: ...$\\$ ............"
+                    "Unbalanced inline math brackets: (=1, )=0"
                 ]
             },
             {
@@ -1341,7 +1335,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$km$",
+                        "text": ".........\\(km\\)",
                         "bbox": [
                             381,
                             487,
@@ -1397,7 +1391,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$min$",
+                        "text": ".........\\(min\\)",
                         "bbox": [
                             381,
                             552,
@@ -1614,7 +1608,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm^3$",
+                "text": ".........\\(cm^3\\)",
                 "bbox": [
                     381,
                     137,
@@ -1623,9 +1617,7 @@
                 ],
                 "page_number": 7,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1642,10 +1634,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX superscript (^) found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "12",

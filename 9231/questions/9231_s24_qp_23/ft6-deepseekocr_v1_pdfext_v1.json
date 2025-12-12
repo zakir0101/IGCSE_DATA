@@ -1,0 +1,1096 @@
+[
+    {
+        "label": "1",
+        "page_number": 3,
+        "bbox": [
+            47,
+            81,
+            56,
+            96
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Find the exact value of \\(\\int_{2}^{\\frac{7}{2}} \\frac{1}{\\sqrt{4x - x^2 - 1}} \\, \\mathrm{d}x\\)",
+                "bbox": [
+                    69,
+                    73,
+                    272,
+                    104
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    81,
+                    528,
+                    96
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 4,
+        "bbox": [
+            46,
+            69,
+            56,
+            84
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    69,
+                    143,
+                    87,
+                    161
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(s = \\int_{0}^{\\frac{3}{5}} \\sqrt{\\cosh 2t} \\, \\mathrm{d}t\\)",
+                        "bbox": [
+                            93,
+                            139,
+                            232,
+                            165
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            506,
+                            147,
+                            526,
+                            164
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 5,
+                "bbox": [
+                    68,
+                    73,
+                    88,
+                    88
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "By finding the Maclaurin's series for \\(\\sqrt{\\cosh 2t}\\) up to and including the term in \\(t^2\\), deduce an approximation to \\(s\\)",
+                        "bbox": [
+                            92,
+                            71,
+                            548,
+                            102
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            85,
+                            528,
+                            101
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The curve \\(C\\) has parametric equations",
+                "bbox": [
+                    69,
+                    69,
+                    247,
+                    85
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[x = \\cosh t,\\quad y = \\sinh t,\\quad \\text{for} 0< t\\leqslant \\frac{3}{5}.\\]",
+                "bbox": [
+                    197,
+                    94,
+                    398,
+                    112
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The length of \\(C\\) is denoted by \\(s\\)",
+                "bbox": [
+                    69,
+                    121,
+                    220,
+                    137
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 6,
+        "bbox": [
+            46,
+            68,
+            56,
+            84
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    69,
+                    121,
+                    87,
+                    137
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that, at the point \\((-2, -1)\\) on \\(C\\), \\(\\frac{\\mathrm{d}y}{\\mathrm{d}x} = -\\frac{1}{2}\\)",
+                        "bbox": [
+                            93,
+                            115,
+                            324,
+                            139
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            507,
+                            121,
+                            527,
+                            137
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 7,
+                "bbox": [
+                    69,
+                    80,
+                    90,
+                    95
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(\\frac{\\mathrm{d}^2 y}{\\mathrm{d}x^2}\\) at the point \\((-2, -1)\\)",
+                        "bbox": [
+                            94,
+                            73,
+                            300,
+                            101
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            80,
+                            528,
+                            95
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The curve \\(C\\) has equation",
+                "bbox": [
+                    72,
+                    68,
+                    191,
+                    85
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[x^{3} + 2xy + 8y^{3} = -12.\\]",
+                "bbox": [
+                    244,
+                    92,
+                    352,
+                    112
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 8,
+        "bbox": [
+            46,
+            71,
+            56,
+            86
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    69,
+                    256,
+                    87,
+                    272
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "By considering the sum of the areas of these rectangles, show that",
+                        "bbox": [
+                            92,
+                            255,
+                            400,
+                            272
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\sum_{r = 1}^{N}\\frac{1}{r^2} >\\frac{3}{2} -\\frac{1}{N} +\\frac{1}{N^2}. \\quad [5]\\]",
+                        "bbox": [
+                            242,
+                            271,
+                            549,
+                            307
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 9,
+                "bbox": [
+                    68,
+                    82,
+                    88,
+                    98
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use a similar method to find, in terms of \\(N\\), an upper bound for \\(\\sum_{r = 1}^{N} \\frac{1}{r^2}\\)",
+                        "bbox": [
+                            93,
+                            73,
+                            424,
+                            104
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            82,
+                            528,
+                            98
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 9,
+                "bbox": [
+                    68,
+                    526,
+                    86,
+                    541
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Deduce lower and upper bounds for \\(\\sum_{r = 1}^{\\infty} \\frac{1}{r^2}\\)",
+                        "bbox": [
+                            92,
+                            517,
+                            295,
+                            543
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            526,
+                            528,
+                            541
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    86,
+                    83,
+                    505,
+                    204
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 8
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curve with equation \\(y = x^{-2}\\) for \\(2 \\leqslant x \\leqslant N\\) together with a set of \\((N - 2)\\) rectangles of unit width",
+                "bbox": [
+                    69,
+                    215,
+                    548,
+                    247
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 10,
+        "bbox": [
+            46,
+            69,
+            58,
+            85
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    69,
+                    69,
+                    86,
+                    85
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the general solution of the differential equation",
+                        "bbox": [
+                            92,
+                            68,
+                            336,
+                            85
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\frac{\\mathrm{d}^{2}x}{\\mathrm{d}t^{2}} +10\\frac{\\mathrm{d}x}{\\mathrm{d}t} +25x = 338\\sin t. \\quad [7]\\]",
+                        "bbox": [
+                            226,
+                            88,
+                            369,
+                            115
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 11,
+                "bbox": [
+                    68,
+                    69,
+                    87,
+                    84
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that, for large positive values of \\(t\\) and for any initial conditions,",
+                        "bbox": [
+                            93,
+                            69,
+                            416,
+                            85
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[x\\approx R\\sin (t - \\phi),\\]",
+                        "bbox": [
+                            257,
+                            94,
+                            337,
+                            110
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "where the constants \\(R\\) and \\(\\phi\\) are to be determined",
+                        "bbox": [
+                            92,
+                            121,
+                            326,
+                            137
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            121,
+                            528,
+                            137
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 12,
+        "bbox": [
+            46,
+            82,
+            58,
+            97
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 12,
+                "bbox": [
+                    68,
+                    81,
+                    86,
+                    97
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(\\sum_{r=1}^{n} z^{4r} = \\frac{z^{4n+2} - z^2}{z^2 - z^{-2}}\\), for \\(z^2 \\neq z^{-2}\\)",
+                        "bbox": [
+                            91,
+                            73,
+                            289,
+                            110
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            81,
+                            528,
+                            97
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 12,
+                "bbox": [
+                    93,
+                    447,
+                    111,
+                    463
+                ],
+                "level": 93,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "By letting \\(z = \\cos \\theta + \\mathrm{i}\\sin \\theta\\), show that, if \\(\\sin 2\\theta \\neq 0\\),",
+                        "bbox": [
+                            111,
+                            446,
+                            342,
+                            464
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\sum_{r = 1}^{n}\\sin (4r\\theta) = \\frac{\\cos 2\\theta - \\cos (4n + 2)\\theta}{2\\sin 2\\theta}.\\]",
+                        "bbox": [
+                            206,
+                            463,
+                            384,
+                            500
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 14,
+        "bbox": [
+            46,
+            68,
+            56,
+            84
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 14,
+                "bbox": [
+                    69,
+                    68,
+                    85,
+                    84
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that",
+                        "bbox": [
+                            92,
+                            68,
+                            143,
+                            84
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\frac{\\mathrm{d}}{\\mathrm{d}x}\\Big(\\frac{\\chi}{2}\\sqrt{x^{2} - 9} -\\frac{9}{2}\\cosh^{-1}\\frac{x}{3}\\Big) = \\sqrt{x^{2} - 9}. \\quad [3]\\]",
+                        "bbox": [
+                            206,
+                            88,
+                            389,
+                            117
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            507,
+                            94,
+                            527,
+                            110
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 14,
+                "bbox": [
+                    92,
+                    409,
+                    111,
+                    425
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the solution of the differential equation",
+                        "bbox": [
+                            111,
+                            409,
+                            298,
+                            425
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[x\\frac{\\mathrm{d}y}{\\mathrm{d}x} -y = x^{2}\\sqrt{x^{2} - 9},\\]",
+                        "bbox": [
+                            244,
+                            434,
+                            350,
+                            459
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "given that \\(y = 1\\) when \\(x = 3\\). Give your answer in the form \\(y = \\mathrm{f}(x)\\)",
+                        "bbox": [
+                            92,
+                            465,
+                            416,
+                            482
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[9]",
+                        "bbox": [
+                            506,
+                            466,
+                            526,
+                            482
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "8",
+        "page_number": 16,
+        "bbox": [
+            46,
+            71,
+            56,
+            87
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 16,
+                "bbox": [
+                    69,
+                    110,
+                    86,
+                    126
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find Cartesian equations of \\(\\varPi_{1}\\) and \\(\\varPi_{2}\\)",
+                        "bbox": [
+                            93,
+                            109,
+                            285,
+                            127
+                        ],
+                        "page_number": 16,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            110,
+                            528,
+                            126
+                        ],
+                        "page_number": 16,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 16,
+                "bbox": [
+                    93,
+                    409,
+                    111,
+                    425
+                ],
+                "level": 93,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Express the vector equation of \\(l\\) in the form \\(\\left( \\begin{array}{c}x \\\\ y \\\\ z \\end{array} \\right) = \\mathbf{a} + \\lambda \\mathbf{b}\\), where \\(\\mathbf{a}\\) and \\(\\mathbf{b}\\) are vectors to be determined, and hence show that for points on \\(l\\), \\(\\frac{1}{2} x + \\frac{1}{12} y = 1\\) and \\(z = 0\\)",
+                        "bbox": [
+                            111,
+                            400,
+                            548,
+                            440
+                        ],
+                        "page_number": 16,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            449,
+                            528,
+                            465
+                        ],
+                        "page_number": 16,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 17,
+                "bbox": [
+                    68,
+                    136,
+                    87,
+                    152
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The matrix \\(\\mathbf{A}\\) is given by",
+                        "bbox": [
+                            70,
+                            68,
+                            188,
+                            85
+                        ],
+                        "page_number": 17,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_blockMath",
+                        "blockMath": "\\[\\mathbf{A} = \\left( \\begin{array}{llll}1 & 2 & 3\\\\ 1 & 2 & 3\\\\ \\frac{1}{2} & \\frac{1}{12} & 0 \\end{array} \\right).\\]",
+                        "bbox": [
+                            257,
+                            80,
+                            337,
+                            129
+                        ],
+                        "page_number": 17,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Show that the characteristic equation of \\(\\mathbf{A}\\) is \\(-\\lambda^3 + 3\\lambda^2 + \\frac{7}{4}\\lambda = 0\\) and hence find the eigenvalues of \\(\\mathbf{A}\\).",
+                        "bbox": [
+                            92,
+                            135,
+                            526,
+                            165
+                        ],
+                        "page_number": 17,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            506,
+                            135,
+                            526,
+                            165
+                        ],
+                        "page_number": 17,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 18,
+                "bbox": [
+                    68,
+                    73,
+                    88,
+                    89
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find a matrix \\(\\mathbf{P}\\) and a diagonal matrix \\(\\mathbf{D}\\) such that \\(\\mathbf{A}^n = \\mathbf{P}\\mathbf{D}\\mathbf{P}^{-1}\\), where \\(n\\) is a positive integer.",
+                        "bbox": [
+                            93,
+                            72,
+                            528,
+                            89
+                        ],
+                        "page_number": 18,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            72,
+                            528,
+                            89
+                        ],
+                        "page_number": 18,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "18",
+                        "bbox": [
+                            288,
+                            46,
+                            305,
+                            62
+                        ],
+                        "page_number": 18,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The planes \\(\\varPi_{1}\\) and \\(\\varPi_{2}\\) do not intersect and are both perpendicular to \\(\\mathbf{i} + 2\\mathbf{j} + 3\\mathbf{k}\\) . The line \\(l\\) intersects \\(\\varPi_{1}\\) at the point \\((1,6,0)\\) and intersects \\(\\varPi_{2}\\) at the point \\((3, - 6,0)\\)",
+                "bbox": [
+                    69,
+                    70,
+                    548,
+                    101
+                ],
+                "page_number": 16,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

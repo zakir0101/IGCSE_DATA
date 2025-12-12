@@ -807,7 +807,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer $ \\$",
+                "text": "Answer \\( \\\\)",
                 "bbox": [
                     331,
                     402,
@@ -816,9 +816,7 @@
                 ],
                 "page_number": 4,
                 "is_pre": false,
-                "issues": [
-                    "Escaped dollar outside math mode: ...Answer $ \\$..."
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -838,8 +836,7 @@
         "issues": [
             "Empty inline math environment \\(\\)",
             "Escaped dollar outside math mode: ...t a profit of\\) 15\\%\\$...",
-            "normal text placed inside inline-latex-block",
-            "Escaped dollar outside math mode: ...Answer $ \\$..."
+            "normal text placed inside inline-latex-block"
         ],
         "has_issues": true
     },
@@ -887,7 +884,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer $x =$",
+                "text": "Answer \\(x =\\)",
                 "bbox": [
                     324,
                     625,
@@ -960,7 +957,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer $x =$",
+                "text": "Answer \\(x =\\)",
                 "bbox": [
                     317,
                     285,
@@ -1499,7 +1496,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........$km$",
+                "text": "Answer .........\\(km\\)",
                 "bbox": [
                     337,
                     241,
@@ -2400,7 +2397,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(a)(ii) $\\overrightarrow{AB} = \\left( \\begin{array}{c} \\\\ \\\\ \\end{array} \\right)$",
+                                "text": "Answer(a)(ii) \\(\\overrightarrow{AB} = \\left( \\begin{array}{c} \\\\ \\\\ \\end{array} \\right)\\)",
                                 "bbox": [
                                     344,
                                     480,
@@ -2409,9 +2406,7 @@
                                 ],
                                 "page_number": 11,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2428,9 +2423,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -2554,8 +2547,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "24",
@@ -2596,7 +2588,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a) $DB =$",
+                        "text": "Answer(a) \\(DB =\\)",
                         "bbox": [
                             277,
                             428,
@@ -2666,7 +2658,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(b) Angle $CAD =$",
+                        "text": "Answer(b) Angle \\(CAD =\\)",
                         "bbox": [
                             277,
                             634,

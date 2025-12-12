@@ -227,7 +227,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$\\$  .........$",
+                "text": "\\(\\\\)  .........$",
                 "bbox": [
                     372,
                     229,
@@ -236,9 +236,7 @@
                 ],
                 "page_number": 4,
                 "is_pre": false,
-                "issues": [
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -256,8 +254,7 @@
             }
         ],
         "issues": [
-            "Empty inline math environment \\(\\)",
-            "Escaped dollar outside math mode: ...$\\$  .........$..."
+            "Empty inline math environment \\(\\)"
         ],
         "has_issues": true
     },
@@ -1208,7 +1205,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "a = ........., $b = .........$",
+                        "text": "a = ........., \\(b = .........\\)",
                         "bbox": [
                             362,
                             542,
@@ -3302,7 +3299,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(n = .........\\) $q = .........$",
+                        "text": "\\(n = .........\\) \\(q = .........\\)",
                         "bbox": [
                             361,
                             212,

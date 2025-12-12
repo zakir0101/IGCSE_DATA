@@ -236,7 +236,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\$ .........",
+                        "text": "\\(\\\\) .........",
                         "bbox": [
                             372,
                             548,
@@ -245,9 +245,7 @@
                         ],
                         "page_number": 3,
                         "is_pre": false,
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$ ............"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -264,9 +262,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "Escaped dollar outside math mode: ...$\\$ ............"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -296,7 +292,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\$ .........",
+                        "text": "\\(\\\\) .........",
                         "bbox": [
                             372,
                             640,
@@ -305,9 +301,7 @@
                         ],
                         "page_number": 3,
                         "is_pre": false,
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$ ............"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -324,9 +318,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "Escaped dollar outside math mode: ...$\\$ ............"
-                ]
+                "issues": []
             }
         ],
         "content": [
@@ -2394,29 +2386,16 @@
             },
             {
                 "type": "form_text",
-                "text": "$(.........$",
+                "text": "\\((.........[3]\\)",
                 "bbox": [
                     373,
                     254,
-                    530,
+                    550,
                     271
                 ],
                 "page_number": 12,
                 "is_pre": false,
                 "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[3]",
-                "bbox": [
-                    510,
-                    254,
-                    530,
-                    271
-                ],
-                "page_number": 12,
-                "is_pre": false,
                 "is_pot_pre": false
             }
         ],
@@ -3185,7 +3164,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm^2$",
+                        "text": ".........\\(cm^2\\)",
                         "bbox": [
                             381,
                             733,
@@ -3194,9 +3173,7 @@
                         ],
                         "page_number": 14,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -3213,9 +3190,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ]
+                "issues": []
             }
         ],
         "content": [
@@ -3264,8 +3239,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "23",

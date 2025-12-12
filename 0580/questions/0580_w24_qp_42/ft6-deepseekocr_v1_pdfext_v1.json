@@ -79,7 +79,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "$\\$ .........$",
+                                "text": "\\(\\\\) .........$",
                                 "bbox": [
                                     372,
                                     215,
@@ -88,9 +88,7 @@
                                 ],
                                 "page_number": 2,
                                 "is_pre": false,
-                                "issues": [
-                                    "Escaped dollar outside math mode: ...$\\$ .........$..."
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -108,8 +106,7 @@
                             }
                         ],
                         "issues": [
-                            "Unbalanced inline math brackets: (=1, )=0",
-                            "Escaped dollar outside math mode: ...$\\$ .........$..."
+                            "Unbalanced inline math brackets: (=1, )=0"
                         ]
                     },
                     {
@@ -1300,7 +1297,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "x = .........$y =$",
+                        "text": "x = .........\\(y =\\)",
                         "bbox": [
                             375,
                             624,
@@ -1314,7 +1311,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "x = .........$y =$ .........",
+                        "text": "x = .........\\(y =\\) .........",
                         "bbox": [
                             375,
                             650,
@@ -1829,7 +1826,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$km/h$",
+                        "text": ".........\\(km/h\\)",
                         "bbox": [
                             381,
                             743,

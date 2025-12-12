@@ -1,0 +1,914 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            44,
+            57,
+            54,
+            72
+        ],
+        "level": 44,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The heights of the members of a large sports club are normally distributed. A random sample of 11 members of the club is chosen and their heights, \\(x \\text{cm}\\), are measured. The results are summarised as follows, where \\(\\overline{x}\\) denotes the sample mean of \\(x\\)",
+                "bbox": [
+                    66,
+                    56,
+                    523,
+                    97
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\overline{x} = 176.2\\qquad \\Sigma (x - \\overline{x})^2 = 313.1\\]",
+                "bbox": [
+                    203,
+                    105,
+                    363,
+                    121
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Test, at the \\(5\\%\\) significance level, the null hypothesis that the population mean height for members of this club is equal to \\(172.5 \\text{cm}\\) against the alternative hypothesis that the mean differs from \\(172.5 \\text{cm}\\)",
+                "bbox": [
+                    66,
+                    131,
+                    522,
+                    159
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    482,
+                    157,
+                    502,
+                    171
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 3,
+        "bbox": [
+            43,
+            57,
+            54,
+            72
+        ],
+        "level": 43,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 3,
+                "bbox": [
+                    65,
+                    183,
+                    83,
+                    197
+                ],
+                "level": 65,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "One of the students claims that Judge 2 is awarding higher marks than Judge 1",
+                        "bbox": [
+                            89,
+                            182,
+                            438,
+                            198
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Carry out a Wilcoxon matched-pairs signed-rank test at the \\(5\\%\\) significance level to test whether the data supports the student's claim",
+                        "bbox": [
+                            87,
+                            207,
+                            521,
+                            236
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            481,
+                            220,
+                            501,
+                            235
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 3,
+                "bbox": [
+                    65,
+                    605,
+                    84,
+                    620
+                ],
+                "level": 65,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "It is discovered later that the marks awarded to student \\(A\\) have been entered incorrectly. In fact, Judge 1 awarded 65 marks and Judge 2 awarded 62 marks",
+                        "bbox": [
+                            66,
+                            567,
+                            521,
+                            595
+                        ],
+                        "page_number": 3,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "By considering how this change affects the test statistic, explain why the conclusion of the test carried out in part **(a)** remains the same",
+                        "bbox": [
+                            89,
+                            605,
+                            521,
+                            632
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            481,
+                            617,
+                            501,
+                            632
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A large school is holding an essay competition and each student has submitted an essay. To ensure fairness, each essay is given a mark out of 100 by two different judges. The marks awarded to the essays submitted by a random sample of 12 students are shown in the following table",
+                "bbox": [
+                    66,
+                    56,
+                    521,
+                    97
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    66,
+                    105,
+                    522,
+                    170
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>Student</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td><td>J</td><td>K</td><td>L</td></tr><tr><td>Judge 1</td><td>62</td><td>74</td><td>52</td><td>48</td><td>68</td><td>55</td><td>56</td><td>64</td><td>37</td><td>70</td><td>81</td><td>59</td></tr><tr><td>Judge 2</td><td>65</td><td>70</td><td>47</td><td>49</td><td>76</td><td>74</td><td>67</td><td>54</td><td>50</td><td>77</td><td>72</td><td>75</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 4,
+        "bbox": [
+            43,
+            57,
+            54,
+            72
+        ],
+        "level": 43,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    65,
+                    308,
+                    82,
+                    323
+                ],
+                "level": 65,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(p = 10.19\\) and find the value of \\(q\\)",
+                        "bbox": [
+                            87,
+                            307,
+                            289,
+                            323
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            481,
+                            308,
+                            501,
+                            323
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 5,
+                "bbox": [
+                    65,
+                    57,
+                    84,
+                    72
+                ],
+                "level": 65,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Carry out a goodness of fit test, at the \\(5\\%\\) significance level, to test whether f is a satisfactory model for the data",
+                        "bbox": [
+                            87,
+                            56,
+                            521,
+                            84
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            482,
+                            68,
+                            502,
+                            84
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A random sample of 200 observations of the continuous random variable \\(X\\) was taken and the values are summarised in the following table",
+                "bbox": [
+                    66,
+                    56,
+                    521,
+                    85
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    66,
+                    94,
+                    521,
+                    139
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>Interval</td><td>0 ≤ x &lt; 0.5</td><td>0.5 ≤ x &lt; 1</td><td>1 ≤ x &lt; 1.5</td><td>1.5 ≤ x &lt; 2</td><td>2 ≤ x &lt; 2.5</td><td>2.5 ≤ x &lt; 3</td></tr><tr><td>Observed frequency</td><td>5</td><td>23</td><td>40</td><td>41</td><td>46</td><td>45</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "It is required to test the goodness of fit of the distribution with probability density function f given by",
+                "bbox": [
+                    66,
+                    150,
+                    516,
+                    167
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{f}(x) = \\begin{cases} \\frac{1}{9} x(4 - x) & 0 \\leqslant x \\leqslant 3, \\\\ 0 & \\text{otherwise}. \\end{cases}\\]",
+                "bbox": [
+                    212,
+                    177,
+                    354,
+                    215
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Most of the relevant expected frequencies, correct to 2 decimal places, are given in the following table",
+                "bbox": [
+                    66,
+                    225,
+                    521,
+                    241
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    66,
+                    250,
+                    521,
+                    296
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>Interval</td><td>0 ≤ x &lt; 0.5</td><td>0.5 ≤ x &lt; 1</td><td>1 ≤ x &lt; 1.5</td><td>1.5 ≤ x &lt; 2</td><td>2 ≤ x &lt; 2.5</td><td>2.5 ≤ x &lt; 3</td></tr><tr><td>Expected frequency</td><td>p</td><td>q</td><td>37.96</td><td>43.52</td><td>43.52</td><td>37.96</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            43,
+            57,
+            54,
+            73
+        ],
+        "level": 43,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    65,
+                    146,
+                    83,
+                    161
+                ],
+                "level": 65,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{P}(3 \\leqslant X \\leqslant 6)\\)",
+                        "bbox": [
+                            88,
+                            146,
+                            177,
+                            161
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            482,
+                            146,
+                            502,
+                            161
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 6,
+                "bbox": [
+                    88,
+                    367,
+                    100,
+                    383
+                ],
+                "level": 88,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{E}\\bigl (\\sqrt{X}\\bigr)\\)",
+                        "bbox": [
+                            100,
+                            367,
+                            148,
+                            383
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            482,
+                            367,
+                            502,
+                            383
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 7,
+                "bbox": [
+                    65,
+                    62,
+                    83,
+                    77
+                ],
+                "level": 65,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{Var}(\\sqrt{X})\\)",
+                        "bbox": [
+                            88,
+                            61,
+                            159,
+                            77
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            482,
+                            62,
+                            502,
+                            78
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 7,
+                "bbox": [
+                    88,
+                    310,
+                    106,
+                    325
+                ],
+                "level": 88,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The random variable \\(Y\\) is defined by \\(Y = X^3\\). Find the probability density function of \\(Y\\)",
+                        "bbox": [
+                            111,
+                            310,
+                            475,
+                            325
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            482,
+                            310,
+                            502,
+                            325
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The continuous random variable \\(X\\) has cumulative distribution function F given by",
+                "bbox": [
+                    66,
+                    56,
+                    433,
+                    73
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{F}\\left(x\\right) = \\begin{cases} 0 & x< 2,\\\\ \\frac{1}{60} x^2 - \\frac{1}{15} & 2\\leqslant x\\leqslant 8,\\\\ 1 & x > 8. \\end{cases}\\]",
+                "bbox": [
+                    211,
+                    82,
+                    356,
+                    137
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 8,
+        "bbox": [
+            43,
+            57,
+            52,
+            72
+        ],
+        "level": 43,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    65,
+                    82,
+                    83,
+                    97
+                ],
+                "level": 65,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Write down an expression for \\(\\mathrm{P}(X = r)\\) and hence show that the probability generating function of \\(X\\) is \\((q + pt)^n\\), where \\(q = 1 - p\\)",
+                        "bbox": [
+                            87,
+                            82,
+                            522,
+                            110
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            482,
+                            92,
+                            502,
+                            108
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 9,
+                "bbox": [
+                    65,
+                    58,
+                    84,
+                    73
+                ],
+                "level": 65,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the probability generating function of \\(X\\) to prove that \\(\\operatorname {E}(X) = np\\) and \\(\\operatorname {Var}(X) = np(1 - p)\\)",
+                        "bbox": [
+                            88,
+                            58,
+                            521,
+                            73
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            481,
+                            69,
+                            501,
+                            85
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The random variable \\(X\\) has the binomial distribution \\(\\mathrm{B}(n, p)\\)",
+                "bbox": [
+                    66,
+                    56,
+                    335,
+                    73
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 10,
+        "bbox": [
+            43,
+            57,
+            53,
+            72
+        ],
+        "level": 43,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    65,
+                    83,
+                    83,
+                    97
+                ],
+                "level": 65,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "He takes a random sample of 10 snakes of this type from country \\(A\\) and measures the length, \\(x \\mathrm{m}\\), of each snake. He then calculates a \\(90\\%\\) confidence interval for the population mean length, \\(\\mu \\mathrm{m}\\), for snakes of this type, assuming that snake lengths have a normal distribution. This confidence interval is \\(3.36 \\leqslant \\mu \\leqslant 4.22\\)",
+                        "bbox": [
+                            87,
+                            83,
+                            521,
+                            136
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the sample mean and an unbiased estimate for the population variance",
+                        "bbox": [
+                            87,
+                            143,
+                            424,
+                            160
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            481,
+                            143,
+                            501,
+                            159
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 10,
+                "bbox": [
+                    66,
+                    492,
+                    83,
+                    507
+                ],
+                "level": 66,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Nassa also measures the lengths, \\(y \\mathrm{m}\\), of a random sample of 8 snakes of this type taken from country \\(B\\). His results are summarised as follows",
+                        "bbox": [
+                            87,
+                            492,
+                            521,
+                            520
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\Sigma y = 27.86\\qquad \\Sigma y^2 = 98.02\\]",
+                        "bbox": [
+                            234,
+                            528,
+                            375,
+                            544
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Nassa claims that the mean length of snakes of this type in country \\(B\\) is less than the mean length of snakes of this type in country \\(A\\). Nassa assumes that his sample from country \\(B\\) also comes from a normal distribution, with the same variance as the distribution from country \\(A\\)",
+                        "bbox": [
+                            87,
+                            554,
+                            521,
+                            594
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Test at the \\(10\\%\\) significance level whether there is evidence to support Nassa's claim",
+                        "bbox": [
+                            87,
+                            604,
+                            465,
+                            619
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[8]",
+                        "bbox": [
+                            481,
+                            604,
+                            501,
+                            619
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Nassa is researching the lengths of a particular type of snake in two countries, \\(A\\) and \\(B\\)",
+                "bbox": [
+                    66,
+                    56,
+                    451,
+                    73
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

@@ -133,20 +133,6 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 5]",
-                        "bbox": [
-                            503,
-                            310,
-                            549,
-                            326
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -219,50 +205,6 @@
                         "parts": [],
                         "content": [
                             {
-                                "type": "pre_text",
-                                "text": "Echo depth measurements use the time taken for sound to go from the surface bed and back again",
-                                "bbox": [
-                                    92,
-                                    61,
-                                    486,
-                                    90
-                                ],
-                                "page_number": 3,
-                                "is_pre": true,
-                                "issues": [],
-                                "is_pot_pre": true
-                            },
-                            {
-                                "type": "pre_text",
-                                "text": "Such measurements give the following values for the depth of the water at different distances from A, along the line AB",
-                                "bbox": [
-                                    92,
-                                    99,
-                                    529,
-                                    129
-                                ],
-                                "page_number": 3,
-                                "is_pre": true,
-                                "issues": [],
-                                "is_pot_pre": true
-                            },
-                            {
-                                "type": "pre_table",
-                                "bbox": [
-                                    90,
-                                    139,
-                                    506,
-                                    190
-                                ],
-                                "page_number": 3,
-                                "is_pre": true,
-                                "table": {
-                                    "html": "<table><tr><td>distance from A/m</td><td>0</td><td>100</td><td>200</td><td>300</td><td>400</td><td>500</td><td>600</td><td>700</td><td>800</td></tr><tr><td>depth of water/m</td><td>0</td><td>1.8</td><td>5.1</td><td>12.9</td><td>18.9</td><td>22.2</td><td>16.5</td><td>6.3</td><td>0</td></tr></table>"
-                                },
-                                "issues": [],
-                                "is_pot_pre": true
-                            },
-                            {
                                 "type": "text",
                                 "text": "The speed of sound in water is \\(1500 \\text{m/s}\\)",
                                 "bbox": [
@@ -292,7 +234,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "time = .........$s$",
+                                "text": "time = .........\\(s\\)",
                                 "bbox": [
                                     314,
                                     364,
@@ -362,7 +304,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance from A = .........$m$",
+                                "text": "distance from A = .........\\(m\\)",
                                 "bbox": [
                                     259,
                                     456,
@@ -385,20 +327,6 @@
                                 ],
                                 "page_number": 3,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 6]",
-                                "bbox": [
-                                    502,
-                                    481,
-                                    548,
-                                    497
-                                ],
-                                "page_number": 3,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -434,6 +362,50 @@
                             "caption": "",
                             "page": 2
                         },
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Echo depth measurements use the time taken for sound to go from the surface bed and back again",
+                        "bbox": [
+                            92,
+                            61,
+                            486,
+                            90
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Such measurements give the following values for the depth of the water at different distances from A, along the line AB",
+                        "bbox": [
+                            92,
+                            99,
+                            529,
+                            129
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "table",
+                        "bbox": [
+                            90,
+                            139,
+                            506,
+                            190
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "table": {
+                            "html": "<table><tr><td>distance from A/m</td><td>0</td><td>100</td><td>200</td><td>300</td><td>400</td><td>500</td><td>600</td><td>700</td><td>800</td></tr><tr><td>depth of water/m</td><td>0</td><td>1.8</td><td>5.1</td><td>12.9</td><td>18.9</td><td>22.2</td><td>16.5</td><td>6.3</td><td>0</td></tr></table>"
+                        },
+                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -603,20 +575,6 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 3]",
-                                "bbox": [
-                                    502,
-                                    671,
-                                    548,
-                                    686
-                                ],
-                                "page_number": 4,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -801,20 +759,6 @@
                     },
                     {
                         "type": "mark_text",
-                        "text": "Fig. 4.1**",
-                        "bbox": [
-                            276,
-                            658,
-                            317,
-                            674
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
                         "text": "[4]",
                         "bbox": [
                             508,
@@ -824,20 +768,6 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 7]",
-                        "bbox": [
-                            502,
-                            684,
-                            548,
-                            700
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -1007,7 +937,20 @@
                                 "page_number": 6,
                                 "is_pre": false,
                                 "issues": [],
-                                "is_pot_pre": true
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    508,
+                                    754,
+                                    528,
+                                    770
+                                ],
+                                "page_number": 6,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -1063,20 +1006,6 @@
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 9]",
-                                "bbox": [
-                                    502,
-                                    191,
-                                    550,
-                                    208
-                                ],
-                                "page_number": 7,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -1321,20 +1250,6 @@
                         "is_pot_pre": false
                     },
                     {
-                        "type": "mark_text",
-                        "text": "[6.1](a)",
-                        "bbox": [
-                            274,
-                            406,
-                            317,
-                            422
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
                         "type": "text",
                         "text": "The student traces one of the rays using four pins, labelled P in Fig. 6.1. He traces the other ray using four more pins, labelled Q",
                         "bbox": [
@@ -1469,20 +1384,6 @@
                                 ],
                                 "page_number": 9,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 8]",
-                                "bbox": [
-                                    502,
-                                    474,
-                                    550,
-                                    490
-                                ],
-                                "page_number": 9,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -1726,20 +1627,6 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 6]",
-                                "bbox": [
-                                    502,
-                                    734,
-                                    548,
-                                    750
-                                ],
-                                "page_number": 10,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -2291,20 +2178,6 @@
                                 "page_number": 13,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 8]",
-                                "bbox": [
-                                    502,
-                                    459,
-                                    549,
-                                    475
-                                ],
-                                "page_number": 13,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2583,7 +2456,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "resistance = .........$\\Omega$",
+                                "text": "resistance = .........\\(\\Omega\\)",
                                 "bbox": [
                                     285,
                                     623,
@@ -2592,9 +2465,7 @@
                                 ],
                                 "page_number": 14,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2611,9 +2482,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -2643,7 +2512,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "total resistance = .........$\\Omega$",
+                                "text": "total resistance = .........\\(\\Omega\\)",
                                 "bbox": [
                                     260,
                                     705,
@@ -2652,9 +2521,7 @@
                                 ],
                                 "page_number": 14,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2671,9 +2538,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -2781,24 +2646,9 @@
                     "page": 14
                 },
                 "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[a]",
-                "bbox": [
-                    274,
-                    316,
-                    319,
-                    332
-                ],
-                "page_number": 14,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "11",
@@ -2938,7 +2788,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "half-life = .........$s$",
+                        "text": "half-life = .........\\(s\\)",
                         "bbox": [
                             300,
                             383,
@@ -3121,13 +2971,13 @@
                         "is_pot_pre": false
                     },
                     {
-                        "type": "mark_text",
-                        "text": "[Total: 7]",
+                        "type": "text",
+                        "text": "**Question 12 is on the next page.**",
                         "bbox": [
-                            502,
-                            646,
-                            548,
-                            661
+                            211,
+                            718,
+                            383,
+                            734
                         ],
                         "page_number": 15,
                         "is_pre": false,
@@ -3319,20 +3169,6 @@
                         "page_number": 16,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 5]",
-                        "bbox": [
-                            502,
-                            458,
-                            548,
-                            474
-                        ],
-                        "page_number": 16,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -3368,25 +3204,8 @@
                     "page": 16
                 },
                 "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[a]",
-                "bbox": [
-                    274,
-                    204,
-                    321,
-                    220
-                ],
-                "page_number": 16,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
             }
         ],
-        "issues": [
-            "Missing parts"
-        ],
-        "has_issues": true
+        "issues": []
     }
 ]

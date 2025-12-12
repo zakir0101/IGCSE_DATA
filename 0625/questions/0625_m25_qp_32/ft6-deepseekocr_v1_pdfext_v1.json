@@ -260,20 +260,6 @@
                         "page_number": 3,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 7]",
-                        "bbox": [
-                            501,
-                            333,
-                            548,
-                            348
-                        ],
-                        "page_number": 3,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -468,7 +454,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "mass = .........$g$",
+                        "text": "mass = .........\\(g\\)",
                         "bbox": [
                             309,
                             734,
@@ -663,20 +649,6 @@
                             "caption": "",
                             "page": 5
                         },
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "Fig. 3.2",
-                        "bbox": [
-                            274,
-                            646,
-                            318,
-                            662
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -890,20 +862,6 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 6]",
-                        "bbox": [
-                            502,
-                            387,
-                            548,
-                            402
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -1376,20 +1334,6 @@
                         "page_number": 8,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 8]",
-                        "bbox": [
-                            501,
-                            669,
-                            548,
-                            685
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -1480,6 +1424,20 @@
                             "caption": "",
                             "page": 9
                         },
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "On Fig. 7.1 draw the path of the ray of red light through the glass block and into the air.",
+                        "bbox": [
+                            92,
+                            367,
+                            501,
+                            382
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": true
                     }
                 ],
@@ -1718,20 +1676,6 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 6]",
-                                "bbox": [
-                                    502,
-                                    329,
-                                    548,
-                                    344
-                                ],
-                                "page_number": 10,
-                                "is_pre": false,
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -2032,20 +1976,6 @@
                     "page": 11
                 },
                 "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[b]",
-                "bbox": [
-                    274,
-                    237,
-                    317,
-                    253
-                ],
-                "page_number": 11,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
             }
         ],
         "issues": []
@@ -2162,7 +2092,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "resistance = .........$\\Omega$",
+                        "text": "resistance = .........\\(\\Omega\\)",
                         "bbox": [
                             285,
                             215,
@@ -2171,15 +2101,11 @@
                         ],
                         "page_number": 13,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -2249,20 +2175,6 @@
                         "page_number": 13,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 9]",
-                        "bbox": [
-                            501,
-                            714,
-                            548,
-                            729
-                        ],
-                        "page_number": 13,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -2300,8 +2212,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "10",
@@ -2568,20 +2479,6 @@
                             "page": 14
                         },
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[a]",
-                        "bbox": [
-                            274,
-                            607,
-                            321,
-                            623
-                        ],
-                        "page_number": 14,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -2616,20 +2513,6 @@
                     "caption": "",
                     "page": 14
                 },
-                "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[a]",
-                "bbox": [
-                    274,
-                    221,
-                    320,
-                    236
-                ],
-                "page_number": 14,
-                "is_pre": false,
-                "issues": [],
                 "is_pot_pre": false
             }
         ],
@@ -2798,20 +2681,6 @@
                         "page_number": 15,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 6]",
-                        "bbox": [
-                            502,
-                            417,
-                            548,
-                            432
-                        ],
-                        "page_number": 15,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -2957,26 +2826,12 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "time taken to reach Earth = .........$s$",
+                        "text": "time taken to reach Earth = .........\\(s\\)",
                         "bbox": [
                             212,
                             598,
                             548,
                             614
-                        ],
-                        "page_number": 16,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 5]",
-                        "bbox": [
-                            502,
-                            624,
-                            548,
-                            639
                         ],
                         "page_number": 16,
                         "is_pre": false,

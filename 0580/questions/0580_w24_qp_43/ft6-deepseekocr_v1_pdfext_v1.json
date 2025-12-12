@@ -52,7 +52,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$kg$",
+                        "text": ".........\\(kg\\)",
                         "bbox": [
                             381,
                             190,
@@ -140,29 +140,16 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$( .........$",
+                        "text": "\\(( .........[3]\\)",
                         "bbox": [
                             373,
                             373,
-                            528,
+                            548,
                             388
                         ],
                         "page_number": 2,
                         "is_pre": false,
                         "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[3]",
-                        "bbox": [
-                            508,
-                            373,
-                            528,
-                            388
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],
@@ -877,29 +864,16 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$- .........$",
+                        "text": "\\(- .........[3]\\)",
                         "bbox": [
                             372,
                             542,
-                            533,
+                            553,
                             558
                         ],
                         "page_number": 4,
                         "is_pre": false,
                         "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[3]",
-                        "bbox": [
-                            513,
-                            542,
-                            533,
-                            558
-                        ],
-                        "page_number": 4,
-                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],
@@ -1076,7 +1050,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$g$",
+                        "text": ".........\\(g\\)",
                         "bbox": [
                             381,
                             202,
@@ -1160,7 +1134,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm^3$",
+                        "text": ".........\\(cm^3\\)",
                         "bbox": [
                             381,
                             385,
@@ -1169,9 +1143,7 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1188,9 +1160,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -1412,8 +1382,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "5",
@@ -1468,7 +1437,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$km/h$",
+                        "text": ".........\\(km/h\\)",
                         "bbox": [
                             381,
                             215,
@@ -1552,7 +1521,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$km/h$",
+                        "text": ".........\\(km/h\\)",
                         "bbox": [
                             381,
                             452,
@@ -1919,7 +1888,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$cm^2$",
+                                "text": ".........\\(cm^2\\)",
                                 "bbox": [
                                     382,
                                     258,
@@ -1928,9 +1897,7 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX superscript (^) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1947,9 +1914,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -2031,8 +1996,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "8",
@@ -2143,7 +2107,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$km/h$",
+                        "text": ".........\\(km/h\\)",
                         "bbox": [
                             382,
                             428,

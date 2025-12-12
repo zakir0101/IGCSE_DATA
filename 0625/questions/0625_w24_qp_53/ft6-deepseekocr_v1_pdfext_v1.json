@@ -566,20 +566,6 @@
                                 "page_number": 4,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[Total: 11]",
-                                "bbox": [
-                                    496,
-                                    308,
-                                    548,
-                                    324
-                                ],
-                                "page_number": 4,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -1045,7 +1031,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "R = .........$\\Omega$",
+                                "text": "R = .........\\(\\Omega\\)",
                                 "bbox": [
                                     328,
                                     346,
@@ -1054,15 +1040,11 @@
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [],
@@ -1161,20 +1143,6 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 11]",
-                        "bbox": [
-                            496,
-                            569,
-                            549,
-                            584
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -1493,7 +1461,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "a = .........$cm$",
+                        "text": "a = .........\\(cm\\)",
                         "bbox": [
                             330,
                             320,
@@ -1521,7 +1489,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "b = .........$cm$",
+                        "text": "b = .........\\(cm\\)",
                         "bbox": [
                             330,
                             359,
@@ -1784,20 +1752,6 @@
                         ],
                         "page_number": 10,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 11]",
-                        "bbox": [
-                            496,
-                            139,
-                            548,
-                            153
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     },
                     {

@@ -55,7 +55,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$^\\circ \\mathrm{C}$",
+                "text": ".........\\(^\\circ \\mathrm{C}\\)",
                 "bbox": [
                     381,
                     139,
@@ -64,9 +64,7 @@
                 ],
                 "page_number": 2,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -83,10 +81,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX command found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -133,7 +128,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$\\$  .........$",
+                "text": "\\(\\\\)  .........$",
                 "bbox": [
                     373,
                     296,
@@ -142,9 +137,7 @@
                 ],
                 "page_number": 2,
                 "is_pre": false,
-                "issues": [
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -163,8 +156,7 @@
         ],
         "issues": [
             "Empty inline math environment \\(\\)",
-            "normal text placed inside inline-latex-block",
-            "Escaped dollar outside math mode: ...$\\$  .........$..."
+            "normal text placed inside inline-latex-block"
         ],
         "has_issues": true
     },
@@ -1350,7 +1342,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........m/s$^2$",
+                        "text": ".........m/s\\(^2\\)",
                         "bbox": [
                             381,
                             320,
@@ -1967,7 +1959,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm$",
+                "text": ".........\\(cm\\)",
                 "bbox": [
                     381,
                     282,
@@ -2569,7 +2561,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\overrightarrow{MN} =$ .........",
+                        "text": "\\(\\overrightarrow{MN} =\\) .........",
                         "bbox": [
                             349,
                             320,
@@ -2578,9 +2570,7 @@
                         ],
                         "page_number": 12,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2597,9 +2587,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -2746,7 +2734,6 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     }
 ]

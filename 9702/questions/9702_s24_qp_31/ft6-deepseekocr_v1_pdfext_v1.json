@@ -967,7 +967,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "C = .........$\\Omega$",
+                        "text": "C = .........\\(\\Omega\\)",
                         "bbox": [
                             328,
                             506,
@@ -976,29 +976,11 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 20]",
-                        "bbox": [
-                            496,
-                            533,
-                            548,
-                            549
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             }
         ],
         "content": [
@@ -1031,8 +1013,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -1553,7 +1534,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "m = .........$g$",
+                        "text": "m = .........\\(g\\)",
                         "bbox": [
                             326,
                             348,
@@ -2126,20 +2107,6 @@
                         ],
                         "page_number": 12,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 20]",
-                        "bbox": [
-                            496,
-                            610,
-                            548,
-                            625
-                        ],
-                        "page_number": 12,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],

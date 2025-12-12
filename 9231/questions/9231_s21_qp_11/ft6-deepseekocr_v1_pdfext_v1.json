@@ -1,0 +1,1218 @@
+[
+    {
+        "label": "1",
+        "page_number": 3,
+        "bbox": [
+            47,
+            63,
+            58,
+            78
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Prove by mathematical induction that \\(2^{4n} + 31^n - 2\\) is divisible by 15 for all positive integers \\(n\\)",
+                "bbox": [
+                    69,
+                    63,
+                    545,
+                    80
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[6]",
+                "bbox": [
+                    508,
+                    63,
+                    528,
+                    78
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 4,
+        "bbox": [
+            45,
+            71,
+            59,
+            87
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    68,
+                    70,
+                    87,
+                    86
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use standard results from the List of formulae (MF19) to find \\(\\sum_{r = 1}^{n}\\left(1 - r - r^2\\right)\\) in terms of \\(n\\), simplifying your answer",
+                        "bbox": [
+                            92,
+                            62,
+                            548,
+                            101
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            507,
+                            84,
+                            527,
+                            100
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 5,
+                "bbox": [
+                    68,
+                    61,
+                    87,
+                    74
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that",
+                        "bbox": [
+                            92,
+                            60,
+                            143,
+                            74
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\frac{1 - r - r^2}{(r^2 + 2r + 2)(r^2 + 1)} = \\frac{r + 1}{(r + 1)^2 + 1} - \\frac{r}{r^2 + 1}\\]",
+                        "bbox": [
+                            196,
+                            78,
+                            398,
+                            112
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "and hence use the method of differences to find \\(\\sum_{r = 1}^{n} \\frac{1 - r - r^2}{(r^2 + 2r + 2)(r^2 + 1)}.\\)",
+                        "bbox": [
+                            92,
+                            116,
+                            528,
+                            156
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            116,
+                            528,
+                            156
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 5,
+                "bbox": [
+                    92,
+                    709,
+                    111,
+                    725
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Deduce the value of \\(\\sum_{r = 1}^{\\infty} \\frac{1 - r - r^2}{(r^2 + 2r + 2)(r^2 + 1)}.\\)",
+                        "bbox": [
+                            111,
+                            705,
+                            308,
+                            740
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            707,
+                            528,
+                            723
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 6,
+        "bbox": [
+            45,
+            63,
+            55,
+            79
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    68,
+                    89,
+                    86,
+                    105
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find a quartic equation whose roots are \\(\\alpha^{3}, \\beta^{3}, \\gamma^{3}, \\delta^{3}\\) and state the value of \\(\\alpha^{3} + \\beta^{3} + \\gamma^{3} + \\delta^{3}\\)",
+                        "bbox": [
+                            92,
+                            87,
+                            548,
+                            108
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            103,
+                            528,
+                            119
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 7,
+                "bbox": [
+                    68,
+                    66,
+                    87,
+                    82
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(\\frac{1}{\\alpha^3} + \\frac{1}{\\beta^3} + \\frac{1}{\\gamma^3} + \\frac{1}{\\delta^3}\\)",
+                        "bbox": [
+                            91,
+                            62,
+                            270,
+                            86
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            66,
+                            528,
+                            82
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 7,
+                "bbox": [
+                    92,
+                    472,
+                    110,
+                    488
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(\\alpha^{4} + \\beta^{4} + \\gamma^{4} + \\delta^{4}\\)",
+                        "bbox": [
+                            112,
+                            472,
+                            262,
+                            490
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            472,
+                            528,
+                            488
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The equation \\(x^{4} - 2x^{3} - 1 = 0\\) has roots \\(\\alpha , \\beta , \\gamma , \\delta .\\)",
+                "bbox": [
+                    68,
+                    63,
+                    313,
+                    81
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 8,
+        "bbox": [
+            46,
+            61,
+            55,
+            74
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    68,
+                    99,
+                    86,
+                    114
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathbf{M}\\) in terms of \\(d\\)",
+                        "bbox": [
+                            92,
+                            99,
+                            194,
+                            114
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            99,
+                            528,
+                            115
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 8,
+                "bbox": [
+                    92,
+                    506,
+                    107,
+                    521
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The unit square in the \\(x\\text{-}y\\) plane is transformed by \\(\\mathbf{M}\\) onto a parallelogram of area \\(\\frac{1}{2} d^2\\) units\\(^2\\)",
+                        "bbox": [
+                            111,
+                            506,
+                            526,
+                            523
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Show that \\(d = 2\\)",
+                        "bbox": [
+                            92,
+                            530,
+                            174,
+                            546
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            530,
+                            528,
+                            546
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 9,
+                "bbox": [
+                    69,
+                    101,
+                    87,
+                    116
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The matrix \\(\\mathbf{N}\\) is such that \\(\\mathbf{MN} = \\begin{pmatrix} 1 & 1 \\\\ 1 & 2 \\end{pmatrix}\\)",
+                        "bbox": [
+                            69,
+                            66,
+                            259,
+                            98
+                        ],
+                        "page_number": 9,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find N",
+                        "bbox": [
+                            95,
+                            101,
+                            131,
+                            116
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            101,
+                            528,
+                            116
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 9,
+                "bbox": [
+                    69,
+                    361,
+                    87,
+                    377
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the equations of the invariant lines, through the origin, of the transformation in the \\(x\\text{-} y\\) plane represented by \\(\\mathbf{MN}\\)",
+                        "bbox": [
+                            92,
+                            361,
+                            548,
+                            389
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            374,
+                            528,
+                            389
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The matrix \\(\\mathbf{M}\\) represents the sequence of two transformations in the \\(x\\text{-} y\\) plane given by a rotation of \\(60^{\\circ}\\) anticlockwise about the origin followed by a one-way stretch in the \\(x\\text{-}\\) direction, scale factor \\(d\\) \\((d\\neq 0)\\)",
+                "bbox": [
+                    69,
+                    61,
+                    547,
+                    89
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 10,
+        "bbox": [
+            45,
+            67,
+            57,
+            84
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    120,
+                    86,
+                    136
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Sketch \\(C\\) and show that \\(a = 2\\)",
+                        "bbox": [
+                            92,
+                            119,
+                            237,
+                            136
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            119,
+                            528,
+                            135
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    419,
+                    87,
+                    435
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the exact value of the area of the region bounded by \\(C\\), the initial line and the half-line \\(\\theta = \\frac{1}{6}\\pi\\)",
+                        "bbox": [
+                            92,
+                            418,
+                            548,
+                            452
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            433,
+                            528,
+                            449
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 11,
+                "bbox": [
+                    69,
+                    255,
+                    86,
+                    270
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(C\\) has Cartesian equation \\(2\\big(x + y\\sqrt{3}\\big) = \\big(x\\sqrt{3} - y\\big)\\sqrt{x^2 + y^2}\\)",
+                        "bbox": [
+                            92,
+                            255,
+                            416,
+                            270
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            506,
+                            256,
+                            526,
+                            270
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The curve \\(C\\) has polar equation \\(r = a \\cot \\left(\\frac{1}{3} \\pi - \\theta\\right)\\), where \\(a\\) is a positive constant and \\(0 \\leqslant \\theta \\leqslant \\frac{1}{6} \\pi\\)",
+                "bbox": [
+                    69,
+                    61,
+                    523,
+                    86
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "It is given that the greatest distance of a point on \\(C\\) from the pole is \\(2\\sqrt{3}\\)",
+                "bbox": [
+                    69,
+                    92,
+                    411,
+                    110
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 12,
+        "bbox": [
+            46,
+            61,
+            56,
+            74
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 12,
+                "bbox": [
+                    68,
+                    152,
+                    86,
+                    167
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(t\\)",
+                        "bbox": [
+                            92,
+                            152,
+                            182,
+                            167
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            152,
+                            528,
+                            167
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 12,
+                "bbox": [
+                    68,
+                    648,
+                    86,
+                    663
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The plane \\(\\varPi_{1}\\) contains \\(l_{1}\\) and is parallel to \\(l_{2}\\)",
+                        "bbox": [
+                            92,
+                            624,
+                            285,
+                            641
+                        ],
+                        "page_number": 12,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Write down an equation of \\(\\varPi_{1}\\) , giving your answer in the form \\(\\mathbf{r} = \\mathbf{a} + \\lambda \\mathbf{b} + \\mu \\mathbf{c}\\)",
+                        "bbox": [
+                            92,
+                            648,
+                            466,
+                            663
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            648,
+                            528,
+                            663
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 13,
+                "bbox": [
+                    69,
+                    87,
+                    86,
+                    103
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The plane \\(\\varPi_{2}\\) has Cartesian equation \\(5x - 6y + 7z = 0\\)",
+                        "bbox": [
+                            69,
+                            61,
+                            325,
+                            78
+                        ],
+                        "page_number": 13,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the acute angle between \\(l_{2}\\) and \\(\\varPi_{2}\\)",
+                        "bbox": [
+                            92,
+                            87,
+                            283,
+                            103
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            87,
+                            528,
+                            103
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 13,
+                "bbox": [
+                    93,
+                    425,
+                    111,
+                    441
+                ],
+                "level": 93,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the acute angle between \\(\\varPi_{1}\\) and \\(\\varPi_{2}\\)",
+                        "bbox": [
+                            111,
+                            425,
+                            289,
+                            441
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            425,
+                            528,
+                            441
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Let \\(t\\) be a positive constant",
+                "bbox": [
+                    69,
+                    61,
+                    199,
+                    74
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The line \\(l_{1}\\) passes through the point with position vector \\(t\\mathbf{i} + \\mathbf{j}\\) and is parallel to the vector \\(- 2\\mathbf{i} - \\mathbf{j}\\). The line \\(l_{2}\\) passes through the point with position vector \\(\\mathbf{j} + t\\mathbf{k}\\) and is parallel to the vector \\(- 2\\mathbf{j} + \\mathbf{k}\\)",
+                "bbox": [
+                    69,
+                    86,
+                    548,
+                    115
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "It is given that the shortest distance between the lines \\(l_{1}\\) and \\(l_{2}\\) is \\(\\sqrt{21}\\)",
+                "bbox": [
+                    69,
+                    124,
+                    400,
+                    140
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 14,
+        "bbox": [
+            46,
+            69,
+            56,
+            86
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 14,
+                "bbox": [
+                    68,
+                    96,
+                    86,
+                    112
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the equations of the asymptotes of \\(C\\)",
+                        "bbox": [
+                            92,
+                            96,
+                            290,
+                            112
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            507,
+                            96,
+                            527,
+                            112
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 14,
+                "bbox": [
+                    92,
+                    431,
+                    111,
+                    446
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the coordinates of the stationary points on \\(C\\)",
+                        "bbox": [
+                            93,
+                            432,
+                            326,
+                            448
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            432,
+                            528,
+                            448
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 15,
+                "bbox": [
+                    68,
+                    61,
+                    86,
+                    74
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Sketch \\(C\\), stating the coordinates of any intersections with the axes",
+                        "bbox": [
+                            92,
+                            60,
+                            406,
+                            75
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            60,
+                            528,
+                            74
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 15,
+                "bbox": [
+                    66,
+                    398,
+                    85,
+                    414
+                ],
+                "level": 66,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Sketch the curve with equation \\(y = \\left|\\frac{x^{2} + x + 9}{x + 1}\\right|\\) and find the set of values of \\(x\\) for which",
+                        "bbox": [
+                            92,
+                            392,
+                            548,
+                            421
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[2\\big|x^{2} + x + 9\\big| > 13\\big|x + 1\\big|. \\quad [5]\\]",
+                        "bbox": [
+                            92,
+                            422,
+                            548,
+                            442
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The curve \\(C\\) has equation \\(y = \\frac{x^2 + x + 9}{x + 1}\\)",
+                "bbox": [
+                    69,
+                    63,
+                    263,
+                    88
+                ],
+                "page_number": 14,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

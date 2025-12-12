@@ -1,0 +1,1052 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            47,
+            61,
+            57,
+            75
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Find the general solution of the differential equation",
+                "bbox": [
+                    70,
+                    61,
+                    314,
+                    75
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\frac{\\mathrm{d}^{2}x}{\\mathrm{d}t^{2}} -8\\frac{\\mathrm{d}x}{\\mathrm{d}t} -9x = 9\\mathrm{e}^{8t}.\\]",
+                "bbox": [
+                    242,
+                    79,
+                    353,
+                    105
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 3,
+        "bbox": [
+            46,
+            69,
+            56,
+            86
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 3,
+                "bbox": [
+                    68,
+                    96,
+                    86,
+                    112
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(3I_{n} = 1 - 4^{n}\\mathrm{e}^{-3} + 3nI_{n - 1}\\)",
+                        "bbox": [
+                            92,
+                            96,
+                            263,
+                            113
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            96,
+                            528,
+                            112
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 3,
+                "bbox": [
+                    70,
+                    434,
+                    87,
+                    450
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the exact value of \\(I_{2}\\)",
+                        "bbox": [
+                            92,
+                            434,
+                            217,
+                            452
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            434,
+                            528,
+                            450
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Let \\(I_{n} = \\int_{0}^{1}\\bigl (1 + 3x\\bigr)^{n}\\mathrm{e}^{-3x}\\mathrm{d}x\\) , where \\(n\\) is an integer",
+                "bbox": [
+                    68,
+                    62,
+                    306,
+                    90
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 4,
+        "bbox": [
+            46,
+            61,
+            57,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    69,
+                    125,
+                    87,
+                    140
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the eigenvalues of \\(\\mathbf{A}\\)",
+                        "bbox": [
+                            93,
+                            125,
+                            217,
+                            140
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            125,
+                            528,
+                            140
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 5,
+                "bbox": [
+                    68,
+                    63,
+                    87,
+                    78
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the characteristic equation of \\(\\mathbf{A}\\) to find \\(\\mathbf{A}^{-1}\\)",
+                        "bbox": [
+                            92,
+                            62,
+                            320,
+                            78
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            63,
+                            528,
+                            78
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The matrix \\(\\mathbf{A}\\) is given by",
+                "bbox": [
+                    69,
+                    61,
+                    188,
+                    75
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathbf{A} = \\begin{pmatrix} 5 & -1 & 7 \\\\ 0 & 6 & 0 \\\\ 7 & 7 & 5 \\end{pmatrix}.\\]",
+                "bbox": [
+                    255,
+                    69,
+                    343,
+                    117
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            46,
+            61,
+            56,
+            74
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    68,
+                    319,
+                    86,
+                    335
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "By considering the sum of the areas of these rectangles, show that",
+                        "bbox": [
+                            92,
+                            319,
+                            400,
+                            335
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\ln N! > N\\ln N - N + 1.\\]",
+                        "bbox": [
+                            242,
+                            344,
+                            353,
+                            361
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            345,
+                            528,
+                            361
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 7,
+                "bbox": [
+                    68,
+                    62,
+                    87,
+                    77
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use a similar method to find, in terms of \\(N\\), an upper bound for \\(\\ln N!\\)",
+                        "bbox": [
+                            92,
+                            62,
+                            416,
+                            77
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            62,
+                            528,
+                            78
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    73,
+                    83,
+                    542,
+                    248
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 6
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curve with equation \\(y = \\ln x\\) for \\(x \\geqslant 1\\), together with a set of \\((N - 1)\\) rectangles of unit width",
+                "bbox": [
+                    69,
+                    278,
+                    548,
+                    309
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 8,
+        "bbox": [
+            46,
+            61,
+            57,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    68,
+                    112,
+                    86,
+                    128
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the exact length of \\(C\\)",
+                        "bbox": [
+                            92,
+                            112,
+                            219,
+                            128
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            112,
+                            528,
+                            128
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 9,
+                "bbox": [
+                    68,
+                    68,
+                    88,
+                    85
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\frac{\\mathrm{d}^{2}y}{\\mathrm{d}x^{2}}\\) in terms of \\(t\\), simplifying your answer",
+                        "bbox": [
+                            90,
+                            63,
+                            319,
+                            92
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            69,
+                            528,
+                            85
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The curve \\(C\\) has parametric equations",
+                "bbox": [
+                    69,
+                    61,
+                    248,
+                    75
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[x = \\frac{1}{2} t^{2} - \\ln t,\\qquad y = 2t + 1,\\qquad \\mathrm{for} \\frac{1}{2}\\leqslant t\\leqslant 2.\\]",
+                "bbox": [
+                    190,
+                    84,
+                    405,
+                    103
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 10,
+        "bbox": [
+            45,
+            61,
+            58,
+            75
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    61,
+                    87,
+                    75
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Starting from the definitions of \\(\\tanh\\) and \\(\\operatorname {sech}\\) in terms of exponentials, prove that",
+                        "bbox": [
+                            92,
+                            60,
+                            472,
+                            77
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[1 - \\tanh^{2}\\theta = \\operatorname {sech}^{2}\\theta .\\]",
+                        "bbox": [
+                            247,
+                            84,
+                            348,
+                            101
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            85,
+                            528,
+                            101
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    359,
+                    87,
+                    375
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The variables \\(x\\) and \\(y\\) are such that \\(\\tanh y = \\cos \\bigl (x + \\frac{1}{4}\\pi \\bigr)\\), for \\(-\\frac{1}{4}\\pi < x < \\frac{3}{4}\\pi\\)",
+                        "bbox": [
+                            69,
+                            320,
+                            431,
+                            338
+                        ],
+                        "page_number": 10,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "By differentiating the equation \\(\\tanh y = \\cos \\left(x + \\frac{1}{4}\\pi\\right)\\) with respect to \\(x\\), show that",
+                        "bbox": [
+                            92,
+                            358,
+                            467,
+                            378
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\frac{\\mathrm{d}y}{\\mathrm{d}x} = -\\mathrm{cos}\\mathrm{e}\\mathrm{c}\\big(x + \\frac{1}{4}\\pi \\big).\\]",
+                        "bbox": [
+                            244,
+                            392,
+                            352,
+                            417
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            398,
+                            528,
+                            414
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 11,
+                "bbox": [
+                    68,
+                    66,
+                    86,
+                    83
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Hence find the first three terms in the Maclaurin's series for \\(\\tanh^{-1}\\bigl (\\cos (x + \\frac{1}{4}\\pi)\\bigr)\\) in the form \\(\\frac{1}{2}\\ln a + bx + cx^2\\), giving the exact values of the constants \\(a\\), \\(b\\) and \\(c\\)",
+                        "bbox": [
+                            92,
+                            61,
+                            548,
+                            104
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            506,
+                            86,
+                            526,
+                            102
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 12,
+        "bbox": [
+            46,
+            61,
+            58,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 12,
+                "bbox": [
+                    69,
+                    61,
+                    87,
+                    75
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that an appropriate integrating factor for",
+                        "bbox": [
+                            93,
+                            61,
+                            310,
+                            75
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[(x^{2} + 1)\\frac{\\mathrm{d}y}{\\mathrm{d}x} +y\\sqrt{x^{2} + 1} = x^{2} - x\\sqrt{x^{2} + 1}\\]",
+                        "bbox": [
+                            203,
+                            92,
+                            390,
+                            117
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "is \\(x + \\sqrt{x^2 + 1}\\)",
+                        "bbox": [
+                            92,
+                            122,
+                            164,
+                            139
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            125,
+                            528,
+                            140
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 13,
+                "bbox": [
+                    68,
+                    61,
+                    87,
+                    74
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Hence find the solution of the differential equation",
+                        "bbox": [
+                            92,
+                            60,
+                            330,
+                            75
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[(x^{2} + 1)\\frac{\\mathrm{d}y}{\\mathrm{d}x} +y\\sqrt{x^{2} + 1} = x^{2} - x\\sqrt{x^{2} + 1}\\]",
+                        "bbox": [
+                            205,
+                            80,
+                            389,
+                            104
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "for which \\(y = \\ln 2\\) when \\(x = 0\\). Give your answer in the form \\(y = \\mathrm{f}(x)\\)",
+                        "bbox": [
+                            92,
+                            110,
+                            426,
+                            128
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            508,
+                            112,
+                            528,
+                            128
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "8",
+        "page_number": 14,
+        "bbox": [
+            45,
+            63,
+            57,
+            79
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 14,
+                "bbox": [
+                    68,
+                    63,
+                    86,
+                    79
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use de Moivre's theorem to show that \\(\\sin^{6}\\theta = -\\frac{1}{32} (\\cos 6\\theta - 6\\cos 4\\theta + 15\\cos 2\\theta - 10).\\)",
+                        "bbox": [
+                            92,
+                            63,
+                            493,
+                            81
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            63,
+                            528,
+                            79
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 14,
+                "bbox": [
+                    68,
+                    546,
+                    87,
+                    562
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "It is given that \\(\\cos^6 \\theta = \\frac{1}{32} (\\cos 6\\theta + 6\\cos 4\\theta + 15\\cos 2\\theta + 10).\\)",
+                        "bbox": [
+                            92,
+                            508,
+                            356,
+                            527
+                        ],
+                        "page_number": 14,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the exact value of \\(\\int_{0}^{\\frac{1}{3}\\pi} (\\cos^{6}(\\frac{1}{4}x) + \\sin^{6}(\\frac{1}{4}x))\\mathrm{d}x.\\)",
+                        "bbox": [
+                            92,
+                            539,
+                            548,
+                            567
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            546,
+                            528,
+                            562
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 15,
+                "bbox": [
+                    69,
+                    281,
+                    87,
+                    297
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Express each root of the equation \\(16c^{6} + 16\\big(1 - c^{2}\\big)^{3} - 13 = 0\\) in the form \\(\\cos k\\pi\\), where \\(k\\) is a rational number.",
+                        "bbox": [
+                            92,
+                            281,
+                            528,
+                            309
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            281,
+                            528,
+                            309
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    }
+]

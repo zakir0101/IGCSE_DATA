@@ -1,0 +1,1203 @@
+[
+    {
+        "label": "1",
+        "page_number": 3,
+        "bbox": [
+            47,
+            61,
+            56,
+            74
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The number, \\(x\\), of pine trees was counted in each of 40 randomly chosen regions of equal size in country \\(A\\). The number, \\(y\\), of pine trees was counted in each of 60 randomly chosen regions of the same equal size in country \\(B\\). The results are summarised as follows",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    102
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\Sigma x = 752\\qquad \\Sigma x^{2} = 14 320\\qquad \\Sigma y = 1548\\qquad \\Sigma y^{2} = 40 200\\]",
+                "bbox": [
+                    149,
+                    112,
+                    445,
+                    128
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find a \\(95\\%\\) confidence interval for the difference between the mean number of pine trees in regions of this size in countries \\(A\\) and \\(B\\)",
+                "bbox": [
+                    69,
+                    138,
+                    548,
+                    167
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[7]",
+                "bbox": [
+                    508,
+                    152,
+                    528,
+                    167
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 4,
+        "bbox": [
+            46,
+            61,
+            55,
+            74
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    68,
+                    240,
+                    86,
+                    255
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show how the expected frequency for \\(130 \\leqslant x < 140\\) is obtained",
+                        "bbox": [
+                            92,
+                            240,
+                            399,
+                            255
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            240,
+                            528,
+                            255
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 4,
+                "bbox": [
+                    92,
+                    527,
+                    111,
+                    542
+                ],
+                "level": 92,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Carry out a goodness of fit test, at the \\(5\\%\\) significance level, to determine whether the claim is supported by the data",
+                        "bbox": [
+                            91,
+                            527,
+                            548,
+                            555
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            540,
+                            528,
+                            555
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "It is claimed that the heights of a particular age group of boys follow a normal distribution with mean \\(125 \\text{cm}\\) and standard deviation \\(12 \\text{cm}\\). Observations for a randomly chosen group of 60 boys in this age group are summarised in the following table. The table also gives the expected frequencies, correct to 2 decimal places, based on the normal distribution with mean \\(125 \\text{cm}\\) and standard deviation \\(12 \\text{cm}\\)",
+                "bbox": [
+                    69,
+                    60,
+                    548,
+                    114
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    69,
+                    126,
+                    548,
+                    230
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>Height, \\(x \\text{cm}\\)</td><td>\\(x < 100\\)</td><td>\\(100 \\leqslant x < 110\\)</td><td>\\(110 \\leqslant x < 120\\)</td><td>\\(120 \\leqslant x < 130\\)</td><td>\\(130 \\leqslant x < 140\\)</td><td>\\(x \\geqslant 140\\)</td></tr><tr><td>Observed frequency</td><td>0</td><td>3</td><td>15</td><td>23</td><td>11</td><td>8</td></tr><tr><td>Expected frequency</td><td>1.12</td><td>5.22</td><td>13.97</td><td>19.38</td><td>13.97</td><td>6.34</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 6,
+        "bbox": [
+            46,
+            61,
+            58,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    69,
+                    157,
+                    86,
+                    172
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(a\\)",
+                        "bbox": [
+                            92,
+                            157,
+                            185,
+                            171
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            157,
+                            528,
+                            172
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{E}(X^2)\\)",
+                        "bbox": [
+                            92,
+                            472,
+                            152,
+                            488
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": true
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 7,
+                "bbox": [
+                    69,
+                    256,
+                    87,
+                    271
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the cumulative distribution function of \\(X.\\)",
+                        "bbox": [
+                            92,
+                            256,
+                            311,
+                            270
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            507,
+                            256,
+                            527,
+                            271
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The continuous random variable \\(X\\) has probability density function f given by",
+                "bbox": [
+                    69,
+                    60,
+                    431,
+                    77
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{f}(x) = \\left\\{ \\begin{array}{ll}a + \\frac{1}{5} x & 0\\leqslant x< 1,\\\\ 2a - \\frac{1}{5} x & 1\\leqslant x\\leqslant 2,\\\\ 0 & \\mathrm{otherwise}, \\end{array} \\right.\\]",
+                "bbox": [
+                    222,
+                    84,
+                    372,
+                    135
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "where \\(a\\) is a constant",
+                "bbox": [
+                    69,
+                    131,
+                    172,
+                    146
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 8,
+        "bbox": [
+            46,
+            61,
+            56,
+            74
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    69,
+                    178,
+                    87,
+                    193
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Carry out a Wilcoxon rank-sum test at the \\(5\\%\\) significance level to determine whether there is a difference in the population median marks obtained in the two tests.",
+                        "bbox": [
+                            92,
+                            178,
+                            528,
+                            206
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            178,
+                            528,
+                            206
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 9,
+                "bbox": [
+                    68,
+                    99,
+                    87,
+                    114
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The interviewer considers using the given information to carry out a paired sample \\(t\\)-test to determine whether there is a difference in the population means for the two tests",
+                        "bbox": [
+                            69,
+                            61,
+                            548,
+                            88
+                        ],
+                        "page_number": 9,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Give two reasons why it is not appropriate to use this test",
+                        "bbox": [
+                            92,
+                            99,
+                            362,
+                            114
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            99,
+                            528,
+                            114
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Applicants for a particular college take a written test when they attend for interview. There are two different written tests, \\(A\\) and \\(B\\), and each applicant takes one or the other. The interviewer wants to determine whether the medians of the distribution of marks obtained in the two tests are equal. The marks obtained by a random sample of 8 applicants who took test \\(A\\) and a random sample of 8 applicants who took test \\(B\\) are as follows",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    129
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "<label>Test $A$",
+                "bbox": [
+                    69,
+                    137,
+                    81,
+                    153
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "46",
+                "bbox": [
+                    130,
+                    137,
+                    146,
+                    153
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "32",
+                "bbox": [
+                    155,
+                    137,
+                    172,
+                    153
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "29",
+                "bbox": [
+                    209,
+                    137,
+                    224,
+                    153
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "12",
+                "bbox": [
+                    235,
+                    137,
+                    250,
+                    153
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "33",
+                "bbox": [
+                    286,
+                    137,
+                    304,
+                    153
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "18",
+                "bbox": [
+                    341,
+                    137,
+                    357,
+                    153
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "25",
+                "bbox": [
+                    391,
+                    137,
+                    408,
+                    153
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "40",
+                "bbox": [
+                    447,
+                    137,
+                    463,
+                    153
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "<label>Test $B$",
+                "bbox": [
+                    69,
+                    153,
+                    87,
+                    168
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "36",
+                "bbox": [
+                    130,
+                    153,
+                    146,
+                    168
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "28",
+                "bbox": [
+                    155,
+                    153,
+                    172,
+                    168
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "49",
+                "bbox": [
+                    209,
+                    153,
+                    224,
+                    168
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "37",
+                "bbox": [
+                    235,
+                    153,
+                    250,
+                    168
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "48",
+                "bbox": [
+                    286,
+                    153,
+                    304,
+                    168
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "35",
+                "bbox": [
+                    341,
+                    153,
+                    357,
+                    168
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "41",
+                "bbox": [
+                    391,
+                    153,
+                    408,
+                    168
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "31",
+                "bbox": [
+                    447,
+                    153,
+                    463,
+                    168
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 10,
+        "bbox": [
+            45,
+            63,
+            59,
+            78
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    90,
+                    86,
+                    105
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(k\\)",
+                        "bbox": [
+                            92,
+                            90,
+                            185,
+                            105
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            90,
+                            528,
+                            105
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 10,
+                "bbox": [
+                    65,
+                    272,
+                    84,
+                    288
+                ],
+                "level": 65,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the probability generating function \\(\\mathrm{G}_{X}(t)\\) of \\(X\\)",
+                        "bbox": [
+                            92,
+                            272,
+                            340,
+                            290
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            273,
+                            528,
+                            289
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    585,
+                    86,
+                    602
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Y\\) has probability generating function \\(\\mathrm{G}_{Y}(t) = \\frac{1}{4} + \\frac{1}{2} t + \\frac{1}{4} t^{2}\\)",
+                        "bbox": [
+                            68,
+                            532,
+                            448,
+                            552
+                        ],
+                        "page_number": 10,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Z\\) is the sum of \\(X\\) and \\(Y\\)",
+                        "bbox": [
+                            69,
+                            559,
+                            282,
+                            575
+                        ],
+                        "page_number": 10,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Assuming that \\(X\\) and \\(Y\\) are independent, find the probability generating function \\(\\mathrm{G}_{Z}(t)\\) of \\(Z\\) as a polynomial in \\(t\\)",
+                        "bbox": [
+                            92,
+                            585,
+                            548,
+                            615
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            598,
+                            528,
+                            614
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(d)",
+                "page_number": 11,
+                "bbox": [
+                    69,
+                    307,
+                    88,
+                    322
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Given that \\(\\mathrm{E}(Z) = \\frac{13}{3}\\), use \\(\\mathrm{G}_Z(t)\\) to find \\(\\mathrm{Var}(Z)\\)",
+                        "bbox": [
+                            93,
+                            307,
+                            322,
+                            323
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            506,
+                            308,
+                            526,
+                            323
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The random variable \\(X\\) is such that \\(\\mathrm{P}(X = r) = kr^2\\) for \\(r = 1, 2, 3, 4\\), where \\(k\\) is a constant",
+                "bbox": [
+                    69,
+                    63,
+                    487,
+                    80
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 12,
+        "bbox": [
+            46,
+            61,
+            57,
+            75
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "A scientist is investigating the masses of a particular type of fish found in lakes \\(A\\) and \\(B\\). He chooses a random sample of 10 fish of this type from lake \\(A\\) and records their masses, \\(x \\mathrm{kg}\\), as follows",
+                "bbox": [
+                    69,
+                    61,
+                    548,
+                    90
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "2.1",
+                "bbox": [
+                    79,
+                    99,
+                    96,
+                    114
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "1.8",
+                "bbox": [
+                    126,
+                    99,
+                    142,
+                    114
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "0.9",
+                "bbox": [
+                    158,
+                    99,
+                    170,
+                    114
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "0.9",
+                "bbox": [
+                    180,
+                    99,
+                    193,
+                    114
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "3.0",
+                "bbox": [
+                    208,
+                    99,
+                    221,
+                    114
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "2.4",
+                "bbox": [
+                    234,
+                    99,
+                    246,
+                    114
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "2.6",
+                "bbox": [
+                    259,
+                    99,
+                    271,
+                    114
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "1.8",
+                "bbox": [
+                    328,
+                    99,
+                    340,
+                    114
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "2.2",
+                "bbox": [
+                    376,
+                    99,
+                    388,
+                    114
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "1.9",
+                "bbox": [
+                    402,
+                    99,
+                    414,
+                    114
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "2.5",
+                "bbox": [
+                    452,
+                    99,
+                    465,
+                    114
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The scientist also chooses a random sample of 12 fish of this type from lake \\(B\\), but he only has a summary of their masses, \\(y \\mathrm{kg}\\), as follows",
+                "bbox": [
+                    69,
+                    125,
+                    548,
+                    154
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\Sigma y = 24.48\\qquad \\Sigma y^2 = 53.75\\]",
+                "bbox": [
+                    227,
+                    164,
+                    367,
+                    180
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Test at the \\(10\\%\\) significance level whether the mean mass of fish of this type in lake \\(A\\) is greater than the mean mass of fish of this type in lake \\(B\\). You should state any assumptions that you need to make for the test to be valid",
+                "bbox": [
+                    69,
+                    190,
+                    548,
+                    232
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[10]",
+                "bbox": [
+                    524,
+                    219,
+                    548,
+                    235
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

@@ -1,0 +1,781 @@
+[
+    {
+        "label": "1",
+        "page_number": 3,
+        "bbox": [
+            46,
+            62,
+            56,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Solve the inequality \\(|2x - 5| > x\\)",
+                "bbox": [
+                    70,
+                    62,
+                    227,
+                    78
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    62,
+                    528,
+                    78
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 4,
+        "bbox": [
+            45,
+            62,
+            56,
+            78
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Use logarithms to solve the equation \\(14\\mathrm{e}^{-2x} = 5^{x + 1}\\), giving your answer correct to 3 significant figures",
+                "bbox": [
+                    70,
+                    62,
+                    548,
+                    78
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    75,
+                    528,
+                    90
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 5,
+        "bbox": [
+            46,
+            62,
+            55,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "It is given that \\(\\sec \\theta = \\sqrt{17}\\) where \\(0 < \\theta < \\frac{1}{2}\\pi\\)",
+                "bbox": [
+                    70,
+                    62,
+                    285,
+                    78
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the exact value of \\(\\tan (\\theta + \\frac{1}{4}\\pi)\\)",
+                "bbox": [
+                    70,
+                    91,
+                    239,
+                    107
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    91,
+                    528,
+                    107
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            46,
+            62,
+            58,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    69,
+                    62,
+                    87,
+                    78
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "By sketching a suitable pair of graphs on the same diagram, show that the equation",
+                        "bbox": [
+                            94,
+                            62,
+                            487,
+                            78
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\mathrm{e}^{-\\frac{1}{2} x} = x^{5}\\]",
+                        "bbox": [
+                            274,
+                            84,
+                            321,
+                            102
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "has exactly one real root",
+                        "bbox": [
+                            93,
+                            110,
+                            215,
+                            126
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            110,
+                            528,
+                            126
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 6,
+                "bbox": [
+                    70,
+                    466,
+                    88,
+                    480
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the iterative formula \\(x_{n + 1} = \\sqrt[5]{\\mathrm{e}^{-\\frac{1}{2}x_n}}\\) to determine the root correct to 4 significant figures. Give the result of each iteration to 6 significant figures",
+                        "bbox": [
+                            93,
+                            459,
+                            548,
+                            494
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            479,
+                            528,
+                            494
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 7,
+        "bbox": [
+            45,
+            62,
+            55,
+            78
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "A curve has equation \\(4\\mathrm{e}^{2x}\\mathrm{y} + \\mathrm{y}^2 = 21.\\)",
+                "bbox": [
+                    70,
+                    62,
+                    251,
+                    78
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the gradient of the curve at the point (0, \\(-7\\) )",
+                "bbox": [
+                    70,
+                    88,
+                    308,
+                    104
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    88,
+                    528,
+                    104
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 8,
+        "bbox": [
+            46,
+            62,
+            56,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    69,
+                    116,
+                    87,
+                    131
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the quotient when \\(\\mathrm{p}(x)\\) is divided by \\((4x - 3)\\) and show that the remainder is 2.",
+                        "bbox": [
+                            93,
+                            116,
+                            472,
+                            131
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            452,
+                            116,
+                            472,
+                            131
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 8,
+                "bbox": [
+                    69,
+                    526,
+                    87,
+                    540
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Hence find \\(\\int_{2}^{12}\\left(\\frac{\\mathrm{p}(x)}{4x - 3} - 3x^{2}\\right)\\mathrm{d}x,\\) giving your answer in the form \\(a + \\ln b.\\)",
+                        "bbox": [
+                            92,
+                            516,
+                            453,
+                            548
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            526,
+                            528,
+                            540
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The polynomial \\(\\mathrm{p}(x)\\) is defined by",
+                "bbox": [
+                    66,
+                    62,
+                    234,
+                    78
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{p}(x) = 12x^{3} - 9x^{2} + 8x - 4.\\]",
+                "bbox": [
+                    232,
+                    84,
+                    362,
+                    101
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 10,
+        "bbox": [
+            46,
+            62,
+            55,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    69,
+                    272,
+                    87,
+                    287
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the gradient of the curve at \\(A\\)",
+                        "bbox": [
+                            92,
+                            272,
+                            260,
+                            288
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            272,
+                            528,
+                            287
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 11,
+                "bbox": [
+                    69,
+                    62,
+                    88,
+                    78
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show by calculation that the \\(x\\)-coordinate of \\(B\\) lies between 3.0 and 3.1",
+                        "bbox": [
+                            94,
+                            62,
+                            436,
+                            78
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            62,
+                            528,
+                            78
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 11,
+                "bbox": [
+                    93,
+                    430,
+                    111,
+                    445
+                ],
+                "level": 93,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the trapezium rule with two intervals to find an approximation to the area of the shaded region. Give your answer correct to 2 decimal places",
+                        "bbox": [
+                            94,
+                            430,
+                            548,
+                            459
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            445,
+                            528,
+                            459
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    219,
+                    73,
+                    392,
+                    205
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 10
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curve with equation \\(y = \\frac{2\\ln x}{3x + 1}\\). The curve crosses the \\(x\\)-axis at the point \\(A\\) and has a maximum point \\(B\\). The shaded region is bounded by the curve and the lines \\(x = 3\\) and \\(y = 0\\)",
+                "bbox": [
+                    69,
+                    221,
+                    548,
+                    261
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "8",
+        "page_number": 12,
+        "bbox": [
+            45,
+            62,
+            58,
+            78
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 12,
+                "bbox": [
+                    69,
+                    89,
+                    87,
+                    104
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Express \\(\\operatorname {f}(\\theta)\\) in the form \\(R\\cos (2\\theta -\\alpha) + k\\), where \\(R > 0\\), \\(0< \\alpha < \\frac{1}{2}\\pi\\) and \\(k\\) is a constant. State the values of \\(R\\) and \\(k\\), and give the value of \\(\\alpha\\) correct to 4 significant figures.",
+                        "bbox": [
+                            93,
+                            88,
+                            528,
+                            118
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            88,
+                            528,
+                            118
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 12,
+                "bbox": [
+                    93,
+                    501,
+                    107,
+                    517
+                ],
+                "level": 93,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the smallest positive value of \\(\\theta\\) satisfying the equation \\(\\operatorname {f}(\\theta) = 17\\)",
+                        "bbox": [
+                            109,
+                            501,
+                            426,
+                            517
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            501,
+                            528,
+                            517
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 13,
+                "bbox": [
+                    70,
+                    402,
+                    88,
+                    418
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\int f(\\theta) \\mathrm{d}\\theta\\)",
+                        "bbox": [
+                            93,
+                            396,
+                            168,
+                            419
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            402,
+                            528,
+                            418
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The expression \\(\\operatorname {f}(\\theta)\\) is defined by \\(\\operatorname {f}(\\theta) = 12 \\sin \\theta \\cos \\theta + 16 \\cos^2 \\theta\\)",
+                "bbox": [
+                    69,
+                    62,
+                    383,
+                    78
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

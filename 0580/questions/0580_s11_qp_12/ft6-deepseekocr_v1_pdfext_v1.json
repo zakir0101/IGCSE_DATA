@@ -353,7 +353,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........$\\leqslant d <$",
+                "text": "Answer .........\\(\\leqslant d <\\)",
                 "bbox": [
                     277,
                     737,
@@ -362,9 +362,7 @@
                 ],
                 "page_number": 2,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -381,10 +379,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX command found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "5",
@@ -822,7 +817,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer $AC =$",
+                "text": "Answer \\(AC =\\)",
                 "bbox": [
                     312,
                     745,
@@ -1788,7 +1783,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a) $BD =$",
+                        "text": "Answer(a) \\(BD =\\)",
                         "bbox": [
                             298,
                             650,
@@ -2374,7 +2369,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(a)(i) .........$min$",
+                                "text": "Answer(a)(i) .........\\(min\\)",
                                 "bbox": [
                                     317,
                                     165,
@@ -2430,7 +2425,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(a)(ii) .........$km$",
+                                "text": "Answer(a)(ii) .........\\(km\\)",
                                 "bbox": [
                                     317,
                                     256,

@@ -1,0 +1,838 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            46,
+            68,
+            55,
+            84
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "A college uses two assessments, \\(X\\) and \\(Y,\\) when interviewing applicants for research posts at the college. These assessments have been used for a large number of applicants this year",
+                "bbox": [
+                    69,
+                    68,
+                    548,
+                    100
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The scores for a random sample of 9 applicants who took assessment \\(X\\) are as follows",
+                "bbox": [
+                    69,
+                    108,
+                    471,
+                    126
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[21.4\\quad 24.6\\quad 25.3\\quad 22.7\\quad 20.8\\quad 21.5\\quad 22.9\\quad 21.3\\quad 22.3\\]",
+                "bbox": [
+                    134,
+                    134,
+                    459,
+                    152
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The scores for a random sample of 10 applicants who took assessment \\(Y\\) are as follows",
+                "bbox": [
+                    69,
+                    161,
+                    477,
+                    178
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[20.9\\quad 23.5\\quad 24.8\\quad 21.9\\quad 23.4\\quad 24.0\\quad 23.8\\quad 24.1\\quad 25.1\\quad 25.8\\]",
+                "bbox": [
+                    117,
+                    187,
+                    478,
+                    204
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The interviewer believes that the population median score from assessment \\(X\\) is lower than the population median score from assessment \\(Y.\\)",
+                "bbox": [
+                    69,
+                    213,
+                    548,
+                    243
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Carry out a Wilcoxon rank-sum test, at the \\(1\\%\\) significance level, to test whether the interviewer's belief is supported by the data",
+                "bbox": [
+                    69,
+                    253,
+                    548,
+                    282
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[7]",
+                "bbox": [
+                    508,
+                    266,
+                    528,
+                    282
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 4,
+        "bbox": [
+            46,
+            68,
+            55,
+            84
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    69,
+                    136,
+                    87,
+                    152
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the values of \\(\\Sigma x\\) and \\(\\Sigma x^2\\)",
+                        "bbox": [
+                            92,
+                            135,
+                            244,
+                            152
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            136,
+                            528,
+                            152
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 4,
+                "bbox": [
+                    69,
+                    501,
+                    88,
+                    516
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State an assumption that is necessary for the confidence interval to be valid",
+                        "bbox": [
+                            92,
+                            500,
+                            445,
+                            516
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            501,
+                            528,
+                            516
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A rowing club has a large number of members. A random sample of 12 of these members is taken and the pulse rate, \\(x\\) beats per minute (bpm), of each is measured after a 30-minute training session. A \\(98\\%\\) confidence interval for the population mean pulse rate, \\(\\mu\\) bpm, is calculated from the sample as \\(64.22 < \\mu < 68.66\\)",
+                "bbox": [
+                    68,
+                    68,
+                    548,
+                    126
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 5,
+        "bbox": [
+            45,
+            69,
+            55,
+            84
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "There are three bus companies in a city. The council is investigating whether the buses reliably arrive at their destination on time. The results from random samples of buses from each company are summarised in the following table",
+                "bbox": [
+                    69,
+                    69,
+                    548,
+                    113
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    84,
+                    121,
+                    531,
+                    251
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td colspan=\"4\">Bus company</td></tr><tr><td>A</td><td>B</td><td>C</td><td>Total</td></tr><tr><td rowspan=\"3\">Arrival</td><td>Early</td><td>22</td><td>22</td><td>10</td><td>54</td></tr><tr><td>On time</td><td>30</td><td>52</td><td>42</td><td>124</td></tr><tr><td>Late</td><td>28</td><td>26</td><td>18</td><td>72</td></tr><tr><td></td><td>Total</td><td>80</td><td>100</td><td>70</td><td>250</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Test, at the \\(5\\%\\) significance level, whether the reliability of buses is independent of bus company.",
+                "bbox": [
+                    69,
+                    261,
+                    528,
+                    277
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[7]",
+                "bbox": [
+                    508,
+                    261,
+                    528,
+                    277
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            46,
+            70,
+            58,
+            86
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    69,
+                    149,
+                    87,
+                    165
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(c\\)",
+                        "bbox": [
+                            92,
+                            149,
+                            185,
+                            165
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            506,
+                            150,
+                            526,
+                            165
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 6,
+                "bbox": [
+                    66,
+                    333,
+                    85,
+                    348
+                ],
+                "level": 66,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(\\mathrm{E}(X)\\)",
+                        "bbox": [
+                            92,
+                            333,
+                            206,
+                            348
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            333,
+                            528,
+                            348
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 7,
+                "bbox": [
+                    68,
+                    96,
+                    86,
+                    112
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The random variable \\(Y\\) is the sum of two independent values of \\(X.\\)",
+                        "bbox": [
+                            69,
+                            68,
+                            377,
+                            85
+                        ],
+                        "page_number": 7,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Write down the probability generating function of \\(Y\\) and hence find \\(\\text{Var}(Y)\\)",
+                        "bbox": [
+                            92,
+                            96,
+                            443,
+                            112
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            96,
+                            528,
+                            112
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The random variable \\(X\\) has probability generating function \\(\\mathrm{G}_X(t)\\) given by",
+                "bbox": [
+                    71,
+                    69,
+                    418,
+                    87
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{G}_X(t) = ct(1 + t)^5,\\]",
+                "bbox": [
+                    252,
+                    94,
+                    343,
+                    113
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "where \\(c\\) is a constant",
+                "bbox": [
+                    69,
+                    123,
+                    172,
+                    139
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 8,
+        "bbox": [
+            46,
+            68,
+            56,
+            85
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    69,
+                    200,
+                    87,
+                    216
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Sketch the graph of the probability density function of \\(X\\)",
+                        "bbox": [
+                            92,
+                            200,
+                            358,
+                            216
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            506,
+                            201,
+                            526,
+                            216
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 8,
+                "bbox": [
+                    69,
+                    516,
+                    87,
+                    531
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{E}(X)\\)",
+                        "bbox": [
+                            92,
+                            516,
+                            148,
+                            531
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            516,
+                            528,
+                            531
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 9,
+                "bbox": [
+                    68,
+                    69,
+                    86,
+                    85
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the exact value of the interquartile range of \\(X.\\)",
+                        "bbox": [
+                            92,
+                            69,
+                            331,
+                            85
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            69,
+                            528,
+                            85
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The continuous random variable \\(X\\) has cumulative distribution function F given by",
+                "bbox": [
+                    69,
+                    68,
+                    454,
+                    85
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{F}\\left(x\\right) = \\left\\{ \\begin{array}{ll}0 & x< 2,\\\\ \\displaystyle \\frac{\\left(x - 2\\right)^{2}}{12} & 2\\leqslant x< 4,\\\\ 1 - \\frac{\\left(8 - x\\right)^{2}}{24} & 4\\leqslant x\\leqslant 8,\\\\ 1 & x > 8. \\end{array} \\right.\\]",
+                "bbox": [
+                    209,
+                    92,
+                    384,
+                    185
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 10,
+        "bbox": [
+            46,
+            68,
+            56,
+            84
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    187,
+                    87,
+                    203
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find a \\(90\\%\\) confidence interval for the difference between the population mean lengths of the tails of adult wallabies in regions \\(X\\) and \\(Y. \\)",
+                        "bbox": [
+                            92,
+                            187,
+                            548,
+                            217
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            202,
+                            528,
+                            217
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 11,
+                "bbox": [
+                    69,
+                    109,
+                    88,
+                    124
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "The population mean lengths of the tails of adult wallabies in regions \\(X\\) and \\(Y\\) are \\(\\mu_{X}\\) cm and \\(\\mu_{Y}\\) cm respectively",
+                        "bbox": [
+                            69,
+                            68,
+                            548,
+                            101
+                        ],
+                        "page_number": 11,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Test, at the \\(10\\%\\) significance level, the null hypothesis \\(\\mu_{Y} - \\mu_{X} = 1.1\\) against the alternative hypothesis \\(\\mu_{Y} - \\mu_{X} > 1.1\\). State your conclusion in the context of the question",
+                        "bbox": [
+                            92,
+                            108,
+                            548,
+                            141
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            124,
+                            528,
+                            139
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Seva is investigating the lengths of the tails of adult wallabies in two regions of Australia, \\(X\\) and \\(Y.\\) He chooses a random sample of 50 adult wallabies from region \\(X\\) and records the lengths, \\(x\\mathrm{cm},\\) of their tails. He also chooses a random sample of 40 adult wallabies from region \\(Y\\) and records the lengths, \\(y\\mathrm{cm},\\) of their tails. His results are summarised as follows",
+                "bbox": [
+                    68,
+                    68,
+                    548,
+                    126
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\Sigma x = 1080\\qquad \\Sigma x^{2} = 23480\\qquad \\Sigma y = 940\\qquad \\Sigma y^{2} = 22 220\\]",
+                "bbox": [
+                    137,
+                    134,
+                    457,
+                    152
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "It cannot be assumed that the population variances of the two distributions are the same",
+                "bbox": [
+                    69,
+                    161,
+                    478,
+                    178
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

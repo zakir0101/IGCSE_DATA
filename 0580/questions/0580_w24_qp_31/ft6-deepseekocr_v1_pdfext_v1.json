@@ -2178,29 +2178,16 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "$( .........$",
+                                "text": "\\(( .........[1]\\)",
                                 "bbox": [
                                     372,
                                     137,
-                                    529,
+                                    549,
                                     153
                                 ],
                                 "page_number": 11,
                                 "is_pre": false,
                                 "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[1]",
-                                "bbox": [
-                                    509,
-                                    137,
-                                    529,
-                                    153
-                                ],
-                                "page_number": 11,
-                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -2280,29 +2267,16 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "$( .........$",
+                                "text": "\\(( .........[1]\\)",
                                 "bbox": [
                                     372,
                                     255,
-                                    529,
+                                    549,
                                     270
                                 ],
                                 "page_number": 11,
                                 "is_pre": false,
                                 "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[1]",
-                                "bbox": [
-                                    509,
-                                    255,
-                                    529,
-                                    270
-                                ],
-                                "page_number": 11,
-                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -2424,7 +2398,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$ml$",
+                                "text": ".........\\(ml\\)",
                                 "bbox": [
                                     382,
                                     241,
@@ -2508,7 +2482,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$g$",
+                                "text": ".........\\(g\\)",
                                 "bbox": [
                                     382,
                                     373,
@@ -3182,7 +3156,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm$",
+                        "text": ".........\\(cm\\)",
                         "bbox": [
                             381,
                             267,
@@ -3268,7 +3242,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm^2$",
+                        "text": ".........\\(cm^2\\)",
                         "bbox": [
                             381,
                             644,
@@ -3277,9 +3251,7 @@
                         ],
                         "page_number": 14,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -3296,9 +3268,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -3458,8 +3428,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "8",
@@ -3567,7 +3536,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$\\mathrm{cm}^3$",
+                                "text": ".........\\(\\mathrm{cm}^3\\)",
                                 "bbox": [
                                     381,
                                     421,
@@ -3576,9 +3545,7 @@
                                 ],
                                 "page_number": 16,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -3595,9 +3562,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(iii)",
@@ -3627,7 +3592,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$\\mathrm{cm}^3$",
+                                "text": ".........\\(\\mathrm{cm}^3\\)",
                                 "bbox": [
                                     381,
                                     537,
@@ -3636,9 +3601,7 @@
                                 ],
                                 "page_number": 16,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX command found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -3655,9 +3618,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(iv)",
@@ -3939,8 +3900,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "9",

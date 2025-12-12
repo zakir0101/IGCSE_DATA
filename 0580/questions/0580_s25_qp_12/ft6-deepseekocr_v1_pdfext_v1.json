@@ -2119,7 +2119,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$\\mathrm{cm}^2$",
+                        "text": ".........\\(\\mathrm{cm}^2\\)",
                         "bbox": [
                             381,
                             536,
@@ -2128,9 +2128,7 @@
                         ],
                         "page_number": 10,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2147,9 +2145,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -2454,8 +2450,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "17",
@@ -3305,7 +3300,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm$",
+                "text": ".........\\(cm\\)",
                 "bbox": [
                     381,
                     438,

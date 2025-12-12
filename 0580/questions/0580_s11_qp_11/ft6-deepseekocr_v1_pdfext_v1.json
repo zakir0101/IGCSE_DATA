@@ -540,7 +540,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer $ \\hspace{1cm} .........$",
+                "text": "Answer \\( \\hspace{1cm} .........\\)",
                 "bbox": [
                     328,
                     165,
@@ -549,9 +549,7 @@
                 ],
                 "page_number": 3,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -569,8 +567,7 @@
             }
         ],
         "issues": [
-            "normal text placed inside inline-latex-block",
-            "LaTeX command found outside math mode"
+            "normal text placed inside inline-latex-block"
         ],
         "has_issues": true
     },
@@ -602,7 +599,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........$cm^2$",
+                "text": "Answer .........\\(cm^2\\)",
                 "bbox": [
                     328,
                     299,
@@ -611,9 +608,7 @@
                 ],
                 "page_number": 3,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -630,10 +625,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX superscript (^) found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "7",
@@ -691,7 +683,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer .........$km$",
+                "text": "Answer .........\\(km\\)",
                 "bbox": [
                     328,
                     497,
@@ -904,7 +896,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer $x =$",
+                "text": "Answer \\(x =\\)",
                 "bbox": [
                     322,
                     299,
@@ -988,7 +980,7 @@
             },
             {
                 "type": "form_text",
-                "text": "Answer $x =$",
+                "text": "Answer \\(x =\\)",
                 "bbox": [
                     322,
                     497,
@@ -2541,7 +2533,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Answer(a) Angle $AOT =$",
+                        "text": "Answer(a) Angle \\(AOT =\\)",
                         "bbox": [
                             267,
                             409,
@@ -3001,7 +2993,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Answer(b)(ii) $x =$",
+                                "text": "Answer(b)(ii) \\(x =\\)",
                                 "bbox": [
                                     298,
                                     476,

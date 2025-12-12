@@ -807,29 +807,16 @@
             },
             {
                 "type": "form_text",
-                "text": "$( .........$",
+                "text": "\\(( .........[2]\\)",
                 "bbox": [
                     372,
                     672,
-                    528,
+                    548,
                     688
                 ],
                 "page_number": 4,
                 "is_pre": false,
                 "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[2]",
-                "bbox": [
-                    508,
-                    672,
-                    528,
-                    688
-                ],
-                "page_number": 4,
-                "is_pre": false,
                 "is_pot_pre": false
             }
         ],
@@ -1627,7 +1614,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$\\leqslant d <$ .........",
+                "text": ".........\\(\\leqslant d <\\) .........",
                 "bbox": [
                     362,
                     528,
@@ -1636,9 +1623,7 @@
                 ],
                 "page_number": 8,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1655,10 +1640,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX command found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "18",

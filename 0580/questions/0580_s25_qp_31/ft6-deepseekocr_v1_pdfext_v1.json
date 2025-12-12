@@ -1556,7 +1556,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm^2$",
+                "text": ".........\\(cm^2\\)",
                 "bbox": [
                     381,
                     484,
@@ -1565,9 +1565,7 @@
                 ],
                 "page_number": 9,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1584,10 +1582,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX superscript (^) found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "17",
@@ -1645,7 +1640,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm$",
+                "text": ".........\\(cm\\)",
                 "bbox": [
                     381,
                     718,
@@ -1729,7 +1724,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$\\$  .........$",
+                "text": "\\(\\\\)  .........$",
                 "bbox": [
                     373,
                     150,
@@ -1738,9 +1733,7 @@
                 ],
                 "page_number": 10,
                 "is_pre": false,
-                "issues": [
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1757,10 +1750,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "Escaped dollar outside math mode: ...$\\$  .........$..."
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "19",
@@ -2020,7 +2010,7 @@
             },
             {
                 "type": "form_text",
-                "text": "BC = .........$cm$",
+                "text": "BC = .........\\(cm\\)",
                 "bbox": [
                     353,
                     294,
@@ -2178,7 +2168,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\$  .........$",
+                        "text": "\\(\\\\)  .........$",
                         "bbox": [
                             372,
                             594,
@@ -2187,9 +2177,7 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$  .........$..."
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2207,8 +2195,7 @@
                     }
                 ],
                 "issues": [
-                    "Unbalanced inline math brackets: (=1, )=0",
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
+                    "Unbalanced inline math brackets: (=1, )=0"
                 ]
             },
             {
@@ -2255,7 +2242,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\$  .........$",
+                        "text": "\\(\\\\)  .........$",
                         "bbox": [
                             372,
                             737,
@@ -2264,9 +2251,7 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$  .........$..."
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2284,8 +2269,7 @@
                     }
                 ],
                 "issues": [
-                    "normal text placed inside inline-latex-block",
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
+                    "normal text placed inside inline-latex-block"
                 ]
             }
         ],

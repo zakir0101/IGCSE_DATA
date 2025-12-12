@@ -38,7 +38,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "average velocity = .........$m s^{-1}$",
+                        "text": "average velocity = .........\\(m s^{-1}\\)",
                         "bbox": [
                             256,
                             461,
@@ -47,9 +47,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -66,9 +64,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -162,8 +158,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -766,20 +761,6 @@
                             "caption": "",
                             "page": 6
                         },
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[b]",
-                        "bbox": [
-                            264,
-                            637,
-                            304,
-                            653
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1436,20 +1417,6 @@
                 "is_pot_pre": false
             },
             {
-                "type": "mark_text",
-                "text": "[Fig. 5.1]",
-                "bbox": [
-                    263,
-                    272,
-                    304,
-                    288
-                ],
-                "page_number": 9,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
                 "type": "text",
                 "text": "A cell of e.m.f. \\(E_{1}\\) and internal resistance \\(r_{1}\\) is connected in series with a resistor of resistance \\(R_{1}\\) and a uniform metal wire of total resistance \\(R_{2}\\)",
                 "bbox": [
@@ -1934,20 +1901,6 @@
                         "table": {
                             "html": "<table><tr><td></td><td>\\(\\alpha\\)-particle</td><td>\\(\\beta\\)-particle</td><td>\\(\\gamma\\)-radiation</td></tr><tr><td>charge</td><td></td><td></td><td>0</td></tr><tr><td>mass</td><td>4u</td><td></td><td></td></tr><tr><td>speed</td><td></td><td>up to 0.99c</td><td></td></tr></table>"
                         },
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "Fig. 7.1",
-                        "bbox": [
-                            264,
-                            375,
-                            304,
-                            390
-                        ],
-                        "page_number": 12,
-                        "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
                     },

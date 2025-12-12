@@ -764,7 +764,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$\\mathrm{\\S .........}$",
+                "text": "\\(\\mathrm{\\S .........}\\)",
                 "bbox": [
                     373,
                     425,
@@ -773,9 +773,7 @@
                 ],
                 "page_number": 4,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -793,8 +791,7 @@
             }
         ],
         "issues": [
-            "Unbalanced inline math brackets: (=1, )=0",
-            "LaTeX command found outside math mode"
+            "Unbalanced inline math brackets: (=1, )=0"
         ],
         "has_issues": true
     },
@@ -1492,7 +1489,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$cm^3$",
+                "text": ".........\\(cm^3\\)",
                 "bbox": [
                     382,
                     304,
@@ -1501,9 +1498,7 @@
                 ],
                 "page_number": 7,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1520,10 +1515,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX superscript (^) found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "15",
@@ -1868,7 +1860,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$\\mathrm{cm}^2$",
+                "text": ".........\\(\\mathrm{cm}^2\\)",
                 "bbox": [
                     381,
                     453,
@@ -1877,9 +1869,7 @@
                 ],
                 "page_number": 8,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1896,10 +1886,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX command found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "17",

@@ -231,7 +231,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$km/h$",
+                                "text": ".........\\(km/h\\)",
                                 "bbox": [
                                     394,
                                     503,
@@ -2432,7 +2432,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$mm^3$",
+                        "text": ".........\\(mm^3\\)",
                         "bbox": [
                             394,
                             347,
@@ -2441,9 +2441,7 @@
                         ],
                         "page_number": 13,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2460,9 +2458,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(d)",
@@ -3291,7 +3287,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm^2$",
+                        "text": ".........\\(cm^2\\)",
                         "bbox": [
                             394,
                             489,
@@ -3300,9 +3296,7 @@
                         ],
                         "page_number": 17,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -3319,9 +3313,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode"
-                ]
+                "issues": []
             }
         ],
         "content": [
@@ -3356,8 +3348,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "11",

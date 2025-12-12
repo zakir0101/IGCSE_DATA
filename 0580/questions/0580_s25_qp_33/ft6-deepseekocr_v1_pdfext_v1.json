@@ -433,7 +433,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$km$",
+                                "text": ".........\\(km\\)",
                                 "bbox": [
                                     381,
                                     492,
@@ -489,7 +489,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$min$",
+                                "text": ".........\\(min\\)",
                                 "bbox": [
                                     381,
                                     571,
@@ -1907,7 +1907,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\$  .........$",
+                        "text": "\\(\\\\)  .........$",
                         "bbox": [
                             372,
                             295,
@@ -1916,9 +1916,7 @@
                         ],
                         "page_number": 10,
                         "is_pre": false,
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$  .........$..."
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1935,9 +1933,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -2128,8 +2124,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "16",
@@ -3151,20 +3146,6 @@
                                 "page_number": 16,
                                 "is_pre": false,
                                 "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "shortest",
-                                "bbox": [
-                                    140,
-                                    244,
-                                    176,
-                                    258
-                                ],
-                                "page_number": 16,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -3415,7 +3396,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$cm$",
+                        "text": ".........\\(cm\\)",
                         "bbox": [
                             381,
                             430,
@@ -3500,7 +3481,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........$g$",
+                        "text": ".........\\(g\\)",
                         "bbox": [
                             381,
                             745,

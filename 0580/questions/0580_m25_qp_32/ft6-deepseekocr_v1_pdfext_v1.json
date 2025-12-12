@@ -1333,7 +1333,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........$\\mathrm{cm}^2$",
+                "text": ".........\\(\\mathrm{cm}^2\\)",
                 "bbox": [
                     380,
                     516,
@@ -1342,9 +1342,7 @@
                 ],
                 "page_number": 6,
                 "is_pre": false,
-                "issues": [
-                    "LaTeX command found outside math mode"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1361,10 +1359,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "LaTeX command found outside math mode"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "10",
@@ -1686,7 +1681,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........$km$",
+                                "text": ".........\\(km\\)",
                                 "bbox": [
                                     381,
                                     396,
@@ -2485,7 +2480,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "$\\$  .........$",
+                        "text": "\\(\\\\)  .........$",
                         "bbox": [
                             372,
                             190,
@@ -2494,9 +2489,7 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
-                        "issues": [
-                            "Escaped dollar outside math mode: ...$\\$  .........$..."
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2515,8 +2508,7 @@
                 ],
                 "issues": [
                     "Empty inline math environment \\(\\)",
-                    "Unbalanced inline math brackets: (=2, )=1",
-                    "Escaped dollar outside math mode: ...$\\$  .........$..."
+                    "Unbalanced inline math brackets: (=2, )=1"
                 ]
             },
             {

@@ -619,20 +619,6 @@
                         "page_number": 3,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 8]",
-                        "bbox": [
-                            501,
-                            737,
-                            548,
-                            754
-                        ],
-                        "page_number": 3,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -977,7 +963,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(\\beta =\\) .........$41^{\\circ}$",
+                        "text": "\\(\\beta =\\) .........\\(41^{\\circ}\\)",
                         "bbox": [
                             328,
                             398,
@@ -986,9 +972,7 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX superscript (^) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1007,7 +991,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "y = .........$21 \\text{mm}$",
+                        "text": "y = .........\\(21 \\text{mm}\\)",
                         "bbox": [
                             328,
                             449,
@@ -1016,9 +1000,7 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX command found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1091,10 +1073,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX superscript (^) found outside math mode",
-                    "LaTeX command found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(e)",
@@ -1133,20 +1112,6 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 9]",
-                        "bbox": [
-                            501,
-                            740,
-                            548,
-                            754
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -1199,8 +1164,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -1713,20 +1677,6 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 8]",
-                        "bbox": [
-                            501,
-                            336,
-                            548,
-                            351
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -2326,20 +2276,6 @@
                         "page_number": 10,
                         "is_pre": false,
                         "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[Total: 8]",
-                        "bbox": [
-                            501,
-                            505,
-                            548,
-                            519
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -2625,20 +2561,6 @@
                     426
                 ],
                 "page_number": 11,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "mark_text",
-                "text": "[Total: 7]",
-                "bbox": [
-                    501,
-                    411,
-                    548,
-                    425
-                ],
-                "page_number": 12,
                 "is_pre": false,
                 "issues": [],
                 "is_pot_pre": false
