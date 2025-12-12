@@ -33,6 +33,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -46,6 +47,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -59,6 +61,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -72,6 +75,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -85,6 +89,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -98,6 +103,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -111,6 +117,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -124,6 +131,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -139,7 +147,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -175,6 +184,7 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -188,6 +198,7 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -203,7 +214,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -228,6 +240,7 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -241,6 +254,9 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
+                                "issues": [
+                                    "LaTeX command found outside math mode"
+                                ],
                                 "is_pot_pre": false
                             },
                             {
@@ -256,6 +272,9 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
+                        ],
+                        "issues": [
+                            "LaTeX command found outside math mode"
                         ]
                     }
                 ],
@@ -271,6 +290,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -284,6 +304,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -297,9 +318,11 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -324,6 +347,7 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -337,12 +361,16 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
-        "content": []
+        "content": [],
+        "issues": [],
+        "has_issues": true
     },
     {
         "label": "2",
@@ -378,9 +406,11 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -405,6 +435,7 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -418,19 +449,9 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            529,
-                            619,
-                            528,
-                            635
+                        "issues": [
+                            "LaTeX command found outside math mode"
                         ],
-                        "page_number": 6,
-                        "is_pre": false,
                         "is_pot_pre": false
                     },
                     {
@@ -446,6 +467,9 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
+                ],
+                "issues": [
+                    "LaTeX command found outside math mode"
                 ]
             },
             {
@@ -471,6 +495,7 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -484,6 +509,7 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -499,7 +525,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(d)",
@@ -524,6 +551,7 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -537,6 +565,7 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -550,6 +579,7 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -576,9 +606,11 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
         "content": [
@@ -593,6 +625,7 @@
                 ],
                 "page_number": 6,
                 "is_pre": false,
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -622,6 +655,7 @@
                 ],
                 "page_number": 6,
                 "is_pre": false,
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -635,9 +669,12 @@
                 ],
                 "page_number": 6,
                 "is_pre": false,
+                "issues": [],
                 "is_pot_pre": false
             }
-        ]
+        ],
+        "issues": [],
+        "has_issues": true
     },
     {
         "label": "3",
@@ -684,35 +721,11 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "",
-                                "bbox": [
-                                    117,
-                                    119,
-                                    548,
-                                    135
-                                ],
-                                "page_number": 8,
-                                "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "",
-                                "bbox": [
-                                    117,
-                                    136,
-                                    548,
-                                    152
-                                ],
-                                "page_number": 8,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -737,9 +750,11 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -754,9 +769,11 @@
                         ],
                         "page_number": 8,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -792,6 +809,7 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -805,6 +823,7 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -820,7 +839,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(iii)",
@@ -845,6 +865,7 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -858,9 +879,11 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(iv)",
@@ -885,6 +908,7 @@
                                 ],
                                 "page_number": 9,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -898,6 +922,7 @@
                                 ],
                                 "page_number": 9,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -924,9 +949,11 @@
                                 ],
                                 "page_number": 9,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -941,6 +968,7 @@
                         ],
                         "page_number": 8,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -970,6 +998,7 @@
                         ],
                         "page_number": 8,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -983,12 +1012,15 @@
                         ],
                         "page_number": 8,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
-        "content": []
+        "content": [],
+        "issues": []
     },
     {
         "label": "4",
@@ -1024,19 +1056,7 @@
                         ],
                         "page_number": 10,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            518,
-                            112,
-                            528,
-                            128
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1052,7 +1072,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -1088,6 +1109,7 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1101,6 +1123,7 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1116,7 +1139,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -1141,6 +1165,7 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1154,6 +1179,9 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
+                                "issues": [
+                                    "LaTeX superscript (^) found outside math mode"
+                                ],
                                 "is_pot_pre": false
                             },
                             {
@@ -1180,8 +1208,12 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             }
+                        ],
+                        "issues": [
+                            "LaTeX superscript (^) found outside math mode"
                         ]
                     }
                 ],
@@ -1197,6 +1229,7 @@
                         ],
                         "page_number": 10,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1210,12 +1243,16 @@
                         ],
                         "page_number": 10,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
-        "content": []
+        "content": [],
+        "issues": [],
+        "has_issues": true
     },
     {
         "label": "5",
@@ -1251,19 +1288,7 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            524,
-                            428,
-                            528,
-                            445
-                        ],
-                        "page_number": 11,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1279,7 +1304,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -1304,19 +1330,7 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            524,
-                            508,
-                            528,
-                            523
-                        ],
-                        "page_number": 11,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1332,7 +1346,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -1357,19 +1372,7 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            502,
-                            611,
-                            528,
-                            627
-                        ],
-                        "page_number": 11,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1380,19 +1383,6 @@
                             611,
                             528,
                             627
-                        ],
-                        "page_number": 11,
-                        "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            501,
-                            612,
-                            528,
-                            628
                         ],
                         "page_number": 11,
                         "is_pre": false,
@@ -1411,7 +1401,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
         "content": [
@@ -1426,6 +1417,7 @@
                 ],
                 "page_number": 11,
                 "is_pre": false,
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1455,6 +1447,7 @@
                 ],
                 "page_number": 11,
                 "is_pre": false,
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1468,6 +1461,7 @@
                 ],
                 "page_number": 11,
                 "is_pre": false,
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1481,6 +1475,7 @@
                 ],
                 "page_number": 11,
                 "is_pre": false,
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1494,9 +1489,11 @@
                 ],
                 "page_number": 11,
                 "is_pre": false,
+                "issues": [],
                 "is_pot_pre": false
             }
-        ]
+        ],
+        "issues": []
     },
     {
         "label": "6",
@@ -1532,19 +1529,7 @@
                         ],
                         "page_number": 12,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            510,
-                            112,
-                            528,
-                            128
-                        ],
-                        "page_number": 12,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1560,7 +1545,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -1596,6 +1582,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1609,6 +1596,9 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
+                                "issues": [
+                                    "LaTeX command found outside math mode"
+                                ],
                                 "is_pot_pre": false
                             },
                             {
@@ -1624,6 +1614,9 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
+                        ],
+                        "issues": [
+                            "LaTeX command found outside math mode"
                         ]
                     },
                     {
@@ -1649,6 +1642,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1662,6 +1656,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1677,7 +1672,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(iii)",
@@ -1702,6 +1698,7 @@
                                 ],
                                 "page_number": 13,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1715,6 +1712,7 @@
                                 ],
                                 "page_number": 13,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1730,7 +1728,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(iv)",
@@ -1755,6 +1754,7 @@
                                 ],
                                 "page_number": 13,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1768,6 +1768,7 @@
                                 ],
                                 "page_number": 13,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1783,7 +1784,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(v)",
@@ -1808,6 +1810,7 @@
                                 ],
                                 "page_number": 13,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1821,6 +1824,7 @@
                                 ],
                                 "page_number": 13,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1837,19 +1841,6 @@
                                     "caption": "",
                                     "page": 13
                                 },
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "",
-                                "bbox": [
-                                    530,
-                                    610,
-                                    528,
-                                    625
-                                ],
-                                "page_number": 13,
-                                "is_pre": false,
                                 "is_pot_pre": false
                             },
                             {
@@ -1876,9 +1867,11 @@
                                 ],
                                 "page_number": 13,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -1893,6 +1886,7 @@
                         ],
                         "page_number": 12,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1922,6 +1916,7 @@
                         ],
                         "page_number": 12,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1935,12 +1930,16 @@
                         ],
                         "page_number": 12,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
-        "content": []
+        "content": [],
+        "issues": [],
+        "has_issues": true
     },
     {
         "label": "7",
@@ -1976,19 +1975,7 @@
                         ],
                         "page_number": 14,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            513,
-                            86,
-                            530,
-                            102
-                        ],
-                        "page_number": 14,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2004,7 +1991,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -2040,6 +2028,7 @@
                                 ],
                                 "page_number": 14,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2053,19 +2042,7 @@
                                 ],
                                 "page_number": 14,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "",
-                                "bbox": [
-                                    530,
-                                    657,
-                                    528,
-                                    672
-                                ],
-                                "page_number": 14,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2081,7 +2058,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -2106,19 +2084,7 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "",
-                                "bbox": [
-                                    503,
-                                    150,
-                                    528,
-                                    166
-                                ],
-                                "page_number": 15,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2134,7 +2100,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(iii)",
@@ -2159,6 +2126,7 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2172,9 +2140,11 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": true
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(iv)",
@@ -2199,6 +2169,7 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2212,19 +2183,7 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "",
-                                "bbox": [
-                                    503,
-                                    600,
-                                    528,
-                                    615
-                                ],
-                                "page_number": 15,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2251,9 +2210,11 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -2268,6 +2229,7 @@
                         ],
                         "page_number": 14,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2297,6 +2259,7 @@
                         ],
                         "page_number": 14,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2312,12 +2275,15 @@
                         "table": {
                             "html": "<table><tr><td></td><td>filament wire</td><td>connecting wires</td></tr><tr><td>diameter</td><td>\\(d\\)</td><td>\\(14d\\)</td></tr><tr><td>total length</td><td>\\(L\\)</td><td>\\(7.0L\\)</td></tr><tr><td>resistivity of metal<br>(at normal operating temperature)</td><td>\\(\\rho\\)</td><td>\\(0.028\\rho\\)</td></tr></table>"
                         },
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
-        "content": []
+        "content": [],
+        "issues": []
     },
     {
         "label": "8",
@@ -2353,19 +2319,7 @@
                         ],
                         "page_number": 16,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            530,
-                            270,
-                            528,
-                            286
-                        ],
-                        "page_number": 16,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2381,7 +2335,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -2406,6 +2361,7 @@
                         ],
                         "page_number": 16,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2421,6 +2377,7 @@
                         "table": {
                             "html": "<table><tr><td></td><td>proton</td><td>\\(\\beta ^{-}\\)particle</td><td>antineutrino</td></tr><tr><td>charge</td><td></td><td></td><td></td></tr><tr><td>mass</td><td></td><td></td><td></td></tr></table>"
                         },
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2434,19 +2391,7 @@
                         ],
                         "page_number": 16,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            530,
-                            454,
-                            528,
-                            469
-                        ],
-                        "page_number": 16,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2473,9 +2418,11 @@
                         ],
                         "page_number": 16,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
         "content": [
@@ -2490,6 +2437,7 @@
                 ],
                 "page_number": 16,
                 "is_pre": false,
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -2503,8 +2451,10 @@
                 ],
                 "page_number": 16,
                 "is_pre": false,
+                "issues": [],
                 "is_pot_pre": false
             }
-        ]
+        ],
+        "issues": []
     }
 ]

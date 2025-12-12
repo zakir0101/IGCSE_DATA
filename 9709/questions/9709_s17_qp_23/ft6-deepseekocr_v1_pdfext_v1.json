@@ -1,0 +1,852 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            45,
+            62,
+            58,
+            78
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Solve the equation \\(|x + a| = |2x - 5a|\\), giving \\(x\\) in terms of the positive constant \\(a\\)",
+                "bbox": [
+                    70,
+                    62,
+                    457,
+                    78
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    62,
+                    528,
+                    78
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 2,
+        "bbox": [
+            70,
+            430,
+            84,
+            446
+        ],
+        "level": 70,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Use logarithms to solve the equation \\(3^{x + 4} = 5^{2x}\\), giving your answer correct to 3 significant figures",
+                "bbox": [
+                    70,
+                    438,
+                    539,
+                    455
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    453,
+                    528,
+                    469
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 3,
+        "bbox": [
+            46,
+            62,
+            57,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 3,
+                "bbox": [
+                    76,
+                    62,
+                    93,
+                    78
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "By sketching a suitable pair of graphs, show that the equation",
+                        "bbox": [
+                            96,
+                            62,
+                            386,
+                            78
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[x^{3} = 11 - 2x\\]",
+                        "bbox": [
+                            265,
+                            83,
+                            328,
+                            99
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "has exactly one real root",
+                        "bbox": [
+                            93,
+                            106,
+                            215,
+                            121
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            106,
+                            528,
+                            121
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    93,
+                    409,
+                    114,
+                    425
+                ],
+                "level": 93,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the iterative formula",
+                        "bbox": [
+                            111,
+                            409,
+                            213,
+                            425
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[x_{n + 1} = \\sqrt[3]{(11 - 2x_n)}\\]",
+                        "bbox": [
+                            249,
+                            425,
+                            345,
+                            443
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "to find the root correct to 4 significant figures. Give the result of each iteration to 6 significant figures",
+                        "bbox": [
+                            93,
+                            445,
+                            548,
+                            475
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            458,
+                            528,
+                            474
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 4,
+        "bbox": [
+            46,
+            68,
+            56,
+            84
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Find the equation of the tangent to the curve \\(y = \\frac{\\mathrm{e}^{4x}}{2x + 3}\\) at the point on the curve for which \\(x = 0\\). Give your answer in the form \\(ax + by + c = 0\\) where \\(a, b\\) and \\(c\\) are integers",
+                "bbox": [
+                    70,
+                    61,
+                    548,
+                    102
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    86,
+                    528,
+                    102
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 5,
+        "bbox": [
+            46,
+            62,
+            56,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    229,
+                    72,
+                    387,
+                    230
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 5
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The variables \\(x\\) and \\(y\\) satisfy the equation \\(y = \\frac{K}{a^{2x}}\\), where \\(K\\) and \\(a\\) are constants. The graph of \\(\\ln y\\) against \\(x\\) is a straight line passing through the points (0.6, 1.81) and (1.4, 1.39), as shown in the diagram. Find the values of \\(K\\) and \\(a\\) correct to 2 significant figures.",
+                "bbox": [
+                    70,
+                    245,
+                    528,
+                    299
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[6]",
+                "bbox": [
+                    508,
+                    245,
+                    528,
+                    299
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 6,
+        "bbox": [
+            45,
+            63,
+            56,
+            78
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 6,
+                "bbox": [
+                    76,
+                    62,
+                    93,
+                    78
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the factor theorem to show that \\((x + 2)\\) is a factor of the expression",
+                        "bbox": [
+                            95,
+                            62,
+                            432,
+                            78
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[6x^{3} + 13x^{2} - 33x - 70\\]",
+                        "bbox": [
+                            243,
+                            84,
+                            351,
+                            100
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "and hence factorise the expression completely",
+                        "bbox": [
+                            93,
+                            107,
+                            317,
+                            123
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            107,
+                            528,
+                            123
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 7,
+                "bbox": [
+                    73,
+                    62,
+                    92,
+                    77
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Deduce the roots of the equation",
+                        "bbox": [
+                            94,
+                            62,
+                            250,
+                            77
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[6 + 13y - 33y^{2} - 70y^{3} = 0.\\]",
+                        "bbox": [
+                            232,
+                            84,
+                            362,
+                            100
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            84,
+                            528,
+                            100
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 8,
+        "bbox": [
+            46,
+            65,
+            59,
+            81
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    69,
+                    63,
+                    88,
+                    81
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\int (2 \\cos \\theta - 3)(\\cos \\theta + 1) \\mathrm{d}\\theta .\\)",
+                        "bbox": [
+                            93,
+                            61,
+                            255,
+                            85
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            65,
+                            528,
+                            81
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 9,
+                "bbox": [
+                    69,
+                    68,
+                    88,
+                    84
+                ],
+                "level": 69,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 9,
+                        "bbox": [
+                            99,
+                            62,
+                            116,
+                            84
+                        ],
+                        "level": 99,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Find \\(\\int \\left(\\frac{4}{2x + 1} + \\frac{1}{2x}\\right)\\mathrm{d}x.\\)",
+                                "bbox": [
+                                    117,
+                                    61,
+                                    242,
+                                    90
+                                ],
+                                "page_number": 9,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    507,
+                                    68,
+                                    527,
+                                    84
+                                ],
+                                "page_number": 9,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 9,
+                        "bbox": [
+                            96,
+                            511,
+                            117,
+                            527
+                        ],
+                        "level": 96,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Hence find \\(\\int_{1}^{4}\\left(\\frac{4}{2x + 1} + \\frac{1}{2x}\\right)\\mathrm{d}x,\\) giving your answer in the form \\(\\ln k.\\)",
+                                "bbox": [
+                                    117,
+                                    503,
+                                    448,
+                                    536
+                                ],
+                                "page_number": 9,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    507,
+                                    513,
+                                    527,
+                                    528
+                                ],
+                                "page_number": 9,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "8",
+        "page_number": 10,
+        "bbox": [
+            46,
+            62,
+            58,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 10,
+                "bbox": [
+                    76,
+                    324,
+                    93,
+                    340
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that",
+                        "bbox": [
+                            95,
+                            323,
+                            114,
+                            339
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\frac{\\mathrm{d}y}{\\mathrm{d}x} = \\frac{3}{2}\\sin t - \\frac{9}{4}\\cos t.\\]",
+                        "bbox": [
+                            143,
+                            323,
+                            245,
+                            344
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            327,
+                            528,
+                            343
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 11,
+                "bbox": [
+                    72,
+                    62,
+                    91,
+                    78
+                ],
+                "level": 72,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the coordinates of the minimum point, giving each coordinate correct to 3 significant figures",
+                        "bbox": [
+                            94,
+                            62,
+                            548,
+                            78
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            74,
+                            528,
+                            89
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(iii)",
+                "page_number": 11,
+                "bbox": [
+                    70,
+                    445,
+                    91,
+                    460
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the exact gradient of the normal to the curve at the point for which \\(x = 2\\)",
+                        "bbox": [
+                            93,
+                            445,
+                            465,
+                            460
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            445,
+                            528,
+                            460
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    236,
+                    73,
+                    379,
+                    232
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 10
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curve with parametric equations",
+                "bbox": [
+                    70,
+                    246,
+                    337,
+                    263
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[x = 2 - \\cos 2t,\\qquad y = 2\\sin^{3}t + 3\\cos^{3}t + 1\\]",
+                "bbox": [
+                    193,
+                    269,
+                    400,
+                    286
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "for \\(0\\leqslant t\\leqslant \\frac{1}{2}\\pi\\). The end-points of the curve are (1, 4) and (3, 3)",
+                "bbox": [
+                    70,
+                    292,
+                    376,
+                    309
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

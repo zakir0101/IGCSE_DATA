@@ -1,0 +1,2752 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            47,
+            62,
+            57,
+            78
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The temperature at midnight is \\(- 4^{\\circ}\\mathrm{C}\\)",
+                "bbox": [
+                    69,
+                    62,
+                    248,
+                    78
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The temperature at noon is \\(25^{\\circ}\\mathrm{C}\\)",
+                "bbox": [
+                    69,
+                    74,
+                    227,
+                    90
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Work out the difference between these two temperatures",
+                "bbox": [
+                    69,
+                    101,
+                    335,
+                    116
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": ".........$^\\circ \\mathrm{C}$",
+                "bbox": [
+                    381,
+                    139,
+                    548,
+                    155
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [
+                    "LaTeX command found outside math mode"
+                ],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[1]",
+                "bbox": [
+                    508,
+                    139,
+                    528,
+                    155
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": [
+            "LaTeX command found outside math mode"
+        ],
+        "has_issues": true
+    },
+    {
+        "label": "2",
+        "page_number": 2,
+        "bbox": [
+            46,
+            179,
+            55,
+            195
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "A gardener charges \\(\\)6.55\\(for each hour he works plus a fixed charge of\\) \\ \\(15.50\\)",
+                "bbox": [
+                    69,
+                    179,
+                    443,
+                    195
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [
+                    "Empty inline math environment \\(\\)",
+                    "normal text placed inside inline-latex-block"
+                ],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Calculate the total amount he charges when he works for 4 hours",
+                "bbox": [
+                    69,
+                    205,
+                    375,
+                    221
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "$\\$  .........$",
+                "bbox": [
+                    373,
+                    296,
+                    549,
+                    313
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [
+                    "Escaped dollar outside math mode: ...$\\$  .........$..."
+                ],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    508,
+                    297,
+                    528,
+                    313
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": [
+            "Empty inline math environment \\(\\)",
+            "normal text placed inside inline-latex-block",
+            "Escaped dollar outside math mode: ...$\\$  .........$..."
+        ],
+        "has_issues": true
+    },
+    {
+        "label": "3",
+        "page_number": 2,
+        "bbox": [
+            46,
+            336,
+            55,
+            351
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 2,
+                "bbox": [
+                    68,
+                    402,
+                    86,
+                    418
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Complete the stem-and-leaf diagram",
+                        "bbox": [
+                            92,
+                            401,
+                            267,
+                            417
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "table",
+                        "bbox": [
+                            90,
+                            425,
+                            372,
+                            548
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "table": {
+                            "html": "<table><tr><td>2</td><td></td></tr><tr><td>3</td><td></td></tr><tr><td>4</td><td></td></tr><tr><td>5</td><td></td></tr></table>"
+                        },
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "Key: 4 | 8 represents 48 pizzas",
+                        "bbox": [
+                            308,
+                            563,
+                            450,
+                            579
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            572,
+                            528,
+                            588
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 2,
+                "bbox": [
+                    68,
+                    598,
+                    87,
+                    614
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the median",
+                        "bbox": [
+                            92,
+                            598,
+                            173,
+                            614
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            637,
+                            528,
+                            653
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A delivery driver records the number of pizzas she delivers each month for one year",
+                "bbox": [
+                    69,
+                    335,
+                    463,
+                    351
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    152,
+                    361,
+                    441,
+                    392
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>48</td><td>44</td><td>39</td><td>28</td><td>57</td><td>22</td></tr><tr><td>36</td><td>41</td><td>54</td><td>57</td><td>49</td><td>52</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 3,
+        "bbox": [
+            46,
+            61,
+            56,
+            74
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Jonah has \\(750",
+                "bbox": [
+                    69,
+                    61,
+                    147,
+                    74
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [
+                    "Unbalanced inline math brackets: (=1, )=0"
+                ],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "He spends \\(\\frac{1}{4}\\) of this money on travel and some of this money on food",
+                "bbox": [
+                    69,
+                    75,
+                    396,
+                    96
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "He now has \\(437.50\\)",
+                "bbox": [
+                    69,
+                    97,
+                    173,
+                    112
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Work out the fraction of the \\(\\)750\\(he spends on food",
+                "bbox": [
+                    69,
+                    124,
+                    316,
+                    139
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [
+                    "Empty inline math environment \\(\\)",
+                    "Unbalanced inline math brackets: (=2, )=1"
+                ],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": ".........",
+                "bbox": [
+                    382,
+                    241,
+                    530,
+                    256
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    510,
+                    241,
+                    530,
+                    256
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": [
+            "Unbalanced inline math brackets: (=1, )=0",
+            "Empty inline math environment \\(\\)",
+            "Unbalanced inline math brackets: (=2, )=1"
+        ],
+        "has_issues": true
+    },
+    {
+        "label": "5",
+        "page_number": 3,
+        "bbox": [
+            46,
+            280,
+            57,
+            296
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The table shows part of a tram timetable",
+                "bbox": [
+                    69,
+                    280,
+                    262,
+                    296
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    180,
+                    307,
+                    413,
+                    411
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>Newpoint</td><td>Westhill</td></tr><tr><td>10 30</td><td>11 17</td></tr><tr><td>12 18</td><td></td></tr><tr><td>13 30</td><td>14 17</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "All the trams take the same number of minutes to complete the journey from Newport to Westhill",
+                "bbox": [
+                    69,
+                    421,
+                    530,
+                    438
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Complete the table",
+                "bbox": [
+                    69,
+                    448,
+                    163,
+                    464
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    508,
+                    460,
+                    528,
+                    476
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 3,
+        "bbox": [
+            46,
+            500,
+            56,
+            516
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Write 0.04628 correct to 2 significant figures",
+                "bbox": [
+                    69,
+                    500,
+                    283,
+                    516
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": ".........",
+                "bbox": [
+                    382,
+                    526,
+                    528,
+                    542
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[1]",
+                "bbox": [
+                    508,
+                    526,
+                    528,
+                    542
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 3,
+        "bbox": [
+            46,
+            565,
+            56,
+            581
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    185,
+                    575,
+                    408,
+                    696
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 3
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "On the Venn diagram, shade the region \\(A \\cup B\\)",
+                "bbox": [
+                    69,
+                    710,
+                    284,
+                    726
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[1]",
+                "bbox": [
+                    508,
+                    710,
+                    528,
+                    726
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "8",
+        "page_number": 4,
+        "bbox": [
+            46,
+            61,
+            56,
+            74
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Kai invests $5000 in an account paying simple interest at a rate of \\(r\\%\\) per year",
+                "bbox": [
+                    69,
+                    60,
+                    438,
+                    75
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "At the end of 8 years, the value of his investment is \\(\\)5700",
+                "bbox": [
+                    69,
+                    72,
+                    345,
+                    88
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [
+                    "Empty inline math environment \\(\\)"
+                ],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the value of \\(r\\)",
+                "bbox": [
+                    69,
+                    99,
+                    162,
+                    114
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "r = .........",
+                "bbox": [
+                    363,
+                    190,
+                    531,
+                    205
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    511,
+                    190,
+                    531,
+                    205
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": [
+            "Empty inline math environment \\(\\)"
+        ],
+        "has_issues": true
+    },
+    {
+        "label": "9",
+        "page_number": 4,
+        "bbox": [
+            46,
+            229,
+            55,
+            243
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    68,
+                    492,
+                    87,
+                    507
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Describe fully the single transformation that maps triangle \\(A\\) onto triangle \\(B\\)",
+                        "bbox": [
+                            92,
+                            491,
+                            450,
+                            507
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 4,
+                "bbox": [
+                    68,
+                    569,
+                    87,
+                    585
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "On the grid, draw the image of triangle \\(A\\) after a translation by the vector \\(\\begin{pmatrix} - 4 \\\\ 3 \\end{pmatrix}\\)",
+                        "bbox": [
+                            92,
+                            565,
+                            462,
+                            588
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            569,
+                            528,
+                            585
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    128,
+                    240,
+                    465,
+                    474
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 4
+                },
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "10",
+        "page_number": 4,
+        "bbox": [
+            47,
+            607,
+            63,
+            623
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Write 174 000 in standard form",
+                "bbox": [
+                    69,
+                    607,
+                    219,
+                    623
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": ".........",
+                "bbox": [
+                    381,
+                    661,
+                    530,
+                    677
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[1]",
+                "bbox": [
+                    510,
+                    661,
+                    530,
+                    677
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "11",
+        "page_number": 5,
+        "bbox": [
+            47,
+            62,
+            62,
+            76
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "A company surveys 40 of its employees",
+                "bbox": [
+                    69,
+                    61,
+                    259,
+                    76
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "In the survey, 3 employees say they walk to work",
+                "bbox": [
+                    69,
+                    73,
+                    303,
+                    89
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The company has a total of 1240 employees",
+                "bbox": [
+                    69,
+                    86,
+                    279,
+                    102
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the expected number of employees in the company who walk to work",
+                "bbox": [
+                    69,
+                    112,
+                    421,
+                    128
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": ".........",
+                "bbox": [
+                    382,
+                    243,
+                    530,
+                    258
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    510,
+                    243,
+                    530,
+                    258
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "12",
+        "page_number": 5,
+        "bbox": [
+            47,
+            281,
+            62,
+            297
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    202,
+                    293,
+                    390,
+                    413
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 5
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows a right-angled triangle",
+                "bbox": [
+                    69,
+                    428,
+                    271,
+                    443
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Calculate the value of \\(x\\)",
+                "bbox": [
+                    69,
+                    455,
+                    185,
+                    469
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "x = .........",
+                "bbox": [
+                    362,
+                    532,
+                    533,
+                    548
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    513,
+                    532,
+                    533,
+                    548
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "13",
+        "page_number": 5,
+        "bbox": [
+            47,
+            572,
+            63,
+            588
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Without using a calculator, work out \\(2\\frac{1}{4}\\div 1\\frac{7}{8}\\)",
+                "bbox": [
+                    69,
+                    570,
+                    304,
+                    590
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "You must show all your working and give your answer as a mixed number in its simplest form",
+                "bbox": [
+                    69,
+                    597,
+                    511,
+                    613
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": ".........",
+                "bbox": [
+                    381,
+                    755,
+                    533,
+                    771
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    513,
+                    755,
+                    533,
+                    771
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "14",
+        "page_number": 6,
+        "bbox": [
+            47,
+            61,
+            62,
+            75
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    185,
+                    73,
+                    405,
+                    256
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 6
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "\\(A\\) is the point (0, 2) and \\(B\\) is the point (8, 6)",
+                "bbox": [
+                    70,
+                    271,
+                    276,
+                    287
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the equation of line \\(AB\\)",
+                "bbox": [
+                    69,
+                    298,
+                    206,
+                    313
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Give your answer in the form \\(y = mx + c\\)",
+                "bbox": [
+                    69,
+                    324,
+                    266,
+                    339
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "y = .........",
+                "bbox": [
+                    362,
+                    388,
+                    531,
+                    405
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    511,
+                    388,
+                    531,
+                    405
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "15",
+        "page_number": 6,
+        "bbox": [
+            47,
+            428,
+            62,
+            444
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    188,
+                    438,
+                    405,
+                    583
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 6
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Three towns, \\(A\\), \\(B\\) and \\(C\\), are equidistant from each other",
+                "bbox": [
+                    69,
+                    597,
+                    337,
+                    613
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The bearing of \\(C\\) from \\(A\\) is \\(104^{\\circ}\\)",
+                "bbox": [
+                    69,
+                    610,
+                    225,
+                    625
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Calculate the bearing of \\(B\\) from \\(C\\)",
+                "bbox": [
+                    69,
+                    636,
+                    232,
+                    652
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "16",
+        "page_number": 7,
+        "bbox": [
+            46,
+            61,
+            62,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 7,
+                "bbox": [
+                    68,
+                    255,
+                    87,
+                    271
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the deceleration of the car between 240 and 320 seconds",
+                        "bbox": [
+                            92,
+                            255,
+                            382,
+                            271
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........m/s$^2$",
+                        "bbox": [
+                            381,
+                            320,
+                            548,
+                            336
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            320,
+                            528,
+                            336
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 7,
+                "bbox": [
+                    68,
+                    347,
+                    87,
+                    363
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Calculate the total distance the car travels during the 320 seconds",
+                        "bbox": [
+                            92,
+                            347,
+                            400,
+                            363
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........m",
+                        "bbox": [
+                            381,
+                            425,
+                            548,
+                            441
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            425,
+                            528,
+                            441
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The speed–time graph shows information about a car journey",
+                "bbox": [
+                    69,
+                    61,
+                    358,
+                    77
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    97,
+                    83,
+                    495,
+                    243
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 7
+                },
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "17",
+        "page_number": 7,
+        "bbox": [
+            46,
+            464,
+            62,
+            480
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "\\(W =\\) {students who walk to school}",
+                "bbox": [
+                    69,
+                    464,
+                    236,
+                    480
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "\\(G =\\) {students who wear glasses}",
+                "bbox": [
+                    69,
+                    478,
+                    225,
+                    494
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "There are 20 students in a class",
+                "bbox": [
+                    69,
+                    504,
+                    220,
+                    519
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "· 8 walk to school",
+                "bbox": [
+                    69,
+                    531,
+                    172,
+                    546
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "· 3 wear glasses and walk to school",
+                "bbox": [
+                    69,
+                    543,
+                    252,
+                    559
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "· 2 do not wear glasses and do not walk to school",
+                "bbox": [
+                    69,
+                    556,
+                    318,
+                    571
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Complete the Venn diagram",
+                "bbox": [
+                    69,
+                    582,
+                    205,
+                    598
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    185,
+                    603,
+                    408,
+                    727
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 7
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    508,
+                    727,
+                    528,
+                    743
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "18",
+        "page_number": 8,
+        "bbox": [
+            47,
+            62,
+            62,
+            77
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    68,
+                    410,
+                    86,
+                    426
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Draw the tangent to the graph at the point \\(x = 3\\)",
+                        "bbox": [
+                            92,
+                            409,
+                            319,
+                            426
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            410,
+                            528,
+                            426
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 8,
+                "bbox": [
+                    68,
+                    434,
+                    87,
+                    451
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use your tangent to find an estimate for the gradient of the curve at the point \\(x = 3\\)",
+                        "bbox": [
+                            92,
+                            434,
+                            482,
+                            451
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            381,
+                            474,
+                            530,
+                            491
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            510,
+                            474,
+                            530,
+                            491
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    144,
+                    73,
+                    448,
+                    375
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 8
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The graph of \\(y = \\mathrm{f}(x)\\) is drawn on the grid",
+                "bbox": [
+                    69,
+                    385,
+                    272,
+                    402
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "19",
+        "page_number": 8,
+        "bbox": [
+            47,
+            511,
+            63,
+            527
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 8,
+                "bbox": [
+                    69,
+                    511,
+                    87,
+                    527
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "\\(y\\) is directly proportional to \\(\\left(x - 1\\right)^{2}\\)",
+                        "bbox": [
+                            92,
+                            509,
+                            262,
+                            527
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "When \\(x = 4\\) , \\(y = 3\\)",
+                        "bbox": [
+                            92,
+                            524,
+                            188,
+                            540
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find \\(y\\) when \\(x = 7\\)",
+                        "bbox": [
+                            92,
+                            550,
+                            185,
+                            566
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "y = .........",
+                        "bbox": [
+                            361,
+                            641,
+                            530,
+                            657
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            510,
+                            641,
+                            530,
+                            657
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 8,
+                "bbox": [
+                    68,
+                    666,
+                    87,
+                    682
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "\\(m\\) is inversely proportional to the square root of \\(p\\)",
+                        "bbox": [
+                            91,
+                            666,
+                            327,
+                            682
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Explain what happens to the value of \\(m\\) when the value of \\(p\\) is multiplied by 9",
+                        "bbox": [
+                            91,
+                            690,
+                            458,
+                            707
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "20",
+        "page_number": 9,
+        "bbox": [
+            46,
+            61,
+            62,
+            75
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Two parcels are mathematically similar",
+                "bbox": [
+                    69,
+                    61,
+                    257,
+                    75
+                ],
+                "page_number": 9,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The larger parcel has volume \\(80 \\text{cm}^3\\) and height \\(5.2 \\text{cm}\\)",
+                "bbox": [
+                    69,
+                    72,
+                    330,
+                    88
+                ],
+                "page_number": 9,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The smaller parcel has volume \\(33.75 \\text{cm}^3\\)",
+                "bbox": [
+                    69,
+                    84,
+                    268,
+                    100
+                ],
+                "page_number": 9,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Calculate the height of the smaller parcel",
+                "bbox": [
+                    69,
+                    112,
+                    265,
+                    127
+                ],
+                "page_number": 9,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": ".........$cm$",
+                "bbox": [
+                    381,
+                    282,
+                    548,
+                    297
+                ],
+                "page_number": 9,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "21",
+        "page_number": 9,
+        "bbox": [
+            45,
+            320,
+            60,
+            336
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Solve the simultaneous equations",
+                "bbox": [
+                    69,
+                    320,
+                    229,
+                    336
+                ],
+                "page_number": 9,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "You must show all your working",
+                "bbox": [
+                    69,
+                    333,
+                    227,
+                    349
+                ],
+                "page_number": 9,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[4y + 3x = 13\\]",
+                "bbox": [
+                    249,
+                    348,
+                    312,
+                    364
+                ],
+                "page_number": 9,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[y = x^{2} - 18\\]",
+                "bbox": [
+                    255,
+                    366,
+                    312,
+                    382
+                ],
+                "page_number": 9,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "\\(x = .........\\) \\(y = .........\\)",
+                "bbox": [
+                    358,
+                    750,
+                    528,
+                    765
+                ],
+                "page_number": 9,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "22",
+        "page_number": 10,
+        "bbox": [
+            46,
+            61,
+            62,
+            75
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    61,
+                    87,
+                    75
+                ],
+                "level": 68,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 10,
+                        "bbox": [
+                            92,
+                            84,
+                            107,
+                            100
+                        ],
+                        "level": 92,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    110,
+                                    98,
+                                    229,
+                                    229
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "image": {
+                                    "caption": "",
+                                    "page": 10
+                                },
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "linear cubic quadratic reciprocal exponential",
+                                "bbox": [
+                                    129,
+                                    238,
+                                    465,
+                                    254
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    238,
+                                    528,
+                                    254
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 10,
+                        "bbox": [
+                            89,
+                            263,
+                            107,
+                            278
+                        ],
+                        "level": 89,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    111,
+                                    276,
+                                    275,
+                                    409
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "image": {
+                                    "caption": "",
+                                    "page": 10
+                                },
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "linear cubic quadratic reciprocal exponential",
+                                "bbox": [
+                                    128,
+                                    420,
+                                    465,
+                                    437
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    420,
+                                    528,
+                                    437
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "For each sketch, put a ring around the correct type of function shown",
+                        "bbox": [
+                            93,
+                            60,
+                            417,
+                            77
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    445,
+                    85,
+                    461
+                ],
+                "level": 68,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 10,
+                        "bbox": [
+                            91,
+                            445,
+                            107,
+                            461
+                        ],
+                        "level": 91,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "On the grid, sketch the curve \\(y = \\sin x\\) for \\(0^{\\circ} \\leqslant x \\leqslant 360^{\\circ}\\)",
+                                "bbox": [
+                                    115,
+                                    445,
+                                    398,
+                                    461
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    114,
+                                    465,
+                                    410,
+                                    636
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "image": {
+                                    "caption": "",
+                                    "page": 10
+                                },
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    634,
+                                    528,
+                                    650
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 10,
+                        "bbox": [
+                            89,
+                            656,
+                            107,
+                            672
+                        ],
+                        "level": 89,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Solve the equation \\(\\sin x + 0.4 = 0\\) for \\(0^{\\circ} \\leqslant x \\leqslant 360^{\\circ}\\)",
+                                "bbox": [
+                                    115,
+                                    656,
+                                    374,
+                                    672
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "23",
+        "page_number": 11,
+        "bbox": [
+            46,
+            61,
+            62,
+            77
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 11,
+                "bbox": [
+                    68,
+                    281,
+                    86,
+                    297
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\mathrm{n}\\big((E \\cup F)' \\cup S\\big)\\)",
+                        "bbox": [
+                            91,
+                            281,
+                            190,
+                            297
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            381,
+                            320,
+                            528,
+                            337
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            320,
+                            528,
+                            337
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 11,
+                "bbox": [
+                    68,
+                    346,
+                    87,
+                    362
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "One student is picked at random from those who study Spanish",
+                        "bbox": [
+                            92,
+                            346,
+                            389,
+                            362
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the probability that this student studies exactly two languages",
+                        "bbox": [
+                            92,
+                            372,
+                            405,
+                            388
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            381,
+                            500,
+                            528,
+                            516
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            500,
+                            528,
+                            516
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    185,
+                    69,
+                    408,
+                    216
+                ],
+                "page_number": 11,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 11
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The Venn diagram shows information about the number of students in a class",
+                "bbox": [
+                    69,
+                    228,
+                    431,
+                    245
+                ],
+                "page_number": 11,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Some study English \\((E)\\), some study French \\((F)\\), some study Spanish \\((S)\\) and some do not study any of these languages",
+                "bbox": [
+                    69,
+                    241,
+                    548,
+                    271
+                ],
+                "page_number": 11,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "24",
+        "page_number": 12,
+        "bbox": [
+            47,
+            61,
+            62,
+            74
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 12,
+                "bbox": [
+                    69,
+                    257,
+                    86,
+                    271
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find \\(\\overrightarrow{MN}\\)",
+                        "bbox": [
+                            92,
+                            255,
+                            143,
+                            271
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Give your answer in terms of \\(\\mathbf{a}\\) and/or \\(\\mathbf{b}\\) and in its simplest form",
+                        "bbox": [
+                            92,
+                            269,
+                            394,
+                            286
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "$\\overrightarrow{MN} =$ .........",
+                        "bbox": [
+                            349,
+                            320,
+                            529,
+                            337
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [
+                            "LaTeX command found outside math mode"
+                        ],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            509,
+                            320,
+                            529,
+                            337
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": [
+                    "LaTeX command found outside math mode"
+                ]
+            },
+            {
+                "label": "(b)",
+                "page_number": 12,
+                "bbox": [
+                    68,
+                    348,
+                    86,
+                    363
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The lines \\(MN\\) and \\(OR\\) are extended to meet at \\(S\\)",
+                        "bbox": [
+                            92,
+                            348,
+                            317,
+                            363
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the position vector of \\(S\\)",
+                        "bbox": [
+                            92,
+                            374,
+                            229,
+                            389
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Give your answer in terms of \\(\\mathbf{a}\\) and/or \\(\\mathbf{b}\\) and in its simplest form",
+                        "bbox": [
+                            92,
+                            387,
+                            394,
+                            403
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            382,
+                            584,
+                            529,
+                            599
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            509,
+                            584,
+                            529,
+                            599
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    110,
+                    71,
+                    483,
+                    187
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 12
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "\\(O\\) is the origin and \\(OPQR\\) is a parallelogram",
+                "bbox": [
+                    69,
+                    201,
+                    280,
+                    217
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "\\(M\\) is the midpoint of \\(PQ\\) and \\(N\\) divides \\(QR\\) in the ratio \\(2:1\\)",
+                "bbox": [
+                    69,
+                    215,
+                    352,
+                    230
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "\\(\\overrightarrow{OP} = \\mathbf{a}\\) and \\(\\overrightarrow{OR} = \\mathbf{b}\\)",
+                "bbox": [
+                    69,
+                    229,
+                    173,
+                    245
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": [],
+        "has_issues": true
+    }
+]

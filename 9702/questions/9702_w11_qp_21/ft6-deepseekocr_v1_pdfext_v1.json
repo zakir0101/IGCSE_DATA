@@ -33,19 +33,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            508,
-                            152,
-                            502,
-                            167
-                        ],
-                        "page_number": 4,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -61,7 +49,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -86,19 +75,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            508,
-                            296,
-                            502,
-                            311
-                        ],
-                        "page_number": 4,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -114,7 +91,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -150,6 +128,7 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -163,6 +142,9 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
+                                "issues": [
+                                    "LaTeX command found outside math mode"
+                                ],
                                 "is_pot_pre": false
                             },
                             {
@@ -178,6 +160,9 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
+                        ],
+                        "issues": [
+                            "LaTeX command found outside math mode"
                         ]
                     },
                     {
@@ -203,6 +188,7 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -216,6 +202,7 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -231,7 +218,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -246,12 +234,16 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
-        "content": []
+        "content": [],
+        "issues": [],
+        "has_issues": true
     },
     {
         "label": "2",
@@ -287,35 +279,11 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "form_text",
-                        "text": ".........",
-                        "bbox": [
-                            92,
-                            109,
-                            501,
-                            127
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[2]",
-                        "bbox": [
-                            481,
-                            109,
-                            501,
-                            127
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -351,6 +319,7 @@
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -364,6 +333,7 @@
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -379,7 +349,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -404,58 +375,7 @@
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "",
-                                "bbox": [
-                                    115,
-                                    573,
-                                    519,
-                                    588
-                                ],
-                                "page_number": 5,
-                                "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "",
-                                "bbox": [
-                                    116,
-                                    598,
-                                    519,
-                                    614
-                                ],
-                                "page_number": 5,
-                                "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "",
-                                "bbox": [
-                                    116,
-                                    645,
-                                    521,
-                                    660
-                                ],
-                                "page_number": 5,
-                                "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "",
-                                "bbox": [
-                                    506,
-                                    647,
-                                    501,
-                                    663
-                                ],
-                                "page_number": 5,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -471,7 +391,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -486,6 +407,7 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -515,9 +437,11 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -553,6 +477,7 @@
                                 ],
                                 "page_number": 6,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -566,6 +491,7 @@
                                 ],
                                 "page_number": 6,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -581,7 +507,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -606,6 +533,7 @@
                                 ],
                                 "page_number": 6,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -619,6 +547,7 @@
                                 ],
                                 "page_number": 6,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -634,7 +563,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -649,6 +579,7 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -678,12 +609,15 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
-        "content": []
+        "content": [],
+        "issues": []
     },
     {
         "label": "3",
@@ -730,35 +664,11 @@
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "horizontal component of velocity = .........$m s^{-1}$",
-                                "bbox": [
-                                    177,
-                                    474,
-                                    501,
-                                    491
-                                ],
-                                "page_number": 7,
-                                "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[1]",
-                                "bbox": [
-                                    481,
-                                    474,
-                                    501,
-                                    491
-                                ],
-                                "page_number": 7,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -783,6 +693,7 @@
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -796,6 +707,9 @@
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
+                                "issues": [
+                                    "LaTeX superscript (^) found outside math mode"
+                                ],
                                 "is_pot_pre": false
                             },
                             {
@@ -811,6 +725,9 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
+                        ],
+                        "issues": [
+                            "LaTeX superscript (^) found outside math mode"
                         ]
                     }
                 ],
@@ -826,9 +743,11 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -864,9 +783,11 @@
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -891,19 +812,7 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "",
-                                "bbox": [
-                                    504,
-                                    167,
-                                    502,
-                                    182
-                                ],
-                                "page_number": 8,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -919,7 +828,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(iii)",
@@ -944,19 +854,7 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "",
-                                "bbox": [
-                                    504,
-                                    283,
-                                    502,
-                                    299
-                                ],
-                                "page_number": 8,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -972,7 +870,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -987,6 +886,7 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1000,9 +900,11 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -1038,6 +940,7 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1051,6 +954,7 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1066,7 +970,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -1091,58 +996,7 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "",
-                                "bbox": [
-                                    116,
-                                    492,
-                                    520,
-                                    508
-                                ],
-                                "page_number": 8,
-                                "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "",
-                                "bbox": [
-                                    116,
-                                    519,
-                                    520,
-                                    535
-                                ],
-                                "page_number": 8,
-                                "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "",
-                                "bbox": [
-                                    116,
-                                    543,
-                                    521,
-                                    559
-                                ],
-                                "page_number": 8,
-                                "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "",
-                                "bbox": [
-                                    505,
-                                    542,
-                                    502,
-                                    558
-                                ],
-                                "page_number": 8,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1158,7 +1012,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -1173,9 +1028,11 @@
                         ],
                         "page_number": 8,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
         "content": [
@@ -1190,6 +1047,7 @@
                 ],
                 "page_number": 7,
                 "is_pre": false,
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -1219,9 +1077,12 @@
                 ],
                 "page_number": 7,
                 "is_pre": false,
+                "issues": [],
                 "is_pot_pre": false
             }
-        ]
+        ],
+        "issues": [],
+        "has_issues": true
     },
     {
         "label": "4",
@@ -1257,45 +1118,7 @@
                         ],
                         "page_number": 9,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "form_text",
-                        "text": "",
-                        "bbox": [
-                            92,
-                            92,
-                            520,
-                            108
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "form_text",
-                        "text": "",
-                        "bbox": [
-                            92,
-                            135,
-                            521,
-                            152
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            513,
-                            137,
-                            503,
-                            153
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1311,7 +1134,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -1336,19 +1160,7 @@
                         ],
                         "page_number": 9,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            503,
-                            313,
-                            501,
-                            329
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1364,7 +1176,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -1400,19 +1213,7 @@
                                 ],
                                 "page_number": 9,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "",
-                                "bbox": [
-                                    504,
-                                    754,
-                                    501,
-                                    770
-                                ],
-                                "page_number": 9,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1428,7 +1229,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -1453,6 +1255,7 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1466,6 +1269,7 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1479,6 +1283,7 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1492,6 +1297,7 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1505,6 +1311,7 @@
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1520,7 +1327,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -1535,6 +1343,7 @@
                         ],
                         "page_number": 9,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1564,12 +1373,15 @@
                         ],
                         "page_number": 9,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
-        "content": []
+        "content": [],
+        "issues": []
     },
     {
         "label": "5",
@@ -1605,9 +1417,11 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -1632,6 +1446,7 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1645,6 +1460,7 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1660,7 +1476,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -1696,6 +1513,7 @@
                                 ],
                                 "page_number": 11,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1709,6 +1527,7 @@
                                 ],
                                 "page_number": 11,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1724,7 +1543,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -1749,6 +1569,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1762,6 +1583,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1775,6 +1597,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1788,19 +1611,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "",
-                                "bbox": [
-                                    503,
-                                    229,
-                                    501,
-                                    245
-                                ],
-                                "page_number": 12,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1816,7 +1627,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(iii)",
@@ -1841,6 +1653,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1854,6 +1667,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1869,7 +1683,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -1884,6 +1699,7 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1913,9 +1729,11 @@
                         ],
                         "page_number": 11,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(d)",
@@ -1951,6 +1769,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1964,6 +1783,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1979,7 +1799,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -2004,6 +1825,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2017,6 +1839,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2032,7 +1855,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -2047,12 +1871,15 @@
                         ],
                         "page_number": 12,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
-        "content": []
+        "content": [],
+        "issues": []
     },
     {
         "label": "6",
@@ -2088,19 +1915,7 @@
                         ],
                         "page_number": 13,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            511,
-                            112,
-                            502,
-                            128
-                        ],
-                        "page_number": 13,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2116,7 +1931,8 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -2152,45 +1968,7 @@
                                 ],
                                 "page_number": 13,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "",
-                                "bbox": [
-                                    117,
-                                    529,
-                                    520,
-                                    546
-                                ],
-                                "page_number": 13,
-                                "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "",
-                                "bbox": [
-                                    117,
-                                    569,
-                                    521,
-                                    586
-                                ],
-                                "page_number": 13,
-                                "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "",
-                                "bbox": [
-                                    507,
-                                    580,
-                                    501,
-                                    596
-                                ],
-                                "page_number": 13,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2206,7 +1984,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -2231,6 +2010,7 @@
                                 ],
                                 "page_number": 13,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2244,6 +2024,7 @@
                                 ],
                                 "page_number": 13,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2259,7 +2040,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(iii)",
@@ -2284,6 +2066,7 @@
                                 ],
                                 "page_number": 14,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2297,6 +2080,7 @@
                                 ],
                                 "page_number": 14,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2312,7 +2096,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -2327,6 +2112,7 @@
                         ],
                         "page_number": 13,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2356,9 +2142,11 @@
                         ],
                         "page_number": 13,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -2394,6 +2182,7 @@
                                 ],
                                 "page_number": 14,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2407,6 +2196,7 @@
                                 ],
                                 "page_number": 14,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2422,7 +2212,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -2447,6 +2238,7 @@
                                 ],
                                 "page_number": 14,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2460,6 +2252,7 @@
                                 ],
                                 "page_number": 14,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2475,7 +2268,8 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -2490,6 +2284,7 @@
                         ],
                         "page_number": 14,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2519,6 +2314,7 @@
                         ],
                         "page_number": 14,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2532,12 +2328,15 @@
                         ],
                         "page_number": 14,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
-        "content": []
+        "content": [],
+        "issues": []
     },
     {
         "label": "7",
@@ -2573,6 +2372,7 @@
                         ],
                         "page_number": 15,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2586,9 +2386,11 @@
                         ],
                         "page_number": 15,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -2624,35 +2426,11 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": ".........",
-                                "bbox": [
-                                    117,
-                                    240,
-                                    501,
-                                    258
-                                ],
-                                "page_number": 15,
-                                "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "[1]",
-                                "bbox": [
-                                    481,
-                                    240,
-                                    501,
-                                    258
-                                ],
-                                "page_number": 15,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -2677,6 +2455,7 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2690,6 +2469,7 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2703,6 +2483,7 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2716,6 +2497,7 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2729,6 +2511,7 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2742,6 +2525,7 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2755,19 +2539,7 @@
                                 ],
                                 "page_number": 15,
                                 "is_pre": false,
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "mark_text",
-                                "text": "",
-                                "bbox": [
-                                    504,
-                                    452,
-                                    501,
-                                    468
-                                ],
-                                "page_number": 15,
-                                "is_pre": false,
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2783,10 +2555,12 @@
                                 "is_pre": false,
                                 "is_pot_pre": false
                             }
-                        ]
+                        ],
+                        "issues": []
                     }
                 ],
-                "content": []
+                "content": [],
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -2811,6 +2585,7 @@
                         ],
                         "page_number": 15,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2824,6 +2599,7 @@
                         ],
                         "page_number": 15,
                         "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2837,19 +2613,7 @@
                         ],
                         "page_number": 15,
                         "is_pre": false,
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "",
-                        "bbox": [
-                            504,
-                            595,
-                            501,
-                            611
-                        ],
-                        "page_number": 15,
-                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2865,9 +2629,11 @@
                         "is_pre": false,
                         "is_pot_pre": false
                     }
-                ]
+                ],
+                "issues": []
             }
         ],
-        "content": []
+        "content": [],
+        "issues": []
     }
 ]

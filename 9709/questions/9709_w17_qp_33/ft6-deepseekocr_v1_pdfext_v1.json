@@ -1,0 +1,1084 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            46,
+            62,
+            56,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Find the quotient and remainder when \\(x^{4}\\) is divided by \\(x^{2} + 2x - 1\\)",
+                "bbox": [
+                    70,
+                    62,
+                    387,
+                    78
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    62,
+                    528,
+                    78
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 3,
+        "bbox": [
+            46,
+            63,
+            56,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Two variable quantities \\(x\\) and \\(y\\) are believed to satisfy an equation of the form \\(y = C(a^{x})\\), where \\(C\\) and \\(a\\) are constants. An experiment produced four pairs of values of \\(x\\) and \\(y\\). The table below gives the corresponding values of \\(x\\) and \\(\\ln y\\)",
+                "bbox": [
+                    69,
+                    62,
+                    548,
+                    105
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "table",
+                "bbox": [
+                    214,
+                    110,
+                    404,
+                    152
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "table": {
+                    "html": "<table><tr><td>\\(x\\)</td><td>0.9</td><td>1.6</td><td>2.4</td><td>3.2</td></tr><tr><td>\\(\\ln y\\)</td><td>1.7</td><td>1.9</td><td>2.3</td><td>2.6</td></tr></table>"
+                },
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "By plotting \\(\\ln y\\) against \\(x\\) for these four pairs of values and drawing a suitable straight line, estimate the values of \\(C\\) and \\(a\\). Give your answers correct to 2 significant figures.",
+                "bbox": [
+                    70,
+                    164,
+                    528,
+                    192
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    164,
+                    528,
+                    192
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    170,
+                    212,
+                    445,
+                    434
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 3
+                },
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 4,
+        "bbox": [
+            45,
+            62,
+            55,
+            78
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 4,
+                "bbox": [
+                    75,
+                    88,
+                    93,
+                    103
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show by calculation that \\(\\alpha\\) lies between 2 and 3",
+                        "bbox": [
+                            95,
+                            88,
+                            324,
+                            103
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            88,
+                            528,
+                            103
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 5,
+                "bbox": [
+                    73,
+                    171,
+                    91,
+                    186
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "pre_text",
+                        "text": "Two iterative formulae, \\(A\\) and \\(B\\), derived from this equation are as follows:",
+                        "bbox": [
+                            70,
+                            62,
+                            425,
+                            78
+                        ],
+                        "page_number": 5,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_blockMath",
+                        "blockMath": "\\[x_{n + 1} = (3x_{n} + 7)^{\\frac{1}{3}}, \\quad (A)\\]",
+                        "bbox": [
+                            253,
+                            86,
+                            421,
+                            107
+                        ],
+                        "page_number": 5,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_blockMath",
+                        "blockMath": "\\[x_{n + 1} = \\frac{x_{n}^{3} - 7}{3}. \\quad (B)\\]",
+                        "bbox": [
+                            253,
+                            110,
+                            421,
+                            137
+                        ],
+                        "page_number": 5,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "pre_text",
+                        "text": "Each formula is used with initial value \\(x_{1} = 2.5\\)",
+                        "bbox": [
+                            70,
+                            144,
+                            298,
+                            160
+                        ],
+                        "page_number": 5,
+                        "is_pre": true,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "text",
+                        "text": "Show that one of these formulae produces a sequence which fails to converge, and use the other formula to calculate \\(\\alpha\\) correct to 2 decimal places. Give the result of each iteration to 4 decimal places",
+                        "bbox": [
+                            93,
+                            171,
+                            548,
+                            212
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            198,
+                            528,
+                            213
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The equation \\(x^{3} = 3x + 7\\) has one real root, denoted by \\(\\alpha\\)",
+                "bbox": [
+                    70,
+                    62,
+                    342,
+                    78
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 6,
+        "bbox": [
+            46,
+            62,
+            56,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 6,
+                "bbox": [
+                    76,
+                    62,
+                    93,
+                    78
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Prove the identity \\(\\tan (45^{\\circ} + x) + \\tan (45^{\\circ} - x) \\equiv 2 \\sec 2x.\\)",
+                        "bbox": [
+                            96,
+                            62,
+                            360,
+                            78
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            507,
+                            62,
+                            527,
+                            78
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 7,
+                "bbox": [
+                    73,
+                    62,
+                    92,
+                    78
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Hence sketch the graph of \\(y = \\tan (45^{\\circ} + x) + \\tan (45^{\\circ} - x)\\) for \\(0^{\\circ} \\leqslant x \\leqslant 90^{\\circ}\\)",
+                        "bbox": [
+                            95,
+                            62,
+                            448,
+                            78
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            62,
+                            528,
+                            78
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 8,
+        "bbox": [
+            45,
+            62,
+            56,
+            78
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 8,
+                "bbox": [
+                    76,
+                    91,
+                    93,
+                    108
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(\\frac{\\mathrm{dy}}{\\mathrm{dx}} = -\\frac{8x^{3} + y^{3}}{3xy^{2} + 4y^{3}}.\\)",
+                        "bbox": [
+                            96,
+                            89,
+                            235,
+                            110
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            94,
+                            528,
+                            110
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 9,
+                "bbox": [
+                    73,
+                    62,
+                    91,
+                    77
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Hence show that there are two points on the curve at which the tangent is parallel to the \\(x\\)-axis and find the coordinates of these points",
+                        "bbox": [
+                            93,
+                            62,
+                            548,
+                            90
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            73,
+                            528,
+                            89
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The equation of a curve is \\(2x^{4} + xy^{3} + y^{4} = 10.\\)",
+                "bbox": [
+                    69,
+                    61,
+                    293,
+                    78
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 10,
+        "bbox": [
+            46,
+            62,
+            57,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The variables \\(x\\) and \\(y\\) satisfy the differential equation",
+                "bbox": [
+                    70,
+                    62,
+                    323,
+                    78
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\frac{\\mathrm{d}y}{\\mathrm{d}x} = 4\\cos^2 y\\tan x,\\]",
+                "bbox": [
+                    251,
+                    84,
+                    343,
+                    110
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "for \\(0\\leqslant x< \\frac{1}{2}\\pi\\), and \\(x = 0\\) when \\(y = \\frac{1}{4}\\pi\\). Solve this differential equation and find the value of \\(x\\) when \\(y = \\frac{1}{3}\\pi\\)",
+                "bbox": [
+                    69,
+                    117,
+                    548,
+                    150
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[8]",
+                "bbox": [
+                    508,
+                    136,
+                    528,
+                    151
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 12,
+        "bbox": [
+            45,
+            62,
+            59,
+            78
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 12,
+                "bbox": [
+                    69,
+                    62,
+                    87,
+                    78
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The complex number \\(u\\) is given by \\(u = 8 - 15\\mathrm{i}\\). Showing all necessary working, find the two square roots of \\(u\\). Give answers in the form \\(a + \\mathrm{i}b\\), where the numbers \\(a\\) and \\(b\\) are real and exact",
+                        "bbox": [
+                            93,
+                            62,
+                            548,
+                            91
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            88,
+                            528,
+                            104
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 13,
+                "bbox": [
+                    69,
+                    62,
+                    88,
+                    78
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "On an Argand diagram, shade the region whose points represent complex numbers satisfying both the inequalities \\(|z - 2 - \\mathrm{i}| \\leqslant 2\\) and \\(0 \\leqslant \\arg (z - \\mathrm{i}) \\leqslant \\frac{1}{4}\\pi .\\)",
+                        "bbox": [
+                            93,
+                            62,
+                            548,
+                            92
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            78,
+                            528,
+                            92
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "8",
+        "page_number": 14,
+        "bbox": [
+            45,
+            67,
+            56,
+            83
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 14,
+                "bbox": [
+                    76,
+                    104,
+                    93,
+                    121
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Express \\(\\mathrm{f}(x)\\) in the form \\(A + \\frac{B}{x + 2} + \\frac{C}{2x - 1}\\)",
+                        "bbox": [
+                            95,
+                            101,
+                            306,
+                            126
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            107,
+                            528,
+                            123
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 15,
+                "bbox": [
+                    73,
+                    66,
+                    92,
+                    82
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Hence show that \\(\\int_{1}^{4} \\mathrm{f}(x) \\, \\mathrm{d}x = 6 + \\frac{1}{2} \\ln \\left(\\frac{16}{7}\\right)\\)",
+                        "bbox": [
+                            95,
+                            61,
+                            301,
+                            89
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            66,
+                            528,
+                            82
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Let \\(\\mathrm{f}(x) = \\frac{4x^{2} + 9x - 8}{(x + 2)(2x - 1)}\\)",
+                "bbox": [
+                    72,
+                    61,
+                    200,
+                    92
+                ],
+                "page_number": 14,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "9",
+        "page_number": 16,
+        "bbox": [
+            46,
+            62,
+            56,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 16,
+                "bbox": [
+                    76,
+                    260,
+                    93,
+                    275
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the exact values of the \\(x\\)-coordinates of the stationary points of the curve",
+                        "bbox": [
+                            95,
+                            260,
+                            465,
+                            276
+                        ],
+                        "page_number": 16,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            507,
+                            260,
+                            527,
+                            275
+                        ],
+                        "page_number": 16,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 17,
+                "bbox": [
+                    73,
+                    66,
+                    91,
+                    80
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that the exact value of the area of \\(R\\) is \\(18 - \\frac{42}{e}\\)",
+                        "bbox": [
+                            94,
+                            62,
+                            348,
+                            83
+                        ],
+                        "page_number": 17,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            66,
+                            528,
+                            81
+                        ],
+                        "page_number": 17,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    168,
+                    71,
+                    447,
+                    204
+                ],
+                "page_number": 16,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 16
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curve \\(y = (1 + x^2)\\mathrm{e}^{-\\frac{1}{2}x}\\) for \\(x \\geqslant 0\\). The shaded region \\(R\\) is enclosed by the curve, the \\(x\\)-axis and the lines \\(x = 0\\) and \\(x = 2\\)",
+                "bbox": [
+                    70,
+                    219,
+                    548,
+                    250
+                ],
+                "page_number": 16,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "10",
+        "page_number": 18,
+        "bbox": [
+            47,
+            62,
+            62,
+            78
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 18,
+                "bbox": [
+                    76,
+                    101,
+                    93,
+                    116
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that the lines do not intersect",
+                        "bbox": [
+                            95,
+                            101,
+                            265,
+                            116
+                        ],
+                        "page_number": 18,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            101,
+                            528,
+                            117
+                        ],
+                        "page_number": 18,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 18,
+                "bbox": [
+                    73,
+                    498,
+                    93,
+                    513
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Calculate the acute angle between the directions of the lines",
+                        "bbox": [
+                            95,
+                            498,
+                            381,
+                            513
+                        ],
+                        "page_number": 18,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            498,
+                            528,
+                            513
+                        ],
+                        "page_number": 18,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(iii)",
+                "page_number": 19,
+                "bbox": [
+                    70,
+                    62,
+                    91,
+                    77
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the equation of the plane which passes through the point (3, \\(-2, -1\\)) and which is parallel to both \\(l\\) and \\(m\\). Give your answer in the form \\(ax + by + cz = d\\)",
+                        "bbox": [
+                            93,
+                            62,
+                            548,
+                            90
+                        ],
+                        "page_number": 19,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            73,
+                            528,
+                            89
+                        ],
+                        "page_number": 19,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The equations of two lines \\(l\\) and \\(m\\) are \\(\\mathbf{r} = 3\\mathbf{i} - \\mathbf{j} - 2\\mathbf{k} + \\lambda (-\\mathbf{i} + \\mathbf{j} + 4\\mathbf{k})\\) and \\(\\mathbf{r} = 4\\mathbf{i} + 4\\mathbf{j} - 3\\mathbf{k} + \\mu (2\\mathbf{i} + \\mathbf{j} - 2\\mathbf{k})\\) respectively",
+                "bbox": [
+                    70,
+                    62,
+                    548,
+                    91
+                ],
+                "page_number": 18,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]
