@@ -1,0 +1,1450 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            46,
+            62,
+            58,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Find the sum of the first \\(n\\) terms of the series",
+                "bbox": [
+                    69,
+                    62,
+                    285,
+                    78
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\frac{1}{1\\times 3} +\\frac{1}{2\\times 4} +\\frac{1}{3\\times 5} +\\ldots\\]",
+                "bbox": [
+                    235,
+                    80,
+                    362,
+                    107
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "and deduce the sum to infinity",
+                "bbox": [
+                    69,
+                    112,
+                    218,
+                    128
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    113,
+                    528,
+                    129
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 2,
+        "bbox": [
+            45,
+            157,
+            58,
+            173
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "For the sequence \\(u_{1}, u_{2}, u_{3}, \\ldots\\) , it is given that \\(u_{1} = 1\\) and \\(u_{r + 1} = \\frac{3u_{r} - 2}{4}\\) for all \\(r\\). Prove by mathematical induction that \\(u_{n} = 4\\left(\\frac{3}{4}\\right)^{n} - 2\\), for all positive integers \\(n\\)",
+                "bbox": [
+                    69,
+                    152,
+                    548,
+                    194
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    177,
+                    528,
+                    192
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 2,
+        "bbox": [
+            45,
+            216,
+            57,
+            232
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The curve \\(C\\) has equation",
+                "bbox": [
+                    69,
+                    215,
+                    194,
+                    232
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[xy + (x + y)^{3} = 1.\\]",
+                "bbox": [
+                    255,
+                    232,
+                    338,
+                    249
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Show that \\(\\frac{\\mathrm{dy}}{\\mathrm{dx}} = - \\frac{3}{4}\\) at the point \\(A\\left(1, 0\\right)\\) on \\(C\\)",
+                "bbox": [
+                    69,
+                    253,
+                    267,
+                    278
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    258,
+                    528,
+                    273
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the value of \\(\\frac{\\mathrm{d}^{2}y}{\\mathrm{dx}^{2}}\\) at \\(A\\)",
+                "bbox": [
+                    69,
+                    291,
+                    200,
+                    319
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    297,
+                    528,
+                    313
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 2,
+        "bbox": [
+            45,
+            341,
+            57,
+            356
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Let",
+                "bbox": [
+                    69,
+                    341,
+                    90,
+                    356
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[I_{n} = \\int_{1}^{\\mathrm{e}}x^{2}(\\ln x)^{n}\\mathrm{d}x,\\]",
+                "bbox": [
+                    249,
+                    355,
+                    346,
+                    385
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "for \\(n \\geqslant 0\\). Show that, for all \\(n \\geqslant 1\\),",
+                "bbox": [
+                    69,
+                    387,
+                    234,
+                    402
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[I_{n} = \\frac{1}{3}\\mathrm{e}^{3} - \\frac{1}{3} n I_{n - 1}.\\]",
+                "bbox": [
+                    255,
+                    407,
+                    340,
+                    427
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    408,
+                    528,
+                    424
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the exact value of \\(I_{3}\\)",
+                "bbox": [
+                    69,
+                    441,
+                    196,
+                    457
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    441,
+                    528,
+                    457
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 2,
+        "bbox": [
+            45,
+            480,
+            57,
+            496
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The matrix \\(\\mathbf{A}\\) has an eigenvalue \\(\\lambda\\) with corresponding eigenvector \\(\\mathbf{e}\\). Prove that the matrix \\((\\mathbf{A} + k\\mathbf{I})\\), where \\(k\\) is a real constant and \\(\\mathbf{I}\\) is the identity matrix, has an eigenvalue \\((\\lambda + k)\\) with corresponding eigenvector \\(\\mathbf{e}\\)",
+                "bbox": [
+                    69,
+                    478,
+                    548,
+                    521
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    508,
+                    508,
+                    528,
+                    523
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The matrix \\(\\mathbf{B}\\) is given by",
+                "bbox": [
+                    69,
+                    531,
+                    191,
+                    548
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathbf{B} = \\left( \\begin{array}{ccc}2 & 2 & -3 \\\\ 2 & 2 & 3 \\\\ -3 & 3 & 3 \\end{array} \\right).\\]",
+                "bbox": [
+                    250,
+                    548,
+                    350,
+                    592
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Two of the eigenvalues of \\(\\mathbf{B}\\) are \\(-3\\) and \\(4\\). Find corresponding eigenvectors",
+                "bbox": [
+                    69,
+                    594,
+                    432,
+                    610
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    594,
+                    528,
+                    610
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Given that \\(\\begin{pmatrix} 1 \\\\ -1 \\\\ -2 \\end{pmatrix}\\) is an eigenvector of \\(\\mathbf{B}\\), find the corresponding eigenvalue",
+                "bbox": [
+                    69,
+                    619,
+                    429,
+                    662
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[1]",
+                "bbox": [
+                    508,
+                    632,
+                    528,
+                    647
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Hence find the eigenvalues of \\(\\mathbf{C}\\), where",
+                "bbox": [
+                    69,
+                    669,
+                    259,
+                    685
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathbf{C} = \\begin{pmatrix} -1 & 2 & -3 \\\\ 2 & -1 & 3 \\\\ -3 & 3 & 0 \\end{pmatrix},\\]",
+                "bbox": [
+                    243,
+                    688,
+                    352,
+                    734
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "and state corresponding eigenvectors",
+                "bbox": [
+                    69,
+                    739,
+                    250,
+                    754
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    739,
+                    528,
+                    754
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 3,
+        "bbox": [
+            45,
+            67,
+            57,
+            83
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The curve \\(C\\) has equation \\(y = \\frac{x^{2}}{x - 2}\\). Find the equations of the asymptotes of \\(C\\)",
+                "bbox": [
+                    69,
+                    61,
+                    451,
+                    88
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    66,
+                    528,
+                    83
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find the coordinates of the turning points on \\(C\\)",
+                "bbox": [
+                    69,
+                    96,
+                    298,
+                    114
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    96,
+                    528,
+                    113
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Draw a sketch of \\(C\\)",
+                "bbox": [
+                    69,
+                    122,
+                    168,
+                    139
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    122,
+                    528,
+                    139
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 3,
+        "bbox": [
+            45,
+            169,
+            57,
+            186
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Expand \\(\\left(z + \\frac{1}{z}\\right)^4 \\left(z - \\frac{1}{z}\\right)^2\\) and, by substituting \\(z = \\cos \\theta + \\mathrm{i} \\sin \\theta\\), find integers \\(p, q, r, s\\) such that",
+                "bbox": [
+                    69,
+                    161,
+                    533,
+                    192
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[64\\sin^{2}\\theta\\cos^{4}\\theta = p + q\\cos 2\\theta +r\\cos 4\\theta +s\\cos 6\\theta .\\]",
+                "bbox": [
+                    176,
+                    198,
+                    417,
+                    216
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[6]",
+                "bbox": [
+                    508,
+                    200,
+                    528,
+                    217
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Using the substitution \\(x = 2 \\cos \\theta\\), show that",
+                "bbox": [
+                    69,
+                    232,
+                    282,
+                    248
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\int_{1}^{2} x^{4} \\sqrt{(4 - x^{2})} \\, \\mathrm{d}x = \\frac{4}{3} \\pi + \\sqrt{3}.\\]",
+                "bbox": [
+                    228,
+                    253,
+                    369,
+                    286
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    262,
+                    528,
+                    278
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "8",
+        "page_number": 3,
+        "bbox": [
+            45,
+            314,
+            57,
+            330
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 3,
+                "bbox": [
+                    76,
+                    341,
+                    93,
+                    356
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Let \\(u = - \\alpha + \\beta + \\gamma\\). Show that \\(u + 2\\alpha = 1\\), and hence find a cubic equation having roots \\(- \\alpha + \\beta + \\gamma\\), \\(\\alpha - \\beta + \\gamma\\), \\(\\alpha + \\beta - \\gamma\\)",
+                        "bbox": [
+                            95,
+                            341,
+                            548,
+                            371
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            354,
+                            528,
+                            370
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    73,
+                    384,
+                    93,
+                    400
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State the value of \\(\\alpha \\beta \\gamma\\) and hence find a cubic equation having roots \\(\\frac{1}{\\beta \\gamma}, \\frac{1}{\\gamma \\alpha}, \\frac{1}{\\alpha \\beta}\\)",
+                        "bbox": [
+                            95,
+                            379,
+                            486,
+                            409
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            387,
+                            528,
+                            402
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The cubic equation \\(x^{3} - x^{2} - 3x - 10 = 0\\) has roots \\(\\alpha , \\beta , \\gamma\\)",
+                "bbox": [
+                    69,
+                    313,
+                    348,
+                    330
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "9",
+        "page_number": 3,
+        "bbox": [
+            45,
+            430,
+            57,
+            446
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The plane \\(\\varPi_{1}\\) has parametric equation",
+                "bbox": [
+                    69,
+                    430,
+                    252,
+                    446
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathbf{r} = 2\\mathbf{i} - 3\\mathbf{j} + \\mathbf{k} + \\lambda (\\mathbf{i} - 2\\mathbf{j} - \\mathbf{k}) + \\mu (\\mathbf{i} + 2\\mathbf{j} - 2\\mathbf{k}).\\]",
+                "bbox": [
+                    187,
+                    452,
+                    406,
+                    469
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find a cartesian equation of \\(\\varPi_{1}\\)",
+                "bbox": [
+                    69,
+                    474,
+                    224,
+                    490
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    474,
+                    528,
+                    490
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The plane \\(\\varPi_{2}\\) has cartesian equation \\(3x - 2y - 3z = 4\\). Find the acute angle between \\(\\varPi_{1}\\) and \\(\\varPi_{2}\\)",
+                "bbox": [
+                    69,
+                    499,
+                    550,
+                    517
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Find a vector equation of the line of intersection of \\(\\varPi_{1}\\) and \\(\\varPi_{2}\\)",
+                "bbox": [
+                    69,
+                    525,
+                    369,
+                    541
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    525,
+                    528,
+                    541
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "10",
+        "page_number": 3,
+        "bbox": [
+            45,
+            565,
+            63,
+            581
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 3,
+                "bbox": [
+                    75,
+                    717,
+                    91,
+                    733
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "show that the number of solutions is infinite,",
+                        "bbox": [
+                            95,
+                            717,
+                            308,
+                            733
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            717,
+                            528,
+                            733
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    73,
+                    739,
+                    91,
+                    754
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "find the solution for which \\(x + y + z = 2\\)",
+                        "bbox": [
+                            96,
+                            738,
+                            286,
+                            754
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            738,
+                            528,
+                            754
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Find the set of values of \\(a\\) for which the system of equations",
+                "bbox": [
+                    69,
+                    563,
+                    359,
+                    581
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[x - 2y - 2z = -7,\\]",
+                "bbox": [
+                    271,
+                    587,
+                    356,
+                    603
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[2x + (a - 9)y - 10z = -11,\\]",
+                "bbox": [
+                    232,
+                    604,
+                    361,
+                    621
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[3x - 6y + 2az = -29,\\]",
+                "bbox": [
+                    259,
+                    622,
+                    361,
+                    638
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "has a unique solution",
+                "bbox": [
+                    69,
+                    644,
+                    177,
+                    659
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    644,
+                    528,
+                    659
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Show that the system has no solution in the case \\(a = -3\\)",
+                "bbox": [
+                    69,
+                    669,
+                    339,
+                    685
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    508,
+                    669,
+                    528,
+                    685
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "Given that \\(a = 5\\),",
+                "bbox": [
+                    69,
+                    696,
+                    153,
+                    711
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "11",
+        "page_number": 4,
+        "bbox": [
+            46,
+            62,
+            62,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "EITHER",
+                "page_number": 4,
+                "bbox": [
+                    70,
+                    101,
+                    119,
+                    116
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The curve \\(C\\) has cartesian equation",
+                        "bbox": [
+                            70,
+                            128,
+                            239,
+                            143
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[(x^{2} + y^{2})^{2} = a^{2}(x^{2} - y^{2}),\\]",
+                        "bbox": [
+                            239,
+                            149,
+                            355,
+                            167
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "where \\(a\\) is a positive constant. Show that \\(C\\) has polar equation",
+                        "bbox": [
+                            70,
+                            173,
+                            368,
+                            188
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[r^{2} = a^{2}\\cos 2\\theta .\\]",
+                        "bbox": [
+                            261,
+                            193,
+                            333,
+                            210
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            507,
+                            195,
+                            527,
+                            210
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Sketch \\(C\\) for \\(-\\pi < \\theta \\leqslant \\pi .\\)",
+                        "bbox": [
+                            70,
+                            227,
+                            191,
+                            242
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            228,
+                            528,
+                            243
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the area of the sector between \\(\\theta = - \\frac{1}{4}\\pi\\) and \\(\\theta = \\frac{1}{4}\\pi .\\)",
+                        "bbox": [
+                            70,
+                            253,
+                            337,
+                            269
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            254,
+                            528,
+                            269
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the polar coordinates of all points of \\(C\\) where the tangent is parallel to the initial line",
+                        "bbox": [
+                            70,
+                            278,
+                            499,
+                            295
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            508,
+                            280,
+                            528,
+                            295
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "OR",
+                "page_number": 4,
+                "bbox": [
+                    70,
+                    318,
+                    91,
+                    333
+                ],
+                "level": 70,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that the substitution \\(y = xz\\) reduces the differential equation",
+                        "bbox": [
+                            70,
+                            344,
+                            384,
+                            360
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\frac{1}{x}\\frac{\\mathrm{d}^{2}y}{\\mathrm{d}x^{2}} +\\left(\\frac{6}{x} -\\frac{2}{x^{2}}\\right)\\frac{\\mathrm{d}y}{\\mathrm{d}x} +\\left(\\frac{9}{x} -\\frac{6}{x^{2}} +\\frac{2}{x^{3}}\\right)y = 169\\sin 2x\\]",
+                        "bbox": [
+                            168,
+                            365,
+                            425,
+                            396
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "to the differential equation",
+                        "bbox": [
+                            70,
+                            402,
+                            199,
+                            418
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\frac{\\mathrm{d}^{2}z}{\\mathrm{d}x^{2}} +6\\frac{\\mathrm{d}z}{\\mathrm{d}x} +9z = 169\\sin 2x.\\]",
+                        "bbox": [
+                            228,
+                            419,
+                            367,
+                            448
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            425,
+                            528,
+                            441
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Find the particular solution for \\(y\\) in terms of \\(x\\), given that when \\(x = 0\\), \\(z = - 10\\) and \\(\\frac{\\mathrm{d}z}{\\mathrm{d}x} = 5\\)",
+                        "bbox": [
+                            70,
+                            464,
+                            499,
+                            485
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[10]",
+                        "bbox": [
+                            524,
+                            466,
+                            548,
+                            482
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Answer only **one** of the following two alternatives",
+                "bbox": [
+                    70,
+                    62,
+                    313,
+                    78
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

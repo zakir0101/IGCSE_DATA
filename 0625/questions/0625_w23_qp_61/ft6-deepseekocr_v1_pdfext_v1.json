@@ -465,7 +465,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "I = .........",
+                                "text": "I =   .........",
                                 "bbox": [
                                     331,
                                     218,
@@ -924,7 +924,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "R_2 = .........",
+                        "text": "\\( R_2 \\)  =   .........",
                         "bbox": [
                             322,
                             669,
@@ -933,9 +933,7 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -952,9 +950,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             }
         ],
         "content": [
@@ -1003,8 +999,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -1155,23 +1150,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "*",
+                                "text": "* The student places the lens at the distance \\(U = 20.0 \\text{cm}\\) from the illuminated object",
                                 "bbox": [
                                     115,
-                                    574,
-                                    129,
-                                    590
-                                ],
-                                "page_number": 8,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "The student places the lens at the distance \\(U = 20.0 \\text{cm}\\) from the illuminated object",
-                                "bbox": [
-                                    137,
                                     574,
                                     547,
                                     590
@@ -1677,23 +1658,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• supply of water at room temperature",
                 "bbox": [
                     69,
-                    140,
-                    82,
-                    154
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "supply of water at room temperature",
-                "bbox": [
-                    91,
                     139,
                     272,
                     154

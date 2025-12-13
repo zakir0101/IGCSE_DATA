@@ -203,7 +203,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "A = .........unit",
+                                "text": "A =   .........  unit",
                                 "bbox": [
                                     325,
                                     573,
@@ -217,7 +217,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "B = .........unit",
+                                "text": "B =   .........  unit",
                                 "bbox": [
                                     325,
                                     599,
@@ -417,6 +417,20 @@
                                 "is_pot_pre": false
                             },
                             {
+                                "type": "form_text",
+                                "text": "1",
+                                "bbox": [
+                                    116,
+                                    108,
+                                    546,
+                                    126
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
                                 "type": "text",
                                 "text": "2",
                                 "bbox": [
@@ -424,6 +438,20 @@
                                     150,
                                     126,
                                     165
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "2",
+                                "bbox": [
+                                    116,
+                                    161,
+                                    546,
+                                    179
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
@@ -583,7 +611,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "specific heat capacity = .........J kg\\(^{-1}\\) K\\(^{-1}\\)",
+                        "text": "specific heat capacity =   .........  J kg\\(^{-1}\\) K\\(^{-1}\\)",
                         "bbox": [
                             231,
                             490,
@@ -613,6 +641,20 @@
             }
         ],
         "content": [
+            {
+                "type": "form_text",
+                "text": "3",
+                "bbox": [
+                    115,
+                    212,
+                    546,
+                    229
+                ],
+                "page_number": 7,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
             {
                 "type": "mark_text",
                 "text": "[3]",
@@ -708,7 +750,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "amplitude = .........\\(cm\\)",
+                                "text": "amplitude =   .........  \\(cm\\)",
                                 "bbox": [
                                     286,
                                     124,
@@ -806,7 +848,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "T = .........\\(s\\)",
+                                "text": "T =   .........  \\(s\\)",
                                 "bbox": [
                                     330,
                                     374,
@@ -1195,7 +1237,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "E_{\\chi} = .........",
+                                "text": "\\( E_{\\chi} \\)  =   .........",
                                 "bbox": [
                                     322,
                                     165,
@@ -1204,9 +1246,7 @@
                                 ],
                                 "page_number": 13,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1223,9 +1263,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(iii)",
@@ -1255,7 +1293,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "E = .........",
+                                "text": "E =   .........",
                                 "bbox": [
                                     328,
                                     333,
@@ -1332,8 +1370,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "6",
@@ -1988,7 +2025,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "work function energy = .........J",
+                                "text": "work function energy =   .........  J",
                                 "bbox": [
                                     234,
                                     308,
@@ -2044,7 +2081,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "maximum speed = .........\\(\\text{ms}^{-1}\\)",
+                                "text": "maximum speed =   .........  \\(\\text{ms}^{-1}\\)",
                                 "bbox": [
                                     255,
                                     505,
@@ -2290,7 +2327,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "activity = .........Bq",
+                                "text": "activity =   .........  Bq",
                                 "bbox": [
                                     302,
                                     415,
@@ -2534,7 +2571,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "d = .........m",
+                                "text": "d =   .........  m",
                                 "bbox": [
                                     328,
                                     476,
@@ -2590,7 +2627,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "v = .........\\(\\text{ms}^{-1}\\)",
+                                "text": "v =   .........  \\(\\text{ms}^{-1}\\)",
                                 "bbox": [
                                     328,
                                     647,

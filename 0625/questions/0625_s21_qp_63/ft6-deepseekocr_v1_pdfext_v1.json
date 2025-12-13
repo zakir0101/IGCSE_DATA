@@ -106,7 +106,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "l = .........cm",
+                                "text": "l =   .........  cm",
                                 "bbox": [
                                     347,
                                     643,
@@ -176,7 +176,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "e = .........cm",
+                                "text": "e =   .........  cm",
                                 "bbox": [
                                     344,
                                     708,
@@ -337,7 +337,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "l_{\\mathrm{U}} = .........7.4",
+                        "text": "\\( l_{\\mathrm{U}} \\)  =   .........  7.4",
                         "bbox": [
                             340,
                             148,
@@ -346,9 +346,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -381,7 +379,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "e_{\\mathrm{U}} = .........\\(cm\\)",
+                        "text": "e_{\\mathrm{U}} =   .........  \\(cm\\)",
                         "bbox": [
                             337,
                             203,
@@ -439,7 +437,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "W_{\\mathrm{U}} =",
+                        "text": "\\( W_{\\mathrm{U}} \\)  =",
                         "bbox": [
                             334,
                             376,
@@ -448,9 +446,7 @@
                         ],
                         "page_number": 4,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -468,8 +464,6 @@
                     }
                 ],
                 "issues": [
-                    "LaTeX subscript (_) found outside math mode",
-                    "LaTeX subscript (_) found outside math mode",
                     "LaTeX subscript (_) found outside math mode"
                 ]
             },
@@ -949,7 +943,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "G = .........",
+                                "text": "G =   .........",
                                 "bbox": [
                                     342,
                                     137,
@@ -1019,7 +1013,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "r = .........\\(\\Omega\\)",
+                                "text": "r =   .........  \\(\\Omega\\)",
                                 "bbox": [
                                     345,
                                     244,
@@ -1519,7 +1513,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(a =\\) .........\\(cm\\)",
+                                "text": "\\(a =\\)   .........  \\(cm\\)",
                                 "bbox": [
                                     343,
                                     569,
@@ -1547,7 +1541,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(b =\\) .........\\(cm\\)",
+                                "text": "\\(b =\\)   .........  \\(cm\\)",
                                 "bbox": [
                                     343,
                                     621,
@@ -1647,7 +1641,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\alpha =\\) .........",
+                                "text": "\\(\\alpha =\\)   .........",
                                 "bbox": [
                                     343,
                                     203,
@@ -1859,6 +1853,33 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            92,
+                            440,
+                            528,
+                            455
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            440,
+                            528,
+                            455
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -2066,23 +2087,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• list any additional apparatus needed",
                 "bbox": [
                     69,
-                    218,
-                    82,
-                    232
-                ],
-                "page_number": 14,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "list any additional apparatus needed",
-                "bbox": [
-                    92,
                     218,
                     272,
                     232
@@ -2094,23 +2101,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• state the key variables to be kept constant",
                 "bbox": [
                     69,
-                    245,
-                    79,
-                    258
-                ],
-                "page_number": 14,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "state the key variables to be kept constant",
-                "bbox": [
-                    92,
                     244,
                     302,
                     258
@@ -2122,23 +2115,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• explain briefly how to carry out the experiment, including how \\(D\\) is to be measured and any precautions that must be taken to ensure reliable results",
                 "bbox": [
                     69,
-                    271,
-                    79,
-                    285
-                ],
-                "page_number": 14,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "explain briefly how to carry out the experiment, including how \\(D\\) is to be measured and any precautions that must be taken to ensure reliable results",
-                "bbox": [
-                    92,
                     270,
                     548,
                     297
@@ -2150,23 +2129,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• draw a table, with column headings, to show how to display the readings (you are **not** required to enter any readings in the table)",
                 "bbox": [
                     69,
-                    309,
-                    79,
-                    324
-                ],
-                "page_number": 14,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "draw a table, with column headings, to show how to display the readings (you are **not** required to enter any readings in the table)",
-                "bbox": [
-                    92,
                     309,
                     548,
                     336
@@ -2178,23 +2143,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• explain how to use the readings to reach a conclusion",
                 "bbox": [
                     69,
-                    349,
-                    79,
-                    363
-                ],
-                "page_number": 14,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "explain how to use the readings to reach a conclusion",
-                "bbox": [
-                    92,
                     349,
                     361,
                     363

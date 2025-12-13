@@ -596,7 +596,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "V_{1} =",
+                                "text": "\\( V_{1} \\)  =",
                                 "bbox": [
                                     324,
                                     614,
@@ -605,14 +605,12 @@
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "I_{1} =",
+                                "text": "\\( I_{1} \\)  =",
                                 "bbox": [
                                     325,
                                     640,
@@ -621,9 +619,7 @@
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -640,10 +636,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode",
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -673,7 +666,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "R_{1} =",
+                                "text": "\\( R_{1} \\)  =",
                                 "bbox": [
                                     322,
                                     757,
@@ -682,9 +675,7 @@
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -701,9 +692,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -893,7 +882,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "R_{\\mathrm{p}} = .........",
+                        "text": "\\( R_{\\mathrm{p}} \\)  =   .........",
                         "bbox": [
                             322,
                             464,
@@ -902,9 +891,7 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -921,9 +908,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(d)",
@@ -1128,8 +1113,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -1363,7 +1347,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance apart  .........",
+                                "text": "distance apart    .........",
                                 "bbox": [
                                     276,
                                     254,
@@ -1434,7 +1418,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "a = .........",
+                                "text": "a =   .........",
                                 "bbox": [
                                     328,
                                     372,
@@ -1490,7 +1474,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "b = .........",
+                                "text": "b =   .........",
                                 "bbox": [
                                     328,
                                     424,
@@ -1546,7 +1530,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\frac{b}{a} =\\) .........",
+                                "text": "\\(\\frac{b}{a} =\\)   .........",
                                 "bbox": [
                                     324,
                                     472,
@@ -1631,6 +1615,33 @@
                         "page_number": 9,
                         "is_pre": false,
                         "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            92,
+                            543,
+                            528,
+                            558
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            543,
+                            528,
+                            558
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],

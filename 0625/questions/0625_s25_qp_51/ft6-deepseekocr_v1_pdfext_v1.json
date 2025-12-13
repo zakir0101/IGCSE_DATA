@@ -91,7 +91,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "measurement 1 = .........\\(cm\\)",
+                                "text": "measurement 1 =   .........  \\(cm\\)",
                                 "bbox": [
                                     258,
                                     439,
@@ -105,7 +105,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "measurement 2 = .........\\(cm\\)",
+                                "text": "measurement 2 =   .........  \\(cm\\)",
                                 "bbox": [
                                     258,
                                     466,
@@ -161,7 +161,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "d = .........\\(cm\\)",
+                                "text": "d =   .........  \\(cm\\)",
                                 "bbox": [
                                     330,
                                     610,
@@ -293,7 +293,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "mD = .........g",
+                                "text": "mD =   .........  g",
                                 "bbox": [
                                     319,
                                     98,
@@ -349,7 +349,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "mC = .........g",
+                                "text": "mC =   .........  g",
                                 "bbox": [
                                     319,
                                     164,
@@ -405,7 +405,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "mB = .........g",
+                                "text": "mB =   .........  g",
                                 "bbox": [
                                     319,
                                     282,
@@ -493,7 +493,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "ρ = .........g/cm³",
+                        "text": "ρ =   .........  g/cm³",
                         "bbox": [
                             328,
                             449,
@@ -701,7 +701,92 @@
                         ],
                         "level": 89,
                         "parts": [],
-                        "content": [],
+                        "content": [
+                            {
+                                "type": "form_text",
+                                "text": "Pour \\(100 \\text{cm}^3\\) of hot water into beaker \\(\\mathbf{A}\\)",
+                                "bbox": [
+                                    110,
+                                    659,
+                                    339,
+                                    675
+                                ],
+                                "page_number": 4,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "Place the thermometer in the hot water in beaker \\(\\mathbf{A}\\)",
+                                "bbox": [
+                                    113,
+                                    672,
+                                    393,
+                                    688
+                                ],
+                                "page_number": 4,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "Record in Table 2.1 the temperature \\(\\theta\\) of the hot water",
+                                "bbox": [
+                                    113,
+                                    685,
+                                    405,
+                                    701
+                                ],
+                                "page_number": 4,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "Without delay, use the measuring cylinder to add \\(20 \\text{cm}^3\\) of the cold water to the water in beaker \\(\\mathbf{A}\\)",
+                                "bbox": [
+                                    113,
+                                    698,
+                                    547,
+                                    726
+                                ],
+                                "page_number": 4,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "Stir the water in beaker \\(\\mathbf{A}\\)",
+                                "bbox": [
+                                    113,
+                                    723,
+                                    267,
+                                    739
+                                ],
+                                "page_number": 4,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "Record in Table 2.1 the temperature of the mixture of hot and cold water",
+                                "bbox": [
+                                    113,
+                                    736,
+                                    494,
+                                    752
+                                ],
+                                "page_number": 4,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            }
+                        ],
                         "issues": []
                     }
                 ],
@@ -924,23 +1009,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· Draw a line below \\(\\mathbf{MR}\\), \\(10.0 \\text{cm}\\) long from \\(\\mathbf{B}\\) at an angle of incidence \\(i = 40^\\circ\\) to the normal and to the left of the normal. Label the end of this line \\(\\mathbf{A}\\)",
                         "bbox": [
                             92,
-                            540,
-                            102,
-                            555
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Draw a line below \\(\\mathbf{MR}\\), \\(10.0 \\text{cm}\\) long from \\(\\mathbf{B}\\) at an angle of incidence \\(i = 40^\\circ\\) to the normal and to the left of the normal. Label the end of this line \\(\\mathbf{A}\\)",
-                        "bbox": [
-                            114,
                             539,
                             548,
                             569
@@ -952,23 +1023,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· Place the reflecting face of the mirror vertically on the line \\(\\mathbf{MR}\\)",
                         "bbox": [
                             92,
-                            566,
-                            104,
-                            581
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Place the reflecting face of the mirror vertically on the line \\(\\mathbf{MR}\\)",
-                        "bbox": [
-                            114,
                             566,
                             421,
                             582
@@ -980,23 +1037,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· Place two pins, \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\), on line \\(\\mathbf{AB}\\) at a suitable distance apart for this type of ray-trace experiment. Label the positions of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\)",
                         "bbox": [
                             92,
-                            580,
-                            104,
-                            594
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Place two pins, \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\), on line \\(\\mathbf{AB}\\) at a suitable distance apart for this type of ray-trace experiment. Label the positions of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\)",
-                        "bbox": [
-                            114,
                             579,
                             548,
                             609
@@ -1008,23 +1051,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· View the images of pins \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) from the direction indicated by the eye in Fig. 3.1. Place two pins, \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\), so that pins \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\) and the images of \\(\\mathsf{P}_2\\) and \\(\\mathsf{P}_1\\) all appear exactly one behind the other. Label the positions of \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\)",
                         "bbox": [
                             92,
-                            607,
-                            104,
-                            621
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "View the images of pins \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) from the direction indicated by the eye in Fig. 3.1. Place two pins, \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\), so that pins \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\) and the images of \\(\\mathsf{P}_2\\) and \\(\\mathsf{P}_1\\) all appear exactly one behind the other. Label the positions of \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\)",
-                        "bbox": [
-                            114,
                             607,
                             548,
                             653
@@ -1092,7 +1121,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(\\alpha =\\) .........\\(^\\circ\\)",
+                        "text": "\\(\\alpha =\\)   .........  \\(^\\circ\\)",
                         "bbox": [
                             328,
                             136,
@@ -1164,23 +1193,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Draw a line below \\(\\mathbf{MR}\\), 10.0 cm long from \\(\\mathbf{B}\\) at an angle of incidence \\(i = 50^{\\circ}\\) to the normal and to the left of the normal. Label the end of this line \\(\\mathbf{C}\\)",
                         "bbox": [
                             92,
-                            648,
-                            104,
-                            663
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Draw a line below \\(\\mathbf{MR}\\), 10.0 cm long from \\(\\mathbf{B}\\) at an angle of incidence \\(i = 50^{\\circ}\\) to the normal and to the left of the normal. Label the end of this line \\(\\mathbf{C}\\)",
-                        "bbox": [
-                            114,
                             648,
                             548,
                             677
@@ -1192,23 +1207,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Place pins \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) on line \\(\\mathbf{CB}\\) at a suitable distance apart for this type of ray-trace experiment",
                         "bbox": [
                             92,
-                            674,
-                            104,
-                            689
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Place pins \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) on line \\(\\mathbf{CB}\\) at a suitable distance apart for this type of ray-trace experiment",
-                        "bbox": [
-                            114,
                             674,
                             548,
                             703
@@ -1220,23 +1221,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Place the reflecting face of the mirror vertically on the line \\(\\mathbf{MR}\\) with the centre of the mirror at \\(\\mathbf{B}\\)",
                         "bbox": [
                             91,
-                            700,
-                            104,
-                            715
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Place the reflecting face of the mirror vertically on the line \\(\\mathbf{MR}\\) with the centre of the mirror at \\(\\mathbf{B}\\)",
-                        "bbox": [
-                            114,
                             700,
                             548,
                             729
@@ -1333,7 +1320,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(\\beta =\\) .........\\(^\\circ\\)",
+                        "text": "\\(\\beta =\\)   .........  \\(^\\circ\\)",
                         "bbox": [
                             328,
                             137,
@@ -1774,23 +1761,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• draw a circuit diagram to show the circuit you use",
                 "bbox": [
                     69,
-                    348,
-                    79,
-                    362
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "draw a circuit diagram to show the circuit you use",
-                "bbox": [
-                    92,
                     348,
                     336,
                     362

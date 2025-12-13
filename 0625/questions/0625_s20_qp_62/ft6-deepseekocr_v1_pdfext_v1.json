@@ -164,7 +164,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "T_1 = .........",
+                                "text": "\\( T_1 \\)  =   .........",
                                 "bbox": [
                                     340,
                                     150,
@@ -173,9 +173,7 @@
                                 ],
                                 "page_number": 3,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -192,9 +190,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -343,7 +339,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "m_{\\mathrm{A}} = .........g",
+                        "text": "\\( m_{\\mathrm{A}} \\)  =   .........  g",
                         "bbox": [
                             334,
                             514,
@@ -352,9 +348,7 @@
                         ],
                         "page_number": 3,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -386,7 +380,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "m_{\\mathrm{B}} = .........109 \\mathrm{g}",
+                        "text": "\\( m_{\\mathrm{B}} \\)  =   .........  109 \\mathrm{g}",
                         "bbox": [
                             334,
                             575,
@@ -396,7 +390,7 @@
                         "page_number": 3,
                         "is_pre": false,
                         "issues": [
-                            "LaTeX subscript (_) found outside math mode"
+                            "LaTeX command found outside math mode"
                         ],
                         "is_pot_pre": false
                     },
@@ -416,7 +410,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "distance \\(d =\\) .........50.0 cm",
+                        "text": "distance \\(d =\\)   .........  50.0 cm",
                         "bbox": [
                             300,
                             628,
@@ -430,7 +424,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "period \\(T_3 =\\) .........1.39 s",
+                        "text": "period \\(T_3 =\\)   .........  1.39 s",
                         "bbox": [
                             305,
                             655,
@@ -444,7 +438,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "distance \\(d =\\) .........100.0 cm",
+                        "text": "distance \\(d =\\)   .........  100.0 cm",
                         "bbox": [
                             300,
                             681,
@@ -458,7 +452,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "period \\(T_4 =\\) .........2.02 s",
+                        "text": "period \\(T_4 =\\)   .........  2.02 s",
                         "bbox": [
                             305,
                             707,
@@ -472,8 +466,7 @@
                     }
                 ],
                 "issues": [
-                    "LaTeX subscript (_) found outside math mode",
-                    "LaTeX subscript (_) found outside math mode"
+                    "LaTeX command found outside math mode"
                 ]
             },
             {
@@ -834,23 +827,9 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· The student places the sliding contact C on the resistance wire at a distance \\(l = 10.0 \\text{cm}\\) from B",
                         "bbox": [
                             91,
-                            346,
-                            104,
-                            361
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The student places the sliding contact C on the resistance wire at a distance \\(l = 10.0 \\text{cm}\\) from B",
-                        "bbox": [
-                            114,
                             346,
                             547,
                             374
@@ -862,23 +841,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· Record, in the first row of Table 2.1, the potential difference \\(V\\) across the length \\(l = 10.0 \\text{cm}\\) of resistance wire, as shown on the voltmeter in Fig. 2.2",
                         "bbox": [
                             91,
-                            385,
-                            104,
-                            400
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Record, in the first row of Table 2.1, the potential difference \\(V\\) across the length \\(l = 10.0 \\text{cm}\\) of resistance wire, as shown on the voltmeter in Fig. 2.2",
-                        "bbox": [
-                            114,
                             385,
                             547,
                             413
@@ -922,23 +887,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "Fig. 2.2",
+                        "text": "Fig. 2.2 Fig. 2.3",
                         "bbox": [
                             152,
-                            579,
-                            194,
-                            595
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Fig. 2.3",
-                        "bbox": [
-                            388,
                             579,
                             430,
                             595
@@ -950,23 +901,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· Record, in the first row of Table 2.1, the current \\(I\\) in the circuit as shown in Fig. 2.3",
                         "bbox": [
                             92,
-                            606,
-                            106,
-                            621
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Record, in the first row of Table 2.1, the current \\(I\\) in the circuit as shown in Fig. 2.3",
-                        "bbox": [
-                            114,
                             606,
                             521,
                             621
@@ -978,23 +915,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· Complete the column headings in Table 2.1",
                         "bbox": [
                             91,
-                            632,
-                            106,
-                            647
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Complete the column headings in Table 2.1",
-                        "bbox": [
-                            115,
                             632,
                             333,
                             647
@@ -1220,7 +1143,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "VL = .........",
+                        "text": "VL =   .........",
                         "bbox": [
                             339,
                             281,
@@ -1352,7 +1275,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(\\theta_{\\mathrm{S}} =\\) .........\\(^\\circ \\mathrm{C}\\)",
+                        "text": "\\(\\theta_{\\mathrm{S}} =\\)   .........  \\(^\\circ \\mathrm{C}\\)",
                         "bbox": [
                             328,
                             480,
@@ -1406,7 +1329,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\theta_{\\mathrm{R}} =\\) .........\\(^\\circ \\mathrm{C}\\)",
+                                "text": "\\(\\theta_{\\mathrm{R}} =\\)   .........  \\(^\\circ \\mathrm{C}\\)",
                                 "bbox": [
                                     338,
                                     688,
@@ -1478,7 +1401,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\theta_{\\mathrm{F}} =\\) .........\\(^\\circ \\mathrm{C}\\)",
+                                "text": "\\(\\theta_{\\mathrm{F}} =\\)   .........  \\(^\\circ \\mathrm{C}\\)",
                                 "bbox": [
                                     340,
                                     113,
@@ -1506,7 +1429,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "S = .........",
+                                "text": "S =   .........",
                                 "bbox": [
                                     343,
                                     206,
@@ -1721,7 +1644,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(W =\\) .........",
+                        "text": "\\(W =\\)   .........",
                         "bbox": [
                             340,
                             527,

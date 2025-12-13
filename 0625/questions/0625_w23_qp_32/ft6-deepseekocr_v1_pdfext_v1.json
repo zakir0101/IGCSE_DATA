@@ -49,7 +49,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "speed = .........m/s",
+                                "text": "speed =   .........  m/s",
                                 "bbox": [
                                     305,
                                     449,
@@ -105,7 +105,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "maximum speed = .........m/s",
+                                "text": "maximum speed =   .........  m/s",
                                 "bbox": [
                                     255,
                                     499,
@@ -187,6 +187,33 @@
                                 "page_number": 2,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    115,
+                                    549,
+                                    528,
+                                    565
+                                ],
+                                "page_number": 2,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    549,
+                                    528,
+                                    565
+                                ],
+                                "page_number": 2,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -436,7 +463,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "percentage = .........%",
+                                "text": "percentage =   .........  %",
                                 "bbox": [
                                     280,
                                     378,
@@ -642,7 +669,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "moment of diver = .........\\(N\\) m",
+                        "text": "moment of diver =   .........  \\(N\\) m",
                         "bbox": [
                             256,
                             334,
@@ -740,7 +767,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "W = .........N",
+                                "text": "W =   .........  N",
                                 "bbox": [
                                     325,
                                     689,
@@ -840,7 +867,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "length of spring = .........\\(cm\\)",
+                                "text": "length of spring =   .........  \\(cm\\)",
                                 "bbox": [
                                     259,
                                     571,
@@ -947,7 +974,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "weight = .........N",
+                        "text": "weight =   .........  N",
                         "bbox": [
                             304,
                             137,
@@ -1070,12 +1097,26 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "gravitational potential energy = .........J",
+                                "text": "gravitational potential energy =   .........  J",
                                 "bbox": [
                                     194,
                                     630,
                                     548,
                                     646
+                                ],
+                                "page_number": 6,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "reason",
+                                "bbox": [
+                                    115,
+                                    657,
+                                    548,
+                                    672
                                 ],
                                 "page_number": 6,
                                 "is_pre": false,
@@ -1716,7 +1757,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance \\(d =\\) .........m",
+                                "text": "distance \\(d =\\)   .........  m",
                                 "bbox": [
                                     285,
                                     693,
@@ -2116,7 +2157,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "focal length = .........\\(cm\\)",
+                                "text": "focal length =   .........  \\(cm\\)",
                                 "bbox": [
                                     279,
                                     216,
@@ -2349,7 +2390,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "current = .........A",
+                                "text": "current =   .........  A",
                                 "bbox": [
                                     301,
                                     712,
@@ -2453,7 +2494,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "cost = .........cents",
+                        "text": "cost =   .........  cents",
                         "bbox": [
                             315,
                             297,
@@ -3143,7 +3184,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "half-life = .........h",
+                        "text": "half-life =   .........  h",
                         "bbox": [
                             300,
                             286,

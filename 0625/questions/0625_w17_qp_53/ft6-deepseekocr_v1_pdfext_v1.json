@@ -631,7 +631,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(I_{\\mathrm{S}} =\\) .........",
+                                "text": "\\(I_{\\mathrm{S}} =\\)   .........",
                                 "bbox": [
                                     324,
                                     455,
@@ -799,7 +799,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(V_{\\mathrm{S}} =\\) .........",
+                                "text": "\\(V_{\\mathrm{S}} =\\)   .........",
                                 "bbox": [
                                     324,
                                     718,
@@ -971,7 +971,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(R_{\\mathrm{S}} =\\) .........",
+                        "text": "\\(R_{\\mathrm{S}} =\\)   .........",
                         "bbox": [
                             322,
                             354,
@@ -1139,7 +1139,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "I_{\\mathrm{p}} =",
+                        "text": "\\( I_{\\mathrm{p}} \\)  =",
                         "bbox": [
                             324,
                             438,
@@ -1148,14 +1148,12 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
                         "type": "form_text",
-                        "text": "V_{\\mathrm{p}} =",
+                        "text": "\\( V_{\\mathrm{p}} \\)  =",
                         "bbox": [
                             324,
                             477,
@@ -1164,9 +1162,7 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1197,10 +1193,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode",
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             }
         ],
         "content": [
@@ -1263,8 +1256,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -1560,7 +1552,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "F_0",
+                                "text": "\\( F_0 \\)",
                                 "bbox": [
                                     334,
                                     549,
@@ -1569,15 +1561,11 @@
                                 ],
                                 "page_number": 9,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -1621,7 +1609,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "W_{\\mathrm{R}} =",
+                                "text": "\\( W_{\\mathrm{R}} \\)  =",
                                 "bbox": [
                                     320,
                                     641,
@@ -1630,9 +1618,7 @@
                                 ],
                                 "page_number": 9,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1649,9 +1635,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [],
@@ -1737,6 +1721,33 @@
                         "page_number": 10,
                         "is_pre": false,
                         "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            92,
+                            185,
+                            528,
+                            200
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            185,
+                            528,
+                            200
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],
@@ -1832,8 +1843,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "4",

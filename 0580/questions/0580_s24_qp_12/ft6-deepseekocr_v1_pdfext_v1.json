@@ -136,7 +136,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........mm",
+                        "text": ".........  mm",
                         "bbox": [
                             381,
                             477,
@@ -553,7 +553,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........°C",
+                "text": ".........  °C",
                 "bbox": [
                     381,
                     411,
@@ -625,7 +625,7 @@
             },
             {
                 "type": "form_text",
-                "text": "\\(\\\\)  .........$",
+                "text": "\\(\\\\)    .........",
                 "bbox": [
                     372,
                     567,
@@ -1023,7 +1023,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "........., .........",
+                        "text": ".........  ,   .........",
                         "bbox": [
                             383,
                             610,
@@ -1134,11 +1134,16 @@
                 ],
                 "page_number": 4,
                 "is_pre": false,
-                "issues": [],
+                "issues": [
+                    "Multiple display math blocks (0 found) with text inbetween (23</label>  <label>17</label>  <label>11</label>  <label>5)!!"
+                ],
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [
+            "Multiple display math blocks (0 found) with text inbetween (23</label>  <label>17</label>  <label>11</label>  <label>5)!!"
+        ],
+        "has_issues": true
     },
     {
         "label": "12",
@@ -1433,7 +1438,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........cm",
+                        "text": ".........  cm",
                         "bbox": [
                             381,
                             608,
@@ -1651,7 +1656,7 @@
             },
             {
                 "type": "form_text",
-                "text": "x = .........",
+                "text": "x =   .........",
                 "bbox": [
                     362,
                     402,
@@ -1861,7 +1866,7 @@
             },
             {
                 "type": "form_text",
-                "text": "x = .........",
+                "text": "x =   .........",
                 "bbox": [
                     362,
                     128,
@@ -1931,7 +1936,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........\\(\\leqslant l < .........\\)",
+                "text": ".........  \\(\\leqslant l <   .........  \\)",
                 "bbox": [
                     379,
                     257,
@@ -2210,7 +2215,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "CD = .........m",
+                        "text": "CD =   .........  m",
                         "bbox": [
                             353,
                             573,

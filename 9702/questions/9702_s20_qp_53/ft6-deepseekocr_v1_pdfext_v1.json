@@ -544,7 +544,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "gradient = .........",
+                                "text": "gradient =   .........",
                                 "bbox": [
                                     296,
                                     672,
@@ -600,7 +600,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "y-intercept = .........",
+                                "text": "y-intercept =   .........",
                                 "bbox": [
                                     283,
                                     195,
@@ -699,7 +699,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Q_0 =",
+                                "text": "\\( Q_0 \\)  =",
                                 "bbox": [
                                     322,
                                     378,
@@ -708,9 +708,7 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -727,9 +725,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -773,7 +769,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "absolute uncertainty in \\(C =\\) .........",
+                                "text": "absolute uncertainty in \\(C =\\)   .........",
                                 "bbox": [
                                     214,
                                     560,
@@ -833,7 +829,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "V = .........V",
+                        "text": "V =   .........  V",
                         "bbox": [
                             328,
                             716,
@@ -950,7 +946,6 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     }
 ]

@@ -49,7 +49,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "resultant vertical force = .........N",
+                                "text": "resultant vertical force =   .........  N",
                                 "bbox": [
                                     274,
                                     455,
@@ -111,6 +111,34 @@
                                     520,
                                     548,
                                     548
+                                ],
+                                "page_number": 2,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "suggestion",
+                                "bbox": [
+                                    115,
+                                    560,
+                                    546,
+                                    575
+                                ],
+                                "page_number": 2,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "explanation",
+                                "bbox": [
+                                    115,
+                                    585,
+                                    546,
+                                    600
                                 ],
                                 "page_number": 2,
                                 "is_pre": false,
@@ -191,7 +219,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "time = .........\\(s\\)",
+                                "text": "time =   .........  \\(s\\)",
                                 "bbox": [
                                     314,
                                     474,
@@ -317,7 +345,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance = .........\\(m\\)",
+                                "text": "distance =   .........  \\(m\\)",
                                 "bbox": [
                                     298,
                                     749,
@@ -482,7 +510,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "moment of force = .........Ncm",
+                        "text": "moment of force =   .........  Ncm",
                         "bbox": [
                             255,
                             398,
@@ -832,6 +860,33 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    117,
+                                    452,
+                                    528,
+                                    469
+                                ],
+                                "page_number": 5,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    452,
+                                    528,
+                                    469
+                                ],
+                                "page_number": 5,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -896,7 +951,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "pressure = .........N/cm²",
+                        "text": "pressure =   .........  N/cm²",
                         "bbox": [
                             292,
                             597,
@@ -1429,7 +1484,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "wavelength = .........\\(cm\\)",
+                        "text": "wavelength =   .........  \\(cm\\)",
                         "bbox": [
                             279,
                             356,
@@ -1515,7 +1570,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "speed = .........\\(cm/s\\)",
+                        "text": "speed =   .........  \\(cm/s\\)",
                         "bbox": [
                             305,
                             603,
@@ -1618,7 +1673,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "distance = .........\\(cm\\)",
+                        "text": "distance =   .........  \\(cm\\)",
                         "bbox": [
                             295,
                             344,
@@ -1851,23 +1906,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "**sample**",
+                        "text": "**sample** **property**",
                         "bbox": [
                             98,
-                            477,
-                            140,
-                            492
-                        ],
-                        "page_number": 11,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "**property**",
-                        "bbox": [
-                            278,
                             477,
                             327,
                             492
@@ -1879,23 +1920,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "A",
+                        "text": "A magnetic and magnetised",
                         "bbox": [
                             114,
-                            503,
-                            125,
-                            517
-                        ],
-                        "page_number": 11,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "magnetic and magnetised",
-                        "bbox": [
-                            227,
                             502,
                             356,
                             517
@@ -1907,23 +1934,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "B",
+                        "text": "B magnetic but not magnetised",
                         "bbox": [
                             114,
-                            529,
-                            124,
-                            543
-                        ],
-                        "page_number": 11,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "magnetic but not magnetised",
-                        "bbox": [
-                            227,
                             529,
                             372,
                             543
@@ -1935,23 +1948,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "C",
+                        "text": "C non-magnetic",
                         "bbox": [
                             114,
-                            556,
-                            124,
-                            570
-                        ],
-                        "page_number": 11,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "non-magnetic",
-                        "bbox": [
-                            228,
                             556,
                             298,
                             570
@@ -2420,6 +2419,33 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "resistance of the heating element =   .........  \\(\\Omega\\)",
+                        "bbox": [
+                            173,
+                            164,
+                            528,
+                            179
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            164,
+                            528,
+                            179
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -2498,7 +2524,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "voltage = .........V",
+                        "text": "voltage =   .........  V",
                         "bbox": [
                             300,
                             365,
@@ -2779,7 +2805,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "half-life = .........minutes",
+                                "text": "half-life =   .........  minutes",
                                 "bbox": [
                                     300,
                                     519,

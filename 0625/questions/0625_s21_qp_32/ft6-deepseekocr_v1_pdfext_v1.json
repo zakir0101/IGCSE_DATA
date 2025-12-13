@@ -109,7 +109,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "volume = .........\\(\\text{cm}^3\\)",
+                        "text": "volume =   .........  \\(\\text{cm}^3\\)",
                         "bbox": [
                             300,
                             631,
@@ -265,7 +265,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "speed = .........m/s",
+                                "text": "speed =   .........  m/s",
                                 "bbox": [
                                     305,
                                     447,
@@ -321,7 +321,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "speed = .........m/s",
+                                "text": "speed =   .........  m/s",
                                 "bbox": [
                                     305,
                                     499,
@@ -393,6 +393,33 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            92,
+                            552,
+                            528,
+                            567
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            552,
+                            528,
+                            567
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -425,7 +452,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "distance travelled = .........m",
+                        "text": "distance travelled =   .........  m",
                         "bbox": [
                             250,
                             645,
@@ -495,7 +522,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "average speed = .........m/s",
+                        "text": "average speed =   .........  m/s",
                         "bbox": [
                             262,
                             755,
@@ -625,7 +652,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "moment of weight of beam = .........unit .........",
+                        "text": "moment of weight of beam =   .........  unit   .........",
                         "bbox": [
                             205,
                             405,
@@ -1036,7 +1063,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "pressure of gas = .........\\(cm\\) of mercury",
+                                "text": "pressure of gas =   .........  \\(cm\\) of mercury",
                                 "bbox": [
                                     259,
                                     521,
@@ -1308,23 +1335,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "2.",
+                                "text": "2. the tube, along which the liquid expands, is narrow",
                                 "bbox": [
                                     114,
-                                    368,
-                                    123,
-                                    384
-                                ],
-                                "page_number": 8,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "the tube, along which the liquid expands, is narrow",
-                                "bbox": [
-                                    137,
                                     368,
                                     390,
                                     384
@@ -1739,7 +1752,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "time between pulses = .........\\(s\\)",
+                                "text": "time between pulses =   .........  \\(s\\)",
                                 "bbox": [
                                     234,
                                     433,
@@ -1782,7 +1795,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "frequency = .........\\(Hz\\)",
+                                "text": "frequency =   .........  \\(Hz\\)",
                                 "bbox": [
                                     286,
                                     540,
@@ -2300,7 +2313,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "resistance = .........\\(\\Omega\\)",
+                                "text": "resistance =   .........  \\(\\Omega\\)",
                                 "bbox": [
                                     285,
                                     539,
@@ -2556,6 +2569,33 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    118,
+                                    471,
+                                    528,
+                                    486
+                                ],
+                                "page_number": 14,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    471,
+                                    528,
+                                    486
+                                ],
+                                "page_number": 14,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2634,7 +2674,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "N_{\\mathrm{s}} = .........",
+                        "text": "\\( N_{\\mathrm{s}} \\)  =   .........",
                         "bbox": [
                             324,
                             692,
@@ -2643,9 +2683,7 @@
                         ],
                         "page_number": 14,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2662,9 +2700,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             }
         ],
         "content": [
@@ -2699,8 +2735,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "11",
@@ -2880,7 +2915,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "year = .........",
+                                "text": "year =   .........",
                                 "bbox": [
                                     313,
                                     681,

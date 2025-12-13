@@ -49,7 +49,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "weight = .........",
+                                "text": "weight =   .........",
                                 "bbox": [
                                     304,
                                     155,
@@ -101,6 +101,33 @@
                                 "page_number": 2,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    116,
+                                    229,
+                                    528,
+                                    245
+                                ],
+                                "page_number": 2,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    229,
+                                    528,
+                                    245
+                                ],
+                                "page_number": 2,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -234,7 +261,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "acceleration = .........",
+                                "text": "acceleration =   .........",
                                 "bbox": [
                                     276,
                                     200,
@@ -436,7 +463,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "impulse = .........",
+                                "text": "impulse =   .........",
                                 "bbox": [
                                     300,
                                     536,
@@ -492,7 +519,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "force = .........",
+                                "text": "force =   .........",
                                 "bbox": [
                                     311,
                                     689,
@@ -750,7 +777,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "efficiency = .........%",
+                                "text": "efficiency =   .........  %",
                                 "bbox": [
                                     289,
                                     496,
@@ -1334,7 +1361,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "frequency = .........",
+                                "text": "frequency =   .........",
                                 "bbox": [
                                     287,
                                     472,
@@ -1451,23 +1478,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "*",
+                        "text": "* draw a light ray from the violin to point X and from point X to the teacher",
                         "bbox": [
                             92,
-                            695,
-                            111,
-                            710
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "draw a light ray from the violin to point X and from point X to the teacher",
-                        "bbox": [
-                            115,
                             695,
                             469,
                             710
@@ -1638,7 +1651,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "p.d.........=",
+                        "text": "p.d  .........  =",
                         "bbox": [
                             316,
                             416,
@@ -1730,6 +1743,34 @@
                             608,
                             444,
                             624
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "Ammeter reading",
+                        "bbox": [
+                            92,
+                            677,
+                            547,
+                            693
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "Explanation",
+                        "bbox": [
+                            92,
+                            703,
+                            547,
+                            719
                         ],
                         "page_number": 9,
                         "is_pre": false,
@@ -1910,7 +1951,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "time = .........",
+                        "text": "time =   .........",
                         "bbox": [
                             313,
                             554,
@@ -2257,7 +2298,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "time = .........",
+                                "text": "time =   .........",
                                 "bbox": [
                                     314,
                                     239,
@@ -2313,7 +2354,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "charge = .........",
+                                "text": "charge =   .........",
                                 "bbox": [
                                     302,
                                     391,
@@ -2571,7 +2612,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........years ago",
+                                "text": ".........  years ago",
                                 "bbox": [
                                     348,
                                     563,
@@ -2887,7 +2928,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "average orbital speed = .........m/s",
+                        "text": "average orbital speed =   .........  m/s",
                         "bbox": [
                             229,
                             304,

@@ -224,7 +224,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "minimum value of \\(P =\\) .........",
+                        "text": "minimum value of \\(P =\\)   .........",
                         "bbox": [
                             252,
                             603,
@@ -567,7 +567,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "V_{1} = .........V",
+                                "text": "\\( V_{1} \\)  =   .........  V",
                                 "bbox": [
                                     338,
                                     573,
@@ -576,15 +576,11 @@
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -614,7 +610,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "I_{1} = .........A",
+                                "text": "\\( I_{1} \\)  =   .........  A",
                                 "bbox": [
                                     340,
                                     624,
@@ -623,15 +619,11 @@
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(iii)",
@@ -806,7 +798,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "R_{3} = \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\quad",
+                        "text": "\\( R_{3} \\)  = \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\dots \\quad",
                         "bbox": [
                             337,
                             439,
@@ -816,7 +808,7 @@
                         "page_number": 6,
                         "is_pre": false,
                         "issues": [
-                            "LaTeX subscript (_) found outside math mode"
+                            "LaTeX command found outside math mode"
                         ],
                         "is_pot_pre": false
                     },
@@ -835,7 +827,7 @@
                     }
                 ],
                 "issues": [
-                    "LaTeX subscript (_) found outside math mode"
+                    "LaTeX command found outside math mode"
                 ]
             },
             {
@@ -1149,23 +1141,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "•",
+                                "text": "• He places two pins \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\) some distance apart so that pin \\(\\mathsf{P}_3\\) and the images of \\(\\mathsf{P}_2\\) and \\(\\mathsf{P}_1\\) all appear exactly behind pin \\(\\mathsf{P}_4\\). The positions of \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\) are shown on Fig. 3.1",
                                 "bbox": [
                                     92,
-                                    308,
-                                    106,
-                                    323
-                                ],
-                                "page_number": 9,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "He places two pins \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\) some distance apart so that pin \\(\\mathsf{P}_3\\) and the images of \\(\\mathsf{P}_2\\) and \\(\\mathsf{P}_1\\) all appear exactly behind pin \\(\\mathsf{P}_4\\). The positions of \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\) are shown on Fig. 3.1",
-                                "bbox": [
-                                    115,
                                     308,
                                     548,
                                     349
@@ -1224,24 +1202,10 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• The student draws the line \\(\\mathbf{MR}\\)",
                         "bbox": [
                             92,
                             71,
-                            107,
-                            86
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The student draws the line \\(\\mathbf{MR}\\)",
-                        "bbox": [
-                            115,
-                            72,
                             271,
                             88
                         ],
@@ -1252,23 +1216,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• He draws a normal **NL** to this line that passes through the centre of **MR**",
                         "bbox": [
                             92,
-                            99,
-                            106,
-                            114
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He draws a normal **NL** to this line that passes through the centre of **MR**",
-                        "bbox": [
-                            115,
                             99,
                             468,
                             115
@@ -1280,23 +1230,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• He labels the point at which **NL** crosses **MR** with the letter **B**",
                         "bbox": [
                             92,
-                            126,
-                            107,
-                            140
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He labels the point at which **NL** crosses **MR** with the letter **B**",
-                        "bbox": [
-                            115,
                             126,
                             414,
                             140
@@ -1308,23 +1244,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• He draws a line from \\(\\mathbf{B}\\) at an angle of incidence \\(i = 30^{\\circ}\\) to the normal below \\(\\mathbf{MR}\\) and to the left of the normal. He labels the end of this line \\(\\mathbf{A}\\)",
                         "bbox": [
                             92,
-                            152,
-                            106,
-                            167
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He draws a line from \\(\\mathbf{B}\\) at an angle of incidence \\(i = 30^{\\circ}\\) to the normal below \\(\\mathbf{MR}\\) and to the left of the normal. He labels the end of this line \\(\\mathbf{A}\\)",
-                        "bbox": [
-                            115,
                             152,
                             548,
                             180
@@ -1336,23 +1258,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• He places a pin \\(\\mathsf{P}_1\\) on line \\(\\mathbf{AB}\\), as shown in Fig. 3.1. He places another pin \\(\\mathsf{P}_2\\) on the line \\(\\mathbf{AB}\\)",
                         "bbox": [
                             92,
-                            191,
-                            107,
-                            206
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He places a pin \\(\\mathsf{P}_1\\) on line \\(\\mathbf{AB}\\), as shown in Fig. 3.1. He places another pin \\(\\mathsf{P}_2\\) on the line \\(\\mathbf{AB}\\)",
-                        "bbox": [
-                            115,
                             191,
                             548,
                             219
@@ -1364,23 +1272,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• He places the reflecting face of the mirror vertically on the line \\(\\mathbf{MR}\\)",
                         "bbox": [
                             92,
-                            229,
-                            107,
-                            245
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He places the reflecting face of the mirror vertically on the line \\(\\mathbf{MR}\\)",
-                        "bbox": [
-                            115,
                             229,
                             443,
                             245
@@ -1392,23 +1286,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• He views the images of pins \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) from the direction indicated by the eye in Fig. 3.1",
                         "bbox": [
                             92,
-                            255,
-                            107,
-                            270
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He views the images of pins \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) from the direction indicated by the eye in Fig. 3.1",
-                        "bbox": [
-                            115,
                             255,
                             548,
                             270
@@ -1516,7 +1396,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "a = .........",
+                                "text": "a =   .........",
                                 "bbox": [
                                     343,
                                     582,
@@ -1572,7 +1452,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "b = .........",
+                                "text": "b =   .........",
                                 "bbox": [
                                     343,
                                     647,
@@ -1604,23 +1484,9 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• The student keeps pin \\(\\mathsf{P}_1\\) in the same position but moves pin \\(\\mathsf{P}_2\\) so that the angle of incidence \\(i = 40^{\\circ}\\)",
                         "bbox": [
                             91,
-                            413,
-                            104,
-                            427
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The student keeps pin \\(\\mathsf{P}_1\\) in the same position but moves pin \\(\\mathsf{P}_2\\) so that the angle of incidence \\(i = 40^{\\circ}\\)",
-                        "bbox": [
-                            115,
                             413,
                             548,
                             441
@@ -1632,23 +1498,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• The pin positions \\(\\mathsf{P}_5\\) and \\(\\mathsf{P}_6\\) for the reflected ray are marked on Fig. 3.1",
                         "bbox": [
                             92,
-                            452,
-                            106,
-                            467
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The pin positions \\(\\mathsf{P}_5\\) and \\(\\mathsf{P}_6\\) for the reflected ray are marked on Fig. 3.1",
-                        "bbox": [
-                            115,
                             452,
                             467,
                             467
@@ -1700,7 +1552,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "x = .........",
+                                "text": "x =   .........",
                                 "bbox": [
                                     344,
                                     243,
@@ -1804,23 +1656,9 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• The student removes all the pins. He places pin \\(\\mathsf{P}_7\\) on the normal at a distance \\(6.0\\mathrm{cm}\\) from the front of the mirror",
                         "bbox": [
                             92,
-                            73,
-                            103,
-                            87
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The student removes all the pins. He places pin \\(\\mathsf{P}_7\\) on the normal at a distance \\(6.0\\mathrm{cm}\\) from the front of the mirror",
-                        "bbox": [
-                            115,
                             73,
                             548,
                             101
@@ -1832,23 +1670,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• He views the image of \\(\\mathsf{P}_7\\) in the mirror",
                         "bbox": [
                             92,
-                            113,
-                            103,
-                            127
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He views the image of \\(\\mathsf{P}_7\\) in the mirror",
-                        "bbox": [
-                            115,
                             113,
                             307,
                             128
@@ -1860,23 +1684,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• He places pin \\(\\mathsf{P}_8\\) on the normal behind the mirror",
                         "bbox": [
                             92,
-                            139,
-                            103,
-                            154
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He places pin \\(\\mathsf{P}_8\\) on the normal behind the mirror",
-                        "bbox": [
-                            115,
                             139,
                             359,
                             154
@@ -1888,23 +1698,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• He adjusts the position of \\(\\mathsf{P}_8\\) so that the image of the bottom of the pin \\(\\mathsf{P}_7\\) and the top of pin \\(\\mathsf{P}_8\\) seen over the mirror appear as one pin when viewed from all angles in front of the mirror",
                         "bbox": [
                             92,
-                            165,
-                            103,
-                            180
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He adjusts the position of \\(\\mathsf{P}_8\\) so that the image of the bottom of the pin \\(\\mathsf{P}_7\\) and the top of pin \\(\\mathsf{P}_8\\) seen over the mirror appear as one pin when viewed from all angles in front of the mirror",
-                        "bbox": [
-                            115,
                             165,
                             548,
                             206
@@ -2232,23 +2028,9 @@
             },
             {
                 "type": "text",
-                "text": "*",
+                "text": "* draw a diagram of the apparatus used",
                 "bbox": [
                     69,
-                    296,
-                    74,
-                    310
-                ],
-                "page_number": 11,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "draw a diagram of the apparatus used",
-                "bbox": [
-                    91,
                     295,
                     282,
                     310
@@ -2260,23 +2042,9 @@
             },
             {
                 "type": "text",
-                "text": "*",
+                "text": "* explain briefly how you would carry out the investigation",
                 "bbox": [
                     69,
-                    322,
-                    76,
-                    337
-                ],
-                "page_number": 11,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "explain briefly how you would carry out the investigation",
-                "bbox": [
-                    91,
                     322,
                     367,
                     337
@@ -2288,23 +2056,9 @@
             },
             {
                 "type": "text",
-                "text": "*",
+                "text": "* state the key variables to be kept constant",
                 "bbox": [
                     69,
-                    349,
-                    76,
-                    364
-                ],
-                "page_number": 11,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "state the key variables to be kept constant",
-                "bbox": [
-                    91,
                     349,
                     302,
                     364
@@ -2316,23 +2070,9 @@
             },
             {
                 "type": "text",
-                "text": "*",
+                "text": "* draw a table, or tables, with column headings, to show how you would display your readings (you are not required to enter any readings in the table)",
                 "bbox": [
                     69,
-                    375,
-                    76,
-                    390
-                ],
-                "page_number": 11,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "draw a table, or tables, with column headings, to show how you would display your readings (you are not required to enter any readings in the table)",
-                "bbox": [
-                    91,
                     375,
                     548,
                     402
@@ -2344,23 +2084,9 @@
             },
             {
                 "type": "text",
-                "text": "*",
+                "text": "* explain how you would use your readings to reach a conclusion",
                 "bbox": [
                     69,
-                    414,
-                    76,
-                    428
-                ],
-                "page_number": 11,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "explain how you would use your readings to reach a conclusion",
-                "bbox": [
-                    91,
                     413,
                     407,
                     428

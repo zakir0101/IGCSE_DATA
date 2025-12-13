@@ -38,7 +38,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "time = .........\\(s\\)",
+                        "text": "time =   .........  \\(s\\)",
                         "bbox": [
                             314,
                             557,
@@ -94,7 +94,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "distance = .........\\(m\\)",
+                        "text": "distance =   .........  \\(m\\)",
                         "bbox": [
                             295,
                             690,
@@ -150,7 +150,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "average speed = .........m/s",
+                        "text": "average speed =   .........  m/s",
                         "bbox": [
                             262,
                             166,
@@ -322,7 +322,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "mass = .........g",
+                        "text": "mass =   .........  g",
                         "bbox": [
                             309,
                             405,
@@ -392,7 +392,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "density = .........g/cm³",
+                        "text": "density =   .........  g/cm³",
                         "bbox": [
                             303,
                             565,
@@ -448,7 +448,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "weight = .........N",
+                        "text": "weight =   .........  N",
                         "bbox": [
                             303,
                             698,
@@ -736,7 +736,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "moment = .........unit .........",
+                        "text": "moment =   .........  unit   .........",
                         "bbox": [
                             288,
                             341,
@@ -866,23 +866,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "A",
+                        "text": "A The boiler produces steam",
                         "bbox": [
                             91,
-                            139,
-                            103,
-                            154
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The boiler produces steam",
-                        "bbox": [
-                            114,
                             139,
                             253,
                             154
@@ -894,23 +880,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "B",
+                        "text": "B The turbine turns a generator",
                         "bbox": [
                             91,
-                            152,
-                            103,
-                            167
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The turbine turns a generator",
-                        "bbox": [
-                            115,
                             152,
                             264,
                             167
@@ -922,23 +894,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "C",
+                        "text": "C Thermal energy transfers to water in a boiler",
                         "bbox": [
                             91,
-                            165,
-                            103,
-                            180
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Thermal energy transfers to water in a boiler",
-                        "bbox": [
-                            115,
                             165,
                             336,
                             180
@@ -950,23 +908,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "D",
+                        "text": "D Chemical energy in coal transfers to thermal energy",
                         "bbox": [
                             91,
-                            179,
-                            103,
-                            194
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Chemical energy in coal transfers to thermal energy",
-                        "bbox": [
-                            115,
                             179,
                             372,
                             194
@@ -978,23 +922,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "E",
+                        "text": "E The generator produces electrical energy",
                         "bbox": [
                             91,
-                            192,
-                            103,
-                            207
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The generator produces electrical energy",
-                        "bbox": [
-                            115,
                             192,
                             321,
                             207
@@ -1006,23 +936,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "F",
+                        "text": "F Steam turns a turbine",
                         "bbox": [
                             91,
-                            205,
-                            103,
-                            220
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Steam turns a turbine",
-                        "bbox": [
-                            115,
                             205,
                             231,
                             220
@@ -1034,23 +950,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "G",
+                        "text": "G Coal burns in a furnace",
                         "bbox": [
                             91,
-                            218,
-                            103,
-                            233
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Coal burns in a furnace",
-                        "bbox": [
-                            116,
                             218,
                             235,
                             233
@@ -1431,7 +1333,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "pressure on the bench = .........N/cm²",
+                                "text": "pressure on the bench =   .........  N/cm²",
                                 "bbox": [
                                     226,
                                     390,
@@ -1501,7 +1403,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "pressure = .........mmHg",
+                                "text": "pressure =   .........  mmHg",
                                 "bbox": [
                                     292,
                                     532,
@@ -1849,7 +1751,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "temperature = .........°C",
+                        "text": "temperature =   .........  °C",
                         "bbox": [
                             276,
                             573,
@@ -2103,7 +2005,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "focal length = .........\\(cm\\)",
+                                "text": "focal length =   .........  \\(cm\\)",
                                 "bbox": [
                                     279,
                                     375,
@@ -2146,7 +2048,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance = .........\\(cm\\)",
+                                "text": "distance =   .........  \\(cm\\)",
                                 "bbox": [
                                     294,
                                     427,
@@ -2662,11 +2564,11 @@
             },
             {
                 "type": "text",
-                "text": "1.",
+                "text": "1. metal bar PQ",
                 "bbox": [
                     69,
-                    555,
-                    82,
+                    554,
+                    546,
                     570
                 ],
                 "page_number": 16,
@@ -2676,40 +2578,12 @@
             },
             {
                 "type": "text",
-                "text": "metal bar PQ",
-                "bbox": [
-                    92,
-                    554,
-                    546,
-                    569
-                ],
-                "page_number": 16,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "2.",
+                "text": "2. metal bar RS",
                 "bbox": [
                     69,
                     631,
-                    82,
-                    647
-                ],
-                "page_number": 16,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": true
-            },
-            {
-                "type": "text",
-                "text": "metal bar RS",
-                "bbox": [
-                    92,
-                    631,
                     546,
-                    646
+                    647
                 ],
                 "page_number": 16,
                 "is_pre": false,
@@ -2994,7 +2868,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "resistance = .........\\(\\Omega\\)",
+                                "text": "resistance =   .........  \\(\\Omega\\)",
                                 "bbox": [
                                     285,
                                     125,
@@ -3051,7 +2925,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "current = .........A",
+                                "text": "current =   .........  A",
                                 "bbox": [
                                     301,
                                     202,
@@ -3358,7 +3232,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "count rate = .........counts per minute",
+                        "text": "count rate =   .........  counts per minute",
                         "bbox": [
                             287,
                             617,
@@ -3515,7 +3389,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "output voltage = .........V",
+                        "text": "output voltage =   .........  V",
                         "bbox": [
                             267,
                             573,

@@ -81,23 +81,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "Fig. 1.2",
+                                "text": "Fig. 1.2 Fig. 1.3",
                                 "bbox": [
                                     155,
-                                    585,
-                                    197,
-                                    600
-                                ],
-                                "page_number": 2,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "Fig. 1.3",
-                                "bbox": [
-                                    402,
                                     585,
                                     446,
                                     600
@@ -108,24 +94,10 @@
                                 "is_pot_pre": false
                             },
                             {
-                                "type": "text",
-                                "text": "\\(V =\\)",
+                                "type": "form_text",
+                                "text": "\\(V =\\) I =",
                                 "bbox": [
                                     68,
-                                    611,
-                                    286,
-                                    627
-                                ],
-                                "page_number": 2,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "I =",
-                                "bbox": [
-                                    316,
                                     611,
                                     531,
                                     627
@@ -179,7 +151,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "R = .........",
+                                "text": "R =   .........",
                                 "bbox": [
                                     328,
                                     721,
@@ -279,7 +251,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "difference = .........",
+                                "text": "difference =   .........",
                                 "bbox": [
                                     287,
                                     137,
@@ -594,6 +566,20 @@
                         "is_pot_pre": false
                     },
                     {
+                        "type": "form_text",
+                        "text": "2",
+                        "bbox": [
+                            95,
+                            647,
+                            547,
+                            663
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
                         "type": "text",
                         "text": "2.",
                         "bbox": [
@@ -724,23 +710,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· Draw a line \\(\\mathbf{FE}\\), to the left of the normal and at an angle of incidence \\(i = 40^{\\circ}\\) to the normal",
                         "bbox": [
                             92,
-                            726,
-                            106,
-                            740
-                        ],
-                        "page_number": 4,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Draw a line \\(\\mathbf{FE}\\), to the left of the normal and at an angle of incidence \\(i = 40^{\\circ}\\) to the normal",
-                        "bbox": [
-                            115,
                             725,
                             548,
                             752
@@ -963,7 +935,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(\\beta =\\) .........\\(41^{\\circ}\\)",
+                        "text": "\\(\\beta =\\)   .........  \\(41^{\\circ}\\)",
                         "bbox": [
                             328,
                             398,
@@ -991,7 +963,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "y = .........\\(21 \\text{mm}\\)",
+                        "text": "y =   .........  \\(21 \\text{mm}\\)",
                         "bbox": [
                             328,
                             449,
@@ -1219,7 +1191,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "D = .........",
+                        "text": "D =   .........",
                         "bbox": [
                             328,
                             296,
@@ -1332,7 +1304,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "u = .........15.0 cm",
+                        "text": "u =   .........  15.0 cm",
                         "bbox": [
                             328,
                             489,
@@ -1346,7 +1318,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "v = .........29.7 cm",
+                        "text": "v =   .........  29.7 cm",
                         "bbox": [
                             330,
                             515,
@@ -1388,7 +1360,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "f = .........",
+                        "text": "f =   .........",
                         "bbox": [
                             333,
                             678,
@@ -1500,23 +1472,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "A",
+                        "text": "A Carry out the experiment in a darkened room",
                         "bbox": [
                             91,
-                            165,
-                            103,
-                            181
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Carry out the experiment in a darkened room",
-                        "bbox": [
-                            114,
                             165,
                             340,
                             181
@@ -1528,23 +1486,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "B",
+                        "text": "B Close one eye when taking readings",
                         "bbox": [
                             91,
-                            192,
-                            103,
-                            207
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Close one eye when taking readings",
-                        "bbox": [
-                            114,
                             191,
                             298,
                             207
@@ -1556,23 +1500,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "C",
+                        "text": "C Draw thin lines",
                         "bbox": [
                             91,
-                            218,
-                            103,
-                            234
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Draw thin lines",
-                        "bbox": [
-                            114,
                             218,
                             193,
                             234
@@ -1584,11 +1514,11 @@
                     },
                     {
                         "type": "text",
-                        "text": "D",
+                        "text": "D Fix the rule in position on the bench",
                         "bbox": [
                             91,
                             245,
-                            103,
+                            295,
                             261
                         ],
                         "page_number": 7,
@@ -1598,25 +1528,11 @@
                     },
                     {
                         "type": "text",
-                        "text": "Fix the rule in position on the bench",
-                        "bbox": [
-                            114,
-                            245,
-                            295,
-                            260
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "E",
+                        "text": "E Make sure the pins are at least 5 cm apart",
                         "bbox": [
                             91,
                             271,
-                            103,
+                            324,
                             287
                         ],
                         "page_number": 7,
@@ -1626,37 +1542,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "Make sure the pins are at least 5 cm apart",
-                        "bbox": [
-                            114,
-                            271,
-                            324,
-                            286
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "F",
+                        "text": "F Repeat the experiment using different values of \\(u\\) and determine an average value for \\(f\\)",
                         "bbox": [
                             91,
-                            297,
-                            102,
-                            313
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Repeat the experiment using different values of \\(u\\) and determine an average value for \\(f\\)",
-                        "bbox": [
-                            115,
                             297,
                             545,
                             313
@@ -1885,23 +1773,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· He measures the distance a between the centre of load \\(\\mathbf{P}\\) and the pivot",
                         "bbox": [
                             91,
-                            327,
-                            111,
-                            342
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He measures the distance a between the centre of load \\(\\mathbf{P}\\) and the pivot",
-                        "bbox": [
-                            115,
                             327,
                             467,
                             342
@@ -1913,23 +1787,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· He measures the distance \\(b\\) from the centre of load \\(\\mathbf{Q}\\) to the pivot",
                         "bbox": [
                             91,
-                            354,
-                            105,
-                            368
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He measures the distance \\(b\\) from the centre of load \\(\\mathbf{Q}\\) to the pivot",
-                        "bbox": [
-                            115,
                             354,
                             441,
                             368
@@ -1941,23 +1801,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· He repeats the procedure placing the load \\(\\mathbf{P}\\) at the \\(10.0 \\text{cm}\\) mark, the \\(15.0 \\text{cm}\\) mark, the \\(20.0 \\text{cm}\\) mark and at the \\(25.0 \\text{cm}\\) mark. He keeps the pivot at the \\(45.0 \\text{cm}\\) mark each time. The readings are recorded in Table 4.1",
                         "bbox": [
                             91,
-                            380,
-                            102,
-                            395
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He repeats the procedure placing the load \\(\\mathbf{P}\\) at the \\(10.0 \\text{cm}\\) mark, the \\(15.0 \\text{cm}\\) mark, the \\(20.0 \\text{cm}\\) mark and at the \\(25.0 \\text{cm}\\) mark. He keeps the pivot at the \\(45.0 \\text{cm}\\) mark each time. The readings are recorded in Table 4.1",
-                        "bbox": [
-                            115,
                             380,
                             548,
                             421
@@ -2084,23 +1930,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Calculate the value of \\(mX,\\) where \\(X = 0.05 \\text{N cm / g.}\\)",
                         "bbox": [
                             91,
-                            112,
-                            107,
-                            128
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Calculate the value of \\(mX,\\) where \\(X = 0.05 \\text{N cm / g.}\\)",
-                        "bbox": [
-                            115,
                             112,
                             364,
                             128
@@ -2112,7 +1944,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "mX = .........N cm",
+                        "text": "mX =   .........  N cm",
                         "bbox": [
                             319,
                             164,
@@ -2126,23 +1958,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Use the value of \\(a\\) in the first row of Table 4.1 to calculate \\(Pa,\\) where \\(P = 1.00 \\text{N}.\\) \\(P\\) is the weight of load \\(\\mathbf{P}\\). Include the unit",
                         "bbox": [
                             91,
-                            191,
-                            104,
-                            206
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Use the value of \\(a\\) in the first row of Table 4.1 to calculate \\(Pa,\\) where \\(P = 1.00 \\text{N}.\\) \\(P\\) is the weight of load \\(\\mathbf{P}\\). Include the unit",
-                        "bbox": [
-                            115,
                             191,
                             507,
                             218
@@ -2168,23 +1986,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Use the value of \\(b\\) in the first row of Table 4.1 to calculate \\(Qb,\\) where \\(Q = 0.80 \\text{N}.\\) \\(Q\\) is the weight of load \\(\\mathbf{Q}.\\)",
                         "bbox": [
                             91,
-                            282,
-                            104,
-                            297
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Use the value of \\(b\\) in the first row of Table 4.1 to calculate \\(Qb,\\) where \\(Q = 0.80 \\text{N}.\\) \\(Q\\) is the weight of load \\(\\mathbf{Q}.\\)",
-                        "bbox": [
-                            115,
                             282,
                             509,
                             310

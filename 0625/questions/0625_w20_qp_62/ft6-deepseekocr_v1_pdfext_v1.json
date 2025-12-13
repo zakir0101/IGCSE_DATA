@@ -124,7 +124,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "L = .........mm",
+                        "text": "L =   .........  mm",
                         "bbox": [
                             328,
                             671,
@@ -223,7 +223,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "l_{0} = .........",
+                        "text": "\\( l_{0} \\)  =   .........",
                         "bbox": [
                             328,
                             702,
@@ -232,9 +232,7 @@
                         ],
                         "page_number": 3,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -251,9 +249,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(e)",
@@ -283,7 +279,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "L - l_{0} = .........",
+                        "text": "L -  \\( l_{0} \\)  =   .........",
                         "bbox": [
                             309,
                             754,
@@ -292,9 +288,7 @@
                         ],
                         "page_number": 3,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -311,9 +305,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             }
         ],
         "content": [
@@ -362,8 +354,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -404,23 +395,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Label the point \\(\\mathbf{F}\\) where the normal \\(\\mathbf{NL}\\) crosses side \\(\\mathbf{AB}\\)",
                         "bbox": [
                             91,
-                            99,
-                            113,
-                            114
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Label the point \\(\\mathbf{F}\\) where the normal \\(\\mathbf{NL}\\) crosses side \\(\\mathbf{AB}\\)",
-                        "bbox": [
-                            115,
                             99,
                             392,
                             115
@@ -432,23 +409,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Label the point \\(\\mathbf{G}\\) where the normal \\(\\mathbf{NL}\\) crosses side \\(\\mathbf{CD}\\)",
                         "bbox": [
                             91,
-                            126,
-                            113,
-                            140
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Label the point \\(\\mathbf{G}\\) where the normal \\(\\mathbf{NL}\\) crosses side \\(\\mathbf{CD}\\)",
-                        "bbox": [
-                            115,
                             126,
                             394,
                             141
@@ -502,23 +465,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Mark the positions of two pins \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\), to act as objects, on line \\(\\mathbf{EF}\\) at a suitable distance apart for this type of ray-trace experiment",
                         "bbox": [
                             91,
-                            204,
-                            104,
-                            219
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Mark the positions of two pins \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\), to act as objects, on line \\(\\mathbf{EF}\\) at a suitable distance apart for this type of ray-trace experiment",
-                        "bbox": [
-                            114,
                             203,
                             548,
                             232
@@ -769,23 +718,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• She places two pins \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\) between her eye and the block so that \\(\\mathsf{P}_3\\), \\(\\mathsf{P}_4\\) and the images of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\), seen through the block, appear one behind the other",
                         "bbox": [
                             91,
-                            308,
-                            101,
-                            324
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "She places two pins \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\) between her eye and the block so that \\(\\mathsf{P}_3\\), \\(\\mathsf{P}_4\\) and the images of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\), seen through the block, appear one behind the other",
-                        "bbox": [
-                            114,
                             308,
                             548,
                             336
@@ -797,23 +732,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• The positions of \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\) are marked on the ray-trace sheet",
                         "bbox": [
                             91,
-                            346,
-                            103,
-                            362
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The positions of \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\) are marked on the ray-trace sheet",
-                        "bbox": [
-                            114,
                             346,
                             418,
                             362
@@ -1170,7 +1091,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "V_1 = .........",
+                                "text": "\\( V_1 \\)  =   .........",
                                 "bbox": [
                                     340,
                                     247,
@@ -1179,9 +1100,7 @@
                                 ],
                                 "page_number": 9,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1198,9 +1117,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -1230,7 +1147,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "I = .........",
+                                "text": "I =   .........",
                                 "bbox": [
                                     331,
                                     303,
@@ -1300,7 +1217,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "R_{1} = .........",
+                                "text": "\\( R_{1} \\)  =   .........",
                                 "bbox": [
                                     322,
                                     401,
@@ -1309,9 +1226,7 @@
                                 ],
                                 "page_number": 9,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1328,9 +1243,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [],
@@ -1378,7 +1291,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "V_{2} = .........0.70",
+                        "text": "\\( V_{2} \\)  =   .........  0.70",
                         "bbox": [
                             324,
                             476,
@@ -1387,9 +1300,7 @@
                         ],
                         "page_number": 9,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1408,7 +1319,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "R_{2} = .........1.25",
+                        "text": "\\( R_{2} \\)  =   .........  1.25",
                         "bbox": [
                             322,
                             528,
@@ -1417,9 +1328,7 @@
                         ],
                         "page_number": 9,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1452,7 +1361,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "V_{3} = .........0.46",
+                        "text": "\\( V_{3} \\)  =   .........  0.46",
                         "bbox": [
                             324,
                             607,
@@ -1461,9 +1370,7 @@
                         ],
                         "page_number": 9,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1481,11 +1388,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode",
-                    "LaTeX subscript (_) found outside math mode",
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             }
         ],
         "content": [
@@ -1564,8 +1467,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "4",

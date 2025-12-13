@@ -94,7 +94,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........%",
+                        "text": ".........  %",
                         "bbox": [
                             381,
                             203,
@@ -794,6 +794,34 @@
                 "is_pre": false,
                 "issues": [],
                 "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": ".........  <   .........  <   .........  <",
+                "bbox": [
+                    170,
+                    291,
+                    548,
+                    307
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "smallest",
+                "bbox": [
+                    170,
+                    306,
+                    204,
+                    319
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
             }
         ],
         "issues": []
@@ -921,7 +949,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........\\(cm^2\\)",
+                        "text": ".........  \\(cm^2\\)",
                         "bbox": [
                             381,
                             285,
@@ -1274,9 +1302,7 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
-                        "issues": [
-                            "Multiple display math blocks (4 found)"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -1321,9 +1347,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "Multiple display math blocks (4 found)"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -1397,7 +1421,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........\\(cm^3\\)",
+                        "text": ".........  \\(cm^3\\)",
                         "bbox": [
                             381,
                             717,
@@ -1427,8 +1451,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "13",
@@ -1458,7 +1481,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........\\(\\mathrm{cm}^3\\)",
+                "text": ".........  \\(\\mathrm{cm}^3\\)",
                 "bbox": [
                     379,
                     101,
@@ -2142,7 +2165,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "y = .........",
+                        "text": "y =   .........",
                         "bbox": [
                             362,
                             506,
@@ -2212,7 +2235,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "(........., .........)",
+                        "text": "(  .........  ,   .........  )",
                         "bbox": [
                             381,
                             664,
@@ -2472,7 +2495,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "x = .........",
+                        "text": "x =   .........",
                         "bbox": [
                             362,
                             661,
@@ -2717,7 +2740,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........\\(\\leqslant h <\\) .........",
+                "text": ".........  \\(\\leqslant h <\\)   .........",
                 "bbox": [
                     328,
                     480,
@@ -2784,7 +2807,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "X = .........",
+                        "text": "X =   .........",
                         "bbox": [
                             360,
                             168,
@@ -2840,7 +2863,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "p = .........",
+                        "text": "p =   .........",
                         "bbox": [
                             360,
                             286,
@@ -3241,7 +3264,7 @@
             },
             {
                 "type": "form_text",
-                "text": "x = .........",
+                "text": "x =   .........",
                 "bbox": [
                     362,
                     245,
@@ -3378,14 +3401,12 @@
                 ],
                 "page_number": 18,
                 "is_pre": false,
-                "issues": [
-                    "Multiple display math blocks (2 found)"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
                 "type": "form_text",
-                "text": "\\(t = .........\\)",
+                "text": "\\(t =   .........  \\)",
                 "bbox": [
                     364,
                     327,
@@ -3399,7 +3420,7 @@
             },
             {
                 "type": "form_text",
-                "text": "\\(w = .........[4]\\)",
+                "text": "\\(w =   .........  [4]\\)",
                 "bbox": [
                     360,
                     354,
@@ -3412,9 +3433,6 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "Multiple display math blocks (2 found)"
-        ],
-        "has_issues": true
+        "issues": []
     }
 ]

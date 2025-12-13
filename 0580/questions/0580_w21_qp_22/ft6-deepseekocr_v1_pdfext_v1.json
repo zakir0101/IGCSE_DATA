@@ -55,7 +55,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........\\(^\\circ \\mathrm{C}\\)",
+                "text": ".........  \\(^\\circ \\mathrm{C}\\)",
                 "bbox": [
                     381,
                     204,
@@ -239,7 +239,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........min",
+                "text": ".........  min",
                 "bbox": [
                     381,
                     605,
@@ -339,7 +339,7 @@
             },
             {
                 "type": "form_text",
-                "text": "x = .........",
+                "text": "x =   .........",
                 "bbox": [
                     362,
                     403,
@@ -426,7 +426,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........hours",
+                "text": ".........  hours",
                 "bbox": [
                     381,
                     678,
@@ -695,24 +695,10 @@
         "parts": [],
         "content": [
             {
-                "type": "text",
-                "text": "2.1 \\(\\times 10^{- 1}\\) 0.2 22% \\(\\sqrt{0.2}\\) 24",
+                "type": "form_text",
+                "text": "2.1 \\(\\times 10^{- 1}\\) 0.2 22% \\(\\sqrt{0.2}\\) 24 1000",
                 "bbox": [
                     93,
-                    66,
-                    462,
-                    84
-                ],
-                "page_number": 5,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "form_text",
-                "text": "1000",
-                "bbox": [
-                    433,
                     64,
                     462,
                     86
@@ -735,6 +721,47 @@
                 "is_pre": false,
                 "issues": [],
                 "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": ".........  <   .........  <   .........  <   .........  <   .........",
+                "bbox": [
+                    117,
+                    154,
+                    529,
+                    174
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[2]",
+                "bbox": [
+                    509,
+                    154,
+                    529,
+                    174
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "smallest",
+                "bbox": [
+                    134,
+                    171,
+                    177,
+                    186
+                ],
+                "page_number": 5,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
             }
         ],
         "issues": []
@@ -751,20 +778,6 @@
         "level": 47,
         "parts": [],
         "content": [
-            {
-                "type": "pre_text",
-                "text": "smallest",
-                "bbox": [
-                    134,
-                    171,
-                    177,
-                    186
-                ],
-                "page_number": 5,
-                "is_pre": true,
-                "issues": [],
-                "is_pot_pre": true
-            },
             {
                 "type": "text",
                 "text": "The interior angle of a regular polygon is \\(156^{\\circ}\\)",
@@ -1200,6 +1213,33 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            95,
+                            341,
+                            528,
+                            358
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            341,
+                            528,
+                            358
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -1242,6 +1282,33 @@
                         "page_number": 7,
                         "is_pre": false,
                         "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            92,
+                            421,
+                            506,
+                            438
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            486,
+                            421,
+                            506,
+                            438
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],
@@ -1363,7 +1430,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "y = .........",
+                        "text": "y =   .........",
                         "bbox": [
                             362,
                             670,
@@ -1652,7 +1719,7 @@
             },
             {
                 "type": "form_text",
-                "text": "x = .........or $x = .........",
+                "text": "x =   .........  or $x =   .........",
                 "bbox": [
                     333,
                     545,
@@ -1750,7 +1817,7 @@
             },
             {
                 "type": "form_text",
-                "text": "x = .........\\(y = .........\\)",
+                "text": "x =   .........  \\(y =   .........  \\)",
                 "bbox": [
                     345,
                     496,
@@ -1764,7 +1831,7 @@
             },
             {
                 "type": "form_text",
-                "text": "x = .........\\(y = .........\\)",
+                "text": "x =   .........  \\(y =   .........  \\)",
                 "bbox": [
                     345,
                     521,
@@ -2001,7 +2068,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "x = .........",
+                        "text": "x =   .........",
                         "bbox": [
                             362,
                             669,
@@ -2033,37 +2100,9 @@
         "content": [
             {
                 "type": "text",
-                "text": "f(x) = 2x−3",
+                "text": "f(x) = 2x−3 g(x) = 2x − 1 h(x) = \\(\\frac{5}{x - 4}\\)",
                 "bbox": [
                     115,
-                    290,
-                    173,
-                    306
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "g(x) = 2x − 1",
-                "bbox": [
-                    217,
-                    290,
-                    282,
-                    306
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "h(x) = \\(\\frac{5}{x - 4}\\)",
-                "bbox": [
-                    324,
                     288,
                     386,
                     310

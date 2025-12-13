@@ -225,7 +225,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(l_0 =\\) .........\\(cm\\)",
+                        "text": "\\(l_0 =\\)   .........  \\(cm\\)",
                         "bbox": [
                             327,
                             757,
@@ -292,7 +292,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "l_{\\chi} = .........",
+                                "text": "\\( l_{\\chi} \\)  =   .........",
                                 "bbox": [
                                     325,
                                     615,
@@ -301,9 +301,7 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -320,9 +318,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -352,7 +348,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "m_{\\chi} = .........g",
+                                "text": "\\( m_{\\chi} \\)  =   .........  g",
                                 "bbox": [
                                     319,
                                     680,
@@ -361,9 +357,7 @@
                                 ],
                                 "page_number": 4,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -380,9 +374,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -534,8 +526,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -886,7 +877,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(x_{1} = .........\\)",
+                                "text": "\\(x_{1} =   .........  \\)",
                                 "bbox": [
                                     324,
                                     223,
@@ -984,7 +975,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(x_{2} = .........\\)",
+                                "text": "\\(x_{2} =   .........  \\)",
                                 "bbox": [
                                     324,
                                     413,
@@ -1369,7 +1360,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\theta =\\) .........",
+                                "text": "\\(\\theta =\\)   .........",
                                 "bbox": [
                                     413,
                                     124,
@@ -1455,7 +1446,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "d = .........cm",
+                                "text": "d =   .........  cm",
                                 "bbox": [
                                     394,
                                     202,
@@ -1535,6 +1526,33 @@
                                 "page_number": 11,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    115,
+                                    320,
+                                    528,
+                                    335
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    320,
+                                    528,
+                                    335
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -1875,6 +1893,20 @@
                             86,
                             101,
                             101
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "2",
+                        "bbox": [
+                            92,
+                            108,
+                            546,
+                            127
                         ],
                         "page_number": 12,
                         "is_pre": false,

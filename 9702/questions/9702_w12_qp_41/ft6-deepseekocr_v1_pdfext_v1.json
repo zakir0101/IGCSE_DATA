@@ -1,0 +1,2913 @@
+[
+    {
+        "label": "1",
+        "page_number": 4,
+        "bbox": [
+            47,
+            126,
+            57,
+            142
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 4,
+                "bbox": [
+                    69,
+                    126,
+                    86,
+                    142
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State Newton's law of gravitation",
+                        "bbox": [
+                            92,
+                            126,
+                            257,
+                            142
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 4,
+                "bbox": [
+                    69,
+                    229,
+                    87,
+                    245
+                ],
+                "level": 69,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 4,
+                        "bbox": [
+                            92,
+                            295,
+                            107,
+                            310
+                        ],
+                        "level": 92,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "By considering the gravitational force on the satellite and the centripetal force, show that the kinetic energy \\(E_{\\mathrm{K}}\\) of the satellite is given by the expression",
+                                "bbox": [
+                                    115,
+                                    295,
+                                    521,
+                                    324
+                                ],
+                                "page_number": 4,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "blockMath",
+                                "blockMath": "\\[E_{\\mathrm{K}} = \\frac{GMm}{2r}.\\]",
+                                "bbox": [
+                                    268,
+                                    328,
+                                    328,
+                                    353
+                                ],
+                                "page_number": 4,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    481,
+                                    490,
+                                    501,
+                                    506
+                                ],
+                                "page_number": 4,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 4,
+                        "bbox": [
+                            89,
+                            516,
+                            108,
+                            532
+                        ],
+                        "level": 89,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "The satellite has mass \\(620\\mathrm{kg}\\) and is initially in a circular orbit of radius \\(7.34\\times 10^{6}\\mathrm{m}\\), as illustrated in Fig. 1.1",
+                                "bbox": [
+                                    115,
+                                    516,
+                                    521,
+                                    544
+                                ],
+                                "page_number": 4,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    170,
+                                    550,
+                                    426,
+                                    760
+                                ],
+                                "page_number": 4,
+                                "is_pre": false,
+                                "image": {
+                                    "caption": "",
+                                    "page": 4
+                                },
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(iii)",
+                        "page_number": 5,
+                        "bbox": [
+                            86,
+                            475,
+                            107,
+                            491
+                        ],
+                        "level": 86,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Use your answers in (ii) to explain whether the linear speed of the satellite increases, decreases or remains unchanged when the radius of the orbit decreases",
+                                "bbox": [
+                                    115,
+                                    475,
+                                    521,
+                                    503
+                                ],
+                                "page_number": 5,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    481,
+                                    565,
+                                    501,
+                                    582
+                                ],
+                                "page_number": 5,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "A satellite of mass \\(m\\) is in a circular orbit of radius \\(r\\) about a planet of mass \\(M.\\)",
+                        "bbox": [
+                            92,
+                            229,
+                            477,
+                            245
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "For this planet, the product \\(G M\\) is \\(4.00 \\times 10^{14} \\text{N} \\text{m}^{2} \\text{kg}^{-1}\\), where \\(G\\) is the gravitational constant",
+                        "bbox": [
+                            92,
+                            241,
+                            521,
+                            272
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The planet may be assumed to be isolated in space",
+                        "bbox": [
+                            92,
+                            269,
+                            350,
+                            286
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 6,
+        "bbox": [
+            46,
+            62,
+            56,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 6,
+                "bbox": [
+                    68,
+                    99,
+                    86,
+                    116
+                ],
+                "level": 68,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 6,
+                        "bbox": [
+                            91,
+                            99,
+                            109,
+                            116
+                        ],
+                        "level": 91,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "State what is meant by internal energy",
+                                "bbox": [
+                                    117,
+                                    99,
+                                    310,
+                                    116
+                                ],
+                                "page_number": 6,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 6,
+                        "bbox": [
+                            89,
+                            202,
+                            108,
+                            219
+                        ],
+                        "level": 89,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "By reference to one of the assumptions of the kinetic theory of gases and your answer in (i), deduce what is meant by the internal energy of an ideal gas",
+                                "bbox": [
+                                    115,
+                                    202,
+                                    521,
+                                    232
+                                ],
+                                "page_number": 6,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    481,
+                                    320,
+                                    501,
+                                    336
+                                ],
+                                "page_number": 6,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 6,
+                "bbox": [
+                    68,
+                    347,
+                    87,
+                    363
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State and explain whether the student's suggestion is correct",
+                        "bbox": [
+                            92,
+                            347,
+                            395,
+                            363
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            481,
+                            425,
+                            501,
+                            441
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A student suggests that, when an ideal gas is heated from \\(100^{\\circ}\\mathrm{C}\\) to \\(200^{\\circ}\\mathrm{C}\\), the internal energy of the gas is doubled",
+                "bbox": [
+                    69,
+                    61,
+                    521,
+                    91
+                ],
+                "page_number": 6,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 7,
+        "bbox": [
+            46,
+            62,
+            57,
+            77
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 7,
+                "bbox": [
+                    69,
+                    62,
+                    87,
+                    77
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Two metal spheres are in thermal equilibrium",
+                        "bbox": [
+                            92,
+                            61,
+                            317,
+                            77
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "State and explain what is meant by thermal equilibrium",
+                        "bbox": [
+                            91,
+                            73,
+                            366,
+                            89
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            483,
+                            152,
+                            503,
+                            167
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 7,
+                "bbox": [
+                    68,
+                    176,
+                    87,
+                    192
+                ],
+                "level": 68,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 7,
+                        "bbox": [
+                            92,
+                            427,
+                            108,
+                            442
+                        ],
+                        "level": 92,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Use the data to calculate the flow rate, in \\(\\text{gs}^{-1}\\), of water through the tube",
+                                "bbox": [
+                                    115,
+                                    425,
+                                    473,
+                                    442
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "flow rate =   .........  \\(\\text{gs}^{-1}\\)",
+                                "bbox": [
+                                    294,
+                                    580,
+                                    521,
+                                    596
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    481,
+                                    584,
+                                    501,
+                                    600
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 7,
+                        "bbox": [
+                            89,
+                            608,
+                            108,
+                            624
+                        ],
+                        "level": 89,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "State and explain whether your answer in (i) is likely to be an overestimate or an underestimate of the flow rate",
+                                "bbox": [
+                                    115,
+                                    607,
+                                    521,
+                                    636
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    481,
+                                    698,
+                                    501,
+                                    713
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "An electric water heater contains a tube through which water flows at a constant rate. The water in the tube passes over a heating coil, as shown in Fig. 3.1",
+                        "bbox": [
+                            92,
+                            176,
+                            510,
+                            206
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            190,
+                            215,
+                            407,
+                            333
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "image": {
+                            "caption": "",
+                            "page": 7
+                        },
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The water flows into the tube at a temperature of \\(18^{\\circ}\\mathrm{C}\\). When the power of the heater is \\(3.8\\mathrm{kW}\\), the temperature of the water at the outlet is \\(42^{\\circ}\\mathrm{C}\\)",
+                        "bbox": [
+                            92,
+                            373,
+                            521,
+                            402
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The specific heat capacity of water is \\(4.2 \\text{J} \\text{g}^{-1} \\text{K}^{-1}\\)",
+                        "bbox": [
+                            92,
+                            400,
+                            339,
+                            416
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 8,
+        "bbox": [
+            46,
+            62,
+            55,
+            77
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 9,
+                "bbox": [
+                    69,
+                    62,
+                    87,
+                    77
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State and explain the features of Fig. 4.2 that indicate that the motion of the ball is simple harmonic",
+                        "bbox": [
+                            92,
+                            61,
+                            521,
+                            90
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 9,
+                "bbox": [
+                    65,
+                    229,
+                    84,
+                    245
+                ],
+                "level": 65,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 9,
+                        "bbox": [
+                            92,
+                            256,
+                            107,
+                            272
+                        ],
+                        "level": 92,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "the amplitude,",
+                                "bbox": [
+                                    114,
+                                    256,
+                                    187,
+                                    272
+                                ],
+                                "page_number": 9,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "amplitude =   .........  \\(cm\\)",
+                                "bbox": [
+                                    287,
+                                    282,
+                                    521,
+                                    298
+                                ],
+                                "page_number": 9,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    481,
+                                    282,
+                                    501,
+                                    298
+                                ],
+                                "page_number": 9,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 9,
+                        "bbox": [
+                            89,
+                            308,
+                            107,
+                            324
+                        ],
+                        "level": 89,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "the frequency",
+                                "bbox": [
+                                    114,
+                                    308,
+                                    186,
+                                    324
+                                ],
+                                "page_number": 9,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "frequency =   .........  \\(Hz\\)",
+                                "bbox": [
+                                    287,
+                                    406,
+                                    521,
+                                    422
+                                ],
+                                "page_number": 9,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use Fig. 4.2 to determine, for the oscillations of the ball,",
+                        "bbox": [
+                            91,
+                            229,
+                            367,
+                            245
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 9,
+                "bbox": [
+                    69,
+                    433,
+                    86,
+                    449
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The arrangement in Fig. 4.1 is now rotated through \\(90^{\\circ}\\) so that the line AB is vertical. The ball now oscillates in a vertical plane",
+                        "bbox": [
+                            92,
+                            433,
+                            521,
+                            461
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Suggest one reason why the oscillations may no longer be simple harmonic",
+                        "bbox": [
+                            92,
+                            472,
+                            465,
+                            488
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            481,
+                            523,
+                            501,
+                            539
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "A ball is held between two fixed points A and B by means of two stretched springs, as shown in Fig. 4.1",
+                "bbox": [
+                    68,
+                    61,
+                    521,
+                    90
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    178,
+                    98,
+                    414,
+                    191
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 8
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The ball is free to oscillate horizontally along the line AB. During the oscillations, the springs remain stretched and do not exceed their limits of proportionality",
+                "bbox": [
+                    69,
+                    235,
+                    521,
+                    264
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The variation of the acceleration \\(a\\) of the ball with its displacement \\(x\\) from its equilibrium position is shown in Fig. 4.2",
+                "bbox": [
+                    69,
+                    274,
+                    521,
+                    303
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "image",
+                "bbox": [
+                    116,
+                    314,
+                    477,
+                    669
+                ],
+                "page_number": 8,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 8
+                },
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 10,
+        "bbox": [
+            46,
+            62,
+            57,
+            77
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 10,
+                "bbox": [
+                    68,
+                    61,
+                    85,
+                    77
+                ],
+                "level": 68,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 10,
+                        "bbox": [
+                            92,
+                            61,
+                            108,
+                            77
+                        ],
+                        "level": 92,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Define capacitance",
+                                "bbox": [
+                                    116,
+                                    61,
+                                    215,
+                                    77
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 10,
+                        "bbox": [
+                            88,
+                            137,
+                            107,
+                            154
+                        ],
+                        "level": 88,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "A capacitor is made of two metal plates, insulated from one another, as shown in Fig. 5.1",
+                                "bbox": [
+                                    115,
+                                    131,
+                                    521,
+                                    165
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "image",
+                                "bbox": [
+                                    215,
+                                    175,
+                                    378,
+                                    267
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "image": {
+                                    "caption": "",
+                                    "page": 10
+                                },
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "Explain why the capacitor is said to store energy but not charge",
+                                "bbox": [
+                                    115,
+                                    308,
+                                    430,
+                                    324
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[4]",
+                                "bbox": [
+                                    481,
+                                    438,
+                                    501,
+                                    454
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 10,
+                "bbox": [
+                    66,
+                    464,
+                    84,
+                    480
+                ],
+                "level": 66,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 11,
+                        "bbox": [
+                            91,
+                            61,
+                            109,
+                            77
+                        ],
+                        "level": 91,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Calculate the combined capacitance of the capacitors X, Y and Z",
+                                "bbox": [
+                                    115,
+                                    61,
+                                    437,
+                                    77
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "For",
+                                "bbox": [
+                                    534,
+                                    66,
+                                    563,
+                                    78
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "Examiner's",
+                                "bbox": [
+                                    528,
+                                    75,
+                                    563,
+                                    88
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "Use",
+                                "bbox": [
+                                    536,
+                                    85,
+                                    553,
+                                    98
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "capacitance =   .........  \\(\\mu \\mathrm{F}\\)",
+                                "bbox": [
+                                    277,
+                                    217,
+                                    502,
+                                    233
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    482,
+                                    217,
+                                    502,
+                                    233
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 11,
+                        "bbox": [
+                            89,
+                            242,
+                            108,
+                            258
+                        ],
+                        "level": 89,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Explain why, when the potential difference of 9.0V is applied, the charge on one plate of capacitor X is \\(72 \\mu \\text{C}\\)",
+                                "bbox": [
+                                    115,
+                                    240,
+                                    521,
+                                    270
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    482,
+                                    333,
+                                    502,
+                                    349
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(iii)",
+                        "page_number": 11,
+                        "bbox": [
+                            86,
+                            358,
+                            107,
+                            374
+                        ],
+                        "level": 86,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Determine",
+                                "bbox": [
+                                    115,
+                                    358,
+                                    170,
+                                    374
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "1. the potential difference across capacitor X,",
+                                "bbox": [
+                                    115,
+                                    384,
+                                    349,
+                                    401
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "potential difference =   .........  V",
+                                "bbox": [
+                                    243,
+                                    539,
+                                    502,
+                                    556
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    482,
+                                    539,
+                                    502,
+                                    556
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "2. the charge on one plate of capacitor Y",
+                                "bbox": [
+                                    114,
+                                    566,
+                                    328,
+                                    582
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "charge =   .........  \\(\\mu \\mathrm{C}\\)",
+                                "bbox": [
+                                    302,
+                                    721,
+                                    502,
+                                    737
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    482,
+                                    721,
+                                    502,
+                                    737
+                                ],
+                                "page_number": 11,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Three uncharged capacitors X, Y and Z, each of capacitance \\(12 \\mu \\mathrm{F}\\), are connected as shown in Fig. 5.2",
+                        "bbox": [
+                            92,
+                            464,
+                            521,
+                            494
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            172,
+                            502,
+                            418,
+                            617
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "image": {
+                            "caption": "",
+                            "page": 10
+                        },
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "A potential difference of \\(9.0 \\text{V}\\) is applied between points A and B",
+                        "bbox": [
+                            91,
+                            659,
+                            410,
+                            675
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 12,
+        "bbox": [
+            46,
+            62,
+            58,
+            77
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 12,
+                "bbox": [
+                    68,
+                    62,
+                    86,
+                    77
+                ],
+                "level": 68,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 12,
+                        "bbox": [
+                            92,
+                            62,
+                            108,
+                            77
+                        ],
+                        "level": 92,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "State the condition for a charged particle to experience a force in a magnetic field",
+                                "bbox": [
+                                    116,
+                                    61,
+                                    517,
+                                    78
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 12,
+                        "bbox": [
+                            87,
+                            157,
+                            107,
+                            173
+                        ],
+                        "level": 87,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "State an expression for the magnetic force \\(F\\) acting on a charged particle in a magnetic field of flux density \\(B\\). Explain any other symbols you use",
+                                "bbox": [
+                                    115,
+                                    157,
+                                    521,
+                                    187
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    483,
+                                    240,
+                                    503,
+                                    256
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 12,
+                "bbox": [
+                    68,
+                    268,
+                    87,
+                    283
+                ],
+                "level": 68,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 12,
+                        "bbox": [
+                            92,
+                            573,
+                            107,
+                            588
+                        ],
+                        "level": 92,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "On Fig. 6.1, shade the face to which the electrons tend to move as a result of this force",
+                                "bbox": [
+                                    115,
+                                    573,
+                                    521,
+                                    600
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    481,
+                                    587,
+                                    501,
+                                    602
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 12,
+                        "bbox": [
+                            90,
+                            607,
+                            108,
+                            621
+                        ],
+                        "level": 90,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "The movement of the electrons in the magnetic field causes a potential difference between two faces of the conductor",
+                                "bbox": [
+                                    115,
+                                    607,
+                                    521,
+                                    634
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "Using the lettering from Fig. 6.1, state the faces between which this potential difference will occur",
+                                "bbox": [
+                                    115,
+                                    632,
+                                    521,
+                                    660
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "face   .........  and face   .........",
+                                "bbox": [
+                                    231,
+                                    669,
+                                    501,
+                                    684
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    481,
+                                    669,
+                                    501,
+                                    684
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "A sample of a conductor with rectangular faces is situated in a magnetic field, as shown in Fig. 6.1",
+                        "bbox": [
+                            91,
+                            268,
+                            521,
+                            297
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            115,
+                            299,
+                            457,
+                            482
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "image": {
+                            "caption": "",
+                            "page": 12
+                        },
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The magnetic field is normal to face ABCD in the downward direction",
+                        "bbox": [
+                            92,
+                            509,
+                            434,
+                            525
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Electrons enter face CDHG at right-angles to the face. As the electrons pass through the conductor, they experience a force due to the magnetic field",
+                        "bbox": [
+                            92,
+                            533,
+                            521,
+                            561
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 12,
+                "bbox": [
+                    68,
+                    693,
+                    86,
+                    709
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Explain why the potential difference in **(b)** causes an additional force on the moving electrons in the conductor",
+                        "bbox": [
+                            90,
+                            693,
+                            521,
+                            721
+                        ],
+                        "page_number": 12,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 13,
+        "bbox": [
+            46,
+            62,
+            57,
+            77
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 13,
+                "bbox": [
+                    68,
+                    62,
+                    86,
+                    77
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State Lenz's law",
+                        "bbox": [
+                            92,
+                            61,
+                            177,
+                            77
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 13,
+                "bbox": [
+                    69,
+                    165,
+                    87,
+                    180
+                ],
+                "level": 69,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 13,
+                        "bbox": [
+                            92,
+                            388,
+                            109,
+                            404
+                        ],
+                        "level": 92,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Explain why the core is",
+                                "bbox": [
+                                    117,
+                                    388,
+                                    231,
+                                    404
+                                ],
+                                "page_number": 13,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "1. made of iron,",
+                                "bbox": [
+                                    115,
+                                    415,
+                                    204,
+                                    430
+                                ],
+                                "page_number": 13,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 13,
+                        "bbox": [
+                            88,
+                            597,
+                            108,
+                            612
+                        ],
+                        "level": 88,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "An e.m.f. is induced in the secondary coil of the transformer",
+                                "bbox": [
+                                    115,
+                                    596,
+                                    410,
+                                    612
+                                ],
+                                "page_number": 13,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "Explain how a current in the primary coil gives rise to this induced e.m.f",
+                                "bbox": [
+                                    116,
+                                    609,
+                                    467,
+                                    625
+                                ],
+                                "page_number": 13,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "A simple transformer with a soft-iron core is illustrated in Fig. 7.1",
+                        "bbox": [
+                            92,
+                            165,
+                            411,
+                            180
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            149,
+                            190,
+                            441,
+                            359
+                        ],
+                        "page_number": 13,
+                        "is_pre": false,
+                        "image": {
+                            "caption": "",
+                            "page": 13
+                        },
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "8",
+        "page_number": 14,
+        "bbox": [
+            45,
+            62,
+            57,
+            77
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 14,
+                "bbox": [
+                    69,
+                    62,
+                    87,
+                    78
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State what is meant by a photon",
+                        "bbox": [
+                            92,
+                            61,
+                            256,
+                            78
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 14,
+                "bbox": [
+                    69,
+                    165,
+                    88,
+                    180
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "It has been observed that, where photoelectric emission of electrons takes place, there is negligible time delay between illumination of the surface and emission of an electron",
+                        "bbox": [
+                            92,
+                            165,
+                            521,
+                            193
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "State three other pieces of evidence provided by the photoelectric effect for the particulate nature of electromagnetic radiation",
+                        "bbox": [
+                            92,
+                            204,
+                            521,
+                            233
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "1.",
+                        "bbox": [
+                            92,
+                            244,
+                            103,
+                            259
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "2.",
+                        "bbox": [
+                            92,
+                            295,
+                            519,
+                            310
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "3.",
+                        "bbox": [
+                            92,
+                            348,
+                            103,
+                            364
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            481,
+                            388,
+                            501,
+                            404
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(c)",
+                "page_number": 14,
+                "bbox": [
+                    68,
+                    413,
+                    87,
+                    428
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The work function of a metal surface is \\(3.5 \\text{eV}\\). Light of wavelength \\(450 \\text{nm}\\) is incident on the surface",
+                        "bbox": [
+                            92,
+                            413,
+                            521,
+                            441
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Determine whether electrons will be emitted, by the photoelectric effect, from the surface",
+                        "bbox": [
+                            92,
+                            439,
+                            521,
+                            468
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            481,
+                            607,
+                            501,
+                            621
+                        ],
+                        "page_number": 14,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "9",
+        "page_number": 16,
+        "bbox": [
+            46,
+            126,
+            56,
+            142
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 16,
+                "bbox": [
+                    68,
+                    165,
+                    86,
+                    180
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State three properties of an ideal op- amp",
+                        "bbox": [
+                            92,
+                            165,
+                            298,
+                            180
+                        ],
+                        "page_number": 16,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "1.",
+                        "bbox": [
+                            92,
+                            191,
+                            103,
+                            206
+                        ],
+                        "page_number": 16,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "2.",
+                        "bbox": [
+                            91,
+                            215,
+                            103,
+                            230
+                        ],
+                        "page_number": 16,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "3.",
+                        "bbox": [
+                            91,
+                            241,
+                            103,
+                            256
+                        ],
+                        "page_number": 16,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            481,
+                            255,
+                            501,
+                            271
+                        ],
+                        "page_number": 16,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 16,
+                "bbox": [
+                    69,
+                    282,
+                    87,
+                    298
+                ],
+                "level": 69,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 16,
+                        "bbox": [
+                            92,
+                            507,
+                            108,
+                            523
+                        ],
+                        "level": 92,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "In one application of the comparator, \\(V_{2}\\) is kept constant at \\(+1.5\\mathrm{V}\\)",
+                                "bbox": [
+                                    115,
+                                    507,
+                                    439,
+                                    523
+                                ],
+                                "page_number": 16,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "The variation with time \\(t\\) of the potential \\(V_{1}\\) is shown in Fig. 9.2. The potential \\(V_{2}\\) is also shown",
+                                "bbox": [
+                                    115,
+                                    519,
+                                    521,
+                                    548
+                                ],
+                                "page_number": 16,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 17,
+                        "bbox": [
+                            89,
+                            430,
+                            108,
+                            447
+                        ],
+                        "level": 89,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Two light-emitting diodes (LEDs) R and G are connected to the output of the op-amp in Fig. 9.1 such that R emits light for a longer time than G",
+                                "bbox": [
+                                    115,
+                                    430,
+                                    521,
+                                    459
+                                ],
+                                "page_number": 17,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "On Fig. 9.1, draw the symbols for the two diodes connected to the output of the op-amp and label the diodes R and G",
+                                "bbox": [
+                                    114,
+                                    469,
+                                    521,
+                                    498
+                                ],
+                                "page_number": 17,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    481,
+                                    482,
+                                    501,
+                                    498
+                                ],
+                                "page_number": 17,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "A comparator circuit incorporating an ideal op- amp is shown in Fig. 9.1",
+                        "bbox": [
+                            92,
+                            282,
+                            443,
+                            298
+                        ],
+                        "page_number": 16,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            115,
+                            307,
+                            495,
+                            468
+                        ],
+                        "page_number": 16,
+                        "is_pre": false,
+                        "image": {
+                            "caption": "",
+                            "page": 16
+                        },
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "pre_text",
+                "text": "Please turn over for Section B",
+                "bbox": [
+                    217,
+                    422,
+                    378,
+                    437
+                ],
+                "page_number": 15,
+                "is_pre": true,
+                "issues": [],
+                "is_pot_pre": true
+            },
+            {
+                "type": "pre_text",
+                "text": "Answer all the questions in the spaces provided",
+                "bbox": [
+                    177,
+                    86,
+                    417,
+                    103
+                ],
+                "page_number": 16,
+                "is_pre": true,
+                "issues": [],
+                "is_pot_pre": true
+            },
+            {
+                "type": "text",
+                "text": "An operational amplifier (op- amp) may be used as part of the processing unit in an electronic sensor",
+                "bbox": [
+                    69,
+                    126,
+                    521,
+                    154
+                ],
+                "page_number": 16,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "10",
+        "page_number": 18,
+        "bbox": [
+            47,
+            62,
+            63,
+            76
+        ],
+        "level": 47,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Outline the principles of CT scanning",
+                "bbox": [
+                    70,
+                    61,
+                    256,
+                    77
+                ],
+                "page_number": 18,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[6]",
+                "bbox": [
+                    481,
+                    296,
+                    501,
+                    310
+                ],
+                "page_number": 18,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "11",
+        "page_number": 19,
+        "bbox": [
+            46,
+            62,
+            63,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 19,
+                "bbox": [
+                    68,
+                    62,
+                    87,
+                    78
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "In modern communications systems, the majority of data is transmitted in digital form rather than analogue form",
+                        "bbox": [
+                            92,
+                            61,
+                            521,
+                            90
+                        ],
+                        "page_number": 19,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Suggest three advantages of the transmission of data in digital form",
+                        "bbox": [
+                            92,
+                            86,
+                            428,
+                            103
+                        ],
+                        "page_number": 19,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "1",
+                        "bbox": [
+                            91,
+                            113,
+                            519,
+                            129
+                        ],
+                        "page_number": 19,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "2",
+                        "bbox": [
+                            91,
+                            164,
+                            519,
+                            180
+                        ],
+                        "page_number": 19,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "3",
+                        "bbox": [
+                            91,
+                            216,
+                            519,
+                            232
+                        ],
+                        "page_number": 19,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            481,
+                            255,
+                            501,
+                            271
+                        ],
+                        "page_number": 19,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 19,
+                "bbox": [
+                    69,
+                    282,
+                    87,
+                    298
+                ],
+                "level": 69,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 19,
+                        "bbox": [
+                            92,
+                            322,
+                            108,
+                            337
+                        ],
+                        "level": 92,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Suggest the effect on the quality of the recording of",
+                                "bbox": [
+                                    115,
+                                    321,
+                                    368,
+                                    337
+                                ],
+                                "page_number": 19,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "1. sampling at a high frequency rather than a lower frequency,",
+                                "bbox": [
+                                    115,
+                                    347,
+                                    432,
+                                    364
+                                ],
+                                "page_number": 19,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "2. using a long word length rather than a shorter word length",
+                                "bbox": [
+                                    115,
+                                    421,
+                                    521,
+                                    438
+                                ],
+                                "page_number": 19,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": true
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 19,
+                        "bbox": [
+                            89,
+                            503,
+                            107,
+                            519
+                        ],
+                        "level": 89,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "The recording lasts for a total time of 5 minutes 40 seconds",
+                                "bbox": [
+                                    115,
+                                    503,
+                                    410,
+                                    519
+                                ],
+                                "page_number": 19,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "Calculate the number of bits generated during the recording",
+                                "bbox": [
+                                    115,
+                                    516,
+                                    412,
+                                    532
+                                ],
+                                "page_number": 19,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "number =   .........",
+                                "bbox": [
+                                    298,
+                                    673,
+                                    501,
+                                    689
+                                ],
+                                "page_number": 19,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    481,
+                                    673,
+                                    501,
+                                    689
+                                ],
+                                "page_number": 19,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "A recording is made of some music. For this recording, the music is sampled at a rate of \\(44.1 \\text{kHz}\\) and each sample consists of a 16-bit word",
+                        "bbox": [
+                            92,
+                            282,
+                            521,
+                            311
+                        ],
+                        "page_number": 19,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "12",
+        "page_number": 20,
+        "bbox": [
+            47,
+            62,
+            65,
+            77
+        ],
+        "level": 47,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 20,
+                "bbox": [
+                    68,
+                    62,
+                    86,
+                    77
+                ],
+                "level": 68,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 20,
+                        "bbox": [
+                            92,
+                            86,
+                            107,
+                            102
+                        ],
+                        "level": 92,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Explain what is meant by cross-linking",
+                                "bbox": [
+                                    116,
+                                    86,
+                                    308,
+                                    102
+                                ],
+                                "page_number": 20,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    481,
+                                    137,
+                                    501,
+                                    153
+                                ],
+                                "page_number": 20,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 20,
+                        "bbox": [
+                            89,
+                            165,
+                            108,
+                            180
+                        ],
+                        "level": 89,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Suggest why cross-linking in coaxial cables is much less than in wire pairs",
+                                "bbox": [
+                                    116,
+                                    164,
+                                    482,
+                                    180
+                                ],
+                                "page_number": 20,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Wire pairs used for the transmission of telephone signals are subject to cross-linking",
+                        "bbox": [
+                            92,
+                            61,
+                            509,
+                            78
+                        ],
+                        "page_number": 20,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 20,
+                "bbox": [
+                    69,
+                    270,
+                    87,
+                    286
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "A wire pair has a length of \\(1.4 \\text{km}\\) and is connected to a receiver, as illustrated in Fig. 12.1",
+                        "bbox": [
+                            91,
+                            270,
+                            521,
+                            299
+                        ],
+                        "page_number": 20,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "image",
+                        "bbox": [
+                            115,
+                            308,
+                            505,
+                            434
+                        ],
+                        "page_number": 20,
+                        "is_pre": false,
+                        "image": {
+                            "caption": "",
+                            "page": 20
+                        },
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The constant noise power in the wire pair is \\(3.8 \\times 10^{- 8} \\text{W}\\)",
+                        "bbox": [
+                            92,
+                            473,
+                            375,
+                            489
+                        ],
+                        "page_number": 20,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "For an input signal to the wire pair of \\(3.0 \\times 10^{- 3} \\text{W}\\), the signal-to-noise ratio at the receiver is \\(25 \\text{dB}\\)",
+                        "bbox": [
+                            92,
+                            486,
+                            521,
+                            514
+                        ],
+                        "page_number": 20,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Calculate the attenuation per unit length for the wire pair",
+                        "bbox": [
+                            92,
+                            526,
+                            371,
+                            541
+                        ],
+                        "page_number": 20,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "attenuation per unit length =   .........  dB km\\({}^{-1}\\)",
+                        "bbox": [
+                            208,
+                            709,
+                            522,
+                            725
+                        ],
+                        "page_number": 20,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            483,
+                            708,
+                            503,
+                            723
+                        ],
+                        "page_number": 20,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    }
+]

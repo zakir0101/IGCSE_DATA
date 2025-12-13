@@ -412,7 +412,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "kinetic energy = .........",
+                        "text": "kinetic energy =   .........",
                         "bbox": [
                             267,
                             250,
@@ -482,7 +482,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "average force = .........",
+                        "text": "average force =   .........",
                         "bbox": [
                             268,
                             454,
@@ -880,7 +880,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "value of absolute zero = .........\\(^\\circ \\mathrm{C}\\)",
+                                "text": "value of absolute zero =   .........  \\(^\\circ \\mathrm{C}\\)",
                                 "bbox": [
                                     228,
                                     243,
@@ -996,7 +996,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "volume = .........",
+                        "text": "volume =   .........",
                         "bbox": [
                             300,
                             590,
@@ -1134,7 +1134,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "time = .........",
+                                "text": "time =   .........",
                                 "bbox": [
                                     314,
                                     713,
@@ -1466,7 +1466,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "wavelength = .........",
+                        "text": "wavelength =   .........",
                         "bbox": [
                             280,
                             354,
@@ -1608,7 +1608,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "angle of refraction = .........",
+                        "text": "angle of refraction =   .........",
                         "bbox": [
                             247,
                             499,
@@ -1720,7 +1720,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "speed = .........",
+                        "text": "speed =   .........",
                         "bbox": [
                             305,
                             295,
@@ -2018,7 +2018,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "e.m.f.........= .........",
+                                "text": "e.m.f  .........  =   .........",
                                 "bbox": [
                                     308,
                                     470,
@@ -2071,6 +2071,33 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    119,
+                                    523,
+                                    528,
+                                    538
+                                ],
+                                "page_number": 13,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    523,
+                                    528,
+                                    538
+                                ],
+                                "page_number": 13,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2103,23 +2130,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "1.",
+                                "text": "1. State and explain the change in current in \\(\\mathsf{R}_1\\)",
                                 "bbox": [
                                     115,
-                                    575,
-                                    125,
-                                    590
-                                ],
-                                "page_number": 13,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "State and explain the change in current in \\(\\mathsf{R}_1\\)",
-                                "bbox": [
-                                    138,
                                     575,
                                     362,
                                     590
@@ -2130,24 +2143,37 @@
                                 "is_pot_pre": false
                             },
                             {
-                                "type": "text",
-                                "text": "2.",
+                                "type": "form_text",
+                                "text": ".........",
                                 "bbox": [
-                                    114,
-                                    654,
-                                    128,
-                                    669
+                                    138,
+                                    602,
+                                    528,
+                                    618
                                 ],
                                 "page_number": 13,
                                 "is_pre": false,
                                 "issues": [],
-                                "is_pot_pre": true
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    602,
+                                    528,
+                                    618
+                                ],
+                                "page_number": 13,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             },
                             {
                                 "type": "text",
-                                "text": "Determine the new value of the ratio of the p.d. across \\(\\mathsf{R}_2\\) to the p.d. across \\(\\mathsf{R}_3\\)",
+                                "text": "2. Determine the new value of the ratio of the p.d. across \\(\\mathsf{R}_2\\) to the p.d. across \\(\\mathsf{R}_3\\)",
                                 "bbox": [
-                                    138,
+                                    114,
                                     653,
                                     528,
                                     669
@@ -2155,7 +2181,20 @@
                                 "page_number": 13,
                                 "is_pre": false,
                                 "issues": [],
-                                "is_pot_pre": true
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    702,
+                                    528,
+                                    717
+                                ],
+                                "page_number": 13,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2422,7 +2461,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "reading = .........counts/min",
+                        "text": "reading =   .........  counts/min",
                         "bbox": [
                             298,
                             627,
@@ -2773,7 +2812,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "distance = .........light-years",
+                        "text": "distance =   .........  light-years",
                         "bbox": [
                             294,
                             615,

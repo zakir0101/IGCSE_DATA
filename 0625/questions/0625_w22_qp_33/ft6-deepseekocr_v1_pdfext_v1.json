@@ -49,7 +49,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "time = .........min",
+                                "text": "time =   .........  min",
                                 "bbox": [
                                     314,
                                     650,
@@ -92,7 +92,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "maximum speed = .........m/s",
+                                "text": "maximum speed =   .........  m/s",
                                 "bbox": [
                                     255,
                                     702,
@@ -264,7 +264,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "average speed = .........m/s",
+                        "text": "average speed =   .........  m/s",
                         "bbox": [
                             262,
                             320,
@@ -520,7 +520,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "volume = .........\\(\\text{cm}^3\\)",
+                                "text": "volume =   .........  \\(\\text{cm}^3\\)",
                                 "bbox": [
                                     300,
                                     546,
@@ -576,7 +576,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "density = .........unit",
+                                "text": "density =   .........  unit",
                                 "bbox": [
                                     300,
                                     652,
@@ -619,7 +619,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "weight = .........N",
+                                "text": "weight =   .........  N",
                                 "bbox": [
                                     304,
                                     756,
@@ -945,6 +945,33 @@
                                 "page_number": 5,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    117,
+                                    628,
+                                    528,
+                                    644
+                                ],
+                                "page_number": 5,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    628,
+                                    528,
+                                    644
+                                ],
+                                "page_number": 5,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -1579,6 +1606,33 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    117,
+                                    707,
+                                    528,
+                                    723
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    707,
+                                    528,
+                                    723
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2141,7 +2195,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "speed of sound = .........m/s",
+                                "text": "speed of sound =   .........  m/s",
                                 "bbox": [
                                     259,
                                     268,
@@ -3018,66 +3072,10 @@
                     },
                     {
                         "type": "text",
-                        "text": "5A",
+                        "text": "5A 10A 13A 15A 30A",
                         "bbox": [
                             197,
                             535,
-                            217,
-                            552
-                        ],
-                        "page_number": 14,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "10A",
-                        "bbox": [
-                            236,
-                            536,
-                            260,
-                            552
-                        ],
-                        "page_number": 14,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "13A",
-                        "bbox": [
-                            280,
-                            536,
-                            300,
-                            552
-                        ],
-                        "page_number": 14,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "15A",
-                        "bbox": [
-                            317,
-                            536,
-                            334,
-                            552
-                        ],
-                        "page_number": 14,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "30A",
-                        "bbox": [
-                            355,
-                            536,
                             369,
                             552
                         ],
@@ -3471,7 +3469,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "activity = .........counts/s",
+                        "text": "activity =   .........  counts/s",
                         "bbox": [
                             302,
                             464,

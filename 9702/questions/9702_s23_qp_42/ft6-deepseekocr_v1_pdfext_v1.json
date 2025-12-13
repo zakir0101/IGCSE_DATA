@@ -179,7 +179,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "height = .........m",
+                        "text": "height =   .........  m",
                         "bbox": [
                             305,
                             648,
@@ -246,7 +246,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "angular speed = .........unit .........",
+                                "text": "angular speed =   .........  unit   .........",
                                 "bbox": [
                                     230,
                                     229,
@@ -446,7 +446,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "temperature = .........°C",
+                                "text": "temperature =   .........  °C",
                                 "bbox": [
                                     276,
                                     216,
@@ -532,7 +532,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "number of molecules = .........",
+                                "text": "number of molecules =   .........",
                                 "bbox": [
                                     233,
                                     453,
@@ -588,7 +588,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "mass = .........kg",
+                                "text": "mass =   .........  kg",
                                 "bbox": [
                                     310,
                                     571,
@@ -644,7 +644,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "v = .........\\(\\text{ms}^{-1}\\)",
+                                "text": "v =   .........  \\(\\text{ms}^{-1}\\)",
                                 "bbox": [
                                     330,
                                     756,
@@ -1062,7 +1062,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "frequency = .........\\(Hz\\)",
+                                "text": "frequency =   .........  \\(Hz\\)",
                                 "bbox": [
                                     287,
                                     452,
@@ -1147,7 +1147,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "a_0 = .........\\(m s^{-2}\\)",
+                                "text": "a_0 =   .........  \\(m s^{-2}\\)",
                                 "bbox": [
                                     324,
                                     688,
@@ -1411,7 +1411,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "QA = .........",
+                                "text": "QA =   .........",
                                 "bbox": [
                                     322,
                                     466,
@@ -1467,7 +1467,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "EA = .........",
+                                "text": "EA =   .........",
                                 "bbox": [
                                     322,
                                     573,
@@ -1665,7 +1665,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\Delta E =\\) .........",
+                                "text": "\\(\\Delta E =\\)   .........",
                                 "bbox": [
                                     321,
                                     453,
@@ -1868,7 +1868,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "magnetic flux = .........unit",
+                                "text": "magnetic flux =   .........  unit",
                                 "bbox": [
                                     222,
                                     667,
@@ -1942,7 +1942,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "e.m.f.........= .........V",
+                        "text": "e.m.f  .........  =   .........  V",
                         "bbox": [
                             308,
                             258,
@@ -2121,6 +2121,33 @@
                                 "page_number": 16,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    117,
+                                    386,
+                                    529,
+                                    402
+                                ],
+                                "page_number": 16,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    509,
+                                    386,
+                                    529,
+                                    402
+                                ],
+                                "page_number": 16,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -2704,7 +2731,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "E_3 = .........",
+                        "text": "\\( E_3 \\)  =   .........",
                         "bbox": [
                             324,
                             255,
@@ -2713,9 +2740,7 @@
                         ],
                         "page_number": 19,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -2732,9 +2757,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             }
         ],
         "content": [
@@ -2769,8 +2792,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "9",
@@ -3036,7 +3058,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "mass per unit time = .........kg s\\(^{-1}\\)",
+                                "text": "mass per unit time =   .........  kg s\\(^{-1}\\)",
                                 "bbox": [
                                     245,
                                     296,
@@ -3092,7 +3114,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "temperature = .........K",
+                                "text": "temperature =   .........  K",
                                 "bbox": [
                                     275,
                                     439,
@@ -3319,7 +3341,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "wavelength = .........m",
+                                "text": "wavelength =   .........  m",
                                 "bbox": [
                                     280,
                                     438,
@@ -3408,7 +3430,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "percentage absorbed = .........%",
+                        "text": "percentage absorbed =   .........  %",
                         "bbox": [
                             231,
                             646,

@@ -568,7 +568,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(I_{1} =\\) .........A",
+                                "text": "\\(I_{1} =\\)   .........  A",
                                 "bbox": [
                                     326,
                                     595,
@@ -638,7 +638,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(V_{1} =\\) .........V",
+                                "text": "\\(V_{1} =\\)   .........  V",
                                 "bbox": [
                                     324,
                                     673,
@@ -726,7 +726,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "R_1 = .........",
+                        "text": "\\( R_1 \\)  =   .........",
                         "bbox": [
                             322,
                             163,
@@ -735,9 +735,7 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -754,9 +752,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(d)",
@@ -839,7 +835,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "I_2 = .........0.68 .........A",
+                                "text": "\\( I_2 \\)  =   .........  0.68   .........  A",
                                 "bbox": [
                                     325,
                                     578,
@@ -848,9 +844,7 @@
                                 ],
                                 "page_number": 6,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -869,7 +863,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "V_2 = .........2.1 .........V",
+                                "text": "\\( V_2 \\)  =   .........  2.1   .........  V",
                                 "bbox": [
                                     325,
                                     643,
@@ -878,9 +872,7 @@
                                 ],
                                 "page_number": 6,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -926,10 +918,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode",
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -1036,7 +1025,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(I_{3} =\\) .........0.29 .........A",
+                        "text": "\\(I_{3} =\\)   .........  0.29   .........  A",
                         "bbox": [
                             325,
                             310,
@@ -1064,7 +1053,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(V_{3} =\\) .........2.1 .........V",
+                        "text": "\\(V_{3} =\\)   .........  2.1   .........  V",
                         "bbox": [
                             325,
                             359,
@@ -1120,7 +1109,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(R_{3} =\\) .........",
+                        "text": "\\(R_{3} =\\)   .........",
                         "bbox": [
                             322,
                             496,
@@ -1283,8 +1272,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -1650,7 +1638,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "fA = .........cm",
+                        "text": "fA =   .........  cm",
                         "bbox": [
                             327,
                             320,
@@ -1967,23 +1955,9 @@
             },
             {
                 "type": "text",
-                "text": "<label>",
+                "text": "<label> five discs made from different insulating materials",
                 "bbox": [
                     92,
-                    139,
-                    108,
-                    153
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "five discs made from different insulating materials",
-                "bbox": [
-                    115,
                     138,
                     359,
                     153

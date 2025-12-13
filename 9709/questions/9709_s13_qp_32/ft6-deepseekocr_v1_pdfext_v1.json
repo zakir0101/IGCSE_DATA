@@ -1,0 +1,1011 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            46,
+            62,
+            58,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Solve the equation \\(|x - 2| = \\left|\\frac{1}{3} x\\right|\\)",
+                "bbox": [
+                    70,
+                    62,
+                    229,
+                    78
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    62,
+                    528,
+                    78
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 2,
+        "bbox": [
+            45,
+            99,
+            55,
+            115
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 2,
+                "bbox": [
+                    75,
+                    183,
+                    92,
+                    197
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use this formula to calculate \\(\\alpha\\) correct to 4 decimal places, showing the result of each iteration to 6 decimal places",
+                        "bbox": [
+                            94,
+                            182,
+                            548,
+                            211
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            197,
+                            528,
+                            212
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 2,
+                "bbox": [
+                    73,
+                    221,
+                    92,
+                    236
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "State an equation satisfied by \\(\\alpha\\) and hence find the exact value of \\(\\alpha\\)",
+                        "bbox": [
+                            95,
+                            221,
+                            414,
+                            236
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            221,
+                            528,
+                            236
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The sequence of values given by the iterative formula",
+                "bbox": [
+                    70,
+                    99,
+                    326,
+                    115
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[x_{n + 1} = \\frac{x_{n}(x_{n}^{3} + 100)}{2(x_{n}^{3} + 25)},\\]",
+                "bbox": [
+                    246,
+                    121,
+                    347,
+                    153
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "with initial value \\(x_{1} = 3.5\\), converges to \\(\\alpha\\)",
+                "bbox": [
+                    70,
+                    157,
+                    271,
+                    173
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 2,
+        "bbox": [
+            45,
+            255,
+            56,
+            271
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    202,
+                    266,
+                    414,
+                    378
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 2
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The variables \\(x\\) and \\(y\\) satisfy the equation \\(y = A\\mathrm{e}^{- k x^{2}}\\), where \\(A\\) and \\(k\\) are constants. The graph of \\(\\ln y\\) against \\(x^{2}\\) is a straight line passing through the points (0.64, 0.76) and (1.69, 0.32), as shown in the diagram. Find the values of \\(A\\) and \\(k\\) correct to 2 decimal places",
+                "bbox": [
+                    70,
+                    392,
+                    548,
+                    435
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    421,
+                    528,
+                    436
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 2,
+        "bbox": [
+            45,
+            457,
+            55,
+            473
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 2,
+                "bbox": [
+                    75,
+                    496,
+                    93,
+                    511
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the value of \\(a\\)",
+                        "bbox": [
+                            95,
+                            496,
+                            188,
+                            511
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            496,
+                            528,
+                            511
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 2,
+                "bbox": [
+                    72,
+                    520,
+                    91,
+                    535
+                ],
+                "level": 72,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "When \\(a\\) has this value, factorise \\(\\mathrm{p}(x)\\) completely",
+                        "bbox": [
+                            95,
+                            520,
+                            328,
+                            536
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            520,
+                            528,
+                            535
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The polynomial \\(a x^{3} - 20 x^{2} + x + 3\\), where \\(a\\) is a constant, is denoted by \\(\\mathrm{p}(x)\\). It is given that \\((3x + 1)\\) is a factor of \\(\\mathrm{p}(x)\\)",
+                "bbox": [
+                    69,
+                    456,
+                    548,
+                    486
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 2,
+        "bbox": [
+            45,
+            556,
+            57,
+            572
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    220,
+                    562,
+                    396,
+                    694
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 2
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curve with equation",
+                "bbox": [
+                    70,
+                    710,
+                    280,
+                    726
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[x^{3} + x y^{2} + a y^{2} - 3 a x^{2} = 0,\\]",
+                "bbox": [
+                    234,
+                    730,
+                    359,
+                    748
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 3,
+        "bbox": [
+            45,
+            66,
+            56,
+            82
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    73,
+                    120,
+                    93,
+                    136
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Using the substitution \\(x = (\\sqrt{3}) \\tan \\theta\\), find the exact value of",
+                        "bbox": [
+                            93,
+                            119,
+                            379,
+                            136
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\int_{1}^{3}\\frac{1}{\\sqrt{(3 + x^{2})}}\\mathrm{d}x,\\]",
+                        "bbox": [
+                            256,
+                            142,
+                            340,
+                            180
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "expressing your answer as a single logarithm",
+                        "bbox": [
+                            93,
+                            185,
+                            312,
+                            202
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            186,
+                            528,
+                            202
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "By differentiating \\(\\frac{1}{\\cos x}\\), show that the derivative of \\(\\sec x\\) is \\(\\sec x \\tan x\\). Hence show that if",
+                "bbox": [
+                    92,
+                    61,
+                    550,
+                    86
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "\\(y = \\ln (\\sec x + \\tan x)\\) then \\(\\frac{\\mathrm{d}y}{\\mathrm{d}x} = \\sec x.\\)",
+                "bbox": [
+                    92,
+                    86,
+                    267,
+                    109
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    89,
+                    528,
+                    105
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 3,
+        "bbox": [
+            45,
+            225,
+            57,
+            241
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 3,
+                "bbox": [
+                    73,
+                    225,
+                    90,
+                    241
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "By first expanding \\(\\cos (x + 45^{\\circ})\\), express \\(\\cos (x + 45^{\\circ}) - (\\sqrt{2}) \\sin x\\) in the form \\(R \\cos (x + \\alpha)\\), where \\(R > 0\\) and \\(0^{\\circ} < \\alpha < 90^{\\circ}\\). Give the value of \\(R\\) correct to 4 significant figures and the value of \\(\\alpha\\) correct to 2 decimal places",
+                        "bbox": [
+                            93,
+                            224,
+                            548,
+                            267
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            252,
+                            528,
+                            267
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    72,
+                    277,
+                    90,
+                    293
+                ],
+                "level": 72,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Hence solve the equation",
+                        "bbox": [
+                            93,
+                            277,
+                            217,
+                            293
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\cos (x + 45^{\\circ}) - (\\sqrt{2}) \\sin x = 2,\\]",
+                        "bbox": [
+                            227,
+                            299,
+                            366,
+                            316
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "for \\(0^{\\circ} < x < 360^{\\circ}\\)",
+                        "bbox": [
+                            93,
+                            321,
+                            181,
+                            337
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            322,
+                            528,
+                            337
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "8",
+        "page_number": 3,
+        "bbox": [
+            45,
+            365,
+            56,
+            382
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 3,
+                "bbox": [
+                    73,
+                    361,
+                    90,
+                    378
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Express \\(\\frac{1}{x^{2}(2x + 1)}\\) in the form \\(\\frac{A}{x^{2}} +\\frac{B}{x} +\\frac{C}{2x + 1}.\\)",
+                        "bbox": [
+                            93,
+                            361,
+                            328,
+                            388
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            365,
+                            528,
+                            382
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    73,
+                    399,
+                    91,
+                    415
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The variables \\(x\\) and \\(y\\) satisfy the differential equation",
+                        "bbox": [
+                            94,
+                            399,
+                            348,
+                            415
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[y = x^{2}(2x + 1)\\frac{\\mathrm{d}y}{\\mathrm{d}x},\\]",
+                        "bbox": [
+                            253,
+                            419,
+                            342,
+                            447
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "and \\(y = 1\\) when \\(x = 1\\). Solve the differential equation and find the exact value of \\(y\\) when \\(x = 2\\). Give your value of \\(y\\) in a form not involving logarithms",
+                        "bbox": [
+                            94,
+                            451,
+                            548,
+                            481
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            508,
+                            465,
+                            528,
+                            481
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "9",
+        "page_number": 3,
+        "bbox": [
+            45,
+            505,
+            57,
+            521
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 3,
+                "bbox": [
+                    69,
+                    505,
+                    86,
+                    521
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The complex number \\(w\\) is such that \\(\\operatorname {Re}w > 0\\) and \\(w + 3w^{*} = \\mathrm{i}w^{2}\\), where \\(w^{*}\\) denotes the complex conjugate of \\(w\\). Find \\(w\\), giving your answer in the form \\(x + \\mathrm{i}y\\), where \\(x\\) and \\(y\\) are real",
+                        "bbox": [
+                            93,
+                            505,
+                            548,
+                            534
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            518,
+                            528,
+                            534
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 3,
+                "bbox": [
+                    69,
+                    543,
+                    88,
+                    559
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "On a sketch of an Argand diagram, shade the region whose points represent complex numbers \\(z\\) which satisfy both the inequalities \\(|z - 2\\mathrm{i}|\\leqslant 2\\) and \\(0\\leqslant \\arg (z + 2)\\leqslant \\frac{1}{4}\\pi\\). Calculate the greatest value of \\(|z|\\) for points in this region, giving your answer correct to 2 decimal places",
+                        "bbox": [
+                            93,
+                            543,
+                            548,
+                            586
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            575,
+                            528,
+                            590
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "10",
+        "page_number": 3,
+        "bbox": [
+            45,
+            611,
+            62,
+            627
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 3,
+                "bbox": [
+                    75,
+                    651,
+                    91,
+                    666
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the position vector of the point of intersection of the line through \\(A\\) and \\(B\\) and the plane \\(p\\)",
+                        "bbox": [
+                            93,
+                            651,
+                            548,
+                            680
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            665,
+                            528,
+                            681
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    73,
+                    690,
+                    91,
+                    706
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "A second plane \\(q\\) has an equation of the form \\(x + by + cz = d\\), where \\(b\\), \\(c\\) and \\(d\\) are constants. The plane \\(q\\) contains the line \\(AB\\), and the acute angle between the planes \\(p\\) and \\(q\\) is \\(60^{\\circ}\\). Find the equation of \\(q\\)",
+                        "bbox": [
+                            93,
+                            690,
+                            548,
+                            733
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            508,
+                            718,
+                            528,
+                            733
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The points \\(A\\) and \\(B\\) have position vectors \\(2\\mathbf{i} - 3\\mathbf{j} + 2\\mathbf{k}\\) and \\(5\\mathbf{i} - 2\\mathbf{j} + \\mathbf{k}\\) respectively. The plane \\(p\\) has equation \\(x + y = 5\\)",
+                "bbox": [
+                    69,
+                    611,
+                    548,
+                    640
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

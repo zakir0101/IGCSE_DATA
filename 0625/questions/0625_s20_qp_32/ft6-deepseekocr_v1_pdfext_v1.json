@@ -52,7 +52,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "average time = .........\\(s\\)",
+                        "text": "average time =   .........  \\(s\\)",
                         "bbox": [
                             274,
                             474,
@@ -130,6 +130,33 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    117,
+                                    580,
+                                    528,
+                                    594
+                                ],
+                                "page_number": 2,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    580,
+                                    528,
+                                    594
+                                ],
+                                "page_number": 2,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -176,7 +203,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "weight of water = .........N",
+                                "text": "weight of water =   .........  N",
                                 "bbox": [
                                     264,
                                     723,
@@ -298,7 +325,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "average speed = .........m/s",
+                        "text": "average speed =   .........  m/s",
                         "bbox": [
                             265,
                             208,
@@ -442,7 +469,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "distance travelled = .........\\(m\\)",
+                        "text": "distance travelled =   .........  \\(m\\)",
                         "bbox": [
                             252,
                             537,
@@ -514,7 +541,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "pressure on fingers = .........N/cm²",
+                        "text": "pressure on fingers =   .........  N/cm²",
                         "bbox": [
                             243,
                             496,
@@ -728,23 +755,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "A",
+                        "text": "A Molecules move around freely and are far apart from each other",
                         "bbox": [
                             92,
-                            114,
-                            107,
-                            129
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Molecules move around freely and are far apart from each other",
-                        "bbox": [
-                            107,
                             113,
                             429,
                             129
@@ -756,23 +769,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "B",
+                        "text": "B Molecules vibrate about fixed positions",
                         "bbox": [
                             92,
-                            152,
-                            104,
-                            168
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Molecules vibrate about fixed positions",
-                        "bbox": [
-                            107,
                             152,
                             308,
                             168
@@ -784,23 +783,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "C",
+                        "text": "C Molecules move around randomly and are close to each other",
                         "bbox": [
                             92,
-                            191,
-                            104,
-                            206
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Molecules move around randomly and are close to each other",
-                        "bbox": [
-                            107,
                             191,
                             420,
                             206
@@ -1571,6 +1556,20 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "material",
+                                "bbox": [
+                                    115,
+                                    581,
+                                    548,
+                                    597
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -1595,6 +1594,20 @@
                                     607,
                                     268,
                                     623
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "reason",
+                                "bbox": [
+                                    115,
+                                    634,
+                                    548,
+                                    648
                                 ],
                                 "page_number": 10,
                                 "is_pre": false,
@@ -2598,7 +2611,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "resistance of lamp J = .........unit.........",
+                        "text": "resistance of lamp J =   .........  unit  .........",
                         "bbox": [
                             266,
                             756,
@@ -2824,6 +2837,33 @@
                         "page_number": 15,
                         "is_pre": false,
                         "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "number of turns on the secondary coil =   .........",
+                        "bbox": [
+                            151,
+                            713,
+                            528,
+                            729
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            713,
+                            528,
+                            729
+                        ],
+                        "page_number": 15,
+                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],

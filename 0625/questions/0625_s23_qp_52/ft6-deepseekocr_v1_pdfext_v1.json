@@ -350,7 +350,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "e_{\\mathrm{A}} = .........",
+                        "text": "\\( e_{\\mathrm{A}} \\)  =   .........",
                         "bbox": [
                             324,
                             754,
@@ -359,9 +359,7 @@
                         ],
                         "page_number": 3,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -378,9 +376,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             }
         ],
         "content": [
@@ -429,8 +425,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -1000,23 +995,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· Place the transparent block, largest face down, with the straight side on the line \\(\\mathbf{PQ}\\) and the curved side below the line",
                         "bbox": [
                             92,
-                            637,
-                            102,
-                            652
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Place the transparent block, largest face down, with the straight side on the line \\(\\mathbf{PQ}\\) and the curved side below the line",
-                        "bbox": [
-                            114,
                             636,
                             548,
                             665
@@ -1028,23 +1009,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· Draw round the outline of the block. Label the ends of the straight side of the block \\(\\mathbf{A}\\) and \\(\\mathbf{B}\\)",
                         "bbox": [
                             92,
-                            663,
-                            103,
-                            678
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Draw round the outline of the block. Label the ends of the straight side of the block \\(\\mathbf{A}\\) and \\(\\mathbf{B}\\)",
-                        "bbox": [
-                            114,
                             663,
                             548,
                             691
@@ -1056,23 +1023,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· Remove the block and draw the normal \\(\\mathbf{NL}\\) through the centre of \\(\\mathbf{AB}\\). Continue the normal so that it passes through the curved side of the block",
                         "bbox": [
                             92,
-                            689,
-                            103,
-                            704
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Remove the block and draw the normal \\(\\mathbf{NL}\\) through the centre of \\(\\mathbf{AB}\\). Continue the normal so that it passes through the curved side of the block",
-                        "bbox": [
-                            114,
                             689,
                             548,
                             716
@@ -1084,23 +1037,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· Label the point \\(\\mathbf{C}\\) where the normal \\(\\mathbf{NL}\\) crosses \\(\\mathbf{AB}\\)",
                         "bbox": [
                             92,
-                            715,
-                            104,
-                            730
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Label the point \\(\\mathbf{C}\\) where the normal \\(\\mathbf{NL}\\) crosses \\(\\mathbf{AB}\\)",
-                        "bbox": [
-                            114,
                             715,
                             370,
                             730
@@ -1168,11 +1107,11 @@
                     },
                     {
                         "type": "text",
-                        "text": "*",
+                        "text": "* Place two pins, \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\), on line \\(\\mathbf{DC}\\) at a suitable distance apart for this experiment",
                         "bbox": [
                             92,
-                            87,
-                            101,
+                            86,
+                            533,
                             101
                         ],
                         "page_number": 7,
@@ -1182,37 +1121,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "Place two pins, \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\), on line \\(\\mathbf{DC}\\) at a suitable distance apart for this experiment",
-                        "bbox": [
-                            114,
-                            86,
-                            533,
-                            100
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "*",
+                        "text": "* Replace the block and look from the position of the eye shown in Fig. 3.1 to observe the images of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) through side \\(\\mathbf{AB}\\) of the block. Adjust your line of sight until the images of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) appear one behind the other",
                         "bbox": [
                             91,
-                            99,
-                            101,
-                            114
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Replace the block and look from the position of the eye shown in Fig. 3.1 to observe the images of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) through side \\(\\mathbf{AB}\\) of the block. Adjust your line of sight until the images of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) appear one behind the other",
-                        "bbox": [
-                            114,
                             99,
                             547,
                             138
@@ -1224,23 +1135,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "*",
+                        "text": "* Place two pins, \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\), between your eye and the block so that \\(\\mathsf{P}_3\\), \\(\\mathsf{P}_4\\), and the images of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) seen through the block, appear one behind the other",
                         "bbox": [
                             91,
-                            137,
-                            101,
-                            153
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Place two pins, \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\), between your eye and the block so that \\(\\mathsf{P}_3\\), \\(\\mathsf{P}_4\\), and the images of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) seen through the block, appear one behind the other",
-                        "bbox": [
-                            114,
                             137,
                             548,
                             165
@@ -1252,23 +1149,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "*",
+                        "text": "* Label the positions of \\(\\mathsf{P}_1\\), \\(\\mathsf{P}_2\\), \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\)",
                         "bbox": [
                             91,
-                            164,
-                            104,
-                            179
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Label the positions of \\(\\mathsf{P}_1\\), \\(\\mathsf{P}_2\\), \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\)",
-                        "bbox": [
-                            114,
                             164,
                             313,
                             179
@@ -1280,23 +1163,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "*",
+                        "text": "* Remove the block and the pins",
                         "bbox": [
                             91,
-                            178,
-                            104,
-                            192
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Remove the block and the pins",
-                        "bbox": [
-                            114,
                             178,
                             274,
                             192
@@ -1308,23 +1177,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "*",
+                        "text": "* Draw a line joining the positions of \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\). Continue the line to \\(\\mathbf{AB}\\)",
                         "bbox": [
                             91,
-                            191,
-                            102,
-                            206
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Draw a line joining the positions of \\(\\mathsf{P}_3\\) and \\(\\mathsf{P}_4\\). Continue the line to \\(\\mathbf{AB}\\)",
-                        "bbox": [
-                            114,
                             191,
                             459,
                             206
@@ -1336,23 +1191,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "*",
+                        "text": "* Label \\(\\mathbf{E}\\), the end of the line furthest from \\(\\mathbf{AB}\\)",
                         "bbox": [
                             91,
-                            204,
-                            104,
-                            219
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Label \\(\\mathbf{E}\\), the end of the line furthest from \\(\\mathbf{AB}\\)",
-                        "bbox": [
-                            114,
                             204,
                             336,
                             219
@@ -1406,7 +1247,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(\\theta =\\) .........°",
+                        "text": "\\(\\theta =\\)   .........  °",
                         "bbox": [
                             330,
                             281,
@@ -1506,23 +1347,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• On the ray-trace sheet, draw a line \\(\\mathbf{FC}\\) at an angle \\(i = 70^{\\circ}\\) to the normal \\(\\mathbf{NL}\\), as shown in Fig. 3.2",
                         "bbox": [
                             92,
-                            470,
-                            103,
-                            485
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "On the ray-trace sheet, draw a line \\(\\mathbf{FC}\\) at an angle \\(i = 70^{\\circ}\\) to the normal \\(\\mathbf{NL}\\), as shown in Fig. 3.2",
-                        "bbox": [
-                            115,
                             469,
                             548,
                             498
@@ -1534,23 +1361,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Replace the transparent block on the ray-trace sheet in the position shown in Fig. 3.2",
                         "bbox": [
                             91,
-                            494,
-                            103,
-                            509
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Replace the transparent block on the ray-trace sheet in the position shown in Fig. 3.2",
-                        "bbox": [
-                            115,
                             494,
                             536,
                             509
@@ -1562,26 +1375,12 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Place pins \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) on line \\(\\mathbf{FC}\\) at a suitable distance apart for this type of experiment",
                         "bbox": [
                             91,
                             507,
-                            103,
-                            523
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Place pins \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) on line \\(\\mathbf{FC}\\) at a suitable distance apart for this type of experiment",
-                        "bbox": [
-                            115,
-                            507,
                             542,
-                            521
+                            523
                         ],
                         "page_number": 8,
                         "is_pre": false,
@@ -1604,11 +1403,11 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Adjust your line of sight until the images of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) appear one behind the other",
                         "bbox": [
                             91,
                             548,
-                            103,
+                            520,
                             563
                         ],
                         "page_number": 8,
@@ -1618,37 +1417,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "Adjust your line of sight until the images of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) appear one behind the other",
-                        "bbox": [
-                            115,
-                            548,
-                            520,
-                            562
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "•",
+                        "text": "• Place two pins, \\(\\mathsf{P}_5\\) and \\(\\mathsf{P}_6\\), between your eye and the block so that \\(\\mathsf{P}_5\\), \\(\\mathsf{P}_6\\), and the images of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) seen through the block, appear one behind the other",
                         "bbox": [
                             91,
-                            561,
-                            103,
-                            577
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Place two pins, \\(\\mathsf{P}_5\\) and \\(\\mathsf{P}_6\\), between your eye and the block so that \\(\\mathsf{P}_5\\), \\(\\mathsf{P}_6\\), and the images of \\(\\mathsf{P}_1\\) and \\(\\mathsf{P}_2\\) seen through the block, appear one behind the other",
-                        "bbox": [
-                            115,
                             561,
                             548,
                             589
@@ -1660,23 +1431,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Label the positions of \\(\\mathsf{P}_5\\) and \\(\\mathsf{P}_6\\)",
                         "bbox": [
                             91,
-                            587,
-                            103,
-                            602
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Label the positions of \\(\\mathsf{P}_5\\) and \\(\\mathsf{P}_6\\)",
-                        "bbox": [
-                            115,
                             587,
                             277,
                             602
@@ -1688,23 +1445,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Remove the block and the pins",
                         "bbox": [
                             91,
-                            600,
-                            104,
-                            615
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Remove the block and the pins",
-                        "bbox": [
-                            115,
                             600,
                             274,
                             615
@@ -1716,23 +1459,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Draw a line joining the positions of \\(\\mathsf{P}_5\\) and \\(\\mathsf{P}_6\\). Continue the line to \\(\\mathbf{AB}\\)",
                         "bbox": [
                             91,
-                            614,
-                            104,
-                            628
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Draw a line joining the positions of \\(\\mathsf{P}_5\\) and \\(\\mathsf{P}_6\\). Continue the line to \\(\\mathbf{AB}\\)",
-                        "bbox": [
-                            115,
                             614,
                             459,
                             628
@@ -1744,23 +1473,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Label \\(\\mathbf{G}\\), the end of the line furthest from \\(\\mathbf{AB}\\)",
                         "bbox": [
                             91,
-                            627,
-                            104,
-                            641
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Label \\(\\mathbf{G}\\), the end of the line furthest from \\(\\mathbf{AB}\\)",
-                        "bbox": [
-                            115,
                             627,
                             337,
                             641
@@ -1814,7 +1529,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(\\theta =\\) .........\\(^\\circ\\)",
+                        "text": "\\(\\theta =\\)   .........  \\(^\\circ\\)",
                         "bbox": [
                             331,
                             704,
@@ -2019,23 +1734,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• explain briefly how to do the investigation",
                 "bbox": [
                     69,
-                    374,
-                    84,
-                    390
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "explain briefly how to do the investigation",
-                "bbox": [
-                    92,
                     374,
                     297,
                     390

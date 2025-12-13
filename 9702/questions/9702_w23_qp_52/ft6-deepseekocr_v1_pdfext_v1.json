@@ -615,7 +615,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "y-intercept = .........",
+                                "text": "y-intercept =   .........",
                                 "bbox": [
                                     283,
                                     179,
@@ -714,7 +714,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "I_0 =",
+                                "text": "\\( I_0 \\)  =",
                                 "bbox": [
                                     326,
                                     401,
@@ -723,9 +723,7 @@
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -742,9 +740,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -774,7 +770,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "percentage uncertainty in \\(R =\\) .........%",
+                                "text": "percentage uncertainty in \\(R =\\)   .........  %",
                                 "bbox": [
                                     200,
                                     558,
@@ -834,7 +830,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "C = .........F",
+                        "text": "C =   .........  F",
                         "bbox": [
                             328,
                             715,
@@ -1007,7 +1003,6 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     }
 ]

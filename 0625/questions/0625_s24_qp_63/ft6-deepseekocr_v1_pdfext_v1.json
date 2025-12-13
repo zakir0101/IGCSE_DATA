@@ -49,7 +49,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "l = .........cm",
+                                "text": "l =   .........  cm",
                                 "bbox": [
                                     331,
                                     337,
@@ -63,7 +63,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "w = .........cm",
+                                "text": "w =   .........  cm",
                                 "bbox": [
                                     328,
                                     364,
@@ -77,7 +77,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "h = .........cm",
+                                "text": "h =   .........  cm",
                                 "bbox": [
                                     328,
                                     389,
@@ -133,7 +133,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "V_{\\mathrm{A}} = .........cm^{3}",
+                                "text": "\\( V_{\\mathrm{A}} \\)  =   .........  cm^{3}",
                                 "bbox": [
                                     324,
                                     493,
@@ -143,7 +143,7 @@
                                 "page_number": 2,
                                 "is_pre": false,
                                 "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
+                                    "LaTeX superscript (^) found outside math mode"
                                 ],
                                 "is_pot_pre": false
                             },
@@ -162,7 +162,7 @@
                             }
                         ],
                         "issues": [
-                            "LaTeX subscript (_) found outside math mode"
+                            "LaTeX superscript (^) found outside math mode"
                         ]
                     }
                 ],
@@ -411,7 +411,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "WB = .........N",
+                        "text": "WB =   .........  N",
                         "bbox": [
                             319,
                             523,
@@ -479,7 +479,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "V1 = .........\\(cm^3\\)",
+                                "text": "V1 =   .........  \\(cm^3\\)",
                                 "bbox": [
                                     324,
                                     614,
@@ -889,6 +889,34 @@
                                     98,
                                     126,
                                     113
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "2",
+                                "bbox": [
+                                    116,
+                                    125,
+                                    546,
+                                    140
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "2",
+                                "bbox": [
+                                    114,
+                                    152,
+                                    546,
+                                    171
                                 ],
                                 "page_number": 8,
                                 "is_pre": false,
@@ -1566,7 +1594,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "h_{\\mathrm{O}} = .........\\(\\text{cm}\\)",
+                                "text": "h_{\\mathrm{O}} =   .........  \\(\\text{cm}\\)",
                                 "bbox": [
                                     324,
                                     638,
@@ -1596,7 +1624,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "h_{\\mathrm{I}} = .........\\(\\text{cm}\\)",
+                                "text": "h_{\\mathrm{I}} =   .........  \\(\\text{cm}\\)",
                                 "bbox": [
                                     325,
                                     690,

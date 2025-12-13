@@ -63,7 +63,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "volume = .........\\(cm^3\\)",
+                                "text": "volume =   .........  \\(cm^3\\)",
                                 "bbox": [
                                     300,
                                     500,
@@ -179,7 +179,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "time interval = .........\\(s\\)",
+                                "text": "time interval =   .........  \\(s\\)",
                                 "bbox": [
                                     274,
                                     137,
@@ -269,7 +269,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "volume = .........\\(cm^3\\)",
+                        "text": "volume =   .........  \\(cm^3\\)",
                         "bbox": [
                             300,
                             539,
@@ -396,7 +396,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "speed = .........\\(m/s\\)",
+                                "text": "speed =   .........  \\(m/s\\)",
                                 "bbox": [
                                     305,
                                     716,
@@ -538,7 +538,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance = .........m",
+                                "text": "distance =   .........  m",
                                 "bbox": [
                                     294,
                                     346,
@@ -655,7 +655,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "area = .........\\(cm^2\\)",
+                                "text": "area =   .........  \\(cm^2\\)",
                                 "bbox": [
                                     312,
                                     286,
@@ -725,7 +725,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "weight = .........N",
+                                "text": "weight =   .........  N",
                                 "bbox": [
                                     304,
                                     390,
@@ -817,7 +817,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "pressure = .........N/cm²",
+                        "text": "pressure =   .........  N/cm²",
                         "bbox": [
                             292,
                             548,
@@ -991,7 +991,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "moment = .........Ncm",
+                        "text": "moment =   .........  Ncm",
                         "bbox": [
                             295,
                             398,
@@ -1372,38 +1372,10 @@
                                 "is_pot_pre": false
                             },
                             {
-                                "type": "text",
-                                "text": "1.",
+                                "type": "form_text",
+                                "text": "1. the melting point of the wax .........  °C",
                                 "bbox": [
                                     115,
-                                    525,
-                                    131,
-                                    540
-                                ],
-                                "page_number": 10,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "the melting point of the wax",
-                                "bbox": [
-                                    137,
-                                    525,
-                                    276,
-                                    540
-                                ],
-                                "page_number": 10,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": ".........°C",
-                                "bbox": [
-                                    346,
                                     525,
                                     528,
                                     540
@@ -1427,24 +1399,10 @@
                                 "is_pot_pre": false
                             },
                             {
-                                "type": "text",
-                                "text": "2. the boiling point of the wax",
+                                "type": "form_text",
+                                "text": "2. the boiling point of the wax .........  °C",
                                 "bbox": [
                                     115,
-                                    551,
-                                    274,
-                                    566
-                                ],
-                                "page_number": 10,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": ".........°C",
-                                "bbox": [
-                                    346,
                                     551,
                                     528,
                                     566
@@ -1468,26 +1426,12 @@
                                 "is_pot_pre": false
                             },
                             {
-                                "type": "text",
-                                "text": "3. the time at which the wax starts to boil",
+                                "type": "form_text",
+                                "text": "3. the time at which the wax starts to boil min",
                                 "bbox": [
                                     115,
                                     577,
                                     548,
-                                    592
-                                ],
-                                "page_number": 10,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "min",
-                                "bbox": [
-                                    499,
-                                    577,
-                                    528,
                                     592
                                 ],
                                 "page_number": 10,
@@ -1654,7 +1598,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "wavelength = .........\\(cm\\)",
+                                "text": "wavelength =   .........  \\(cm\\)",
                                 "bbox": [
                                     280,
                                     433,
@@ -1710,7 +1654,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "amplitude = .........\\(cm\\)",
+                                "text": "amplitude =   .........  \\(cm\\)",
                                 "bbox": [
                                     286,
                                     498,
@@ -1865,6 +1809,33 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    118,
+                                    358,
+                                    528,
+                                    375
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    358,
+                                    528,
+                                    375
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -1953,6 +1924,33 @@
                                 "page_number": 12,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    118,
+                                    425,
+                                    528,
+                                    441
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    425,
+                                    528,
+                                    441
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -2280,7 +2278,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "ammeter reading = .........A",
+                        "text": "ammeter reading =   .........  A",
                         "bbox": [
                             252,
                             468,
@@ -2350,7 +2348,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "total resistance = .........\\(\\Omega\\)",
+                        "text": "total resistance =   .........  \\(\\Omega\\)",
                         "bbox": [
                             261,
                             560,
@@ -2690,7 +2688,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Vs = .........V",
+                        "text": "Vs =   .........  V",
                         "bbox": [
                             324,
                             508,

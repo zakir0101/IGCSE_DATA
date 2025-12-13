@@ -335,7 +335,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "gradient = .........",
+                                "text": "gradient =   .........",
                                 "bbox": [
                                     292,
                                     518,
@@ -405,7 +405,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "D = .........\\(cm\\)",
+                                "text": "D =   .........  \\(cm\\)",
                                 "bbox": [
                                     327,
                                     622,
@@ -933,7 +933,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(x_{\\mathrm{A}} =\\)  .........",
+                                "text": "\\(x_{\\mathrm{A}} =\\)    .........",
                                 "bbox": [
                                     324,
                                     636,
@@ -1031,7 +1031,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "XB = .........",
+                                "text": "XB =   .........",
                                 "bbox": [
                                     324,
                                     213,
@@ -1457,7 +1457,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "I_{\\mathrm{T}} =",
+                                "text": "\\( I_{\\mathrm{T}} \\)  =",
                                 "bbox": [
                                     325,
                                     708,
@@ -1466,9 +1466,7 @@
                                 ],
                                 "page_number": 9,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1485,9 +1483,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -2007,23 +2003,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "Fig. 3.5",
+                        "text": "Fig. 3.5 Fig. 3.6",
                         "bbox": [
                             164,
-                            274,
-                            205,
-                            290
-                        ],
-                        "page_number": 11,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Fig. 3.6",
-                        "bbox": [
-                            389,
                             274,
                             431,
                             290
@@ -2212,8 +2194,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "4",

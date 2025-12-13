@@ -1539,39 +1539,111 @@
         "level": 47,
         "parts": [
             {
-                "label": "(i)",
+                "label": "EITHER",
                 "page_number": 23,
                 "bbox": [
-                    76,
-                    142,
-                    93,
-                    156
+                    70,
+                    88,
+                    120,
+                    103
                 ],
-                "level": 76,
-                "parts": [],
+                "level": 70,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 23,
+                        "bbox": [
+                            76,
+                            142,
+                            93,
+                            156
+                        ],
+                        "level": 76,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "The region \\(R\\) is bounded by \\(C\\), the \\(x\\)-axis, the \\(y\\)-axis and the line \\(x = 4\\). Find, in terms of e, the coordinates of the centroid of the region \\(R\\)",
+                                "bbox": [
+                                    94,
+                                    140,
+                                    548,
+                                    169
+                                ],
+                                "page_number": 23,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[10]",
+                                "bbox": [
+                                    524,
+                                    154,
+                                    548,
+                                    169
+                                ],
+                                "page_number": 23,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 25,
+                        "bbox": [
+                            72,
+                            65,
+                            91,
+                            80
+                        ],
+                        "level": 72,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Show that \\(\\frac{\\mathrm{d}s}{\\mathrm{d}x} = \\frac{1}{2} (\\mathrm{e}^{x} + \\mathrm{e}^{-x})\\), where \\(s\\) denotes the arc length of \\(C\\), and find the surface area generated when \\(C\\) is rotated through \\(2\\pi\\) radians about the \\(x\\)-axis",
+                                "bbox": [
+                                    93,
+                                    61,
+                                    548,
+                                    101
+                                ],
+                                "page_number": 25,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[4]",
+                                "bbox": [
+                                    508,
+                                    84,
+                                    528,
+                                    100
+                                ],
+                                "page_number": 25,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
                 "content": [
                     {
                         "type": "text",
-                        "text": "The region \\(R\\) is bounded by \\(C\\), the \\(x\\)-axis, the \\(y\\)-axis and the line \\(x = 4\\). Find, in terms of e, the coordinates of the centroid of the region \\(R\\)",
+                        "text": "The curve \\(C\\) has equation \\(y = \\frac{1}{2} (\\mathrm{e}^{x} + \\mathrm{e}^{-x})\\) for \\(0\\leqslant x\\leqslant 4.\\)",
                         "bbox": [
-                            94,
-                            140,
-                            548,
-                            169
-                        ],
-                        "page_number": 23,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[10]",
-                        "bbox": [
-                            524,
-                            154,
-                            548,
-                            169
+                            70,
+                            114,
+                            334,
+                            130
                         ],
                         "page_number": 23,
                         "is_pre": false,
@@ -1582,19 +1654,103 @@
                 "issues": []
             },
             {
-                "label": "(ii)",
-                "page_number": 25,
+                "label": "OR",
+                "page_number": 26,
                 "bbox": [
-                    72,
-                    65,
+                    70,
+                    62,
                     91,
-                    80
+                    77
                 ],
-                "level": 72,
+                "level": 70,
                 "parts": [
                     {
-                        "label": "OR",
+                        "label": "(i)",
                         "page_number": 26,
+                        "bbox": [
+                            76,
+                            172,
+                            93,
+                            187
+                        ],
+                        "level": 76,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Show that the possible values of \\(\\alpha\\) are 3 and 5",
+                                "bbox": [
+                                    95,
+                                    171,
+                                    315,
+                                    187
+                                ],
+                                "page_number": 26,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[7]",
+                                "bbox": [
+                                    508,
+                                    171,
+                                    528,
+                                    187
+                                ],
+                                "page_number": 26,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 27,
+                        "bbox": [
+                            73,
+                            282,
+                            93,
+                            297
+                        ],
+                        "level": 73,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Using \\(\\alpha = 3\\), find the shortest distance of the point \\(D\\) from the line \\(AC\\), giving your answer correct to 3 significant figures",
+                                "bbox": [
+                                    95,
+                                    282,
+                                    548,
+                                    310
+                                ],
+                                "page_number": 27,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    508,
+                                    296,
+                                    528,
+                                    310
+                                ],
+                                "page_number": 27,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(iii)",
+                        "page_number": 28,
                         "bbox": [
                             70,
                             62,
@@ -1606,44 +1762,29 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "The position vectors of the points \\(A, B, C, D\\) are",
+                                "text": "Using \\(\\alpha = 3\\), find the acute angle between the planes \\(ABC\\) and \\(ABD\\), giving your answer in degrees",
                                 "bbox": [
-                                    70,
-                                    88,
-                                    302,
-                                    104
-                                ],
-                                "page_number": 26,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "blockMath",
-                                "blockMath": "\\[\\mathbf{i} + \\mathbf{j} + 3\\mathbf{k},\\quad 3\\mathbf{i} - \\mathbf{j} + 5\\mathbf{k},\\quad 3\\mathbf{i} - \\mathbf{j} + \\mathbf{k},\\quad 5\\mathbf{i} - 5\\mathbf{j} + \\alpha \\mathbf{k},\\]",
-                                "bbox": [
-                                    172,
-                                    110,
-                                    421,
-                                    126
-                                ],
-                                "page_number": 26,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "respectively, where \\(\\alpha\\) is a positive integer. It is given that the shortest distance between the line \\(AB\\) and the line \\(CD\\) is equal to \\(2\\sqrt{2}\\)",
-                                "bbox": [
-                                    70,
-                                    132,
+                                    93,
+                                    62,
                                     548,
-                                    161
+                                    91
                                 ],
-                                "page_number": 26,
+                                "page_number": 28,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[4]",
+                                "bbox": [
+                                    508,
+                                    74,
+                                    528,
+                                    89
+                                ],
+                                "page_number": 28,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -1653,29 +1794,44 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "Show that \\(\\frac{\\mathrm{d}s}{\\mathrm{d}x} = \\frac{1}{2} (\\mathrm{e}^{x} + \\mathrm{e}^{-x})\\), where \\(s\\) denotes the arc length of \\(C\\), and find the surface area generated when \\(C\\) is rotated through \\(2\\pi\\) radians about the \\(x\\)-axis",
+                        "text": "The position vectors of the points \\(A, B, C, D\\) are",
                         "bbox": [
-                            93,
-                            61,
-                            548,
-                            101
+                            70,
+                            88,
+                            302,
+                            104
                         ],
-                        "page_number": 25,
+                        "page_number": 26,
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
                     },
                     {
-                        "type": "mark_text",
-                        "text": "[4]",
+                        "type": "blockMath",
+                        "blockMath": "\\[\\mathbf{i} + \\mathbf{j} + 3\\mathbf{k},\\quad 3\\mathbf{i} - \\mathbf{j} + 5\\mathbf{k},\\quad 3\\mathbf{i} - \\mathbf{j} + \\mathbf{k},\\quad 5\\mathbf{i} - 5\\mathbf{j} + \\alpha \\mathbf{k},\\]",
                         "bbox": [
-                            508,
-                            84,
-                            528,
-                            100
+                            172,
+                            110,
+                            421,
+                            126
                         ],
-                        "page_number": 25,
+                        "page_number": 26,
                         "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "respectively, where \\(\\alpha\\) is a positive integer. It is given that the shortest distance between the line \\(AB\\) and the line \\(CD\\) is equal to \\(2\\sqrt{2}\\)",
+                        "bbox": [
+                            70,
+                            132,
+                            548,
+                            161
+                        ],
+                        "page_number": 26,
+                        "is_pre": false,
+                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -1691,20 +1847,6 @@
                     62,
                     312,
                     78
-                ],
-                "page_number": 23,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "The curve \\(C\\) has equation \\(y = \\frac{1}{2} (\\mathrm{e}^{x} + \\mathrm{e}^{-x})\\) for \\(0\\leqslant x\\leqslant 4.\\)",
-                "bbox": [
-                    70,
-                    114,
-                    334,
-                    130
                 ],
                 "page_number": 23,
                 "is_pre": false,

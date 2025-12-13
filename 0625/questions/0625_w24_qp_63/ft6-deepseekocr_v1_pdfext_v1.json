@@ -49,7 +49,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\theta_{\\mathrm{R}} =\\) .........\\(^\\circ \\mathrm{C}\\)",
+                                "text": "\\(\\theta_{\\mathrm{R}} =\\)   .........  \\(^\\circ \\mathrm{C}\\)",
                                 "bbox": [
                                     325,
                                     455,
@@ -101,6 +101,60 @@
                                 "page_number": 2,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    117,
+                                    521,
+                                    528,
+                                    536
+                                ],
+                                "page_number": 2,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    521,
+                                    528,
+                                    536
+                                ],
+                                "page_number": 2,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    117,
+                                    546,
+                                    528,
+                                    561
+                                ],
+                                "page_number": 2,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    546,
+                                    528,
+                                    561
+                                ],
+                                "page_number": 2,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -435,7 +489,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "x = .........",
+                        "text": "x =   .........",
                         "bbox": [
                             330,
                             360,
@@ -751,7 +805,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "V_0 = .........V",
+                        "text": "\\( V_0 \\)  =   .........  V",
                         "bbox": [
                             324,
                             659,
@@ -760,9 +814,7 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -779,9 +831,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(c)",
@@ -953,7 +1003,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "G = .........",
+                                "text": "G =   .........",
                                 "bbox": [
                                     327,
                                     532,
@@ -1037,7 +1087,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "R = .........\\(\\Omega\\)",
+                                "text": "R =   .........  \\(\\Omega\\)",
                                 "bbox": [
                                     327,
                                     676,
@@ -1201,8 +1251,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -1338,7 +1387,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\theta_{1} =\\) .........",
+                                "text": "\\(\\theta_{1} =\\)   .........",
                                 "bbox": [
                                     325,
                                     240,
@@ -1424,7 +1473,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "d = .........",
+                                "text": "d =   .........",
                                 "bbox": [
                                     328,
                                     319,
@@ -1692,7 +1741,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "a = .........\\(cm\\)",
+                                "text": "a =   .........  \\(cm\\)",
                                 "bbox": [
                                     328,
                                     72,
@@ -1720,7 +1769,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "b = .........\\(cm\\)",
+                                "text": "b =   .........  \\(cm\\)",
                                 "bbox": [
                                     328,
                                     110,
@@ -1776,7 +1825,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "n = .........",
+                                "text": "n =   .........",
                                 "bbox": [
                                     328,
                                     219,
@@ -1847,7 +1896,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\alpha =\\) .........",
+                                "text": "\\(\\alpha =\\)   .........",
                                 "bbox": [
                                     328,
                                     391,
@@ -2210,23 +2259,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• a long ramp with a support that enables it to be set at different angles of slope",
                 "bbox": [
                     69,
-                    217,
-                    86,
-                    231
-                ],
-                "page_number": 14,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "a long ramp with a support that enables it to be set at different angles of slope",
-                "bbox": [
-                    92,
                     216,
                     475,
                     231

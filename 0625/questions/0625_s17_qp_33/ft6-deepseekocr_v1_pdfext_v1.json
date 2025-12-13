@@ -264,7 +264,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "weight = .........",
+                        "text": "weight =   .........",
                         "bbox": [
                             367,
                             229,
@@ -403,7 +403,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "moment = .........Ncm",
+                                "text": "moment =   .........  Ncm",
                                 "bbox": [
                                     295,
                                     421,
@@ -732,7 +732,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "time = .........h",
+                                "text": "time =   .........  h",
                                 "bbox": [
                                     314,
                                     389,
@@ -788,7 +788,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "time = .........h",
+                                "text": "time =   .........  h",
                                 "bbox": [
                                     314,
                                     441,
@@ -844,7 +844,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance = .........km",
+                                "text": "distance =   .........  km",
                                 "bbox": [
                                     293,
                                     494,
@@ -900,7 +900,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "average speed = .........km/h",
+                                "text": "average speed =   .........  km/h",
                                 "bbox": [
                                     262,
                                     599,
@@ -1063,7 +1063,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "force = .........N",
+                        "text": "force =   .........  N",
                         "bbox": [
                             311,
                             445,
@@ -1249,23 +1249,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "A",
+                        "text": "A the turbine turns a generator",
                         "bbox": [
                             114,
-                            126,
-                            126,
-                            140
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "the turbine turns a generator",
-                        "bbox": [
-                            137,
                             126,
                             280,
                             140
@@ -1277,23 +1263,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "B",
+                        "text": "B fission produces thermal energy",
                         "bbox": [
                             114,
-                            152,
-                            126,
-                            167
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "fission produces thermal energy",
-                        "bbox": [
-                            137,
                             152,
                             298,
                             167
@@ -1305,23 +1277,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "C",
+                        "text": "C water in the boiler becomes hot",
                         "bbox": [
                             114,
-                            179,
-                            126,
-                            194
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "water in the boiler becomes hot",
-                        "bbox": [
-                            137,
                             179,
                             295,
                             194
@@ -1333,11 +1291,11 @@
                     },
                     {
                         "type": "text",
-                        "text": "D",
+                        "text": "D steam turns a turbine",
                         "bbox": [
                             114,
                             205,
-                            126,
+                            245,
                             221
                         ],
                         "page_number": 7,
@@ -1347,37 +1305,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "steam turns a turbine",
-                        "bbox": [
-                            137,
-                            205,
-                            245,
-                            220
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "E",
+                        "text": "E nuclei split apart in the reactor",
                         "bbox": [
                             114,
-                            231,
-                            126,
-                            247
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "nuclei split apart in the reactor",
-                        "bbox": [
-                            137,
                             231,
                             289,
                             247
@@ -1389,23 +1319,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "F",
+                        "text": "F electromagnetic induction produces the output energy",
                         "bbox": [
                             114,
-                            257,
-                            126,
-                            272
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "electromagnetic induction produces the output energy",
-                        "bbox": [
-                            137,
                             257,
                             403,
                             272
@@ -1516,13 +1432,13 @@
                         "is_pot_pre": false
                     },
                     {
-                        "type": "text",
-                        "text": "1.",
+                        "type": "form_text",
+                        "text": "1. 1",
                         "bbox": [
                             92,
                             458,
-                            101,
-                            473
+                            547,
+                            474
                         ],
                         "page_number": 7,
                         "is_pre": false,
@@ -1530,12 +1446,12 @@
                         "is_pot_pre": false
                     },
                     {
-                        "type": "text",
-                        "text": "2.",
+                        "type": "form_text",
+                        "text": "2. 2",
                         "bbox": [
                             92,
                             509,
-                            103,
+                            548,
                             523
                         ],
                         "page_number": 7,
@@ -2157,6 +2073,33 @@
                                 "page_number": 10,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    117,
+                                    496,
+                                    528,
+                                    512
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    496,
+                                    528,
+                                    512
+                                ],
+                                "page_number": 10,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -2780,7 +2723,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "voltage = .........V",
+                        "text": "voltage =   .........  V",
                         "bbox": [
                             300,
                             548,
@@ -3006,6 +2949,33 @@
                                 "page_number": 15,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    117,
+                                    253,
+                                    528,
+                                    269
+                                ],
+                                "page_number": 15,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    253,
+                                    528,
+                                    269
+                                ],
+                                "page_number": 15,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],

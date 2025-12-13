@@ -1125,121 +1125,121 @@
         "level": 47,
         "parts": [
             {
-                "label": "(i)",
+                "label": "EITHER",
                 "page_number": 20,
-                "bbox": [
-                    76,
-                    185,
-                    93,
-                    201
-                ],
-                "level": 76,
-                "parts": [],
-                "content": [
-                    {
-                        "type": "text",
-                        "text": "Find the value of \\(k\\)",
-                        "bbox": [
-                            95,
-                            185,
-                            188,
-                            201
-                        ],
-                        "page_number": 20,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[3]",
-                        "bbox": [
-                            508,
-                            185,
-                            528,
-                            201
-                        ],
-                        "page_number": 20,
-                        "is_pre": false,
-                        "is_pot_pre": false
-                    }
-                ],
-                "issues": []
-            },
-            {
-                "label": "(ii)",
-                "page_number": 20,
-                "bbox": [
-                    72,
-                    470,
-                    91,
-                    485
-                ],
-                "level": 72,
-                "parts": [],
-                "content": [
-                    {
-                        "type": "pre_text",
-                        "text": "The particle \\(P\\) is now replaced by a particle \\(Q\\) of mass \\(2m\\) and \\(Q\\) is released from rest at the point \\(E\\)",
-                        "bbox": [
-                            93,
-                            442,
-                            546,
-                            459
-                        ],
-                        "page_number": 20,
-                        "is_pre": true,
-                        "issues": [],
-                        "is_pot_pre": true
-                    },
-                    {
-                        "type": "text",
-                        "text": "Show that, in the resulting motion, \\(Q\\) performs simple harmonic motion. State the centre and the period of the motion",
-                        "bbox": [
-                            94,
-                            469,
-                            548,
-                            499
-                        ],
-                        "page_number": 20,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[6]",
-                        "bbox": [
-                            508,
-                            483,
-                            528,
-                            499
-                        ],
-                        "page_number": 20,
-                        "is_pre": false,
-                        "is_pot_pre": false
-                    }
-                ],
-                "issues": []
-            },
-            {
-                "label": "(iii)",
-                "page_number": 22,
                 "bbox": [
                     70,
-                    62,
-                    91,
-                    77
+                    89,
+                    120,
+                    104
                 ],
                 "level": 70,
                 "parts": [
                     {
-                        "label": "OR",
-                        "page_number": 23,
+                        "label": "(i)",
+                        "page_number": 20,
+                        "bbox": [
+                            76,
+                            185,
+                            93,
+                            201
+                        ],
+                        "level": 76,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Find the value of \\(k\\)",
+                                "bbox": [
+                                    95,
+                                    185,
+                                    188,
+                                    201
+                                ],
+                                "page_number": 20,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    508,
+                                    185,
+                                    528,
+                                    201
+                                ],
+                                "page_number": 20,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 20,
+                        "bbox": [
+                            72,
+                            470,
+                            91,
+                            485
+                        ],
+                        "level": 72,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "pre_text",
+                                "text": "The particle \\(P\\) is now replaced by a particle \\(Q\\) of mass \\(2m\\) and \\(Q\\) is released from rest at the point \\(E\\)",
+                                "bbox": [
+                                    93,
+                                    442,
+                                    546,
+                                    459
+                                ],
+                                "page_number": 20,
+                                "is_pre": true,
+                                "issues": [],
+                                "is_pot_pre": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "Show that, in the resulting motion, \\(Q\\) performs simple harmonic motion. State the centre and the period of the motion",
+                                "bbox": [
+                                    94,
+                                    469,
+                                    548,
+                                    499
+                                ],
+                                "page_number": 20,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[6]",
+                                "bbox": [
+                                    508,
+                                    483,
+                                    528,
+                                    499
+                                ],
+                                "page_number": 20,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(iii)",
+                        "page_number": 22,
                         "bbox": [
                             70,
                             62,
-                            90,
+                            91,
                             77
                         ],
                         "level": 70,
@@ -1247,32 +1247,29 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "A shop is supplied with large quantities of plant pots in packs of six. These pots can be damaged easily if they are not packed carefully. The manager of the shop is a statistician and he believes that the number of damaged pots in a pack of six has a binomial distribution. He chooses a random sample of 250 packs and records the numbers of damaged pots per pack. His results are shown in the following table",
+                                "text": "Find the least tension in the spring and the maximum acceleration of \\(Q\\) during the motion.",
                                 "bbox": [
-                                    70,
-                                    88,
-                                    548,
-                                    156
+                                    94,
+                                    62,
+                                    528,
+                                    78
                                 ],
-                                "page_number": 23,
+                                "page_number": 22,
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
                             },
                             {
-                                "type": "table",
+                                "type": "mark_text",
+                                "text": "[5]",
                                 "bbox": [
-                                    104,
-                                    161,
-                                    514,
-                                    213
+                                    508,
+                                    62,
+                                    528,
+                                    78
                                 ],
-                                "page_number": 23,
+                                "page_number": 22,
                                 "is_pre": false,
-                                "table": {
-                                    "html": "<table><tr><td>Number of damaged pots per pack (x)</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>Frequency</td><td>48</td><td>69</td><td>78</td><td>32</td><td>22</td><td>1</td><td>0</td></tr></table>"
-                                },
-                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
@@ -1282,29 +1279,218 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "Find the least tension in the spring and the maximum acceleration of \\(Q\\) during the motion.",
+                        "text": "A particle \\(P\\) of mass \\(3m\\) is attached to one end of a light elastic spring of natural length \\(a\\) and modulus of elasticity \\(kmg\\). The other end of the spring is attached to a fixed point \\(O\\) on a smooth plane that is inclined to the horizontal at an angle \\(\\alpha\\), where \\(\\sin \\alpha = \\frac{2}{3}\\). The system rests in equilibrium with \\(P\\) on the plane at the point \\(E\\). The length of the spring in this position is \\(\\frac{5}{4} a\\)",
                         "bbox": [
-                            94,
-                            62,
-                            528,
-                            78
+                            70,
+                            115,
+                            548,
+                            173
                         ],
-                        "page_number": 22,
+                        "page_number": 20,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "OR",
+                "page_number": 23,
+                "bbox": [
+                    70,
+                    62,
+                    90,
+                    77
+                ],
+                "level": 70,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 23,
+                        "bbox": [
+                            76,
+                            226,
+                            93,
+                            241
+                        ],
+                        "level": 76,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Show that the mean number of damaged pots per pack in this sample is 1.656",
+                                "bbox": [
+                                    95,
+                                    225,
+                                    464,
+                                    241
+                                ],
+                                "page_number": 23,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    226,
+                                    528,
+                                    241
+                                ],
+                                "page_number": 23,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 23,
+                        "bbox": [
+                            73,
+                            511,
+                            91,
+                            526
+                        ],
+                        "level": 73,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "pre_text",
+                                "text": "The following table shows some of the expected frequencies, correct to 2 decimal places, using an appropriate binomial distribution",
+                                "bbox": [
+                                    70,
+                                    402,
+                                    548,
+                                    430
+                                ],
+                                "page_number": 23,
+                                "is_pre": true,
+                                "issues": [],
+                                "is_pot_pre": true
+                            },
+                            {
+                                "type": "pre_table",
+                                "bbox": [
+                                    104,
+                                    435,
+                                    514,
+                                    489
+                                ],
+                                "page_number": 23,
+                                "is_pre": true,
+                                "table": {
+                                    "html": "<table><tr><td>Number of damaged pots per pack (x)</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>Expected frequency</td><td>36.01</td><td>82.36</td><td>\\(a\\)</td><td>39.89</td><td>\\(b\\)</td><td>1.74</td><td>0.11</td></tr></table>"
+                                },
+                                "issues": [],
+                                "is_pot_pre": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "Find the values of \\(a\\) and \\(b\\), correct to 2 decimal places",
+                                "bbox": [
+                                    94,
+                                    511,
+                                    352,
+                                    526
+                                ],
+                                "page_number": 23,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[5]",
+                                "bbox": [
+                                    508,
+                                    511,
+                                    528,
+                                    527
+                                ],
+                                "page_number": 23,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(iii)",
+                        "page_number": 24,
+                        "bbox": [
+                            70,
+                            392,
+                            92,
+                            407
+                        ],
+                        "level": 70,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Use a goodness-of-fit test at the \\(1\\%\\) significance level to determine whether the manager's belief is justified.",
+                                "bbox": [
+                                    94,
+                                    392,
+                                    528,
+                                    420
+                                ],
+                                "page_number": 24,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[8]",
+                                "bbox": [
+                                    508,
+                                    392,
+                                    528,
+                                    420
+                                ],
+                                "page_number": 24,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "A shop is supplied with large quantities of plant pots in packs of six. These pots can be damaged easily if they are not packed carefully. The manager of the shop is a statistician and he believes that the number of damaged pots in a pack of six has a binomial distribution. He chooses a random sample of 250 packs and records the numbers of damaged pots per pack. His results are shown in the following table",
+                        "bbox": [
+                            70,
+                            88,
+                            548,
+                            156
+                        ],
+                        "page_number": 23,
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
                     },
                     {
-                        "type": "mark_text",
-                        "text": "[5]",
+                        "type": "table",
                         "bbox": [
-                            508,
-                            62,
-                            528,
-                            78
+                            104,
+                            161,
+                            514,
+                            213
                         ],
-                        "page_number": 22,
+                        "page_number": 23,
                         "is_pre": false,
+                        "table": {
+                            "html": "<table><tr><td>Number of damaged pots per pack (x)</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>Frequency</td><td>48</td><td>69</td><td>78</td><td>32</td><td>22</td><td>1</td><td>0</td></tr></table>"
+                        },
+                        "issues": [],
                         "is_pot_pre": false
                     }
                 ],
@@ -1320,20 +1506,6 @@
                     62,
                     312,
                     78
-                ],
-                "page_number": 20,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "A particle \\(P\\) of mass \\(3m\\) is attached to one end of a light elastic spring of natural length \\(a\\) and modulus of elasticity \\(kmg\\). The other end of the spring is attached to a fixed point \\(O\\) on a smooth plane that is inclined to the horizontal at an angle \\(\\alpha\\), where \\(\\sin \\alpha = \\frac{2}{3}\\). The system rests in equilibrium with \\(P\\) on the plane at the point \\(E\\). The length of the spring in this position is \\(\\frac{5}{4} a\\)",
-                "bbox": [
-                    70,
-                    115,
-                    548,
-                    173
                 ],
                 "page_number": 20,
                 "is_pre": false,

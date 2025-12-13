@@ -249,7 +249,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "M = .........",
+                                "text": "M =   .........",
                                 "bbox": [
                                     326,
                                     503,
@@ -319,7 +319,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "R = .........",
+                                "text": "R =   .........",
                                 "bbox": [
                                     328,
                                     590,
@@ -537,7 +537,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "W_{1} = .........N",
+                        "text": "\\( W_{1} \\)  =   .........  N",
                         "bbox": [
                             321,
                             693,
@@ -546,9 +546,7 @@
                         ],
                         "page_number": 5,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -565,9 +563,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -622,7 +618,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "V1 = .........cm³",
+                                "text": "V1 =   .........  cm³",
                                 "bbox": [
                                     324,
                                     112,
@@ -711,23 +707,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Record the new reading \\(W_{2}\\) of the forcemeter",
                         "bbox": [
                             92,
-                            468,
-                            107,
-                            484
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Record the new reading \\(W_{2}\\) of the forcemeter",
-                        "bbox": [
-                            115,
                             468,
                             342,
                             484
@@ -739,7 +721,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "W2 = .........N",
+                        "text": "W2 =   .........  N",
                         "bbox": [
                             321,
                             493,
@@ -753,23 +735,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Record the new reading \\(V_{2}\\) of the measuring cylinder, with the piece of modelling clay in the water",
                         "bbox": [
                             92,
-                            520,
-                            103,
-                            536
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Record the new reading \\(V_{2}\\) of the measuring cylinder, with the piece of modelling clay in the water",
-                        "bbox": [
-                            115,
                             520,
                             548,
                             548
@@ -781,7 +749,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "V2 = .........cm³",
+                        "text": "V2 =   .........  cm³",
                         "bbox": [
                             322,
                             559,
@@ -795,23 +763,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Remove the modelling clay from the measuring cylinder",
                         "bbox": [
                             92,
-                            597,
-                            104,
-                            613
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Remove the modelling clay from the measuring cylinder",
-                        "bbox": [
-                            115,
                             597,
                             392,
                             613
@@ -823,23 +777,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• **Do not empty the measuring cylinder.**",
                         "bbox": [
                             92,
-                            624,
-                            104,
-                            639
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "**Do not empty the measuring cylinder.**",
-                        "bbox": [
-                            115,
                             624,
                             315,
                             639
@@ -964,23 +904,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Empty the measuring cylinder",
                         "bbox": [
                             91,
-                            152,
-                            104,
-                            167
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Empty the measuring cylinder",
-                        "bbox": [
-                            115,
                             152,
                             265,
                             167
@@ -992,23 +918,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Measure the mass \\(m_{2}\\) of the empty measuring cylinder",
                         "bbox": [
                             91,
-                            177,
-                            104,
-                            192
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Measure the mass \\(m_{2}\\) of the empty measuring cylinder",
-                        "bbox": [
-                            115,
                             177,
                             387,
                             193
@@ -1090,7 +1002,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(\\rho_{2} =\\) .........",
+                        "text": "\\(\\rho_{2} =\\)   .........",
                         "bbox": [
                             324,
                             333,
@@ -1263,8 +1175,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -1305,23 +1216,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Remove the block from the ray-trace sheet",
                         "bbox": [
                             92,
-                            99,
-                            107,
-                            115
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Remove the block from the ray-trace sheet",
-                        "bbox": [
-                            114,
                             99,
                             329,
                             115
@@ -1333,23 +1230,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Draw a normal to line \\(\\mathbf{AB}\\) at a point \\(\\mathbf{L}\\), \\(1\\mathrm{cm}\\) from \\(\\mathbf{A}\\). Label the other end of the normal with the letter \\(\\mathbf{N}\\)",
                         "bbox": [
                             92,
-                            126,
-                            104,
-                            142
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Draw a normal to line \\(\\mathbf{AB}\\) at a point \\(\\mathbf{L}\\), \\(1\\mathrm{cm}\\) from \\(\\mathbf{A}\\). Label the other end of the normal with the letter \\(\\mathbf{N}\\)",
-                        "bbox": [
-                            114,
                             126,
                             548,
                             155
@@ -1361,23 +1244,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Draw a line \\(\\mathbf{FL}\\), \\(8\\mathrm{cm}\\) long and at an angle \\(\\theta = 30^{\\circ}\\), as indicated by Fig. 3.1",
                         "bbox": [
                             92,
-                            165,
-                            105,
-                            180
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Draw a line \\(\\mathbf{FL}\\), \\(8\\mathrm{cm}\\) long and at an angle \\(\\theta = 30^{\\circ}\\), as indicated by Fig. 3.1",
-                        "bbox": [
-                            114,
                             165,
                             482,
                             181
@@ -1431,11 +1300,11 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Place two pins \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\) on line \\(\\mathbf{FL}\\), a suitable distance apart for accurate ray tracing",
                         "bbox": [
                             92,
-                            231,
-                            104,
+                            230,
+                            537,
                             247
                         ],
                         "page_number": 9,
@@ -1445,37 +1314,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "Place two pins \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\) on line \\(\\mathbf{FL}\\), a suitable distance apart for accurate ray tracing",
-                        "bbox": [
-                            114,
-                            230,
-                            537,
-                            246
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "•",
+                        "text": "• Label the positions of \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\)",
                         "bbox": [
                             92,
-                            257,
-                            104,
-                            272
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Label the positions of \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\)",
-                        "bbox": [
-                            114,
                             256,
                             277,
                             272
@@ -1487,23 +1328,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• View the images of \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\) through the block, from the direction indicated by the eye in position \\(\\mathbf{X}\\) in Fig. 3.1. Place two pins \\(\\mathsf{P}_{3}\\) and \\(\\mathsf{P}_{4}\\), a suitable distance apart, so that pins \\(\\mathsf{P}_{3}\\) and \\(\\mathsf{P}_{4}\\), and the images of \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\), all appear exactly one behind the other",
                         "bbox": [
                             92,
-                            283,
-                            104,
-                            299
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "View the images of \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\) through the block, from the direction indicated by the eye in position \\(\\mathbf{X}\\) in Fig. 3.1. Place two pins \\(\\mathsf{P}_{3}\\) and \\(\\mathsf{P}_{4}\\), a suitable distance apart, so that pins \\(\\mathsf{P}_{3}\\) and \\(\\mathsf{P}_{4}\\), and the images of \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\), all appear exactly one behind the other",
-                        "bbox": [
-                            114,
                             283,
                             548,
                             325
@@ -1515,23 +1342,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Label the positions of \\(\\mathsf{P}_{3}\\) and \\(\\mathsf{P}_{4}\\)",
                         "bbox": [
                             91,
-                            335,
-                            104,
-                            351
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Label the positions of \\(\\mathsf{P}_{3}\\) and \\(\\mathsf{P}_{4}\\)",
-                        "bbox": [
-                            114,
                             335,
                             277,
                             351
@@ -1543,23 +1356,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Remove the block and pins from the ray-trace sheet",
                         "bbox": [
                             91,
-                            361,
-                            104,
-                            377
-                        ],
-                        "page_number": 9,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Remove the block and pins from the ray-trace sheet",
-                        "bbox": [
-                            114,
                             361,
                             374,
                             377
@@ -1750,7 +1549,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "a = .........\\(cm\\)",
+                                "text": "a =   .........  \\(cm\\)",
                                 "bbox": [
                                     330,
                                     622,
@@ -1778,7 +1577,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "b = .........\\(cm\\)",
+                                "text": "b =   .........  \\(cm\\)",
                                 "bbox": [
                                     330,
                                     674,
@@ -1839,23 +1638,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Replace the two pins \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\) on line FL",
                         "bbox": [
                             92,
-                            86,
-                            107,
-                            102
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Replace the two pins \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\) on line FL",
-                        "bbox": [
-                            114,
                             86,
                             327,
                             102
@@ -1867,23 +1652,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Place the mirror against side \\(\\mathbf{CD}\\), with the reflecting surface towards the block",
                         "bbox": [
                             92,
-                            112,
-                            106,
-                            128
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Place the mirror against side \\(\\mathbf{CD}\\), with the reflecting surface towards the block",
-                        "bbox": [
-                            114,
                             112,
                             500,
                             128
@@ -1895,23 +1666,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• View the images of \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\) from the direction indicated by the eye in position \\(\\mathbf{Y}\\) in Fig. 3.1. Place two pins \\(\\mathsf{P}_{5}\\) and \\(\\mathsf{P}_{6}\\), a suitable distance apart, so that pins \\(\\mathsf{P}_{5}\\) and \\(\\mathsf{P}_{6}\\), and the images of \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\), all appear exactly one behind the other",
                         "bbox": [
                             92,
-                            139,
-                            103,
-                            154
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "View the images of \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\) from the direction indicated by the eye in position \\(\\mathbf{Y}\\) in Fig. 3.1. Place two pins \\(\\mathsf{P}_{5}\\) and \\(\\mathsf{P}_{6}\\), a suitable distance apart, so that pins \\(\\mathsf{P}_{5}\\) and \\(\\mathsf{P}_{6}\\), and the images of \\(\\mathsf{P}_{1}\\) and \\(\\mathsf{P}_{2}\\), all appear exactly one behind the other",
-                        "bbox": [
-                            114,
                             138,
                             548,
                             180
@@ -1923,23 +1680,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Label the positions of \\(\\mathsf{P}_{5}\\) and \\(\\mathsf{P}_{6}\\)",
                         "bbox": [
                             92,
-                            191,
-                            107,
-                            206
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Label the positions of \\(\\mathsf{P}_{5}\\) and \\(\\mathsf{P}_{6}\\)",
-                        "bbox": [
-                            114,
                             191,
                             277,
                             206
@@ -1951,23 +1694,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Remove the block and pins from the ray-trace sheet",
                         "bbox": [
                             92,
-                            217,
-                            107,
-                            232
-                        ],
-                        "page_number": 10,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Remove the block and pins from the ray-trace sheet",
-                        "bbox": [
-                            114,
                             217,
                             374,
                             232
@@ -2074,7 +1803,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\alpha =\\) .........",
+                                "text": "\\(\\alpha =\\)   .........",
                                 "bbox": [
                                     328,
                                     360,
@@ -2457,6 +2186,230 @@
                     323
                 ],
                 "page_number": 11,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    65,
+                    71,
+                    546,
+                    82
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    101,
+                    546,
+                    112
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    131,
+                    546,
+                    143
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    169,
+                    546,
+                    181
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    208,
+                    546,
+                    220
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    247,
+                    546,
+                    259
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    286,
+                    546,
+                    298
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    324,
+                    546,
+                    335
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    362,
+                    546,
+                    374
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    400,
+                    546,
+                    412
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    439,
+                    546,
+                    451
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    478,
+                    546,
+                    490
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    516,
+                    546,
+                    528
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    554,
+                    546,
+                    566
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    592,
+                    546,
+                    603
+                ],
+                "page_number": 12,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "form",
+                "bbox": [
+                    72,
+                    630,
+                    546,
+                    641
+                ],
+                "page_number": 12,
                 "is_pre": false,
                 "issues": [],
                 "is_pot_pre": false

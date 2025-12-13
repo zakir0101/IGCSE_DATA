@@ -97,23 +97,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "●",
+                        "text": "● Place grid B on top of grid A in Fig. 1.1",
                         "bbox": [
                             87,
-                            83,
-                            102,
-                            98
-                        ],
-                        "page_number": 3,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Place grid B on top of grid A in Fig. 1.1",
-                        "bbox": [
-                            110,
                             83,
                             297,
                             98
@@ -125,23 +111,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "●",
+                        "text": "● Turn grid B so that there is a small angle \\(G\\) between the grids. A pattern of fringes will be produced, as shown in the example in Fig. 1.2",
                         "bbox": [
                             88,
-                            107,
-                            100,
-                            122
-                        ],
-                        "page_number": 3,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Turn grid B so that there is a small angle \\(G\\) between the grids. A pattern of fringes will be produced, as shown in the example in Fig. 1.2",
-                        "bbox": [
-                            110,
                             107,
                             521,
                             135
@@ -169,23 +141,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "●",
+                        "text": "● Do not take measurements from Fig. 1.2",
                         "bbox": [
                             87,
-                            468,
-                            99,
-                            482
-                        ],
-                        "page_number": 3,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Do not take measurements from Fig. 1.2",
-                        "bbox": [
-                            109,
                             468,
                             315,
                             482
@@ -225,23 +183,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "●",
+                        "text": "● The fringes make an angle \\(F\\) with grid A, as shown in Fig. 1.2",
                         "bbox": [
                             87,
-                            566,
-                            100,
-                            582
-                        ],
-                        "page_number": 3,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The fringes make an angle \\(F\\) with grid A, as shown in Fig. 1.2",
-                        "bbox": [
-                            109,
                             566,
                             399,
                             582
@@ -716,7 +660,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "s_{\\mathrm{B}} = .........mm",
+                        "text": "\\( s_{\\mathrm{B}} \\)  =   .........  mm",
                         "bbox": [
                             309,
                             492,
@@ -725,9 +669,7 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -744,9 +686,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             }
         ],
         "content": [
@@ -765,8 +705,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -834,23 +773,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "●",
+                                "text": "● Pull the mass hanger down by approximately \\(1\\mathrm{cm}\\). Release it so that it oscillates vertically, with no swinging motion",
                                 "bbox": [
                                     109,
-                                    405,
-                                    133,
-                                    419
-                                ],
-                                "page_number": 7,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "Pull the mass hanger down by approximately \\(1\\mathrm{cm}\\). Release it so that it oscillates vertically, with no swinging motion",
-                                "bbox": [
-                                    131,
                                     405,
                                     521,
                                     432
@@ -862,23 +787,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "●",
+                                "text": "● Take measurements to find the period \\(T_{\\mathrm{v}}\\) of these oscillations",
                                 "bbox": [
                                     109,
-                                    442,
-                                    126,
-                                    457
-                                ],
-                                "page_number": 7,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "Take measurements to find the period \\(T_{\\mathrm{v}}\\) of these oscillations",
-                                "bbox": [
-                                    131,
                                     442,
                                     423,
                                     457
@@ -890,7 +801,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "T_{\\mathrm{v}} = .........",
+                                "text": "\\( T_{\\mathrm{v}} \\)  =   .........",
                                 "bbox": [
                                     308,
                                     527,
@@ -899,9 +810,7 @@
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -918,9 +827,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -964,23 +871,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "●",
+                                "text": "● Take measurements to find the period \\(T_{\\mathrm{S}}\\) of these oscillations",
                                 "bbox": [
                                     109,
-                                    615,
-                                    123,
-                                    631
-                                ],
-                                "page_number": 7,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "Take measurements to find the period \\(T_{\\mathrm{S}}\\) of these oscillations",
-                                "bbox": [
-                                    130,
                                     615,
                                     421,
                                     631
@@ -992,7 +885,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "T_{\\mathrm{S}} = .........",
+                                "text": "\\( T_{\\mathrm{S}} \\)  =   .........",
                                 "bbox": [
                                     308,
                                     715,
@@ -1001,9 +894,7 @@
                                 ],
                                 "page_number": 7,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1020,9 +911,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [],
@@ -1321,23 +1210,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "●",
+                                "text": "● Measure and record the length \\(x_{1}\\) of the spring, as shown in Fig. 2.2",
                                 "bbox": [
                                     110,
-                                    82,
-                                    123,
-                                    97
-                                ],
-                                "page_number": 10,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "Measure and record the length \\(x_{1}\\) of the spring, as shown in Fig. 2.2",
-                                "bbox": [
-                                    129,
                                     82,
                                     452,
                                     98
@@ -1378,7 +1253,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(x_{1} =\\) .........\\(cm\\)",
+                                "text": "\\(x_{1} =\\)   .........  \\(cm\\)",
                                 "bbox": [
                                     310,
                                     224,
@@ -1434,7 +1309,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "percentage uncertainty = .........",
+                                "text": "percentage uncertainty =   .........",
                                 "bbox": [
                                     212,
                                     373,
@@ -1519,7 +1394,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(x_{2} =\\) .........\\(cm\\)",
+                                "text": "\\(x_{2} =\\)   .........  \\(cm\\)",
                                 "bbox": [
                                     310,
                                     540,
@@ -1589,7 +1464,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "g = .........",
+                                "text": "g =   .........",
                                 "bbox": [
                                     313,
                                     715,
@@ -1863,7 +1738,6 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     }
 ]

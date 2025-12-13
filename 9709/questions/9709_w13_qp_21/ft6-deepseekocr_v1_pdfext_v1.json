@@ -1,0 +1,853 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            46,
+            62,
+            57,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Solve the inequality \\(|x + 1|< |3x + 5|\\)",
+                "bbox": [
+                    70,
+                    62,
+                    251,
+                    78
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    62,
+                    528,
+                    78
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 2,
+        "bbox": [
+            46,
+            101,
+            55,
+            117
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 2,
+                "bbox": [
+                    73,
+                    283,
+                    90,
+                    298
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Verify by calculation that the \\(x\\)-coordinate of \\(P\\) lies between 1.5 and 1.6",
+                        "bbox": [
+                            94,
+                            283,
+                            439,
+                            298
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            283,
+                            528,
+                            298
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 2,
+                "bbox": [
+                    72,
+                    308,
+                    91,
+                    324
+                ],
+                "level": 72,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that the \\(x\\)-coordinate of \\(P\\) satisfies the equation",
+                        "bbox": [
+                            94,
+                            308,
+                            349,
+                            324
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[x = \\sqrt[3]{\\left(\\frac{9}{x} - 2\\right)}.\\]",
+                        "bbox": [
+                            258,
+                            327,
+                            337,
+                            361
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            337,
+                            528,
+                            353
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(iii)",
+                "page_number": 2,
+                "bbox": [
+                    69,
+                    373,
+                    90,
+                    389
+                ],
+                "level": 69,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the iterative formula",
+                        "bbox": [
+                            92,
+                            373,
+                            215,
+                            389
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[x_{n + 1} = \\sqrt[3]{\\left(\\frac{9}{x_n} - 2\\right)}\\]",
+                        "bbox": [
+                            250,
+                            390,
+                            343,
+                            425
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "to determine the \\(x\\)-coordinate of \\(P\\) correct to 2 decimal places. Give the result of each iteration to 4 decimal places",
+                        "bbox": [
+                            93,
+                            425,
+                            548,
+                            455
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            439,
+                            528,
+                            455
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    215,
+                    108,
+                    402,
+                    240
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 2
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curve \\(y = x^{4} + 2x - 9\\). The curve cuts the positive \\(x\\)-axis at the point \\(P\\)",
+                "bbox": [
+                    70,
+                    255,
+                    520,
+                    272
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 2,
+        "bbox": [
+            46,
+            479,
+            56,
+            495
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The equation of a curve is \\(y = \\frac{1}{2}\\mathrm{e}^{2x} - 5\\mathrm{e}^{x} + 4x\\). Find the exact \\(x\\)-coordinate of each of the stationary points of the curve and determine the nature of each stationary point",
+                "bbox": [
+                    69,
+                    478,
+                    548,
+                    507
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[6]",
+                "bbox": [
+                    508,
+                    492,
+                    528,
+                    508
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 2,
+        "bbox": [
+            46,
+            531,
+            55,
+            546
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 2,
+                "bbox": [
+                    73,
+                    531,
+                    88,
+                    546
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "The polynomial \\(x^{3} + ax^{2} + bx + 8\\), where \\(a\\) and \\(b\\) are constants, is denoted by \\(\\mathrm{p}(x)\\). It is given that when \\(\\mathrm{p}(x)\\) is divided by \\((x - 3)\\) the remainder is 14, and that when \\(\\mathrm{p}(x)\\) is divided by \\((x + 2)\\) the remainder is 24. Find the values of \\(a\\) and \\(b\\)",
+                        "bbox": [
+                            93,
+                            531,
+                            548,
+                            573
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            560,
+                            528,
+                            575
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 2,
+                "bbox": [
+                    73,
+                    583,
+                    91,
+                    598
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "When \\(a\\) and \\(b\\) have these values, find the quotient when \\(\\mathrm{p}(x)\\) is divided by \\(x^{2} + 2x - 8\\) and hence solve the equation \\(\\mathrm{p}(x) = 0\\)",
+                        "bbox": [
+                            93,
+                            583,
+                            548,
+                            613
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            599,
+                            528,
+                            614
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 2,
+        "bbox": [
+            46,
+            636,
+            57,
+            651
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 2,
+                "bbox": [
+                    73,
+                    707,
+                    91,
+                    723
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(\\frac{\\mathrm{dy}}{\\mathrm{dx}} = \\frac{8\\cos\\theta}{1 - 4\\cos\\theta}\\)",
+                        "bbox": [
+                            93,
+                            707,
+                            229,
+                            730
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            712,
+                            528,
+                            727
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 2,
+                "bbox": [
+                    73,
+                    742,
+                    91,
+                    756
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the coordinates of the point on the curve at which the gradient is \\(-4\\)",
+                        "bbox": [
+                            93,
+                            740,
+                            443,
+                            756
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            742,
+                            528,
+                            756
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The parametric equations of a curve are",
+                "bbox": [
+                    70,
+                    636,
+                    261,
+                    651
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[x = \\cos 2\\theta -\\cos \\theta ,\\quad y = 4\\sin^{2}\\theta ,\\]",
+                "bbox": [
+                    217,
+                    658,
+                    375,
+                    674
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "for \\(0\\leqslant \\theta \\leqslant \\pi\\)",
+                "bbox": [
+                    69,
+                    681,
+                    137,
+                    696
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 3,
+        "bbox": [
+            46,
+            62,
+            57,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(a)",
+                "page_number": 3,
+                "bbox": [
+                    69,
+                    62,
+                    88,
+                    78
+                ],
+                "level": 69,
+                "parts": [
+                    {
+                        "label": "(i)",
+                        "page_number": 3,
+                        "bbox": [
+                            97,
+                            85,
+                            115,
+                            107
+                        ],
+                        "level": 97,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "blockMath",
+                                "blockMath": "\\[\\int \\frac{\\mathrm{e}^{2x} + 6}{\\mathrm{e}^{2x}}\\mathrm{d}x,\\]",
+                                "bbox": [
+                                    125,
+                                    83,
+                                    185,
+                                    115
+                                ],
+                                "page_number": 3,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    507,
+                                    91,
+                                    527,
+                                    108
+                                ],
+                                "page_number": 3,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 3,
+                        "bbox": [
+                            95,
+                            124,
+                            117,
+                            144
+                        ],
+                        "level": 95,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "blockMath",
+                                "blockMath": "\\[\\int 3\\cos^{2}x\\mathrm{d}x.\\]",
+                                "bbox": [
+                                    124,
+                                    121,
+                                    182,
+                                    147
+                                ],
+                                "page_number": 3,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    508,
+                                    129,
+                                    528,
+                                    144
+                                ],
+                                "page_number": 3,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find",
+                        "bbox": [
+                            92,
+                            62,
+                            119,
+                            78
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(b)",
+                "page_number": 3,
+                "bbox": [
+                    68,
+                    159,
+                    87,
+                    175
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Use the trapezium rule with 2 intervals to estimate the value of",
+                        "bbox": [
+                            93,
+                            159,
+                            394,
+                            175
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\int_{1}^{2}\\frac{6}{\\ln(x + 2)}\\mathrm{d}x,\\]",
+                        "bbox": [
+                            257,
+                            180,
+                            338,
+                            219
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "giving your answer correct to 2 decimal places",
+                        "bbox": [
+                            93,
+                            226,
+                            320,
+                            243
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            226,
+                            528,
+                            242
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 3,
+        "bbox": [
+            45,
+            264,
+            58,
+            280
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    72,
+                    304,
+                    91,
+                    320
+                ],
+                "level": 72,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Hence solve the equation",
+                        "bbox": [
+                            93,
+                            304,
+                            216,
+                            320
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[3\\cos 2x + \\sin 2x = 2,\\]",
+                        "bbox": [
+                            246,
+                            320,
+                            347,
+                            337
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "giving all solutions in the interval \\(0^{\\circ}\\leqslant x\\leqslant 360^{\\circ}\\)",
+                        "bbox": [
+                            93,
+                            340,
+                            325,
+                            357
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[5]",
+                        "bbox": [
+                            508,
+                            341,
+                            528,
+                            357
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "(i) Express 3 \\(\\cos \\theta + \\sin \\theta\\) in the form \\(R\\cos (\\theta - \\alpha)\\), where \\(R > 0\\) and \\(0^{\\circ}< \\alpha < 90^{\\circ}\\), giving the exact value of \\(R\\) and the value of \\(\\alpha\\) correct to 2 decimal places",
+                "bbox": [
+                    76,
+                    264,
+                    548,
+                    294
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[3]",
+                "bbox": [
+                    508,
+                    279,
+                    528,
+                    294
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

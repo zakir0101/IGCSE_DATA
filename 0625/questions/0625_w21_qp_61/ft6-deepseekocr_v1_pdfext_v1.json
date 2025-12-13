@@ -49,7 +49,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "top reading = .........mm",
+                                "text": "top reading =   .........  mm",
                                 "bbox": [
                                     298,
                                     509,
@@ -63,7 +63,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "bottom reading = .........mm",
+                                "text": "bottom reading =   .........  mm",
                                 "bbox": [
                                     277,
                                     535,
@@ -899,7 +899,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "R_{\\mathrm{XZ}} = .........",
+                        "text": "\\( R_{\\mathrm{XZ}} \\)  =   .........",
                         "bbox": [
                             331,
                             699,
@@ -908,9 +908,7 @@
                         ],
                         "page_number": 6,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -927,9 +925,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(e)",
@@ -1021,8 +1017,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -1063,23 +1058,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· Draw a line 7.0 cm long from \\(\\mathbf{B}\\) at an angle of incidence \\(i = 70^{\\circ}\\) to the normal below \\(\\mathbf{MR}\\) and to the left of the normal. Label the end of this line \\(\\mathbf{A}\\)",
                         "bbox": [
                             91,
-                            620,
-                            103,
-                            636
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Draw a line 7.0 cm long from \\(\\mathbf{B}\\) at an angle of incidence \\(i = 70^{\\circ}\\) to the normal below \\(\\mathbf{MR}\\) and to the left of the normal. Label the end of this line \\(\\mathbf{A}\\)",
-                        "bbox": [
-                            114,
                             620,
                             548,
                             648
@@ -1091,23 +1072,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "·",
+                        "text": "· Draw another line 7.0 cm long from \\(\\mathbf{B}\\) at an angle \\(\\theta = 40^{\\circ}\\) to the normal below \\(\\mathbf{MR}\\) and to the left of the normal. Label the end of this line \\(\\mathbf{C}\\)",
                         "bbox": [
                             91,
-                            659,
-                            103,
-                            675
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Draw another line 7.0 cm long from \\(\\mathbf{B}\\) at an angle \\(\\theta = 40^{\\circ}\\) to the normal below \\(\\mathbf{MR}\\) and to the left of the normal. Label the end of this line \\(\\mathbf{C}\\)",
-                        "bbox": [
-                            114,
                             659,
                             548,
                             687
@@ -1231,7 +1198,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(\\alpha =\\) .........",
+                        "text": "\\(\\alpha =\\)   .........",
                         "bbox": [
                             345,
                             164,
@@ -1329,7 +1296,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(\\beta =\\) .........",
+                        "text": "\\(\\beta =\\)   .........",
                         "bbox": [
                             345,
                             321,
@@ -1382,6 +1349,33 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            92,
+                            388,
+                            528,
+                            402
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            388,
+                            528,
+                            402
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -1410,6 +1404,33 @@
                         "page_number": 9,
                         "is_pre": false,
                         "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            92,
+                            493,
+                            528,
+                            508
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            493,
+                            528,
+                            508
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],

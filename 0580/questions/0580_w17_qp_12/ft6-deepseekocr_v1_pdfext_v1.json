@@ -111,7 +111,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........\\(^\\circ \\mathrm{C}\\)",
+                "text": ".........  \\(^\\circ \\mathrm{C}\\)",
                 "bbox": [
                     402,
                     216,
@@ -293,7 +293,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........< .........< .........< .........",
+                "text": ".........  <   .........  <   .........  <   .........",
                 "bbox": [
                     285,
                     516,
@@ -391,7 +391,7 @@
             },
             {
                 "type": "form_text",
-                "text": "$( .........",
+                "text": "$(   .........",
                 "bbox": [
                     402,
                     721,
@@ -716,7 +716,7 @@
             },
             {
                 "type": "form_text",
-                "text": "y = .........",
+                "text": "y =   .........",
                 "bbox": [
                     401,
                     569,
@@ -772,7 +772,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........%",
+                "text": ".........  %",
                 "bbox": [
                     402,
                     686,
@@ -856,7 +856,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........\\(cm\\)",
+                "text": ".........  \\(cm\\)",
                 "bbox": [
                     403,
                     216,
@@ -1153,7 +1153,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........\\(\\leqslant l < .........\\)",
+                "text": ".........  \\(\\leqslant l <   .........  \\)",
                 "bbox": [
                     379,
                     624,
@@ -1225,7 +1225,7 @@
             },
             {
                 "type": "form_text",
-                "text": "x = .........",
+                "text": "x =   .........",
                 "bbox": [
                     401,
                     249,
@@ -1292,7 +1292,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "(........., .........)",
+                        "text": "(  .........  ,   .........  )",
                         "bbox": [
                             380,
                             638,
@@ -1478,7 +1478,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........cm",
+                        "text": ".........  cm",
                         "bbox": [
                             402,
                             229,
@@ -1920,7 +1920,7 @@
             },
             {
                 "type": "form_text",
-                "text": "y = .........",
+                "text": "y =   .........",
                 "bbox": [
                     400,
                     689,
@@ -2109,7 +2109,9 @@
                         ],
                         "page_number": 9,
                         "is_pre": false,
-                        "issues": [],
+                        "issues": [
+                            "Multiple display math blocks (0 found) with text inbetween (8)!!"
+                        ],
                         "is_pot_pre": false
                     },
                     {
@@ -2155,7 +2157,9 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": []
+                "issues": [
+                    "Multiple display math blocks (0 found) with text inbetween (8)!!"
+                ]
             },
             {
                 "label": "(b)",
@@ -2194,7 +2198,9 @@
                         ],
                         "page_number": 9,
                         "is_pre": false,
-                        "issues": [],
+                        "issues": [
+                            "Multiple display math blocks (0 found) with text inbetween (2)!!"
+                        ],
                         "is_pot_pre": false
                     },
                     {
@@ -2281,11 +2287,14 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": []
+                "issues": [
+                    "Multiple display math blocks (0 found) with text inbetween (2)!!"
+                ]
             }
         ],
         "content": [],
-        "issues": []
+        "issues": [],
+        "has_issues": true
     },
     {
         "label": "23",
@@ -2326,7 +2335,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "n = .........",
+                        "text": "n =   .........",
                         "bbox": [
                             402,
                             452,
@@ -2382,7 +2391,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "p = .........",
+                        "text": "p =   .........",
                         "bbox": [
                             401,
                             582,
@@ -2468,7 +2477,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "x = .........",
+                        "text": "x =   .........",
                         "bbox": [
                             401,
                             316,
@@ -2524,7 +2533,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "y = .........",
+                        "text": "y =   .........",
                         "bbox": [
                             401,
                             424,

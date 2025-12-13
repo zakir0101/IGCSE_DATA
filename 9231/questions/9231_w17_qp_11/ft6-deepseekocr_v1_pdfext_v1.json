@@ -1285,117 +1285,300 @@
         "level": 47,
         "parts": [
             {
-                "label": "(i)",
+                "label": "EITHER",
                 "page_number": 18,
-                "bbox": [
-                    76,
-                    115,
-                    93,
-                    130
-                ],
-                "level": 76,
-                "parts": [],
-                "content": [
-                    {
-                        "type": "text",
-                        "text": "The vector \\(\\mathbf{e}\\) is an eigenvector of the matrix \\(\\mathbf{A}\\), with corresponding eigenvalue \\(\\lambda\\), and is also an eigenvector of the matrix \\(\\mathbf{B}\\), with corresponding eigenvalue \\(\\mu\\). Show that \\(\\mathbf{e}\\) is an eigenvector of the matrix \\(\\mathbf{AB}\\) with corresponding eigenvalue \\(\\lambda \\mu\\)",
-                        "bbox": [
-                            94,
-                            114,
-                            548,
-                            157
-                        ],
-                        "page_number": 18,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[3]",
-                        "bbox": [
-                            508,
-                            140,
-                            528,
-                            156
-                        ],
-                        "page_number": 18,
-                        "is_pre": false,
-                        "is_pot_pre": false
-                    }
-                ],
-                "issues": []
-            },
-            {
-                "label": "(ii)",
-                "page_number": 18,
-                "bbox": [
-                    94,
-                    425,
-                    111,
-                    440
-                ],
-                "level": 94,
-                "parts": [],
-                "content": [
-                    {
-                        "type": "text",
-                        "text": "Find the eigenvalues and corresponding eigenvectors of the matrix \\(\\mathbf{A}\\), where",
-                        "bbox": [
-                            111,
-                            425,
-                            457,
-                            441
-                        ],
-                        "page_number": 18,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "blockMath",
-                        "blockMath": "\\[\\mathbf{A} = \\begin{pmatrix} 0 & 1 & 3 \\\\ 3 & 2 & -3 \\\\ 1 & 1 & 2 \\end{pmatrix} .\\]",
-                        "bbox": [
-                            250,
-                            446,
-                            346,
-                            490
-                        ],
-                        "page_number": 18,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[6]",
-                        "bbox": [
-                            508,
-                            461,
-                            528,
-                            476
-                        ],
-                        "page_number": 18,
-                        "is_pre": false,
-                        "is_pot_pre": false
-                    }
-                ],
-                "issues": []
-            },
-            {
-                "label": "(iii)",
-                "page_number": 20,
                 "bbox": [
                     70,
-                    62,
-                    90,
-                    78
+                    89,
+                    120,
+                    104
                 ],
                 "level": 70,
                 "parts": [
                     {
-                        "label": "OR",
+                        "label": "(i)",
+                        "page_number": 18,
+                        "bbox": [
+                            76,
+                            115,
+                            93,
+                            130
+                        ],
+                        "level": 76,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "The vector \\(\\mathbf{e}\\) is an eigenvector of the matrix \\(\\mathbf{A}\\), with corresponding eigenvalue \\(\\lambda\\), and is also an eigenvector of the matrix \\(\\mathbf{B}\\), with corresponding eigenvalue \\(\\mu\\). Show that \\(\\mathbf{e}\\) is an eigenvector of the matrix \\(\\mathbf{AB}\\) with corresponding eigenvalue \\(\\lambda \\mu\\)",
+                                "bbox": [
+                                    94,
+                                    114,
+                                    548,
+                                    157
+                                ],
+                                "page_number": 18,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[3]",
+                                "bbox": [
+                                    508,
+                                    140,
+                                    528,
+                                    156
+                                ],
+                                "page_number": 18,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 18,
+                        "bbox": [
+                            94,
+                            425,
+                            111,
+                            440
+                        ],
+                        "level": 94,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Find the eigenvalues and corresponding eigenvectors of the matrix \\(\\mathbf{A}\\), where",
+                                "bbox": [
+                                    111,
+                                    425,
+                                    457,
+                                    441
+                                ],
+                                "page_number": 18,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "blockMath",
+                                "blockMath": "\\[\\mathbf{A} = \\begin{pmatrix} 0 & 1 & 3 \\\\ 3 & 2 & -3 \\\\ 1 & 1 & 2 \\end{pmatrix} .\\]",
+                                "bbox": [
+                                    250,
+                                    446,
+                                    346,
+                                    490
+                                ],
+                                "page_number": 18,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[6]",
+                                "bbox": [
+                                    508,
+                                    461,
+                                    528,
+                                    476
+                                ],
+                                "page_number": 18,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(iii)",
+                        "page_number": 20,
+                        "bbox": [
+                            70,
+                            62,
+                            90,
+                            78
+                        ],
+                        "level": 70,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "The matrix \\(\\mathbf{B}\\), where",
+                                "bbox": [
+                                    91,
+                                    62,
+                                    195,
+                                    78
+                                ],
+                                "page_number": 20,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "blockMath",
+                                "blockMath": "\\[\\mathbf{B} = \\left( \\begin{array}{ccc}3 & 6 & 1\\\\ 1 & -2 & -1\\\\ 6 & 6 & -2 \\end{array} \\right),\\]",
+                                "bbox": [
+                                    246,
+                                    78,
+                                    348,
+                                    121
+                                ],
+                                "page_number": 20,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "has eigenvectors \\(\\begin{pmatrix} 1 \\\\ -1 \\\\ 0 \\end{pmatrix}\\), \\(\\begin{pmatrix} 1 \\\\ -1 \\\\ 1 \\end{pmatrix}\\) and \\(\\begin{pmatrix} 1 \\\\ 0 \\\\ 1 \\end{pmatrix}\\). Find the eigenvalues of the matrix \\(\\mathbf{AB}\\), and state corresponding eigenvectors",
+                                "bbox": [
+                                    93,
+                                    127,
+                                    548,
+                                    171
+                                ],
+                                "page_number": 20,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[4]",
+                                "bbox": [
+                                    508,
+                                    164,
+                                    528,
+                                    179
+                                ],
+                                "page_number": 20,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    }
+                ],
+                "content": [],
+                "issues": []
+            },
+            {
+                "label": "OR",
+                "page_number": 21,
+                "bbox": [
+                    70,
+                    62,
+                    91,
+                    77
+                ],
+                "level": 70,
+                "parts": [
+                    {
+                        "label": "(i)",
                         "page_number": 21,
+                        "bbox": [
+                            76,
+                            113,
+                            93,
+                            128
+                        ],
+                        "level": 76,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Sketch \\(C\\)",
+                                "bbox": [
+                                    95,
+                                    113,
+                                    144,
+                                    128
+                                ],
+                                "page_number": 21,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    113,
+                                    528,
+                                    128
+                                ],
+                                "page_number": 21,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(ii)",
+                        "page_number": 21,
+                        "bbox": [
+                            73,
+                            425,
+                            93,
+                            440
+                        ],
+                        "level": 73,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Show that the cartesian equation of \\(C\\) is",
+                                "bbox": [
+                                    95,
+                                    425,
+                                    285,
+                                    441
+                                ],
+                                "page_number": 21,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "blockMath",
+                                "blockMath": "\\[x^{2} + y^{2} = a\\big(x + \\sqrt{(x^{2} + y^{2})}\\big).\\]",
+                                "bbox": [
+                                    229,
+                                    446,
+                                    364,
+                                    464
+                                ],
+                                "page_number": 21,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    447,
+                                    528,
+                                    463
+                                ],
+                                "page_number": 21,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(iii)",
+                        "page_number": 22,
                         "bbox": [
                             70,
                             62,
@@ -1407,16 +1590,71 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "The polar equation of a curve \\(C\\) is \\(r = a(1 + \\cos \\theta)\\) for \\(0 \\leqslant \\theta < 2\\pi\\), where \\(a\\) is a positive constant",
+                                "text": "Find the area of the sector of \\(C\\) between \\(\\theta = 0\\) and \\(\\theta = \\frac{1}{3}\\pi\\)",
                                 "bbox": [
-                                    70,
-                                    88,
-                                    529,
-                                    104
+                                    93,
+                                    62,
+                                    371,
+                                    78
                                 ],
-                                "page_number": 21,
+                                "page_number": 22,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[4]",
+                                "bbox": [
+                                    507,
+                                    62,
+                                    527,
+                                    78
+                                ],
+                                "page_number": 22,
+                                "is_pre": false,
+                                "is_pot_pre": false
+                            }
+                        ],
+                        "issues": []
+                    },
+                    {
+                        "label": "(iv)",
+                        "page_number": 23,
+                        "bbox": [
+                            70,
+                            62,
+                            91,
+                            77
+                        ],
+                        "level": 70,
+                        "parts": [],
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": "Find the arc length of \\(C\\) between the point where \\(\\theta = 0\\) and the point where \\(\\theta = \\frac{1}{3}\\pi\\)",
+                                "bbox": [
+                                    93,
+                                    62,
+                                    491,
+                                    78
+                                ],
+                                "page_number": 23,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[5]",
+                                "bbox": [
+                                    508,
+                                    62,
+                                    528,
+                                    78
+                                ],
+                                "page_number": 23,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -1426,57 +1664,16 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "The matrix \\(\\mathbf{B}\\), where",
+                        "text": "The polar equation of a curve \\(C\\) is \\(r = a(1 + \\cos \\theta)\\) for \\(0 \\leqslant \\theta < 2\\pi\\), where \\(a\\) is a positive constant",
                         "bbox": [
-                            91,
-                            62,
-                            195,
-                            78
+                            70,
+                            88,
+                            529,
+                            104
                         ],
-                        "page_number": 20,
+                        "page_number": 21,
                         "is_pre": false,
                         "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "blockMath",
-                        "blockMath": "\\[\\mathbf{B} = \\left( \\begin{array}{ccc}3 & 6 & 1\\\\ 1 & -2 & -1\\\\ 6 & 6 & -2 \\end{array} \\right),\\]",
-                        "bbox": [
-                            246,
-                            78,
-                            348,
-                            121
-                        ],
-                        "page_number": 20,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "has eigenvectors \\(\\begin{pmatrix} 1 \\\\ -1 \\\\ 0 \\end{pmatrix}\\), \\(\\begin{pmatrix} 1 \\\\ -1 \\\\ 1 \\end{pmatrix}\\) and \\(\\begin{pmatrix} 1 \\\\ 0 \\\\ 1 \\end{pmatrix}\\). Find the eigenvalues of the matrix \\(\\mathbf{AB}\\), and state corresponding eigenvectors",
-                        "bbox": [
-                            93,
-                            127,
-                            548,
-                            171
-                        ],
-                        "page_number": 20,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "mark_text",
-                        "text": "[4]",
-                        "bbox": [
-                            508,
-                            164,
-                            528,
-                            179
-                        ],
-                        "page_number": 20,
-                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],

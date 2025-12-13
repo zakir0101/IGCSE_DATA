@@ -1,0 +1,1166 @@
+[
+    {
+        "label": "1",
+        "page_number": 2,
+        "bbox": [
+            46,
+            62,
+            56,
+            78
+        ],
+        "level": 46,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Solve the equation",
+                "bbox": [
+                    69,
+                    62,
+                    162,
+                    78
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\ln (3x + 4) = 2\\ln (x + 1),\\]",
+                "bbox": [
+                    238,
+                    79,
+                    354,
+                    95
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "giving your answer correct to 3 significant figures",
+                "bbox": [
+                    69,
+                    99,
+                    312,
+                    115
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[4]",
+                "bbox": [
+                    508,
+                    99,
+                    528,
+                    114
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "2",
+        "page_number": 2,
+        "bbox": [
+            46,
+            137,
+            56,
+            154
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 2,
+                "bbox": [
+                    75,
+                    304,
+                    91,
+                    319
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(\\theta\\) satisfies the equation",
+                        "bbox": [
+                            95,
+                            304,
+                            255,
+                            319
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\tan \\theta = 3\\theta .\\]",
+                        "bbox": [
+                            270,
+                            324,
+                            324,
+                            340
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            507,
+                            324,
+                            527,
+                            340
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 2,
+                "bbox": [
+                    72,
+                    357,
+                    91,
+                    373
+                ],
+                "level": 72,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "This equation has one root in the interval \\(0 < \\theta < \\frac{1}{2}\\pi\\). Use the iterative formula",
+                        "bbox": [
+                            93,
+                            357,
+                            467,
+                            373
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\theta_{n + 1} = \\tan^{-1}(3\\theta_{n})\\]",
+                        "bbox": [
+                            255,
+                            381,
+                            339,
+                            398
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "to determine the root correct to 2 decimal places. Give the result of each iteration to 4 decimal places",
+                        "bbox": [
+                            92,
+                            403,
+                            548,
+                            433
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            418,
+                            528,
+                            433
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    193,
+                    146,
+                    421,
+                    236
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 2
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "In the diagram, \\(ABC\\) is a triangle in which angle \\(ABC\\) is a right angle and \\(BC = a\\). A circular arc, with centre \\(C\\) and radius \\(a\\), joins \\(B\\) and the point \\(M\\) on \\(AC\\). The angle \\(ACB\\) is \\(\\theta\\) radians. The area of the sector \\(CMB\\) is equal to one third of the area of the triangle \\(ABC\\)",
+                "bbox": [
+                    69,
+                    250,
+                    548,
+                    293
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "3",
+        "page_number": 2,
+        "bbox": [
+            45,
+            463,
+            57,
+            478
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Expand \\(\\sqrt{\\left(\\frac{1 - x}{1 + x}\\right)}\\) in ascending powers of \\(x\\), up to and including the term in \\(x^{2}\\), simplifying the coefficients",
+                "bbox": [
+                    69,
+                    453,
+                    548,
+                    499
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[5]",
+                "bbox": [
+                    508,
+                    482,
+                    528,
+                    497
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "4",
+        "page_number": 2,
+        "bbox": [
+            45,
+            521,
+            57,
+            536
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "Solve the equation",
+                "bbox": [
+                    69,
+                    521,
+                    162,
+                    536
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\mathrm{cos}\\mathrm{ec}2\\theta = \\mathrm{sec}\\theta +\\mathrm{cot}\\theta ,\\]",
+                "bbox": [
+                    238,
+                    538,
+                    356,
+                    554
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "giving all solutions in the interval \\(0^{\\circ}< \\theta < 360^{\\circ}\\)",
+                "bbox": [
+                    69,
+                    557,
+                    304,
+                    574
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[6]",
+                "bbox": [
+                    508,
+                    558,
+                    528,
+                    574
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "5",
+        "page_number": 2,
+        "bbox": [
+            45,
+            597,
+            57,
+            613
+        ],
+        "level": 45,
+        "parts": [],
+        "content": [
+            {
+                "type": "text",
+                "text": "The variables \\(x\\) and \\(y\\) satisfy the differential equation",
+                "bbox": [
+                    69,
+                    597,
+                    324,
+                    613
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[\\frac{\\mathrm{d}y}{\\mathrm{d}x} = \\mathrm{e}^{2x + y},\\]",
+                "bbox": [
+                    268,
+                    619,
+                    324,
+                    644
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "and \\(y = 0\\) when \\(x = 0\\). Solve the differential equation, obtaining an expression for \\(y\\) in terms of \\(x\\)",
+                "bbox": [
+                    69,
+                    650,
+                    551,
+                    666
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "mark_text",
+                "text": "[6]",
+                "bbox": [
+                    508,
+                    651,
+                    528,
+                    667
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "6",
+        "page_number": 2,
+        "bbox": [
+            45,
+            689,
+            57,
+            705
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 2,
+                "bbox": [
+                    75,
+                    716,
+                    91,
+                    731
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the \\(x\\)-coordinates of the stationary points of the curve in the interval \\(0 < x < \\pi\\)",
+                        "bbox": [
+                            93,
+                            716,
+                            491,
+                            731
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            716,
+                            528,
+                            731
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 2,
+                "bbox": [
+                    73,
+                    742,
+                    90,
+                    758
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Determine the nature of the stationary point in this interval for which \\(x\\) is least",
+                        "bbox": [
+                            93,
+                            742,
+                            470,
+                            758
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            742,
+                            528,
+                            758
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "The equation of a curve is \\(y = 3 \\sin x + 4 \\cos^3 x\\)",
+                "bbox": [
+                    69,
+                    689,
+                    294,
+                    705
+                ],
+                "page_number": 2,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "7",
+        "page_number": 3,
+        "bbox": [
+            46,
+            62,
+            58,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 3,
+                "bbox": [
+                    74,
+                    144,
+                    90,
+                    160
+                ],
+                "level": 74,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Express \\(u\\) in the form \\(x + \\mathrm{i}y\\), where \\(x\\) and \\(y\\) are real",
+                        "bbox": [
+                            93,
+                            143,
+                            340,
+                            159
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            508,
+                            144,
+                            528,
+                            160
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    72,
+                    170,
+                    90,
+                    185
+                ],
+                "level": 72,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show on a sketch of an Argand diagram the points \\(A, B\\) and \\(C\\) representing the complex numbers \\(u, 1 + 2\\mathrm{i}\\) and \\(1 - 3\\mathrm{i}\\) respectively",
+                        "bbox": [
+                            92,
+                            169,
+                            548,
+                            198
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[2]",
+                        "bbox": [
+                            508,
+                            183,
+                            528,
+                            198
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(iii)",
+                "page_number": 3,
+                "bbox": [
+                    68,
+                    209,
+                    90,
+                    224
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "By considering the arguments of \\(1 + 2\\mathrm{i}\\) and \\(1 - 3\\mathrm{i}\\), show that",
+                        "bbox": [
+                            91,
+                            208,
+                            382,
+                            224
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[\\tan^{-1}2 + \\tan^{-1}3 = \\frac{3}{4}\\pi .\\]",
+                        "bbox": [
+                            245,
+                            229,
+                            349,
+                            247
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            507,
+                            231,
+                            527,
+                            247
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Throughout this question the use of a calculator is not permitted",
+                "bbox": [
+                    70,
+                    62,
+                    397,
+                    78
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The complex number \\(u\\) is defined by",
+                "bbox": [
+                    69,
+                    88,
+                    246,
+                    104
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "blockMath",
+                "blockMath": "\\[u = \\frac{1 + 2\\mathrm{i}}{1 - 3\\mathrm{i}}.\\]",
+                "bbox": [
+                    270,
+                    104,
+                    324,
+                    132
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "8",
+        "page_number": 3,
+        "bbox": [
+            45,
+            289,
+            57,
+            306
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 3,
+                "bbox": [
+                    75,
+                    327,
+                    93,
+                    342
+                ],
+                "level": 75,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Using the substitution \\(u = \\sqrt{(6 - x)}\\), show that",
+                        "bbox": [
+                            95,
+                            326,
+                            313,
+                            342
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "\\[I = \\int_{1}^{2}\\frac{10u}{(3 - u)(2 + u)}\\mathrm{d}u.\\]",
+                        "bbox": [
+                            235,
+                            347,
+                            359,
+                            385
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            360,
+                            528,
+                            375
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    73,
+                    403,
+                    91,
+                    419
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Hence show that \\(I = 2\\ln (\\frac{9}{2})\\)",
+                        "bbox": [
+                            94,
+                            402,
+                            230,
+                            419
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            508,
+                            402,
+                            528,
+                            418
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Let \\(I = \\int_{2}^{5} \\frac{5}{x + \\sqrt{(6 - x)}} \\mathrm{~d}x.\\)",
+                "bbox": [
+                    69,
+                    279,
+                    166,
+                    316
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "9",
+        "page_number": 3,
+        "bbox": [
+            45,
+            442,
+            56,
+            458
+        ],
+        "level": 45,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 3,
+                "bbox": [
+                    74,
+                    631,
+                    91,
+                    646
+                ],
+                "level": 74,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the equation of the tangent to the curve at the point where \\(x = 1\\), giving your answer in the form \\(y = mx + c\\)",
+                        "bbox": [
+                            93,
+                            630,
+                            548,
+                            658
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[4]",
+                        "bbox": [
+                            508,
+                            645,
+                            528,
+                            661
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 3,
+                "bbox": [
+                    72,
+                    669,
+                    91,
+                    684
+                ],
+                "level": 72,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find by integration the volume of the solid obtained when the region \\(R\\) is rotated completely about the \\(x\\)-axis. Give your answer in terms of \\(\\pi\\) and \\(\\mathrm{e}\\)",
+                        "bbox": [
+                            93,
+                            669,
+                            548,
+                            697
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[7]",
+                        "bbox": [
+                            508,
+                            682,
+                            528,
+                            697
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "image",
+                "bbox": [
+                    193,
+                    448,
+                    421,
+                    573
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "image": {
+                    "caption": "",
+                    "page": 3
+                },
+                "is_pot_pre": false
+            },
+            {
+                "type": "text",
+                "text": "The diagram shows the curve \\(y = x^{\\frac{1}{3}} \\ln x\\). The shaded region between the curve, the \\(x\\)-axis and the line \\(x = \\mathrm{e}\\) is denoted by \\(R\\)",
+                "bbox": [
+                    69,
+                    589,
+                    548,
+                    619
+                ],
+                "page_number": 3,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    },
+    {
+        "label": "10",
+        "page_number": 4,
+        "bbox": [
+            46,
+            63,
+            62,
+            78
+        ],
+        "level": 46,
+        "parts": [
+            {
+                "label": "(i)",
+                "page_number": 4,
+                "bbox": [
+                    76,
+                    101,
+                    89,
+                    116
+                ],
+                "level": 76,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Show that \\(l\\) is parallel to \\(m\\)",
+                        "bbox": [
+                            93,
+                            101,
+                            226,
+                            117
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            506,
+                            102,
+                            526,
+                            117
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(ii)",
+                "page_number": 4,
+                "bbox": [
+                    73,
+                    128,
+                    91,
+                    143
+                ],
+                "level": 73,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Find the position vector of the point of intersection of \\(l\\) and \\(n\\)",
+                        "bbox": [
+                            93,
+                            127,
+                            387,
+                            143
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[3]",
+                        "bbox": [
+                            506,
+                            128,
+                            526,
+                            143
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            },
+            {
+                "label": "(iii)",
+                "page_number": 4,
+                "bbox": [
+                    68,
+                    154,
+                    90,
+                    169
+                ],
+                "level": 68,
+                "parts": [],
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "A point \\(P\\) lying on \\(l\\) is such that its perpendicular distances from \\(m\\) and \\(n\\) are equal. Find the position vectors of the two possible positions for \\(P\\) and calculate the distance between them",
+                        "bbox": [
+                            93,
+                            154,
+                            548,
+                            182
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[6]",
+                        "bbox": [
+                            506,
+                            180,
+                            526,
+                            196
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "[The perpendicular distance of a point with position vector \\(x_{1}\\mathbf{i} + y_{1}\\mathbf{j} + z_{1}\\mathbf{k}\\) from the plane \\(ax + by + cz = d\\) is \\(\\frac{|ax_{1} + by_{1} + cz_{1} - d|}{\\sqrt{(a^{2} + b^{2} + c^{2})}}.]\\)",
+                        "bbox": [
+                            92,
+                            200,
+                            548,
+                            243
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    }
+                ],
+                "issues": []
+            }
+        ],
+        "content": [
+            {
+                "type": "text",
+                "text": "Two planes, \\(m\\) and \\(n\\), have equations \\(x + 2y - 2z = 1\\) and \\(2x - 2y + z = 7\\) respectively. The line \\(l\\) has equation \\(\\mathbf{r} = \\mathbf{i} + \\mathbf{j} - \\mathbf{k} + \\lambda (2\\mathbf{i} + \\mathbf{j} + 2\\mathbf{k})\\)",
+                "bbox": [
+                    69,
+                    62,
+                    548,
+                    92
+                ],
+                "page_number": 4,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            }
+        ],
+        "issues": []
+    }
+]

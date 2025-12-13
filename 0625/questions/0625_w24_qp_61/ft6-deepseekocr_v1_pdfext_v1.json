@@ -323,7 +323,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "x = .........\\(cm\\)",
+                        "text": "x =   .........  \\(cm\\)",
                         "bbox": [
                             330,
                             556,
@@ -883,7 +883,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "h_{\\mathrm{O}} = .........cm",
+                        "text": "\\( h_{\\mathrm{O}} \\)  =   .........  cm",
                         "bbox": [
                             322,
                             457,
@@ -892,9 +892,7 @@
                         ],
                         "page_number": 8,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -911,9 +909,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -971,7 +967,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "v = .........41.2 .........cm",
+                        "text": "v =   .........  41.2   .........  cm",
                         "bbox": [
                             331,
                             560,
@@ -1083,7 +1079,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "f = .........",
+                        "text": "f =   .........",
                         "bbox": [
                             331,
                             158,
@@ -1209,7 +1205,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "v = .........29.8 .........cm",
+                        "text": "v =   .........  29.8   .........  cm",
                         "bbox": [
                             330,
                             313,
@@ -1237,7 +1233,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "f = .........",
+                        "text": "f =   .........",
                         "bbox": [
                             331,
                             417,
@@ -1412,8 +1408,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "4",
@@ -1471,12 +1466,12 @@
             },
             {
                 "type": "text",
-                "text": "<label>",
+                "text": "<label> fuse wires with a selection of different diameters and metals (all with the same length)",
                 "bbox": [
                     69,
                     138,
-                    82,
-                    152
+                    513,
+                    154
                 ],
                 "page_number": 10,
                 "is_pre": false,
@@ -1484,13 +1479,41 @@
                 "is_pot_pre": false
             },
             {
-                "type": "text",
-                "text": "fuse wires with a selection of different diameters and metals (all with the same length)",
+                "type": "form_text",
+                "text": "metre ruler",
                 "bbox": [
-                    92,
-                    138,
-                    513,
-                    154
+                    69,
+                    154,
+                    148,
+                    167
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "ammeter",
+                "bbox": [
+                    69,
+                    167,
+                    140,
+                    180
+                ],
+                "page_number": 10,
+                "is_pre": false,
+                "issues": [],
+                "is_pot_pre": false
+            },
+            {
+                "type": "form_text",
+                "text": "variable resistor",
+                "bbox": [
+                    69,
+                    179,
+                    174,
+                    192
                 ],
                 "page_number": 10,
                 "is_pre": false,
@@ -1557,23 +1580,9 @@
             },
             {
                 "type": "text",
-                "text": "<label>",
+                "text": "<label> state the variable that you choose to investigate",
                 "bbox": [
                     69,
-                    430,
-                    82,
-                    444
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "state the variable that you choose to investigate",
-                "bbox": [
-                    92,
                     430,
                     329,
                     444
@@ -1585,23 +1594,9 @@
             },
             {
                 "type": "text",
-                "text": "<label>",
+                "text": "<label> complete the circuit diagram on Fig. 4.1",
                 "bbox": [
                     69,
-                    456,
-                    82,
-                    471
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "complete the circuit diagram on Fig. 4.1",
-                "bbox": [
-                    92,
                     456,
                     288,
                     471
@@ -1613,23 +1608,9 @@
             },
             {
                 "type": "text",
-                "text": "<label>",
+                "text": "<label> explain briefly how to do the investigation",
                 "bbox": [
                     69,
-                    483,
-                    82,
-                    498
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "explain briefly how to do the investigation",
-                "bbox": [
-                    92,
                     483,
                     298,
                     498
@@ -1641,23 +1622,9 @@
             },
             {
                 "type": "text",
-                "text": "<label>",
+                "text": "<label> state a key variable to keep constant",
                 "bbox": [
                     69,
-                    509,
-                    81,
-                    524
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "state a key variable to keep constant",
-                "bbox": [
-                    92,
                     509,
                     275,
                     524
@@ -1669,23 +1636,9 @@
             },
             {
                 "type": "text",
-                "text": "<label>",
+                "text": "<label> draw a table, or tables, with column headings, to display the readings (you are **not** required to enter any readings in the table)",
                 "bbox": [
                     69,
-                    535,
-                    82,
-                    550
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "draw a table, or tables, with column headings, to display the readings (you are **not** required to enter any readings in the table)",
-                "bbox": [
-                    92,
                     535,
                     548,
                     565
@@ -1697,23 +1650,9 @@
             },
             {
                 "type": "text",
-                "text": "<label>",
+                "text": "<label> explain how to use your results to reach a conclusion",
                 "bbox": [
                     69,
-                    575,
-                    81,
-                    590
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "explain how to use your results to reach a conclusion",
-                "bbox": [
-                    92,
                     575,
                     357,
                     590

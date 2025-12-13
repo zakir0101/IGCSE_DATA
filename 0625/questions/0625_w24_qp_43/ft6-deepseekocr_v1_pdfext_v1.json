@@ -64,23 +64,9 @@
                         "content": [
                             {
                                 "type": "text",
-                                "text": "Define momentum",
+                                "text": "Define momentum <label>",
                                 "bbox": [
                                     116,
-                                    139,
-                                    211,
-                                    155
-                                ],
-                                "page_number": 2,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "<label>",
-                                "bbox": [
-                                    529,
                                     139,
                                     528,
                                     155
@@ -163,7 +149,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "initial velocity = .........",
+                                "text": "initial velocity =   .........",
                                 "bbox": [
                                     270,
                                     634,
@@ -982,7 +968,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "energy = .........",
+                        "text": "energy =   .........",
                         "bbox": [
                             302,
                             368,
@@ -1235,7 +1221,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "critical angle = .........",
+                                "text": "critical angle =   .........",
                                 "bbox": [
                                     274,
                                     596,
@@ -2127,7 +2113,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "current = .........",
+                                "text": "current =   .........",
                                 "bbox": [
                                     301,
                                     358,
@@ -2183,7 +2169,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "energy = .........",
+                                "text": "energy =   .........",
                                 "bbox": [
                                     301,
                                     476,
@@ -2250,6 +2236,33 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    114,
+                                    556,
+                                    528,
+                                    572
+                                ],
+                                "page_number": 14,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    556,
+                                    528,
+                                    572
+                                ],
+                                "page_number": 14,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2282,7 +2295,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "total resistance = .........",
+                                "text": "total resistance =   .........",
                                 "bbox": [
                                     261,
                                     672,
@@ -2399,7 +2412,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "clockwise moment = .........Nm",
+                                "text": "clockwise moment =   .........  Nm",
                                 "bbox": [
                                     245,
                                     413,
@@ -2456,7 +2469,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance d = .........",
+                                "text": "distance d =   .........",
                                 "bbox": [
                                     286,
                                     600,
@@ -3442,7 +3455,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance = .........\\(km\\)",
+                                "text": "distance =   .........  \\(km\\)",
                                 "bbox": [
                                     294,
                                     510,

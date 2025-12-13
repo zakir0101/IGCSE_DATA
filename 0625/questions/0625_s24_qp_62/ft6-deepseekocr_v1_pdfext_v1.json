@@ -325,7 +325,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "k_{1} = .........N/m",
+                                "text": "\\( k_{1} \\)  =   .........  N/m",
                                 "bbox": [
                                     325,
                                     430,
@@ -334,9 +334,7 @@
                                 ],
                                 "page_number": 3,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -367,9 +365,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(d)",
@@ -522,8 +518,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "4",
@@ -667,23 +662,9 @@
             },
             {
                 "type": "text",
-                "text": "·",
+                "text": "· state the **one** variable you have chosen to investigate",
                 "bbox": [
                     69,
-                    499,
-                    84,
-                    513
-                ],
-                "page_number": 14,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "state the **one** variable you have chosen to investigate",
-                "bbox": [
-                    92,
                     499,
                     356,
                     514
@@ -695,23 +676,9 @@
             },
             {
                 "type": "text",
-                "text": "·",
+                "text": "· list any additional apparatus needed to measure this variable",
                 "bbox": [
                     69,
-                    511,
-                    82,
-                    527
-                ],
-                "page_number": 14,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "list any additional apparatus needed to measure this variable",
-                "bbox": [
-                    92,
                     511,
                     392,
                     527

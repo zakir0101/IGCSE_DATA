@@ -54,23 +54,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "●",
+                        "text": "● F, G and H are crocodile clips",
                         "bbox": [
                             92,
-                            445,
-                            107,
-                            460
-                        ],
-                        "page_number": 3,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "F, G and H are crocodile clips",
-                        "bbox": [
-                            114,
                             445,
                             265,
                             460
@@ -110,23 +96,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "●",
+                        "text": "● Close the switch",
                         "bbox": [
                             92,
-                            524,
-                            107,
-                            539
-                        ],
-                        "page_number": 3,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Close the switch",
-                        "bbox": [
-                            115,
                             524,
                             202,
                             539
@@ -138,23 +110,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "●",
+                        "text": "● Record \\(L\\) and the ammeter readings \\(I_{1}\\) and \\(I_{2}\\)",
                         "bbox": [
                             92,
-                            550,
-                            107,
-                            566
-                        ],
-                        "page_number": 3,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Record \\(L\\) and the ammeter readings \\(I_{1}\\) and \\(I_{2}\\)",
-                        "bbox": [
-                            115,
                             550,
                             344,
                             566
@@ -180,7 +138,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "I_{1} =",
+                        "text": "\\( I_{1} \\)  =",
                         "bbox": [
                             325,
                             655,
@@ -189,14 +147,12 @@
                         ],
                         "page_number": 3,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
                         "type": "form_text",
-                        "text": "I_{2} =",
+                        "text": "\\( I_{2} \\)  =",
                         "bbox": [
                             325,
                             706,
@@ -205,9 +161,7 @@
                         ],
                         "page_number": 3,
                         "is_pre": false,
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ],
+                        "issues": [],
                         "is_pot_pre": false
                     },
                     {
@@ -238,10 +192,7 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": [
-                    "LaTeX subscript (_) found outside math mode",
-                    "LaTeX subscript (_) found outside math mode"
-                ]
+                "issues": []
             },
             {
                 "label": "(b)",
@@ -625,8 +576,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "2",
@@ -767,7 +717,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "cos \\(\\theta =\\) .........",
+                                "text": "cos \\(\\theta =\\)   .........",
                                 "bbox": [
                                     310,
                                     691,
@@ -883,7 +833,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "percentage uncertainty = .........%",
+                                "text": "percentage uncertainty =   .........  %",
                                 "bbox": [
                                     224,
                                     698,
@@ -999,7 +949,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "V = .........cm³",
+                        "text": "V =   .........  cm³",
                         "bbox": [
                             328,
                             385,

@@ -49,7 +49,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "l = .........\\(cm\\)",
+                                "text": "l =   .........  \\(cm\\)",
                                 "bbox": [
                                     348,
                                     334,
@@ -63,7 +63,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "w = .........\\(cm\\)",
+                                "text": "w =   .........  \\(cm\\)",
                                 "bbox": [
                                     343,
                                     373,
@@ -119,7 +119,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "h = .........\\(4.0\\)",
+                                "text": "h =   .........  \\(4.0\\)",
                                 "bbox": [
                                     345,
                                     439,
@@ -147,7 +147,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "V = .........\\(cm^3\\)",
+                                "text": "V =   .........  \\(cm^3\\)",
                                 "bbox": [
                                     345,
                                     495,
@@ -220,7 +220,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "m = .........\\(g\\)",
+                                "text": "m =   .........  \\(g\\)",
                                 "bbox": [
                                     341,
                                     685,
@@ -276,7 +276,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "ρ = .........",
+                                "text": "ρ =   .........",
                                 "bbox": [
                                     344,
                                     143,
@@ -378,7 +378,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "V_{1} = .........cm^{3}",
+                                "text": "\\( V_{1} \\)  =   .........  cm^{3}",
                                 "bbox": [
                                     340,
                                     415,
@@ -388,7 +388,7 @@
                                 "page_number": 3,
                                 "is_pre": false,
                                 "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
+                                    "LaTeX superscript (^) found outside math mode"
                                 ],
                                 "is_pot_pre": false
                             },
@@ -407,7 +407,7 @@
                             }
                         ],
                         "issues": [
-                            "LaTeX subscript (_) found outside math mode"
+                            "LaTeX superscript (^) found outside math mode"
                         ]
                     },
                     {
@@ -438,7 +438,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "m_W = .........",
+                                "text": "\\( m_W \\)  =   .........",
                                 "bbox": [
                                     334,
                                     521,
@@ -447,9 +447,7 @@
                                 ],
                                 "page_number": 3,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -466,9 +464,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -544,7 +540,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "d = .........",
+                                "text": "d =   .........",
                                 "bbox": [
                                     345,
                                     624,
@@ -778,23 +774,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "Fig. 2.2",
+                                "text": "Fig. 2.2 Fig. 2.3",
                                 "bbox": [
                                     152,
-                                    569,
-                                    194,
-                                    585
-                                ],
-                                "page_number": 5,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "Fig. 2.3",
-                                "bbox": [
-                                    399,
                                     569,
                                     442,
                                     585
@@ -806,7 +788,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "V_{\\mathrm{S}} =",
+                                "text": "\\( V_{\\mathrm{S}} \\)  =",
                                 "bbox": [
                                     338,
                                     607,
@@ -815,14 +797,12 @@
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
                                 "type": "form_text",
-                                "text": "I_{\\mathrm{S}} =",
+                                "text": "\\( I_{\\mathrm{S}} \\)  =",
                                 "bbox": [
                                     340,
                                     634,
@@ -831,9 +811,7 @@
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -850,10 +828,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode",
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -883,7 +858,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "R_{\\mathrm{S}} =",
+                                "text": "\\( R_{\\mathrm{S}} \\)  =",
                                 "bbox": [
                                     338,
                                     738,
@@ -892,9 +867,7 @@
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -911,9 +884,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -1262,8 +1233,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "3",
@@ -1304,23 +1274,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• He moves the screen until a clearly focused image is formed on the screen",
                         "bbox": [
                             90,
-                            296,
-                            99,
-                            311
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He moves the screen until a clearly focused image is formed on the screen",
-                        "bbox": [
-                            114,
                             296,
                             485,
                             311
@@ -1332,23 +1288,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• He measures the distance \\(v\\) between the centre of the lens and the screen",
                         "bbox": [
                             90,
-                            322,
-                            100,
-                            337
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He measures the distance \\(v\\) between the centre of the lens and the screen",
-                        "bbox": [
-                            114,
                             322,
                             485,
                             337
@@ -1360,23 +1302,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• Calculate, and record in the first row of Table 3.1, \\(\\frac{u}{V}\\)",
                         "bbox": [
                             91,
-                            347,
-                            102,
-                            363
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Calculate, and record in the first row of Table 3.1, \\(\\frac{u}{V}\\)",
-                        "bbox": [
-                            114,
                             347,
                             373,
                             365
@@ -1388,23 +1316,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "•",
+                        "text": "• He repeats the procedure for \\(u = 25.0 \\text{cm}\\), \\(u = 30.0 \\text{cm}\\), \\(u = 35.0 \\text{cm}\\) and \\(u = 40.0 \\text{cm}\\). The readings and results are shown in Table 3.1",
                         "bbox": [
                             91,
-                            374,
-                            102,
-                            390
-                        ],
-                        "page_number": 8,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "He repeats the procedure for \\(u = 25.0 \\text{cm}\\), \\(u = 30.0 \\text{cm}\\), \\(u = 35.0 \\text{cm}\\) and \\(u = 40.0 \\text{cm}\\). The readings and results are shown in Table 3.1",
-                        "bbox": [
-                            114,
                             374,
                             548,
                             403
@@ -1532,7 +1446,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(u_{1} =\\) .........",
+                        "text": "\\(u_{1} =\\)   .........",
                         "bbox": [
                             340,
                             514,
@@ -1588,7 +1502,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(f =\\) .........cm",
+                        "text": "\\(f =\\)   .........  cm",
                         "bbox": [
                             346,
                             578,
@@ -1905,23 +1819,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• write a list of suitable metals for the wires you would investigate",
                 "bbox": [
                     69,
-                    499,
-                    82,
-                    513
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "write a list of suitable metals for the wires you would investigate",
-                "bbox": [
-                    92,
                     497,
                     405,
                     513
@@ -1933,23 +1833,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• explain briefly how you would do the investigation",
                 "bbox": [
                     69,
-                    524,
-                    81,
-                    539
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "explain briefly how you would do the investigation",
-                "bbox": [
-                    92,
                     524,
                     337,
                     539
@@ -1961,23 +1847,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• state the key variables that you would keep constant",
                 "bbox": [
                     69,
-                    551,
-                    82,
-                    566
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "state the key variables that you would keep constant",
-                "bbox": [
-                    92,
                     551,
                     352,
                     566
@@ -1989,23 +1861,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• draw a table, or tables, with column headings, to show how you would display your readings (you are **not** required to enter any readings in the table)",
                 "bbox": [
                     69,
-                    577,
-                    82,
-                    593
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "draw a table, or tables, with column headings, to show how you would display your readings (you are **not** required to enter any readings in the table)",
-                "bbox": [
-                    92,
                     577,
                     548,
                     605
@@ -2017,23 +1875,9 @@
             },
             {
                 "type": "text",
-                "text": "•",
+                "text": "• explain how you would use the results to reach a conclusion",
                 "bbox": [
                     69,
-                    617,
-                    81,
-                    631
-                ],
-                "page_number": 10,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "explain how you would use the results to reach a conclusion",
-                "bbox": [
-                    92,
                     617,
                     390,
                     631

@@ -94,7 +94,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "maximum speed = .........",
+                                "text": "maximum speed =   .........",
                                 "bbox": [
                                     255,
                                     596,
@@ -192,7 +192,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance = .........",
+                                "text": "distance =   .........",
                                 "bbox": [
                                     295,
                                     215,
@@ -483,24 +483,58 @@
                         "is_pot_pre": false
                     },
                     {
-                        "type": "mark_text",
-                        "text": "[4]",
+                        "type": "blockMath",
+                        "blockMath": "",
                         "bbox": [
-                            508,
-                            581,
-                            528,
-                            596
+                            93,
+                            478,
+                            548,
+                            493
                         ],
                         "page_number": 4,
                         "is_pre": false,
-                        "is_pot_pre": false
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "",
+                        "bbox": [
+                            93,
+                            531,
+                            548,
+                            546
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": true
+                    },
+                    {
+                        "type": "blockMath",
+                        "blockMath": "Total: 7]",
+                        "bbox": [
+                            93,
+                            582,
+                            548,
+                            598
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [
+                            "Multiple display math blocks (0 found) with text inbetween (Total: 7])!!"
+                        ],
+                        "is_pot_pre": true
                     }
                 ],
-                "issues": []
+                "issues": [
+                    "Multiple display math blocks (0 found) with text inbetween (Total: 7])!!"
+                ]
             }
         ],
         "content": [],
-        "issues": []
+        "issues": [],
+        "has_issues": true
     },
     {
         "label": "3",
@@ -609,7 +643,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "work done = .........",
+                                "text": "work done =   .........",
                                 "bbox": [
                                     284,
                                     484,
@@ -1833,7 +1867,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "resistance = .........",
+                                "text": "resistance =   .........",
                                 "bbox": [
                                     285,
                                     158,
@@ -1889,7 +1923,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "energy = .........",
+                                "text": "energy =   .........",
                                 "bbox": [
                                     302,
                                     283,
@@ -1959,7 +1993,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "ammeter reading = .........",
+                                "text": "ammeter reading =   .........",
                                 "bbox": [
                                     252,
                                     433,
@@ -2171,6 +2205,33 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    117,
+                                    413,
+                                    528,
+                                    430
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    413,
+                                    528,
+                                    430
+                                ],
+                                "page_number": 12,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2319,7 +2380,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "N_{\\mathrm{s}} = .........",
+                                "text": "\\( N_{\\mathrm{s}} \\)  =   .........",
                                 "bbox": [
                                     322,
                                     589,
@@ -2328,9 +2389,7 @@
                                 ],
                                 "page_number": 13,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -2347,9 +2406,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     }
                 ],
                 "content": [
@@ -2403,8 +2460,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "9",

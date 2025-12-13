@@ -476,7 +476,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........min",
+                        "text": ".........  min",
                         "bbox": [
                             381,
                             351,
@@ -604,9 +604,7 @@
                 ],
                 "page_number": 3,
                 "is_pre": false,
-                "issues": [
-                    "Multiple display math blocks (4 found)"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -637,10 +635,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "Multiple display math blocks (4 found)"
-        ],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "6",
@@ -931,7 +926,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........\\(^\\circ \\mathrm{C}\\)",
+                "text": ".........  \\(^\\circ \\mathrm{C}\\)",
                 "bbox": [
                     382,
                     202,
@@ -1078,6 +1073,33 @@
                         "page_number": 5,
                         "is_pre": false,
                         "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........  because   .........",
+                        "bbox": [
+                            92,
+                            600,
+                            528,
+                            616
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            600,
+                            528,
+                            616
+                        ],
+                        "page_number": 5,
+                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],
@@ -1302,7 +1324,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........\\(\\mathrm{cm}^2\\)",
+                "text": ".........  \\(\\mathrm{cm}^2\\)",
                 "bbox": [
                     381,
                     499,
@@ -1641,7 +1663,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........: .........: .........",
+                "text": ".........  :   .........  :   .........",
                 "bbox": [
                     310,
                     401,
@@ -1708,7 +1730,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "........., ........., .........",
+                        "text": ".........  ,   .........  ,   .........",
                         "bbox": [
                             308,
                             571,
@@ -1770,6 +1792,20 @@
                             610,
                             244,
                             626
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........  because",
+                        "bbox": [
+                            92,
+                            752,
+                            526,
+                            769
                         ],
                         "page_number": 7,
                         "is_pre": false,
@@ -1910,7 +1946,7 @@
             },
             {
                 "type": "form_text",
-                "text": "x = .........",
+                "text": "x =   .........",
                 "bbox": [
                     362,
                     235,
@@ -2050,7 +2086,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........\\(\\leqslant l <\\)",
+                "text": ".........  \\(\\leqslant l <\\)",
                 "bbox": [
                     376,
                     175,
@@ -2517,7 +2553,7 @@
             },
             {
                 "type": "form_text",
-                "text": "BC = .........m",
+                "text": "BC =   .........  m",
                 "bbox": [
                     352,
                     541,

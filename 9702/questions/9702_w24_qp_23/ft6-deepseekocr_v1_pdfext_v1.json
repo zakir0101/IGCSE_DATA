@@ -133,7 +133,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "time = .........\\(s\\)",
+                                "text": "time =   .........  \\(s\\)",
                                 "bbox": [
                                     314,
                                     610,
@@ -189,7 +189,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "vertical component of velocity = .........m s⁻¹",
+                                "text": "vertical component of velocity =   .........  m s⁻¹",
                                 "bbox": [
                                     190,
                                     190,
@@ -245,7 +245,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "speed = .........m s⁻¹",
+                                "text": "speed =   .........  m s⁻¹",
                                 "bbox": [
                                     305,
                                     346,
@@ -460,7 +460,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\Delta E_{\\mathrm{K}} =\\) .........J",
+                                "text": "\\(\\Delta E_{\\mathrm{K}} =\\)   .........  J",
                                 "bbox": [
                                     316,
                                     667,
@@ -498,6 +498,20 @@
                             165,
                             548,
                             207
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "ball X,",
+                        "bbox": [
+                            57,
+                            230,
+                            102,
+                            245
                         ],
                         "page_number": 6,
                         "is_pre": false,
@@ -623,24 +637,10 @@
                         "is_pot_pre": false
                     },
                     {
-                        "type": "text",
-                        "text": "BEFORE",
+                        "type": "form_text",
+                        "text": "BEFORE AFTER",
                         "bbox": [
                             135,
-                            338,
-                            183,
-                            354
-                        ],
-                        "page_number": 6,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "form_text",
-                        "text": "AFTER",
-                        "bbox": [
-                            380,
                             338,
                             420,
                             354
@@ -692,7 +692,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "magnitude = .........N",
+                                "text": "magnitude =   .........  N",
                                 "bbox": [
                                     283,
                                     255,
@@ -934,7 +934,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "A = .........\\(m^2\\)",
+                                "text": "A =   .........  \\(m^2\\)",
                                 "bbox": [
                                     328,
                                     229,
@@ -1266,7 +1266,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "cross-sectional area = .........m²",
+                                "text": "cross-sectional area =   .........  m²",
                                 "bbox": [
                                     237,
                                     215,
@@ -1565,7 +1565,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "frequency = .........Hz",
+                                "text": "frequency =   .........  Hz",
                                 "bbox": [
                                     287,
                                     560,
@@ -1695,7 +1695,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "maximum frequency = .........Hz",
+                                "text": "maximum frequency =   .........  Hz",
                                 "bbox": [
                                     236,
                                     452,
@@ -1914,7 +1914,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "resistivity = .........\\(\\Omega\\) m",
+                                "text": "resistivity =   .........  \\(\\Omega\\) m",
                                 "bbox": [
                                     290,
                                     307,
@@ -1970,7 +1970,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "charge = .........C",
+                                "text": "charge =   .........  C",
                                 "bbox": [
                                     301,
                                     464,
@@ -2040,7 +2040,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "number density = .........m⁻³",
+                                "text": "number density =   .........  m⁻³",
                                 "bbox": [
                                     260,
                                     659,
@@ -2326,6 +2326,33 @@
                                 "is_pre": false,
                                 "issues": [],
                                 "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    114,
+                                    371,
+                                    528,
+                                    389
+                                ],
+                                "page_number": 16,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    371,
+                                    528,
+                                    389
+                                ],
+                                "page_number": 16,
+                                "is_pre": false,
+                                "is_pot_pre": false
                             }
                         ],
                         "issues": []
@@ -2354,6 +2381,33 @@
                                 "page_number": 16,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    115,
+                                    425,
+                                    528,
+                                    442
+                                ],
+                                "page_number": 16,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    425,
+                                    528,
+                                    442
+                                ],
+                                "page_number": 16,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],

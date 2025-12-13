@@ -193,107 +193,9 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "6",
+                        "text": "6 7 10 12 18 32 49 63",
                         "bbox": [
                             95,
-                            61,
-                            114,
-                            77
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "7",
-                        "bbox": [
-                            160,
-                            61,
-                            173,
-                            77
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "10",
-                        "bbox": [
-                            213,
-                            61,
-                            228,
-                            77
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "12",
-                        "bbox": [
-                            262,
-                            61,
-                            274,
-                            77
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "18",
-                        "bbox": [
-                            305,
-                            61,
-                            317,
-                            77
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "32",
-                        "bbox": [
-                            353,
-                            61,
-                            367,
-                            77
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "49",
-                        "bbox": [
-                            397,
-                            61,
-                            410,
-                            77
-                        ],
-                        "page_number": 2,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "63",
-                        "bbox": [
-                            447,
                             61,
                             459,
                             77
@@ -911,7 +813,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "m = .........",
+                                "text": "m =   .........",
                                 "bbox": [
                                     358,
                                     373,
@@ -967,7 +869,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........\\(kg\\)",
+                                "text": ".........  \\(kg\\)",
                                 "bbox": [
                                     381,
                                     451,
@@ -1196,7 +1098,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........\\(cm^2\\)",
+                                "text": ".........  \\(cm^2\\)",
                                 "bbox": [
                                     381,
                                     174,
@@ -1252,7 +1154,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": ".........\\(cm\\)",
+                                "text": ".........  \\(cm\\)",
                                 "bbox": [
                                     381,
                                     241,
@@ -2219,7 +2121,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "y = .........",
+                        "text": "y =   .........",
                         "bbox": [
                             361,
                             736,
@@ -2342,7 +2244,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Angle \\(ODB =\\) .........",
+                                "text": "Angle \\(ODB =\\)   .........",
                                 "bbox": [
                                     312,
                                     468,
@@ -2422,6 +2324,33 @@
                                 "page_number": 9,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    116,
+                                    573,
+                                    528,
+                                    588
+                                ],
+                                "page_number": 9,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    573,
+                                    528,
+                                    588
+                                ],
+                                "page_number": 9,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -2759,7 +2688,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "y = .........",
+                                "text": "y =   .........",
                                 "bbox": [
                                     361,
                                     282,
@@ -2829,7 +2758,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "(........., .........) and (........., .........)",
+                                "text": "(  .........  ,   .........  ) and (  .........  ,   .........  )",
                                 "bbox": [
                                     284,
                                     385,
@@ -2919,7 +2848,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Gardens .........\\(\\text{m}^2\\)",
+                        "text": "Gardens   .........  \\(\\text{m}^2\\)",
                         "bbox": [
                             340,
                             177,
@@ -2933,7 +2862,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "Playground .........\\(\\text{m}^2\\)",
+                        "text": "Playground   .........  \\(\\text{m}^2\\)",
                         "bbox": [
                             325,
                             203,
@@ -3086,7 +3015,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\\\)  .........$",
+                                "text": "\\(\\\\)    .........",
                                 "bbox": [
                                     372,
                                     635,
@@ -3222,7 +3151,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(\\\\)  .........$",
+                        "text": "\\(\\\\)    .........",
                         "bbox": [
                             373,
                             295,
@@ -3452,7 +3381,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "AF = .........m",
+                                "text": "AF =   .........  m",
                                 "bbox": [
                                     353,
                                     484,
@@ -3512,7 +3441,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........\\(\\mathrm{m}^2\\)",
+                        "text": ".........  \\(\\mathrm{m}^2\\)",
                         "bbox": [
                             381,
                             602,
@@ -3655,7 +3584,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "\\(\\\\)  .........$",
+                        "text": "\\(\\\\)    .........",
                         "bbox": [
                             372,
                             150,
@@ -3727,7 +3656,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........\\(\\mathrm{m}^2\\)",
+                        "text": ".........  \\(\\mathrm{m}^2\\)",
                         "bbox": [
                             381,
                             320,
@@ -3858,7 +3787,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........km/h",
+                        "text": ".........  km/h",
                         "bbox": [
                             381,
                             165,
@@ -3970,7 +3899,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........km/h",
+                        "text": ".........  km/h",
                         "bbox": [
                             381,
                             439,

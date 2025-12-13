@@ -1192,23 +1192,9 @@
                 "content": [
                     {
                         "type": "text",
-                        "text": "mg",
+                        "text": "mg k",
                         "bbox": [
                             389,
-                            374,
-                            410,
-                            392
-                        ],
-                        "page_number": 7,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "k",
-                        "bbox": [
-                            390,
                             371,
                             410,
                             392
@@ -2623,7 +2609,9 @@
                         ],
                         "page_number": 12,
                         "is_pre": false,
-                        "issues": [],
+                        "issues": [
+                            "Multiple display math blocks (0 found) with text inbetween (O)!!"
+                        ],
                         "is_pot_pre": false
                     },
                     {
@@ -2685,7 +2673,9 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": []
+                "issues": [
+                    "Multiple display math blocks (0 found) with text inbetween (O)!!"
+                ]
             }
         ],
         "content": [
@@ -2734,7 +2724,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "has_issues": true
     },
     {
         "label": "20",

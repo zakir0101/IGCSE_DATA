@@ -38,7 +38,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "distance travelled = .........m",
+                        "text": "distance travelled =   .........  m",
                         "bbox": [
                             249,
                             493,
@@ -86,6 +86,48 @@
                             519,
                             499,
                             535
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "Q",
+                        "bbox": [
+                            92,
+                            546,
+                            438,
+                            561
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "R",
+                        "bbox": [
+                            92,
+                            571,
+                            438,
+                            586
+                        ],
+                        "page_number": 2,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "S",
+                        "bbox": [
+                            92,
+                            597,
+                            438,
+                            612
                         ],
                         "page_number": 2,
                         "is_pre": false,
@@ -266,7 +308,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "pressure = .........N/cm²",
+                        "text": "pressure =   .........  N/cm²",
                         "bbox": [
                             292,
                             335,
@@ -366,7 +408,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "moment = .........Ncm",
+                        "text": "moment =   .........  Ncm",
                         "bbox": [
                             295,
                             685,
@@ -596,23 +638,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "A",
+                        "text": "A Air moves from regions of high pressure to regions of low pressure",
                         "bbox": [
                             91,
-                            139,
-                            103,
-                            154
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Air moves from regions of high pressure to regions of low pressure",
-                        "bbox": [
-                            114,
                             138,
                             445,
                             154
@@ -624,23 +652,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "B",
+                        "text": "B The turbine blades turn a generator",
                         "bbox": [
                             91,
-                            153,
-                            103,
-                            168
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The turbine blades turn a generator",
-                        "bbox": [
-                            114,
                             152,
                             292,
                             168
@@ -652,23 +666,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "C",
+                        "text": "C Energy from the Sun heats the atmosphere unevenly",
                         "bbox": [
                             91,
-                            166,
-                            102,
-                            181
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Energy from the Sun heats the atmosphere unevenly",
-                        "bbox": [
-                            114,
                             166,
                             379,
                             181
@@ -680,11 +680,11 @@
                     },
                     {
                         "type": "text",
-                        "text": "D",
+                        "text": "D Uneven heating of the atmosphere produces regions of different atmospheric pressure",
                         "bbox": [
                             91,
-                            179,
-                            102,
+                            178,
+                            542,
                             194
                         ],
                         "page_number": 5,
@@ -694,37 +694,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "Uneven heating of the atmosphere produces regions of different atmospheric pressure",
-                        "bbox": [
-                            114,
-                            178,
-                            542,
-                            192
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "E",
+                        "text": "E The generator produces electrical energy",
                         "bbox": [
                             91,
-                            191,
-                            103,
-                            206
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "The generator produces electrical energy",
-                        "bbox": [
-                            114,
                             191,
                             322,
                             206
@@ -736,23 +708,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "F",
+                        "text": "F Moving air turns the turbine blades",
                         "bbox": [
                             91,
-                            205,
-                            103,
-                            220
-                        ],
-                        "page_number": 5,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "Moving air turns the turbine blades",
-                        "bbox": [
-                            114,
                             205,
                             290,
                             220
@@ -961,7 +919,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "work done on the load = .........J",
+                                "text": "work done on the load =   .........  J",
                                 "bbox": [
                                     227,
                                     364,
@@ -1017,7 +975,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "useful energy output = .........J",
+                                "text": "useful energy output =   .........  J",
                                 "bbox": [
                                     236,
                                     417,
@@ -1134,7 +1092,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "power output = .........W",
+                        "text": "power output =   .........  W",
                         "bbox": [
                             271,
                             691,
@@ -1425,7 +1383,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "wave speed = .........cm/s",
+                        "text": "wave speed =   .........  cm/s",
                         "bbox": [
                             275,
                             347,
@@ -1663,6 +1621,33 @@
                         "page_number": 9,
                         "is_pre": false,
                         "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": ".........",
+                        "bbox": [
+                            93,
+                            446,
+                            528,
+                            462
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            446,
+                            528,
+                            462
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
                         "is_pot_pre": false
                     }
                 ],
@@ -2084,7 +2069,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "power = .........\\(W\\)",
+                        "text": "power =   .........  \\(W\\)",
                         "bbox": [
                             305,
                             484,
@@ -2533,7 +2518,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "age of wood = .........years",
+                        "text": "age of wood =   .........  years",
                         "bbox": [
                             275,
                             639,

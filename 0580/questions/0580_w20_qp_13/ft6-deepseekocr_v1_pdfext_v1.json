@@ -557,24 +557,10 @@
             },
             {
                 "type": "text",
-                "text": "A",
+                "text": "A B",
                 "bbox": [
                     162,
                     338,
-                    174,
-                    354
-                ],
-                "page_number": 4,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": true
-            },
-            {
-                "type": "text",
-                "text": "B",
-                "bbox": [
-                    421,
-                    340,
                     432,
                     354
                 ],
@@ -753,7 +739,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........\\(^\\circ \\mathrm{C}\\)",
+                        "text": ".........  \\(^\\circ \\mathrm{C}\\)",
                         "bbox": [
                             381,
                             707,
@@ -897,7 +883,7 @@
             },
             {
                 "type": "form_text",
-                "text": "\\(\\\\)  .........$",
+                "text": "\\(\\\\)    .........",
                 "bbox": [
                     372,
                     277,
@@ -970,7 +956,7 @@
             },
             {
                 "type": "form_text",
-                "text": "\\(\\\\)  .........$",
+                "text": "\\(\\\\)    .........",
                 "bbox": [
                     372,
                     498,
@@ -1097,7 +1083,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "( ........., .........)",
+                        "text": "(   .........  ,   .........  )",
                         "bbox": [
                             374,
                             744,
@@ -1253,7 +1239,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": ".........\\(cm^3\\)",
+                        "text": ".........  \\(cm^3\\)",
                         "bbox": [
                             381,
                             748,
@@ -1343,7 +1329,7 @@
             },
             {
                 "type": "form_text",
-                "text": "\\(x =\\) .........",
+                "text": "\\(x =\\)   .........",
                 "bbox": [
                     362,
                     474,
@@ -1413,7 +1399,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........\\(\\leqslant l <\\) .........",
+                "text": ".........  \\(\\leqslant l <\\)   .........",
                 "bbox": [
                     381,
                     590,
@@ -1735,7 +1721,7 @@
             },
             {
                 "type": "form_text",
-                "text": ".........km/h",
+                "text": ".........  km/h",
                 "bbox": [
                     382,
                     276,
@@ -2161,7 +2147,7 @@
             },
             {
                 "type": "form_text",
-                "text": "PQ = .........\\(cm\\)",
+                "text": "PQ =   .........  \\(cm\\)",
                 "bbox": [
                     352,
                     339,
@@ -2227,9 +2213,7 @@
                 ],
                 "page_number": 11,
                 "is_pre": false,
-                "issues": [
-                    "Multiple display math blocks (2 found)"
-                ],
+                "issues": [],
                 "is_pot_pre": false
             },
             {
@@ -2248,7 +2232,7 @@
             },
             {
                 "type": "form_text",
-                "text": "y = .........",
+                "text": "y =   .........",
                 "bbox": [
                     363,
                     656,
@@ -2274,9 +2258,6 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [
-            "Multiple display math blocks (2 found)"
-        ],
-        "has_issues": true
+        "issues": []
     }
 ]

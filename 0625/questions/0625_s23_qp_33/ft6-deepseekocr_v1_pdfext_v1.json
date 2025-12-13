@@ -34,24 +34,10 @@
                         "parts": [],
                         "content": [
                             {
-                                "type": "text",
-                                "text": "the engineer's home and her office",
+                                "type": "form_text",
+                                "text": "the engineer's home and her office .........  \\(km\\)",
                                 "bbox": [
                                     114,
-                                    407,
-                                    289,
-                                    423
-                                ],
-                                "page_number": 2,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": ".........\\(km\\)",
-                                "bbox": [
-                                    349,
                                     407,
                                     548,
                                     423
@@ -90,24 +76,10 @@
                         "parts": [],
                         "content": [
                             {
-                                "type": "text",
-                                "text": "the engineer's office and her friend's house",
+                                "type": "form_text",
+                                "text": "the engineer's office and her friend's house .........  \\(km\\)",
                                 "bbox": [
                                     114,
-                                    433,
-                                    331,
-                                    448
-                                ],
-                                "page_number": 2,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": ".........\\(km\\)",
-                                "bbox": [
-                                    349,
                                     433,
                                     548,
                                     448
@@ -176,24 +148,10 @@
                         "parts": [],
                         "content": [
                             {
-                                "type": "text",
-                                "text": "the engineer's home and her office",
+                                "type": "form_text",
+                                "text": "the engineer's home and her office .........  \\(h\\)",
                                 "bbox": [
                                     114,
-                                    485,
-                                    289,
-                                    501
-                                ],
-                                "page_number": 2,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": ".........\\(h\\)",
-                                "bbox": [
-                                    350,
                                     485,
                                     548,
                                     501
@@ -232,24 +190,10 @@
                         "parts": [],
                         "content": [
                             {
-                                "type": "text",
-                                "text": "the engineer's office and her friend's house",
+                                "type": "form_text",
+                                "text": "the engineer's office and her friend's house .........  \\(h\\)",
                                 "bbox": [
                                     114,
-                                    511,
-                                    331,
-                                    527
-                                ],
-                                "page_number": 2,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": ".........\\(h\\)",
-                                "bbox": [
-                                    350,
                                     511,
                                     548,
                                     527
@@ -322,7 +266,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "speed = .........\\(km/h\\)",
+                        "text": "speed =   .........  \\(km/h\\)",
                         "bbox": [
                             305,
                             614,
@@ -579,6 +523,20 @@
                         "is_pot_pre": false
                     },
                     {
+                        "type": "form_text",
+                        "text": "2",
+                        "bbox": [
+                            92,
+                            463,
+                            546,
+                            478
+                        ],
+                        "page_number": 3,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
                         "type": "mark_text",
                         "text": "[2]",
                         "bbox": [
@@ -749,7 +707,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance \\(d =\\) .........\\(cm\\)",
+                                "text": "distance \\(d =\\)   .........  \\(cm\\)",
                                 "bbox": [
                                     285,
                                     602,
@@ -810,7 +768,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "mass of block B = .........\\(kg\\)",
+                        "text": "mass of block B =   .........  \\(kg\\)",
                         "bbox": [
                             257,
                             733,
@@ -966,7 +924,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "temperature = .........K",
+                                "text": "temperature =   .........  K",
                                 "bbox": [
                                     276,
                                     445,
@@ -1096,7 +1054,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "force = .........N",
+                        "text": "force =   .........  N",
                         "bbox": [
                             310,
                             756,
@@ -1212,7 +1170,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "wavelength = .........\\(cm\\)",
+                        "text": "wavelength =   .........  \\(cm\\)",
                         "bbox": [
                             280,
                             301,
@@ -1337,7 +1295,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "frequency = .........Hz",
+                                "text": "frequency =   .........  Hz",
                                 "bbox": [
                                     287,
                                     137,
@@ -1542,7 +1500,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "speed of wave = .........m/s",
+                        "text": "speed of wave =   .........  m/s",
                         "bbox": [
                             264,
                             320,
@@ -2316,7 +2274,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "resistance = .........\\(\\Omega\\)",
+                                "text": "resistance =   .........  \\(\\Omega\\)",
                                 "bbox": [
                                     285,
                                     628,
@@ -2359,7 +2317,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "power transferred = .........unit .........",
+                                "text": "power transferred =   .........  unit   .........",
                                 "bbox": [
                                     249,
                                     746,
@@ -3191,7 +3149,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "time taken = .........s",
+                        "text": "time taken =   .........  s",
                         "bbox": [
                             284,
                             178,

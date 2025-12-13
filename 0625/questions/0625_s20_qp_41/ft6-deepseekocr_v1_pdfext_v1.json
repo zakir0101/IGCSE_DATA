@@ -49,7 +49,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "deceleration = .........",
+                                "text": "deceleration =   .........",
                                 "bbox": [
                                     276,
                                     203,
@@ -105,7 +105,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "force = .........",
+                                "text": "force =   .........",
                                 "bbox": [
                                     310,
                                     295,
@@ -161,7 +161,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "momentum = .........",
+                                "text": "momentum =   .........",
                                 "bbox": [
                                     280,
                                     387,
@@ -405,6 +405,33 @@
                         "is_pre": false,
                         "issues": [],
                         "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "from   .........  to   .........",
+                        "bbox": [
+                            138,
+                            374,
+                            528,
+                            392
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "mark_text",
+                        "text": "[1]",
+                        "bbox": [
+                            508,
+                            374,
+                            528,
+                            392
+                        ],
+                        "page_number": 4,
+                        "is_pre": false,
+                        "is_pot_pre": false
                     }
                 ],
                 "issues": []
@@ -437,7 +464,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "k = .........",
+                        "text": "k =   .........",
                         "bbox": [
                             330,
                             478,
@@ -546,7 +573,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "extension = .........\\(cm\\)",
+                                "text": "extension =   .........  \\(cm\\)",
                                 "bbox": [
                                     289,
                                     487,
@@ -616,7 +643,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance moved = .........",
+                                "text": "distance moved =   .........",
                                 "bbox": [
                                     258,
                                     657,
@@ -862,7 +889,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "pressure \\(p_{2} =\\) .........",
+                                "text": "pressure \\(p_{2} =\\)   .........",
                                 "bbox": [
                                     277,
                                     548,
@@ -918,7 +945,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "density = .........",
+                                "text": "density =   .........",
                                 "bbox": [
                                     300,
                                     677,
@@ -1136,7 +1163,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "energy transferred = .........",
+                                "text": "energy transferred =   .........",
                                 "bbox": [
                                     245,
                                     294,
@@ -1188,6 +1215,33 @@
                                 "page_number": 8,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "thermal capacity of the copper container =   .........",
+                                "bbox": [
+                                    138,
+                                    385,
+                                    528,
+                                    401
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[2]",
+                                "bbox": [
+                                    508,
+                                    385,
+                                    528,
+                                    401
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -2104,7 +2158,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "number of packs = .........",
+                        "text": "number of packs =   .........",
                         "bbox": [
                             254,
                             216,
@@ -2171,7 +2225,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "rate of energy transfer = .........",
+                                "text": "rate of energy transfer =   .........",
                                 "bbox": [
                                     227,
                                     347,
@@ -2569,7 +2623,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "logic state of Q = .........",
+                                "text": "logic state of Q =   .........",
                                 "bbox": [
                                     261,
                                     518,
@@ -2742,24 +2796,10 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "nuclide notation:",
+                                "text": "nuclide notation: Y",
                                 "bbox": [
                                     401,
                                     508,
-                                    486,
-                                    527
-                                ],
-                                "page_number": 15,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "form_text",
-                                "text": "Y",
-                                "bbox": [
-                                    492,
-                                    509,
                                     550,
                                     539
                                 ],

@@ -382,23 +382,9 @@
             },
             {
                 "type": "text",
-                "text": "Fig. 1.1",
+                "text": "Fig. 1.1 Fig. 1.2",
                 "bbox": [
                     170,
-                    327,
-                    212,
-                    342
-                ],
-                "page_number": 2,
-                "is_pre": false,
-                "issues": [],
-                "is_pot_pre": false
-            },
-            {
-                "type": "text",
-                "text": "Fig. 1.2",
-                "bbox": [
-                    358,
                     327,
                     399,
                     342
@@ -463,24 +449,10 @@
                         "is_pot_pre": false
                     },
                     {
-                        "type": "text",
-                        "text": "Measure the current \\(I\\) in the circuit",
+                        "type": "form_text",
+                        "text": "Measure the current \\(I\\) in the circuit I =   .........",
                         "bbox": [
                             92,
-                            350,
-                            267,
-                            366
-                        ],
-                        "page_number": 4,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "form_text",
-                        "text": "I = .........",
-                        "bbox": [
-                            383,
                             350,
                             528,
                             366
@@ -747,7 +719,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "G = .........",
+                        "text": "G =   .........",
                         "bbox": [
                             327,
                             695,

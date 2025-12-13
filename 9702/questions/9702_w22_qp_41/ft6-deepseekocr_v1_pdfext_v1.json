@@ -175,7 +175,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "radius = .........m",
+                                "text": "radius =   .........  m",
                                 "bbox": [
                                     305,
                                     725,
@@ -237,6 +237,20 @@
                                     86,
                                     126,
                                     101
+                                ],
+                                "page_number": 5,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": "2",
+                                "bbox": [
+                                    116,
+                                    113,
+                                    546,
+                                    129
                                 ],
                                 "page_number": 5,
                                 "is_pre": false,
@@ -416,7 +430,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "temperature = .........°C",
+                                "text": "temperature =   .........  °C",
                                 "bbox": [
                                     276,
                                     733,
@@ -1107,7 +1121,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "electric field strength = .........\\(NC^{-1}\\)",
+                                "text": "electric field strength =   .........  \\(NC^{-1}\\)",
                                 "bbox": [
                                     234,
                                     696,
@@ -1396,7 +1410,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Q_0 = .........C",
+                                "text": "\\( Q_0 \\)  =   .........  C",
                                 "bbox": [
                                     322,
                                     605,
@@ -1405,15 +1419,11 @@
                                 ],
                                 "page_number": 14,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(ii)",
@@ -1443,7 +1453,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "I_0 = .........A",
+                                "text": "\\( I_0 \\)  =   .........  A",
                                 "bbox": [
                                     325,
                                     736,
@@ -1452,9 +1462,7 @@
                                 ],
                                 "page_number": 14,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1471,9 +1479,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(iii)",
@@ -1503,7 +1509,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\tau =\\) .........s",
+                                "text": "\\(\\tau =\\)   .........  s",
                                 "bbox": [
                                     331,
                                     164,
@@ -1783,8 +1789,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "6",
@@ -1828,6 +1833,20 @@
                                     433,
                                     548,
                                     462
+                                ],
+                                "page_number": 16,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........  and",
+                                "bbox": [
+                                    115,
+                                    472,
+                                    480,
+                                    488
                                 ],
                                 "page_number": 16,
                                 "is_pre": false,
@@ -2565,7 +2584,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "number per unit time = .........\\(s^{-1}\\)",
+                                "text": "number per unit time =   .........  \\(s^{-1}\\)",
                                 "bbox": [
                                     234,
                                     329,
@@ -2621,7 +2640,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\Phi =\\) .........J",
+                                "text": "\\(\\Phi =\\)   .........  J",
                                 "bbox": [
                                     328,
                                     485,
@@ -2866,7 +2885,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "radiant flux intensity = .........unit .........",
+                                "text": "radiant flux intensity =   .........  unit   .........",
                                 "bbox": [
                                     202,
                                     295,
@@ -2922,7 +2941,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "radius = .........m",
+                                "text": "radius =   .........  m",
                                 "bbox": [
                                     306,
                                     440,
@@ -3292,7 +3311,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\lambda =\\) .........unit .........",
+                                "text": "\\(\\lambda =\\)   .........  unit   .........",
                                 "bbox": [
                                     235,
                                     371,
@@ -3348,7 +3367,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "half-life = .........s",
+                                "text": "half-life =   .........  s",
                                 "bbox": [
                                     300,
                                     529,

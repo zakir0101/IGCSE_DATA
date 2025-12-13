@@ -231,7 +231,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "weight = .........N",
+                                "text": "weight =   .........  N",
                                 "bbox": [
                                     303,
                                     241,
@@ -407,7 +407,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "average force = .........N",
+                        "text": "average force =   .........  N",
                         "bbox": [
                             268,
                             331,
@@ -547,7 +547,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "force = .........N",
+                                "text": "force =   .........  N",
                                 "bbox": [
                                     310,
                                     395,
@@ -750,7 +750,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "Young modulus = .........\\(Pa\\)",
+                                "text": "Young modulus =   .........  \\(Pa\\)",
                                 "bbox": [
                                     260,
                                     476,
@@ -951,7 +951,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "tension = .........N",
+                                "text": "tension =   .........  N",
                                 "bbox": [
                                     300,
                                     679,
@@ -1021,7 +1021,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "radius = .........m",
+                                "text": "radius =   .........  m",
                                 "bbox": [
                                     305,
                                     205,
@@ -1320,7 +1320,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "frequency = .........Hz",
+                                "text": "frequency =   .........  Hz",
                                 "bbox": [
                                     287,
                                     702,
@@ -1633,7 +1633,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "I_{1} = .........A",
+                                "text": "\\( I_{1} \\)  =   .........  A",
                                 "bbox": [
                                     331,
                                     681,
@@ -1642,9 +1642,7 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
-                                "issues": [
-                                    "LaTeX subscript (_) found outside math mode"
-                                ],
+                                "issues": [],
                                 "is_pot_pre": false
                             },
                             {
@@ -1661,9 +1659,7 @@
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": [
-                            "LaTeX subscript (_) found outside math mode"
-                        ]
+                        "issues": []
                     },
                     {
                         "label": "(iv)",
@@ -1693,7 +1689,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "p.d.........= .........V",
+                                "text": "p.d  .........  =   .........  V",
                                 "bbox": [
                                     317,
                                     177,
@@ -1749,7 +1745,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "power = .........W",
+                                "text": "power =   .........  W",
                                 "bbox": [
                                     306,
                                     346,
@@ -1819,7 +1815,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "efficiency = .........%",
+                                "text": "efficiency =   .........  %",
                                 "bbox": [
                                     289,
                                     516,
@@ -1954,8 +1950,7 @@
             }
         ],
         "content": [],
-        "issues": [],
-        "has_issues": true
+        "issues": []
     },
     {
         "label": "6",
@@ -2166,7 +2161,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "\\(\\theta =\\) .........\\(^\\circ\\)",
+                                "text": "\\(\\theta =\\)   .........  \\(^\\circ\\)",
                                 "bbox": [
                                     331,
                                     567,
@@ -2222,7 +2217,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "kinetic energy = .........J",
+                                "text": "kinetic energy =   .........  J",
                                 "bbox": [
                                     267,
                                     723,
@@ -2298,23 +2293,9 @@
                     },
                     {
                         "type": "text",
-                        "text": "before decay",
+                        "text": "before decay after decay",
                         "bbox": [
                             141,
-                            354,
-                            209,
-                            369
-                        ],
-                        "page_number": 15,
-                        "is_pre": false,
-                        "issues": [],
-                        "is_pot_pre": false
-                    },
-                    {
-                        "type": "text",
-                        "text": "after decay",
-                        "bbox": [
-                            340,
                             354,
                             398,
                             369

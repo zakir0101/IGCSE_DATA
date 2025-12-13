@@ -92,65 +92,9 @@
                             },
                             {
                                 "type": "text",
-                                "text": "energy",
+                                "text": "energy force impulse momentum temperature",
                                 "bbox": [
                                     115,
-                                    191,
-                                    134,
-                                    206
-                                ],
-                                "page_number": 2,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "force",
-                                "bbox": [
-                                    194,
-                                    191,
-                                    224,
-                                    206
-                                ],
-                                "page_number": 2,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "impulse",
-                                "bbox": [
-                                    265,
-                                    191,
-                                    281,
-                                    206
-                                ],
-                                "page_number": 2,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "momentum",
-                                "bbox": [
-                                    352,
-                                    191,
-                                    415,
-                                    206
-                                ],
-                                "page_number": 2,
-                                "is_pre": false,
-                                "issues": [],
-                                "is_pot_pre": false
-                            },
-                            {
-                                "type": "text",
-                                "text": "temperature",
-                                "bbox": [
-                                    455,
                                     191,
                                     522,
                                     206
@@ -523,7 +467,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "force = .........",
+                        "text": "force =   .........",
                         "bbox": [
                             310,
                             580,
@@ -734,7 +678,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "momentum = .........",
+                                "text": "momentum =   .........",
                                 "bbox": [
                                     280,
                                     459,
@@ -775,7 +719,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "velocity = .........",
+                                "text": "velocity =   .........",
                                 "bbox": [
                                     298,
                                     565,
@@ -816,7 +760,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "impulse = .........",
+                                "text": "impulse =   .........",
                                 "bbox": [
                                     298,
                                     669,
@@ -1064,7 +1008,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "pressure = .........",
+                        "text": "pressure =   .........",
                         "bbox": [
                             292,
                             647,
@@ -1189,7 +1133,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "time = .........",
+                                "text": "time =   .........",
                                 "bbox": [
                                     314,
                                     333,
@@ -1241,6 +1185,33 @@
                                 "page_number": 8,
                                 "is_pre": false,
                                 "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "form_text",
+                                "text": ".........",
+                                "bbox": [
+                                    117,
+                                    385,
+                                    528,
+                                    401
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "mark_text",
+                                "text": "[1]",
+                                "bbox": [
+                                    508,
+                                    385,
+                                    528,
+                                    401
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
                                 "is_pot_pre": false
                             }
                         ],
@@ -1376,7 +1347,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "amplitude = .........",
+                                "text": "amplitude =   .........",
                                 "bbox": [
                                     289,
                                     560,
@@ -1432,7 +1403,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "wavelength = .........",
+                                "text": "wavelength =   .........",
                                 "bbox": [
                                     280,
                                     743,
@@ -1551,7 +1522,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "frequency = .........",
+                        "text": "frequency =   .........",
                         "bbox": [
                             287,
                             186,
@@ -1792,7 +1763,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "refractive index = .........",
+                                "text": "refractive index =   .........",
                                 "bbox": [
                                     260,
                                     295,
@@ -1848,7 +1819,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "angle of refraction = .........",
+                                "text": "angle of refraction =   .........",
                                 "bbox": [
                                     247,
                                     491,
@@ -2050,7 +2021,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "current = .........",
+                                "text": "current =   .........",
                                 "bbox": [
                                     300,
                                     480,
@@ -2106,7 +2077,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "resistance = .........",
+                                "text": "resistance =   .........",
                                 "bbox": [
                                     285,
                                     637,
@@ -2249,7 +2220,7 @@
                             },
                             {
                                 "type": "form_text",
-                                "text": "distance AX = .........",
+                                "text": "distance AX =   .........",
                                 "bbox": [
                                     277,
                                     543,
