@@ -732,7 +732,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "2",
@@ -787,9 +788,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "● Add labels A and B to the rectangles, as shown in Fig. 2.1",
+                        "text": "●",
                         "bbox": [
                             92,
+                            191,
+                            107,
+                            206
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Add labels A and B to the rectangles, as shown in Fig. 2.1",
+                        "bbox": [
+                            115,
                             191,
                             402,
                             206
@@ -817,9 +832,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "● Use the scissors to cut out the rectangles",
+                        "text": "●",
                         "bbox": [
                             92,
+                            433,
+                            107,
+                            448
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Use the scissors to cut out the rectangles",
+                        "bbox": [
+                            115,
                             433,
                             323,
                             448
@@ -831,9 +860,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "● Take measurements to determine the average value of \\(d\\)",
+                        "text": "●",
                         "bbox": [
                             92,
+                            459,
+                            107,
+                            475
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Take measurements to determine the average value of \\(d\\)",
+                        "bbox": [
+                            115,
                             459,
                             397,
                             475
@@ -942,9 +985,23 @@
                             },
                             {
                                 "type": "text",
-                                "text": "· Place A flat on the water",
+                                "text": "·",
                                 "bbox": [
                                     115,
+                                    223,
+                                    131,
+                                    238
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "Place A flat on the water",
+                                "bbox": [
+                                    137,
                                     223,
                                     262,
                                     238
@@ -956,9 +1013,23 @@
                             },
                             {
                                 "type": "text",
-                                "text": "· Determine \\(T_{\\mathrm{A}}\\)",
+                                "text": "·",
                                 "bbox": [
                                     115,
+                                    250,
+                                    131,
+                                    266
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "Determine \\(T_{\\mathrm{A}}\\)",
+                                "bbox": [
+                                    137,
                                     250,
                                     210,
                                     266
@@ -984,9 +1055,23 @@
                             },
                             {
                                 "type": "text",
-                                "text": "· Remove A from the water and place it in the empty bowl",
+                                "text": "·",
                                 "bbox": [
                                     115,
+                                    356,
+                                    131,
+                                    371
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "Remove A from the water and place it in the empty bowl",
+                                "bbox": [
+                                    137,
                                     356,
                                     416,
                                     371
@@ -1125,9 +1210,23 @@
                             },
                             {
                                 "type": "text",
-                                "text": "· Remove B from the water",
+                                "text": "·",
                                 "bbox": [
                                     115,
+                                    674,
+                                    119,
+                                    689
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "Remove B from the water",
+                                "bbox": [
+                                    137,
                                     674,
                                     268,
                                     689
@@ -1378,7 +1477,9 @@
                         ],
                         "page_number": 9,
                         "is_pre": false,
-                        "issues": [],
+                        "issues": [
+                            "tooo many forms element"
+                        ],
                         "is_pot_pre": false
                     },
                     {
@@ -1395,7 +1496,9 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": []
+                "issues": [
+                    "tooo many forms element"
+                ]
             },
             {
                 "label": "(e)",
@@ -1710,7 +1813,9 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "has_issues": true,
+        "is_multi": false
     },
     {
         "label": "3",
@@ -1879,6 +1984,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     }
 ]

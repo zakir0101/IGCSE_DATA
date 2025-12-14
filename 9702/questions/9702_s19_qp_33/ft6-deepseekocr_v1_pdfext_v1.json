@@ -730,7 +730,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "2",
@@ -798,9 +799,23 @@
                             },
                             {
                                 "type": "text",
-                                "text": "• Support the board using the clamp",
+                                "text": "•",
                                 "bbox": [
                                     114,
+                                    396,
+                                    131,
+                                    411
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "Support the board using the clamp",
+                                "bbox": [
+                                    138,
                                     396,
                                     313,
                                     411
@@ -812,9 +827,23 @@
                             },
                             {
                                 "type": "text",
-                                "text": "• The dot on the board should be facing upwards and be close to the top end of the board",
+                                "text": "•",
                                 "bbox": [
                                     114,
+                                    422,
+                                    125,
+                                    437
+                                ],
+                                "page_number": 7,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "The dot on the board should be facing upwards and be close to the top end of the board",
+                                "bbox": [
+                                    138,
                                     421,
                                     548,
                                     450
@@ -1002,9 +1031,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• Position the card at the lower edge of the board, as shown in Fig. 2.3",
+                        "text": "•",
                         "bbox": [
                             92,
+                            299,
+                            106,
+                            315
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Position the card at the lower edge of the board, as shown in Fig. 2.3",
+                        "bbox": [
+                            115,
                             299,
                             457,
                             315
@@ -1032,9 +1075,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• Draw a horizontal line on the paper at the same height above the bench as the dot. Label this line A",
+                        "text": "•",
                         "bbox": [
                             92,
+                            565,
+                            106,
+                            581
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Draw a horizontal line on the paper at the same height above the bench as the dot. Label this line A",
+                        "bbox": [
+                            115,
                             565,
                             548,
                             594
@@ -1046,9 +1103,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• The horizontal distance between the line A and the dot is \\(d\\)",
+                        "text": "•",
                         "bbox": [
                             92,
+                            604,
+                            106,
+                            619
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The horizontal distance between the line A and the dot is \\(d\\)",
+                        "bbox": [
+                            115,
                             604,
                             406,
                             619
@@ -1371,9 +1442,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• Repeat **(b)**, labelling your second line B",
+                        "text": "•",
                         "bbox": [
                             92,
+                            244,
+                            107,
+                            260
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Repeat **(b)**, labelling your second line B",
+                        "bbox": [
+                            115,
                             244,
                             315,
                             260
@@ -1399,9 +1484,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• Repeat **(c)(i)** using line B",
+                        "text": "•",
                         "bbox": [
                             92,
+                            322,
+                            107,
+                            338
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Repeat **(c)(i)** using line B",
+                        "bbox": [
+                            115,
                             322,
                             244,
                             338
@@ -1673,11 +1772,15 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
-                                "issues": [],
+                                "issues": [
+                                    "very long form !!!"
+                                ],
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": []
+                        "issues": [
+                            "very long form !!!"
+                        ]
                     }
                 ],
                 "content": [],
@@ -1714,6 +1817,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "has_issues": true,
+        "is_multi": false
     }
 ]

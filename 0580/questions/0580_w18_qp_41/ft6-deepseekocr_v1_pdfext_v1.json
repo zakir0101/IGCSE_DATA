@@ -418,7 +418,8 @@
             }
         ],
         "issues": [],
-        "has_issues": true
+        "has_issues": true,
+        "is_multi": false
     },
     {
         "label": "2",
@@ -609,7 +610,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "3",
@@ -1009,7 +1011,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "4",
@@ -1134,10 +1137,24 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "115 &lt; \\(h \\leqslant 125\\) cm",
+                        "text": "115 &lt; \\(h \\leqslant 125\\)",
                         "bbox": [
                             326,
                             399,
+                            529,
+                            415
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "cm",
+                        "bbox": [
+                            499,
+                            400,
                             530,
                             415
                         ],
@@ -1148,7 +1165,7 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "110 &lt; \\(h \\leqslant 115\\) cm",
+                        "text": "110 &lt; \\(h \\leqslant 115\\)",
                         "bbox": [
                             326,
                             425,
@@ -1162,11 +1179,41 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "70 &lt; \\(h \\leqslant 90\\) cm",
+                        "text": "cm",
+                        "bbox": [
+                            499,
+                            425,
+                            530,
+                            441
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "70 &lt; \\(h \\leqslant 90\\)",
                         "bbox": [
                             331,
                             451,
                             548,
+                            467
+                        ],
+                        "page_number": 6,
+                        "is_pre": false,
+                        "issues": [
+                            "tooo many forms element"
+                        ],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "cm",
+                        "bbox": [
+                            499,
+                            452,
+                            528,
                             467
                         ],
                         "page_number": 6,
@@ -1188,7 +1235,9 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": []
+                "issues": [
+                    "tooo many forms element"
+                ]
             },
             {
                 "label": "(c)",
@@ -1440,7 +1489,9 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "has_issues": true,
+        "is_multi": false
     },
     {
         "label": "5",
@@ -1642,7 +1693,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "6",
@@ -2099,7 +2151,8 @@
             }
         ],
         "content": [],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "7",
@@ -2331,7 +2384,8 @@
             }
         ],
         "content": [],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "8",
@@ -2702,7 +2756,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "9",
@@ -3051,7 +3106,8 @@
             "normal text placed inside inline-latex-block",
             "normal text placed inside inline-latex-block"
         ],
-        "has_issues": true
+        "has_issues": true,
+        "is_multi": false
     },
     {
         "label": "10",
@@ -3307,7 +3363,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "11",
@@ -3434,6 +3491,7 @@
             }
         ],
         "content": [],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     }
 ]

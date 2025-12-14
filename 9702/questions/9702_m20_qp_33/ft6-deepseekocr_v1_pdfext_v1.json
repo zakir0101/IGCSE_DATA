@@ -524,7 +524,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "2",
@@ -651,9 +652,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• Connect the circuit as shown in Fig. 2.2",
+                        "text": "•",
                         "bbox": [
                             92,
+                            87,
+                            107,
+                            102
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Connect the circuit as shown in Fig. 2.2",
+                        "bbox": [
+                            115,
                             87,
                             313,
                             102
@@ -665,9 +680,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• Rotate the channel on the bench until the arrow of the compass is perpendicular to the channel, as shown",
+                        "text": "•",
                         "bbox": [
                             92,
+                            113,
+                            104,
+                            128
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Rotate the channel on the bench until the arrow of the compass is perpendicular to the channel, as shown",
+                        "bbox": [
+                            115,
                             113,
                             548,
                             141
@@ -695,9 +724,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• The distance between the first and last turns of wire is \\(L\\), as shown in Fig. 2.2. Measure and record \\(L\\)",
+                        "text": "•",
                         "bbox": [
                             92,
+                            412,
+                            104,
+                            427
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "The distance between the first and last turns of wire is \\(L\\), as shown in Fig. 2.2. Measure and record \\(L\\)",
+                        "bbox": [
+                            115,
                             412,
                             548,
                             440
@@ -793,9 +836,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• Record the ammeter reading \\(I\\)",
+                        "text": "•",
                         "bbox": [
                             92,
+                            620,
+                            107,
+                            636
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Record the ammeter reading \\(I\\)",
+                        "bbox": [
+                            115,
                             620,
                             269,
                             636
@@ -821,9 +878,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• Open the switch",
+                        "text": "•",
                         "bbox": [
                             92,
+                            672,
+                            108,
+                            688
+                        ],
+                        "page_number": 8,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Open the switch",
+                        "bbox": [
+                            115,
                             672,
                             200,
                             688
@@ -1017,9 +1088,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• Remove the tape and the wire. Re-wind the wire in adjacent grooves (instead of every other groove), as shown in Fig. 2.3",
+                        "text": "•",
                         "bbox": [
                             92,
+                            87,
+                            104,
+                            102
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Remove the tape and the wire. Re-wind the wire in adjacent grooves (instead of every other groove), as shown in Fig. 2.3",
+                        "bbox": [
+                            114,
                             86,
                             548,
                             115
@@ -1031,9 +1116,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• Re-fix the tape",
+                        "text": "•",
                         "bbox": [
                             92,
+                            126,
+                            104,
+                            142
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Re-fix the tape",
+                        "bbox": [
+                            114,
                             126,
                             193,
                             142
@@ -1061,9 +1160,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• Repeat (a), (b), (c) and (e)",
+                        "text": "•",
                         "bbox": [
                             92,
+                            271,
+                            104,
+                            286
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Repeat (a), (b), (c) and (e)",
+                        "bbox": [
+                            114,
                             271,
                             252,
                             286
@@ -1140,7 +1253,9 @@
                         ],
                         "page_number": 10,
                         "is_pre": false,
-                        "issues": [],
+                        "issues": [
+                            "tooo many forms element"
+                        ],
                         "is_pot_pre": false
                     },
                     {
@@ -1157,7 +1272,9 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": []
+                "issues": [
+                    "tooo many forms element"
+                ]
             },
             {
                 "label": "(g)",
@@ -1586,7 +1703,9 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "has_issues": true,
+        "is_multi": false
     },
     {
         "label": "4",
@@ -1614,6 +1733,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     }
 ]

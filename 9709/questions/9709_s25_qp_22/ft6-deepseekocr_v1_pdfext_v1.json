@@ -39,7 +39,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "2",
@@ -96,7 +97,8 @@
             }
         ],
         "content": [],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "3",
@@ -151,7 +153,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "4",
@@ -288,10 +291,24 @@
                         "is_pot_pre": false
                     },
                     {
-                        "type": "form_text",
-                        "text": "1 1",
+                        "type": "text",
+                        "text": "1",
                         "bbox": [
                             66,
+                            78,
+                            76,
+                            92
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "1",
+                        "bbox": [
+                            92,
                             78,
                             545,
                             92
@@ -354,7 +371,9 @@
                         ],
                         "page_number": 7,
                         "is_pre": false,
-                        "issues": [],
+                        "issues": [
+                            "tooo many forms element"
+                        ],
                         "is_pot_pre": false
                     },
                     {
@@ -582,7 +601,9 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": []
+                "issues": [
+                    "tooo many forms element"
+                ]
             }
         ],
         "content": [
@@ -617,7 +638,9 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "has_issues": true,
+        "is_multi": false
     },
     {
         "label": "5",
@@ -801,7 +824,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "6",
@@ -915,7 +939,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "7",
@@ -1042,6 +1067,7 @@
             }
         ],
         "content": [],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     }
 ]

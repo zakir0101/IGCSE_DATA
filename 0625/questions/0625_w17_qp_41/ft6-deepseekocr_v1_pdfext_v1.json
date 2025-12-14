@@ -284,7 +284,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "2",
@@ -543,7 +544,8 @@
             }
         ],
         "content": [],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "3",
@@ -972,7 +974,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "4",
@@ -1203,7 +1206,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "5",
@@ -1462,7 +1466,8 @@
             }
         ],
         "content": [],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "6",
@@ -1791,7 +1796,8 @@
             }
         ],
         "content": [],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "7",
@@ -1918,9 +1924,95 @@
                     },
                     {
                         "type": "form_text",
-                        "text": "diminished enlarged inverted real same size upright virtual",
+                        "text": "diminished",
                         "bbox": [
                             50,
+                            389,
+                            96,
+                            405
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "enlarged",
+                        "bbox": [
+                            143,
+                            389,
+                            191,
+                            405
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "inverted",
+                        "bbox": [
+                            221,
+                            389,
+                            266,
+                            405
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "real",
+                        "bbox": [
+                            292,
+                            389,
+                            319,
+                            405
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "same size",
+                        "bbox": [
+                            351,
+                            389,
+                            405,
+                            405
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [
+                            "tooo many forms element"
+                        ],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "upright",
+                        "bbox": [
+                            436,
+                            389,
+                            477,
+                            405
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "form_text",
+                        "text": "virtual",
+                        "bbox": [
+                            507,
                             389,
                             544,
                             405
@@ -1944,7 +2036,9 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": []
+                "issues": [
+                    "tooo many forms element"
+                ]
             },
             {
                 "label": "(c)",
@@ -2034,7 +2128,9 @@
             }
         ],
         "content": [],
-        "issues": []
+        "issues": [],
+        "has_issues": true,
+        "is_multi": false
     },
     {
         "label": "8",
@@ -2136,7 +2232,8 @@
             }
         ],
         "content": [],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "9",
@@ -2468,7 +2565,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "10",
@@ -2768,7 +2866,8 @@
             }
         ],
         "content": [],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "11",
@@ -3084,6 +3183,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     }
 ]

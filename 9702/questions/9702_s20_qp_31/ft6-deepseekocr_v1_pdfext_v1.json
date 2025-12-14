@@ -745,7 +745,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "2",
@@ -984,9 +985,23 @@
                             },
                             {
                                 "type": "text",
-                                "text": "● Adjust the apparatus until the horizontal distance between the centres of the rods of the clamps is equal to your value of \\(\\frac{L}{n}\\)",
+                                "text": "●",
                                 "bbox": [
                                     115,
+                                    339,
+                                    133,
+                                    354
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "Adjust the apparatus until the horizontal distance between the centres of the rods of the clamps is equal to your value of \\(\\frac{L}{n}\\)",
+                                "bbox": [
+                                    137,
                                     339,
                                     548,
                                     371
@@ -998,9 +1013,23 @@
                             },
                             {
                                 "type": "text",
-                                "text": "● Adjust the heights of the bosses so that the rule is horizontal and the springs are vertical and **unstretched** when the rule is held in position",
+                                "text": "●",
                                 "bbox": [
                                     115,
+                                    378,
+                                    126,
+                                    393
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "Adjust the heights of the bosses so that the rule is horizontal and the springs are vertical and **unstretched** when the rule is held in position",
+                                "bbox": [
+                                    137,
                                     378,
                                     548,
                                     405
@@ -1012,9 +1041,23 @@
                             },
                             {
                                 "type": "text",
-                                "text": "● Gradually release the rule by lowering your hand. The rule will tilt",
+                                "text": "●",
                                 "bbox": [
                                     115,
+                                    414,
+                                    126,
+                                    429
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "Gradually release the rule by lowering your hand. The rule will tilt",
+                                "bbox": [
+                                    137,
                                     414,
                                     459,
                                     430
@@ -1026,9 +1069,23 @@
                             },
                             {
                                 "type": "text",
-                                "text": "● The angle between the rule and the horizontal is \\(\\theta\\), as shown in Fig. 2.3",
+                                "text": "●",
                                 "bbox": [
                                     115,
+                                    438,
+                                    126,
+                                    454
+                                ],
+                                "page_number": 8,
+                                "is_pre": false,
+                                "issues": [],
+                                "is_pot_pre": false
+                            },
+                            {
+                                "type": "text",
+                                "text": "The angle between the rule and the horizontal is \\(\\theta\\), as shown in Fig. 2.3",
+                                "bbox": [
+                                    137,
                                     438,
                                     493,
                                     454
@@ -1298,9 +1355,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "· Repeat **(b)**(i) and **(b)**(iii) using this value of \\(\\frac{l}{n}\\)",
+                        "text": "·",
                         "bbox": [
                             92,
+                            516,
+                            107,
+                            532
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Repeat **(b)**(i) and **(b)**(iii) using this value of \\(\\frac{l}{n}\\)",
+                        "bbox": [
+                            118,
                             513,
                             343,
                             533
@@ -1580,9 +1651,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "● \\(M\\) is the mass of the metre rule given on the card",
+                        "text": "●",
                         "bbox": [
                             92,
+                            139,
+                            108,
+                            153
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(M\\) is the mass of the metre rule given on the card",
+                        "bbox": [
+                            115,
                             138,
                             357,
                             153
@@ -1594,9 +1679,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "● \\(k\\) is the spring constant of the spring system",
+                        "text": "●",
                         "bbox": [
                             92,
+                            152,
+                            107,
+                            167
+                        ],
+                        "page_number": 11,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "\\(k\\) is the spring constant of the spring system",
+                        "bbox": [
+                            115,
                             152,
                             333,
                             167
@@ -1726,11 +1825,15 @@
                                 ],
                                 "page_number": 12,
                                 "is_pre": false,
-                                "issues": [],
+                                "issues": [
+                                    "very long form !!!"
+                                ],
                                 "is_pot_pre": false
                             }
                         ],
-                        "issues": []
+                        "issues": [
+                            "very long form !!!"
+                        ]
                     }
                 ],
                 "content": [],
@@ -1767,6 +1870,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "has_issues": true,
+        "is_multi": false
     }
 ]

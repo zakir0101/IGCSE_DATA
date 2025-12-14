@@ -447,7 +447,9 @@
                         ],
                         "page_number": 3,
                         "is_pre": false,
-                        "issues": [],
+                        "issues": [
+                            "tooo many forms element"
+                        ],
                         "is_pot_pre": false
                     },
                     {
@@ -466,7 +468,8 @@
                     }
                 ],
                 "issues": [
-                    "LaTeX command found outside math mode"
+                    "LaTeX command found outside math mode",
+                    "tooo many forms element"
                 ]
             },
             {
@@ -800,7 +803,8 @@
             }
         ],
         "issues": [],
-        "has_issues": true
+        "has_issues": true,
+        "is_multi": false
     },
     {
         "label": "2",
@@ -1218,7 +1222,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "3",
@@ -1932,7 +1937,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "4",
@@ -2156,6 +2162,7 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     }
 ]

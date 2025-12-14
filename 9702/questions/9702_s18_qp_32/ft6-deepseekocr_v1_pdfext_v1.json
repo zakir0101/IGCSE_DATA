@@ -567,7 +567,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "2",
@@ -993,9 +994,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• Record the value of \\(\\mu\\) from the card",
+                        "text": "•",
                         "bbox": [
                             92,
+                            86,
+                            107,
+                            101
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Record the value of \\(\\mu\\) from the card",
+                        "bbox": [
+                            115,
                             86,
                             294,
                             102
@@ -1021,9 +1036,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "• Calculate the frequency \\(f\\) of the vibrations, using",
+                        "text": "•",
                         "bbox": [
                             92,
+                            138,
+                            107,
+                            154
+                        ],
+                        "page_number": 10,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Calculate the frequency \\(f\\) of the vibrations, using",
+                        "bbox": [
+                            115,
                             137,
                             354,
                             154
@@ -1184,7 +1213,9 @@
                         ],
                         "page_number": 10,
                         "is_pre": false,
-                        "issues": [],
+                        "issues": [
+                            "tooo many forms element"
+                        ],
                         "is_pot_pre": false
                     },
                     {
@@ -1201,7 +1232,9 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": []
+                "issues": [
+                    "tooo many forms element"
+                ]
             },
             {
                 "label": "(h)",
@@ -1404,6 +1437,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "has_issues": true,
+        "is_multi": false
     }
 ]

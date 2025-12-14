@@ -621,7 +621,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "2",
@@ -1205,7 +1206,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "3",
@@ -1841,7 +1843,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "4",
@@ -2146,7 +2149,9 @@
                 ],
                 "page_number": 12,
                 "is_pre": false,
-                "issues": [],
+                "issues": [
+                    "tooo many forms element"
+                ],
                 "is_pot_pre": false
             },
             {
@@ -2289,6 +2294,10 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [
+            "tooo many forms element"
+        ],
+        "has_issues": true,
+        "is_multi": false
     }
 ]

@@ -760,7 +760,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "is_multi": false
     },
     {
         "label": "2",
@@ -929,9 +930,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "· After two minutes, measure and record the temperature \\(\\theta\\)",
+                        "text": "·",
                         "bbox": [
                             87,
+                            438,
+                            104,
+                            453
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "After two minutes, measure and record the temperature \\(\\theta\\)",
+                        "bbox": [
+                            109,
                             438,
                             382,
                             453
@@ -957,9 +972,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "· Calculate \\(\\Delta \\theta\\) using",
+                        "text": "·",
                         "bbox": [
                             87,
+                            489,
+                            99,
+                            503
+                        ],
+                        "page_number": 7,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Calculate \\(\\Delta \\theta\\) using",
+                        "bbox": [
+                            109,
                             489,
                             200,
                             503
@@ -1310,9 +1339,23 @@
                     },
                     {
                         "type": "text",
-                        "text": "● Repeat (b), (c)(i) and (c)(iii) with the cup approximately two-thirds full",
+                        "text": "●",
                         "bbox": [
                             87,
+                            82,
+                            100,
+                            97
+                        ],
+                        "page_number": 9,
+                        "is_pre": false,
+                        "issues": [],
+                        "is_pot_pre": false
+                    },
+                    {
+                        "type": "text",
+                        "text": "Repeat (b), (c)(i) and (c)(iii) with the cup approximately two-thirds full",
+                        "bbox": [
+                            109,
                             82,
                             438,
                             98
@@ -1389,7 +1432,9 @@
                         ],
                         "page_number": 9,
                         "is_pre": false,
-                        "issues": [],
+                        "issues": [
+                            "tooo many forms element"
+                        ],
                         "is_pot_pre": false
                     },
                     {
@@ -1420,7 +1465,9 @@
                         "is_pot_pre": false
                     }
                 ],
-                "issues": []
+                "issues": [
+                    "tooo many forms element"
+                ]
             },
             {
                 "label": "(e)",
@@ -1834,6 +1881,8 @@
                 "is_pot_pre": false
             }
         ],
-        "issues": []
+        "issues": [],
+        "has_issues": true,
+        "is_multi": false
     }
 ]
